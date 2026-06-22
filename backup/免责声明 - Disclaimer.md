@@ -2,9 +2,9 @@
 
 **生效日期：2025年8月8日 / Effective Date: August 8, 2025**
 
-本免责声明适用于未来传媒网站（futuremedia.work）的所有内容和服务。请仔细阅读以下条款。
+本免责声明适用于未来传媒网站（790427.xyz）的所有内容和服务。请仔细阅读以下条款。
 
-This disclaimer applies to all content and services on the FutureMedia website (futuremedia.work). Please read the following terms carefully.
+This disclaimer applies to all content and services on the FutureMedia website (790427.xyz). Please read the following terms carefully.
 
 ## **1. 一般免责 / General Disclaimer**
 
@@ -56,7 +56,7 @@ We strive to ensure the accuracy of website information but make no warranties r
 
 ## **3.2 信息更新 / Information Updates**
 
-网站内容可能包含过时信息。我们不承诺定期更新所有内容，用户应自行验证信息的当前有效性。
+网站内容可能包含过时信息。我们不承诺定期更新所有内��，用户应自行验证信息的当前有效性。
 
 Website content may include outdated information. We do not promise to regularly update all content; users should verify the current validity of information themselves.
 
@@ -106,7 +106,7 @@ Advertisement content displayed on the website is provided by third parties. We 
 
 用户与广告主的任何交易或互动完全是用户与广告主之间的事务。我们不参与这些交易，也不对由此产生的任何争议或损失负责。
 
-Any transactions or interactions between users and advertisers are entirely matters between users and advertisers. We do not participate in these transactions and are not responsible for any disputes or losses arising therefrom.
+Any transactions or interactions between users and advertisers are entirely matters between users and advertisers. We do not participate in these transactions and are not responsible for any disputes or losses that may arise.
 
 ## **7. 使用风险 / Usage Risks**
 
@@ -154,8 +154,8 @@ We reserve the right to modify this disclaimer at any time. The modified disclai
 
 If you have any questions about this disclaimer, please contact us:
 
-**邮箱 / Email**: [service@futuremedia.work](mailto:service@futuremedia.work)
+**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
 
-**网站 / Website**: [https://futuremedia.work/](https://futuremedia.work/)
+**网站 / Website**: [https://790427.xyz/](https://790427.xyz/)
 
 **最后更新 / Last Updated**: 2025年8月8日 / August 8, 2025
