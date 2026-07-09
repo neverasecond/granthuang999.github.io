@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.futuremedia.work/rss.xml
+Sitemap: https://www.790427.xyz/rss.xml
