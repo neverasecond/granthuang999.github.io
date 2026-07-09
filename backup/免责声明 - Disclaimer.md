@@ -2,9 +2,9 @@
 
 **生效日期：2025年8月8日 / Effective Date: August 8, 2025**
 
-本免责声明适用于未来传媒网站（790427.xyz）的所有内容和服务。请仔细阅读以下条款。
+本免责声明适用于人到中年网站（790427.xyz）的所有内容和服务。请仔细阅读以下条款。
 
-This disclaimer applies to all content and services on the FutureMedia website (790427.xyz). Please read the following terms carefully.
+This disclaimer applies to all content and services on the 人到中年 website (790427.xyz). Please read the following terms carefully.
 
 ## **1. 一般免责 / General Disclaimer**
 
@@ -124,13 +124,13 @@ Users assume the risks of using website services themselves. To the maximum exte
 
 ## **8. 损害赔偿限制 / Limitation of Damages**
 
-在法律允许的最大范围内，未来传媒及其运营者不对以下损失承担责任：
+在法律允许的最大范围内，人到中年及其运营者不对以下损失承担责任：
 
 - 直接、间接、特殊或后果性损害
 - 利润损失或数据丢失
 - 因使用或无法使用网站服务导致的任何损失
 
-To the maximum extent permitted by law, FutureMedia and its operators are not liable for the following losses:
+To the maximum extent permitted by law, 人到中年 and its operators are not liable for the following losses:
 
 - Direct, indirect, special, or consequential damages
 - Loss of profits or data loss
