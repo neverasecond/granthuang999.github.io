@@ -12,10 +12,12 @@ jobs:
   build:
     name: Build and Deploy
     runs-on: ubuntu-latest
+    concurrency:
+      group: gmeek-full-build
+      cancel-in-progress: false
     if: |
       github.actor != 'github-actions[bot]' &&
-      github.repository == 'neverasecond/granthuang999.github.io' &&
-      (github.event_name != 'push' || !contains(github.event.head_commit.message, '#'))
+      github.repository == 'neverasecond/granthuang999.github.io'
     permissions:
       contents: write
       # ▼▼▼ 修复点 1：增加 issues 写入权限解决 403 错误 ▼▼▼
@@ -43,7 +45,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Index site with Pagefind
         run: |
@@ -57,9 +59,8 @@ jobs:
           git add .
           if ! git diff --quiet --cached; then
             git commit -m "🎉 chore(full): auto build and update site content"
-            # ▼▼▼ 修复点 2：处理 Git 冲突并推送至 main 分支 ▼▼▼
             git fetch origin main
-            git rebase origin/main || (git rebase --abort && git push origin main --force)
+            git rebase origin/main
             git push origin main
           else
             echo "No changes to site content to commit."

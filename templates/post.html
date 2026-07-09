@@ -8,6 +8,11 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ blogBase['postUrl'] }}">
 <meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ blogBase['postTitle'] }}">
+<meta name="twitter:description" content="{{ blogBase['description'] }}">
+<meta name="twitter:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
 <title>{{ blogBase['postTitle'] }}</title>
 {% if blogBase['highlight']==1 %}<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />{% endif %}
 {{ blogBase['head']|safe }}
@@ -18,12 +23,18 @@
     "headline": "{{ blogBase.postTitle }}",
     "image": "{{ blogBase.ogImage }}",
     "datePublished": "{{ blogBase.isoDate }}",
+    "dateModified": "{{ blogBase.isoDate }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ blogBase.postUrl }}"
+    },
     "author": {
         "@type": "Person",
-        "name": "{{ blogBase.title }}"
+        "name": "{{ blogBase.author }}",
+        "url": "{{ blogBase.xUrl }}"
     },
     "publisher": {
-        "@type": "Organization",
+        "@type": "Person",
         "name": "{{ blogBase.title }}",
         "logo": {
             "@type": "ImageObject",
@@ -32,6 +43,31 @@
 
     },
     "description": "{{ blogBase.description }}"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "{{ blogBase.title }}",
+            "item": "{{ blogBase.homeUrl }}"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ blogBase.labels[0] if blogBase.labels else '文章' }}"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{ blogBase.postTitle }}",
+            "item": "{{ blogBase.postUrl }}"
+        }
+    ]
 }
 </script>
 {% endblock %}
@@ -44,11 +80,13 @@
 .title-right .circle{padding: 14px 16px;margin-right:8px;}
 #postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
 #postBody hr{height:2px;}
+#postBody img{max-width:100%;height:auto;border-radius:6px;}
 .g-emoji{font-size:24px;}
 @media (max-width: 600px) {
     body {padding: 8px;}
     /* [唯一改动] 删除了 .postTitle 的 font-size 属性 */
     .post-footer { flex-direction: column; align-items: flex-start; }
+    .post-nav, .related-posts-grid { grid-template-columns: 1fr; }
 }
 {% if blogBase['highlight']!=0 -%}
 .copy-feedback {
@@ -101,6 +139,37 @@
 .share-button.weibo { background-color: #e6162d; }
 .share-button.telegram { background-color: #26A5E4; }
 .share-button.wechat { background-color: #07C160; }
+.post-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin: 28px 0 10px;
+}
+.post-nav a, .related-posts a {
+    display: block;
+    padding: 12px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    text-decoration: none;
+}
+.post-nav span, .related-posts span {
+    display: block;
+    color: var(--color-fg-muted);
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.related-posts {
+    margin: 28px 0 12px;
+}
+.related-posts h2 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.related-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+}
 
 /* Password Overlay Styles */
 #password-overlay {
@@ -175,7 +244,7 @@
 
 {% block content %}
 <div style="text-align: center; margin-bottom: 24px;">
-    <img src="{{ blogBase['ogImage'] }}" style="max-width: 100%; border-radius: 8px;" alt="{{ blogBase['postTitle'] }}">
+    <img src="{{ blogBase['ogImage'] }}" style="max-width: 100%; border-radius: 6px;" alt="{{ blogBase['postTitle'] }}" loading="eager" decoding="async">
 </div>
 
 <div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
@@ -205,17 +274,27 @@
     </div>
 </div>
 
-<div style="margin-top: 2rem; margin-bottom: 1rem;">
-    <ins class="adsbygoogle"
-         style="display:block; text-align:center;"
-         data-ad-layout="in-article"
-         data-ad-format="fluid"
-         data-ad-client="ca-pub-3.40993861235667e+15"
-         data-ad-slot="9.927006571e+09"></ins>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
+{% if blogBase['newerPost'] or blogBase['olderPost'] %}
+<nav class="post-nav" aria-label="文章导航">
+    {% if blogBase['newerPost'] %}
+    <a href="{{ blogBase['newerPost']['postUrl'] }}"><span>上一篇</span>{{ blogBase['newerPost']['postTitle'] }}</a>
+    {% endif %}
+    {% if blogBase['olderPost'] %}
+    <a href="{{ blogBase['olderPost']['postUrl'] }}"><span>下一篇</span>{{ blogBase['olderPost']['postTitle'] }}</a>
+    {% endif %}
+</nav>
+{% endif %}
+
+{% if blogBase['relatedPosts'] %}
+<section class="related-posts" aria-labelledby="related-posts-title">
+    <h2 id="related-posts-title">相关阅读</h2>
+    <div class="related-posts-grid">
+        {% for item in blogBase['relatedPosts'] %}
+        <a href="{{ item['postUrl'] }}"><span>{{ item['createdDate'] }}</span>{{ item['postTitle'] }}</a>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
 
 {% endblock %}
 
@@ -449,7 +528,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const shareLinkedin = document.getElementById('share-linkedin');
     const shareWeibo = document.getElementById('share-weibo');
     const shareTelegram = document.getElementById('share-telegram');
-    if (shareX) { shareX.href = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`; }
+    if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
     if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
     if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source={{ blogBase['homeUrl'] }}`; }
     if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic={{ blogBase['ogImage'] }}`; }
