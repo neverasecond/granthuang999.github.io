@@ -1,21 +1,22 @@
-name: Incremental Build (Issues & Related Pushes)
+name: Incremental Build (Issues)
 
 on:
   issues:
     types: [opened, edited]
-  push:
-    branches: [main]
 
 jobs:
   build-incremental:
     name: Incremental Build and Deploy
     runs-on: ubuntu-latest
+    concurrency:
+      group: gmeek-incremental-${{ github.event.issue.number }}
+      cancel-in-progress: true
     if: |
       github.actor != 'github-actions[bot]' &&
-      github.repository == 'neverasecond/granthuang999.github.io' &&
-      (github.event_name == 'issues' || (github.event_name == 'push' && contains(github.event.head_commit.message, '#')))
+      github.repository == 'neverasecond/granthuang999.github.io'
     permissions:
       contents: write
+      issues: read
     steps:
       - name: Checkout main repository
         uses: actions/checkout@v4
@@ -24,16 +25,8 @@ jobs:
 
       - name: Determine Issue Number
         id: determine_issue
-        env:
-          COMMIT_MSG: "${{ github.event.head_commit.message }}"
         run: |
-          ISSUE_NUMBER=""
-          if [ "${{ github.event_name }}" == "issues" ]; then
-            ISSUE_NUMBER="${{ github.event.issue.number }}"
-          elif [ "${{ github.event_name }}" == "push" ]; then
-            issue_from_commit=$(echo "$COMMIT_MSG" | grep -o '#[0-9]\+' | sed 's/#//')
-            ISSUE_NUMBER="$issue_from_commit"
-          fi
+          ISSUE_NUMBER="${{ github.event.issue.number }}"
           echo "issue_number=$ISSUE_NUMBER" >> $GITHUB_OUTPUT
 
       - name: Set up Python
@@ -57,7 +50,7 @@ jobs:
         if: steps.determine_issue.outputs.issue_number != ''
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           
       - run: |
           npm config set registry https://registry.npmmirror.com/

@@ -23,9 +23,9 @@ jobs:
       - name: 1. Get Master URL List from Live RSS
         id: get_master_list
         run: |
-          echo "Fetching latest RSS feed to create master URL list..."
-          curl -s "https://www.futuremedia.work/rss.xml?_=$(date +%s)" | \
-          xmllint --xpath "//item/link/text()" - > master_urls.txt
+          echo "Fetching latest sitemap to create master URL list..."
+          curl -s "https://www.790427.xyz/sitemap.xml?_=$(date +%s)" | \
+          xmllint --xpath "//*[local-name()='loc']/text()" - > master_urls.txt
           echo "master_file=master_urls.txt" >> $GITHUB_OUTPUT
 
       - name: 2. Submit to Baidu and Track Success
@@ -50,7 +50,7 @@ jobs:
           
           URLS_TO_SUBMIT_FILE="baidu_batch.txt"
           shuf -n 2000 to_submit_baidu.txt > $URLS_TO_SUBMIT_FILE
-          RESPONSE=$(curl -s -H 'Content-Type:text/plain' --data-binary @$URLS_TO_SUBMIT_FILE "http://data.zz.baidu.com/urls?site=https://www.futuremedia.work&token=${{ env.BAIDU_TOKEN }}")
+          RESPONSE=$(curl -s -H 'Content-Type:text/plain' --data-binary @$URLS_TO_SUBMIT_FILE "http://data.zz.baidu.com/urls?site=https://www.790427.xyz&token=${{ env.BAIDU_TOKEN }}")
           echo "Baidu API Response: $RESPONSE"
           if echo "$RESPONSE" | grep -q '"success"'; then
             cp $URLS_TO_SUBMIT_FILE $SUCCESS_FILE
@@ -80,7 +80,7 @@ jobs:
           
           URL_LIST=$(shuf -n 10 to_submit_bing.txt)
           for url in $URL_LIST; do
-            RESPONSE=$(curl -s -X POST -H "Content-Type: application/json; charset=utf-8" --data "{\"siteUrl\":\"https://www.futuremedia.work\",\"url\":\"$url\"}" "https://ssl.bing.com/webmaster/api.svc/json/SubmitUrl?apikey=${{ env.BING_API_KEY }}")
+            RESPONSE=$(curl -s -X POST -H "Content-Type: application/json; charset=utf-8" --data "{\"siteUrl\":\"https://www.790427.xyz\",\"url\":\"$url\"}" "https://ssl.bing.com/webmaster/api.svc/json/SubmitUrl?apikey=${{ env.BING_API_KEY }}")
             if echo "$RESPONSE" | grep -q '"d":null' && ! echo "$RESPONSE" | grep -q '"ErrorCode"'; then
               echo "$url" >> $SUCCESS_FILE
             fi
@@ -127,7 +127,7 @@ jobs:
           echo "success_file=$SUCCESS_FILE" >> $GITHUB_OUTPUT
 
       - name: 6. Update and Commit All Submission Histories
-        if: github.repository == 'granthuang999/granthuang999.github.io'
+        if: github.repository == 'neverasecond/granthuang999.github.io'
         run: |
           echo "Updating all submission history files..."
           

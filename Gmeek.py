@@ -6,6 +6,7 @@ import time
 import datetime
 import shutil
 import urllib.parse
+import xml.etree.ElementTree as ET
 import requests
 import argparse
 import html
@@ -97,7 +98,7 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":""}
+        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0}
 
         self.blogBase={**dconfig,**config}
         self.blogBase["postListJson"]={}
@@ -205,6 +206,23 @@ class GMEEK:
         }
         self.renderHtml('post.html', context, issue_data["htmlDir"])
         print(f"Created page: title={issue_data['postTitle']}, file={issue_data['htmlDir']}")
+
+    def enrichPostNavigation(self):
+        current_time = int(time.time())
+        posts = [
+            p for p in self.blogBase["postListJson"].values()
+            if p["createdAt"] <= current_time
+        ]
+        posts.sort(key=lambda p: p["createdAt"], reverse=True)
+        for index, post in enumerate(posts):
+            post["newerPost"] = posts[index - 1] if index > 0 else None
+            post["olderPost"] = posts[index + 1] if index + 1 < len(posts) else None
+            primary_label = post["labels"][0] if post["labels"] else ""
+            related = [
+                p for p in posts
+                if p is not post and primary_label and primary_label in p["labels"]
+            ]
+            post["relatedPosts"] = related[:4]
 
     def createPlistHtml(self):
         current_time = int(time.time())
@@ -387,6 +405,52 @@ class GMEEK:
         )
         feed.rss_file(os.path.join(self.root_dir, 'rss.xml'), pretty=True)
 
+    def createSitemapXml(self):
+        print("====== create sitemap xml ======")
+        current_time = int(time.time())
+        urls = []
+
+        def add_url(loc, lastmod=None, changefreq="weekly", priority="0.6"):
+            urls.append({
+                "loc": loc,
+                "lastmod": lastmod or datetime.datetime.now(self.TZ).date().isoformat(),
+                "changefreq": changefreq,
+                "priority": priority
+            })
+
+        add_url(self.blogBase["homeUrl"], priority="1.0", changefreq="daily")
+        add_url(f"{self.blogBase['homeUrl']}/tag.html", priority="0.7")
+        add_url(f"{self.blogBase['homeUrl']}/subscribe.html", priority="0.7")
+        add_url(f"{self.blogBase['homeUrl']}/pansou.html", priority="0.5")
+
+        for page in self.blogBase["singeListJson"].values():
+            if page["createdAt"] <= current_time:
+                add_url(page["postUrl"], page["createdDate"], priority="0.8")
+
+        for post in self.blogBase["postListJson"].values():
+            if post["createdAt"] <= current_time:
+                add_url(post["postUrl"], post["createdDate"], priority="0.9")
+
+        for label in self.blogBase.get("labelColorDict", {}).keys():
+            if label not in self.blogBase["singlePage"] and label not in self.blogBase["hiddenPage"]:
+                filename = f"{Pinyin().get_pinyin(label)}.html"
+                add_url(f"{self.blogBase['homeUrl']}/{filename}", priority="0.6")
+
+        urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
+        seen = set()
+        for item in urls:
+            if item["loc"] in seen:
+                continue
+            seen.add(item["loc"])
+            url_el = ET.SubElement(urlset, "url")
+            for key in ["loc", "lastmod", "changefreq", "priority"]:
+                child = ET.SubElement(url_el, key)
+                child.text = item[key]
+
+        tree = ET.ElementTree(urlset)
+        ET.indent(tree, space="  ", level=0)
+        tree.write(os.path.join(self.root_dir, "sitemap.xml"), encoding="utf-8", xml_declaration=True)
+
     def createTagCloudPage(self):
         print("====== create tag cloud page ======")
         all_posts = list(self.blogBase["postListJson"].values())
@@ -475,6 +539,17 @@ class GMEEK:
                 self.renderHtml('tag_single.html', context, html_path)
                 print(f"Created single tag page: {html_path}")
 
+    def createSubscribePage(self):
+        print("====== create subscribe page ======")
+        render_dict = self.blogBase.copy()
+        render_dict["canonicalUrl"] = f"{self.blogBase['homeUrl']}/subscribe.html"
+        context = {
+            'blogBase': render_dict,
+            'i18n': self.i18n,
+            'IconList': IconBase
+        }
+        self.renderHtml('subscribe.html', context, f"{self.root_dir}subscribe.html")
+
     def runAll(self):
         print("====== start create static html ======")
         # [关键修正] 运行前清空旧的文章列表数据
@@ -487,6 +562,7 @@ class GMEEK:
         for issue in issues:
             self.addOnePostJson(issue)
 
+        self.enrichPostNavigation()
         all_pages = list(self.blogBase["postListJson"].values()) + list(self.blogBase["singeListJson"].values())
         for page_data in all_pages:
             self.createPostHtml(page_data)
@@ -505,7 +581,9 @@ class GMEEK:
         self.renderHtml('pansou.html', context, f"{self.root_dir}pansou.html")
         print("Created pansou.html")
 
+        self.createSubscribePage()
         self.createFeedXml()
+        self.createSitemapXml()
 
         print("====== create static html end ======")
 
@@ -522,6 +600,7 @@ class GMEEK:
             issues = self.repo.get_issues(state='open')
             for i in issues:
                 self.addOnePostJson(i)
+            self.enrichPostNavigation()
 
             label_name = issue.labels[0].name if issue.labels else ""
             is_single_page = label_name in self.blogBase["singlePage"] or label_name in self.blogBase["hiddenPage"]
@@ -533,7 +612,9 @@ class GMEEK:
             self.createPlistHtml()
             self.createTagCloudPage()
             self.createTagPages()
+            self.createSubscribePage()
             self.createFeedXml()
+            self.createSitemapXml()
             print("====== create static html end ======")
         else:
             print("====== issue is closed ======")

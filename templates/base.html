@@ -46,7 +46,6 @@ var _hmt = _hmt || [];
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "sh44c07wsg");
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3409938612356670" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
 <script type="application/ld+json">
 {
@@ -54,6 +53,11 @@ var _hmt = _hmt || [];
     "@type": "WebSite",
     "name": "{{ blogBase.title }}",
     "url": "{{ blogBase.homeUrl }}",
+    "publisher": {
+        "@type": "Person",
+        "name": "{{ blogBase.author }}",
+        "url": "{{ blogBase.xUrl }}"
+    },
     "potentialAction": {
         "@type": "SearchAction",
         "target": {
@@ -74,42 +78,28 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 .page-header {
     position: relative;
-    background-image: url('{{ blogBase["headerBackgroundUrl"] }}');
-    background-size: cover;
-    background-position: center center;
-    padding: 1.5rem 1.5rem;
-    border-radius: 8px;
+    background: var(--color-canvas-subtle, #f6f8fa);
+    padding: 1.2rem 1.4rem;
+    border-radius: 6px;
     margin-bottom: 2rem;
-    color: white;
+    color: var(--color-fg-default, #24292f);
     overflow: hidden;
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
-    border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
-}
-
-.page-header::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 1;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
 }
 
 .page-header > * {
     position: relative;
-    z-index: 2;
 }
 
 .page-header a {
-    color: white !important;
+    color: var(--color-fg-default, #24292f) !important;
 }
 
 .page-header .octicon path {
-    fill: white;
+    fill: currentColor;
 }
 
 .header-main-content {
@@ -144,13 +134,14 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     padding: 8px 12px;
     text-decoration: none;
     font-size: 14px;
-    font-weight: bold;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+    font-weight: 600;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .header-nav-menu a:hover {
-    background-color: rgba(255, 255, 255, 0.15);
+    background-color: var(--color-accent-subtle, #ddf4ff);
+    color: var(--color-accent-fg, #0969da) !important;
 }
 </style>
 {% block style %}{% endblock %}
@@ -162,14 +153,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <header id="header" class="page-header">
         <nav class="header-nav-menu">
-            <a href="https://www.790427.xyz/">首页</a>
-            <a href="https://www.790427.xyz/du-shu-zhi-hui.html">读书智慧</a>
-            <a href="https://www.790427.xyz/zhi-chang-tai-ji.html">职场太极</a>
-            <a href="https://www.790427.xyz/lan-ren-tou-zi.html">懒人投资</a>
-            <a href="https://www.790427.xyz/ren-sheng-gong-ying-lian.html">人生供应链</a>
-            <a href="https://www.790427.xyz/pansou.html">盘搜</a>
-            <a href="https://www.790427.xyz/chan-pin-fu-wu.html"><b>产品服务</b></a>
-            <a href="javascript:void(0);" onclick="addFavorite();" title="将本站加入收藏夹">收藏本站</a>
+            <a href="{{ blogBase['homeUrl'] }}/">首页</a>
+            <a href="{{ blogBase['homeUrl'] }}/zhi-chang.html">职场</a>
+            <a href="{{ blogBase['homeUrl'] }}/tou-zi.html">投资</a>
+            <a href="{{ blogBase['homeUrl'] }}/du-shu.html">读书</a>
+            <a href="{{ blogBase['homeUrl'] }}/xiu-xing.html">修行</a>
+            <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅</a>
+            <a href="{{ blogBase['homeUrl'] }}/tag.html">搜索</a>
         </nav>
 
         <div class="header-main-content">
@@ -182,7 +172,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </body>
 <script>
 var IconList={{ IconList|tojson }};
-var utterancesLoad=0;
 {% if blogBase['themeMode']=='manual' %}
 let themeSettings={
     "dark": ["dark","moon","#00f0ff","dark-blue"],
@@ -193,7 +182,6 @@ function changeTheme(mode, icon, color, utheme){
     document.documentElement.setAttribute("data-color-mode",mode);
     document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
     document.getElementById("themeSwitch").parentNode.style.color=color;
-    if(utterancesLoad==1){utterancesTheme(utheme);}
 }
 function modeSwitch(){
     let currentMode=document.documentElement.getAttribute('data-color-mode');
@@ -203,26 +191,9 @@ function modeSwitch(){
         changeTheme(...themeSettings[newMode]);
     }
 }
-function utterancesTheme(theme){
-    const message={type:'set-theme',theme: theme};
-    const iframe=document.getElementsByClassName('utterances-frame')[0];
-    iframe.contentWindow.postMessage(message,'https://utteranc.es');
-}
 if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
 {%- endif %}
 console.log("\n %c 人到中年 " + {{ blogBase['GMEEK_VERSION']|tojson }} + " https://www.790427.xyz \n","padding:5px 0;background:#02d81d;color:#fff");
-
-function addFavorite() {
-    try {
-        window.external.addFavorite(window.location.href, document.title);
-    } catch (e) {
-        try {
-            window.sidebar.addPanel(document.title, window.location.href, "");
-        } catch (e) {
-            alert("抱歉，您的浏览器不支持自动收藏功能。\n请使用 Ctrl+D (Windows) 或 Command+D (Mac) 来手动收藏。");
-        }
-    }
-}
 </script>
 {% block script %}{% endblock %}
 
