@@ -214,15 +214,26 @@ class GMEEK:
             if p["createdAt"] <= current_time
         ]
         posts.sort(key=lambda p: p["createdAt"], reverse=True)
+
+        def post_summary(post):
+            if not post:
+                return None
+            return {
+                "postTitle": post["postTitle"],
+                "postUrl": post["postUrl"],
+                "createdDate": post["createdDate"],
+                "description": post.get("description", "")
+            }
+
         for index, post in enumerate(posts):
-            post["newerPost"] = posts[index - 1] if index > 0 else None
-            post["olderPost"] = posts[index + 1] if index + 1 < len(posts) else None
+            post["newerPost"] = post_summary(posts[index - 1]) if index > 0 else None
+            post["olderPost"] = post_summary(posts[index + 1]) if index + 1 < len(posts) else None
             primary_label = post["labels"][0] if post["labels"] else ""
             related = [
                 p for p in posts
                 if p is not post and primary_label and primary_label in p["labels"]
             ]
-            post["relatedPosts"] = related[:4]
+            post["relatedPosts"] = [post_summary(item) for item in related[:4]]
 
     def createPlistHtml(self):
         current_time = int(time.time())
