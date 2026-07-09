@@ -154,7 +154,7 @@ We reserve the right to modify this disclaimer at any time. The modified disclai
 
 If you have any questions about this disclaimer, please contact us:
 
-**邮箱 / Email**: [service@www.790427.xyz](mailto:service@www.790427.xyz)
+**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
 
 **网站 / Website**: [https://www.790427.xyz/](https://www.790427.xyz/)
 

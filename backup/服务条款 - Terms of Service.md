@@ -202,6 +202,6 @@ We reserve the right to modify these Terms of Service at any time. Modified term
 
 If you have any questions about these Terms of Service, please contact us:
 
-**邮箱 / Email**: [service@www.790427.xyz](mailto:service@www.790427.xyz)
+**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
 
 **网站 / Website**: [https://www.790427.xyz/](https://www.790427.xyz/)

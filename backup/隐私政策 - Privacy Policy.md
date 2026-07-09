@@ -160,6 +160,6 @@ We may update this privacy policy periodically. Significant changes will be prom
 
 If you have any questions or concerns about this privacy policy, please contact us through:
 
-**邮箱 / Email**: [service@www.790427.xyz](mailto:service@www.790427.xyz)
+**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
 
 **网站 / Website**: [https://www.790427.xyz/](https://www.790427.xyz/)

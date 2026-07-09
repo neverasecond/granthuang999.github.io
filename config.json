@@ -9,7 +9,7 @@
 "ogImage": "https://www.790427.xyz/images/big.png",
 "bannerUrl": "/images/banner.png",
 "headerBackgroundUrl": "/images/header-bg.png",
-"email":"grant.huang@outlook.com",
+"email":"service@790427.xyz",
 "startSite":"6/4/2025",
 "onePageListNum":15,
 "singlePage":["about","link"],
@@ -32,5 +32,5 @@
 "rssSplit":"sentence",
 "bottomText":"文章皆为原创，转载文章请注明出处。愿你没白来。",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-"needComment":1
+"needComment":0
 }
