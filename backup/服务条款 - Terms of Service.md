@@ -2,17 +2,17 @@
 
 **生效日期：2025年8月8日 / Effective Date: August 8, 2025**
 
-欢迎使用人到中年（790427.xyz）。请仔细阅读本服务条款，使用本网站即表示您同意遵守以下条款和条件。
+欢迎使用未来传媒（futuremedia.work）。请仔细阅读本服务条款，使用本网站即表示您同意遵守以下条款和条件。
 
-Welcome to 人到中年 (790427.xyz). Please read these Terms of Service carefully. By using this website, you agree to comply with the following terms and conditions.
+Welcome to FutureMedia (futuremedia.work). Please read these Terms of Service carefully. By using this website, you agree to comply with the following terms and conditions.
 
 ## **1. 服务概述 / Service Overview**
 
 ## **1.1 网站性质 / Nature of Website**
 
-人到中年是一个专注于中年人生活、学习和成长的内容分享平台，提供原创文章、读书笔记、技术分享和人生感悟等内容。
+未来传媒是一个专注于中年人生活、学习和成长的内容分享平台，提供原创文章、读书笔记、技术分享和人生感悟等内容。
 
-人到中年 is a content sharing platform focused on middle-aged life, learning, and growth, providing original articles, reading notes, technical sharing, and life insights.
+FutureMedia is a content sharing platform focused on middle-aged life, learning, and growth, providing original articles, reading notes, technical sharing, and life insights.
 
 ## **1.2 服务提供 / Service Provision**
 
@@ -164,13 +164,13 @@ If users violate these terms, we have the right to terminate their usage rights.
 
 ## **8. 责任限制 / Limitation of Liability**
 
-在法律允许的最大范围内，人到中年及其运营者不对以下情况承担责任：
+在法律允许的最大范围内，未来传媒及其运营者不对以下情况承担责任：
 
 - 使用本网站导致的任何直接或间接损失
 - 服务中断或数据丢失
 - 第三方行为导致的损害
 
-To the maximum extent permitted by law, 人到中年 and its operators are not liable for:
+To the maximum extent permitted by law, FutureMedia and its operators are not liable for:
 
 - Any direct or indirect losses resulting from website use
 - Service interruptions or data loss
@@ -202,6 +202,6 @@ We reserve the right to modify these Terms of Service at any time. Modified term
 
 If you have any questions about these Terms of Service, please contact us:
 
-**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
+**邮箱 / Email**: [service@futuremedia.work](mailto:service@futuremedia.work)
 
-**网站 / Website**: [https://www.790427.xyz/](https://www.790427.xyz/)
+**网站 / Website**: [https://futuremedia.work/](https://futuremedia.work/)

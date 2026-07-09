@@ -2,9 +2,9 @@
 
 **生效日期：2025年8月8日 / Effective Date: August 8, 2025**
 
-人到中年（790427.xyz）尊重并保护所有用户的个人隐私权。本隐私政策说明了我们如何收集、使用和保护您的信息。
+未来传媒（futuremedia.work）尊重并保护所有用户的个人隐私权。本隐私政策说明了我们如何收集、使用和保护您的信息。
 
-人到中年 (790427.xyz) respects and protects the personal privacy of all users. This privacy policy explains how we collect, use, and protect your information.
+FutureMedia (futuremedia.work) respects and protects the personal privacy of all users. This privacy policy explains how we collect, use, and protect your information.
 
 ## **1. 信息收集 / Information Collection**
 
@@ -160,6 +160,6 @@ We may update this privacy policy periodically. Significant changes will be prom
 
 If you have any questions or concerns about this privacy policy, please contact us through:
 
-**邮箱 / Email**: [service@790427.xyz](mailto:service@790427.xyz)
+**邮箱 / Email**: [service@futuremedia.work](mailto:service@futuremedia.work)
 
-**网站 / Website**: [https://www.790427.xyz/](https://www.790427.xyz/)
+**网站 / Website**: [https://futuremedia.work/](https://futuremedia.work/)
