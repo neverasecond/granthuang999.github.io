@@ -4,11 +4,25 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 5 * * *"
+  workflow_run:
+    workflows:
+      - Build and Deploy Gmeek Site (Full Build)
+      - Incremental Build (Issues)
+    types:
+      - completed
+
+env:
+  SITE_URL: https://www.790427.xyz
+  SITEMAP_URL: https://www.790427.xyz/sitemap.xml
+  INDEXNOW_KEY: d2db752d3ea5400e876f2b2fa50a2b6d
+  INDEXNOW_KEY_LOCATION: https://www.790427.xyz/d2db752d3ea5400e876f2b2fa50a2b6d.txt
+  GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON }}
 
 jobs:
   submit:
     name: Submit URLs
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     permissions:
       contents: write
     steps:
@@ -17,139 +31,203 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install XML Parser
-        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
-
-      - name: 1. Get Master URL List from Live RSS
-        id: get_master_list
+      - name: Build sitemap URL manifest
+        id: manifest
         run: |
-          echo "Fetching latest sitemap to create master URL list..."
-          curl -s "https://www.790427.xyz/sitemap.xml?_=$(date +%s)" | \
-          xmllint --xpath "//*[local-name()='loc']/text()" - > master_urls.txt
-          echo "master_file=master_urls.txt" >> $GITHUB_OUTPUT
+          set -euo pipefail
+          python - <<'PY'
+          import csv
+          import sys
+          import urllib.request
+          import xml.etree.ElementTree as ET
 
-      - name: 2. Submit to Baidu and Track Success
+          sitemap_url = "${{ env.SITEMAP_URL }}?_=${{ github.run_id }}"
+          raw = urllib.request.urlopen(sitemap_url, timeout=30).read()
+          root = ET.fromstring(raw)
+
+          ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          rows = []
+          for url in root.findall("sm:url", ns):
+              loc = (url.findtext("sm:loc", default="", namespaces=ns) or "").strip()
+              lastmod = (url.findtext("sm:lastmod", default="", namespaces=ns) or "").strip()
+              if loc.startswith("${{ env.SITE_URL }}/") or loc == "${{ env.SITE_URL }}":
+                  rows.append((loc, lastmod))
+
+          if not rows:
+              print("No URLs found in sitemap", file=sys.stderr)
+              sys.exit(1)
+
+          with open("master_urls.tsv", "w", newline="", encoding="utf-8") as f:
+              writer = csv.writer(f, delimiter="\t", lineterminator="\n")
+              writer.writerows(rows)
+
+          with open("master_urls.txt", "w", encoding="utf-8") as f:
+              for loc, _ in rows:
+                  f.write(loc + "\n")
+
+          print(f"Loaded {len(rows)} sitemap URLs")
+          PY
+          echo "manifest_file=master_urls.tsv" >> "$GITHUB_OUTPUT"
+
+      - name: Prepare submission batches
+        id: batches
+        run: |
+          set -euo pipefail
+          mkdir -p backup
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          manifest = list(csv.reader(open("master_urls.tsv", encoding="utf-8"), delimiter="\t"))
+
+          def load_history(path):
+              signatures = set()
+              p = Path(path)
+              if not p.exists():
+                  return signatures
+              for line in p.read_text(encoding="utf-8").splitlines():
+                  line = line.strip()
+                  if "\t" in line:
+                      signatures.add(line)
+              return signatures
+
+          def write_delta(history_path, tsv_path, txt_path):
+              history = load_history(history_path)
+              rows = [(loc, lastmod) for loc, lastmod in manifest if f"{loc}\t{lastmod}" not in history]
+              with open(tsv_path, "w", encoding="utf-8", newline="") as f:
+                  writer = csv.writer(f, delimiter="\t", lineterminator="\n")
+                  writer.writerows(rows)
+              with open(txt_path, "w", encoding="utf-8") as f:
+                  for loc, _ in rows:
+                      f.write(loc + "\n")
+              print(f"{txt_path}: {len(rows)} URLs")
+
+          write_delta("backup/submitted_baidu.tsv", "to_submit_baidu.tsv", "to_submit_baidu.txt")
+          write_delta("backup/submitted_indexnow.tsv", "to_submit_indexnow.tsv", "to_submit_indexnow.txt")
+          PY
+
+      - name: Submit changed URLs to Baidu
         id: submit_baidu
         env:
           BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
         run: |
-          echo "--- Preparing and submitting to Baidu ---"
-          MASTER_FILE="${{ steps.get_master_list.outputs.master_file }}"
-          HISTORY_FILE="backup/submitted_baidu.txt"
-          SUCCESS_FILE="baidu_success_this_run.txt"
-          touch $HISTORY_FILE # Ensure history file exists
-          
-          # Create a specific to-do list for Baidu
-          grep -Fxv -f "$HISTORY_FILE" "$MASTER_FILE" > to_submit_baidu.txt || true
-          
+          set -euo pipefail
+          SUCCESS_FILE="baidu_success_this_run.tsv"
+          : > "$SUCCESS_FILE"
+
+          if [ -z "${BAIDU_TOKEN:-}" ]; then
+            echo "BAIDU_TOKEN is not configured; skipping Baidu submission."
+            echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
           if [ ! -s "to_submit_baidu.txt" ]; then
-            echo "No new URLs to submit to Baidu."
-            echo "success_file=/dev/null" >> $GITHUB_OUTPUT
+            echo "No changed URLs to submit to Baidu."
+            echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          
-          URLS_TO_SUBMIT_FILE="baidu_batch.txt"
-          shuf -n 2000 to_submit_baidu.txt > $URLS_TO_SUBMIT_FILE
-          RESPONSE=$(curl -s -H 'Content-Type:text/plain' --data-binary @$URLS_TO_SUBMIT_FILE "http://data.zz.baidu.com/urls?site=https://www.790427.xyz&token=${{ env.BAIDU_TOKEN }}")
+
+          head -n 2000 to_submit_baidu.txt > baidu_batch.txt
+          RESPONSE=$(curl -sS -H 'Content-Type:text/plain' --data-binary @baidu_batch.txt "http://data.zz.baidu.com/urls?site=${{ env.SITE_URL }}&token=${BAIDU_TOKEN}")
           echo "Baidu API Response: $RESPONSE"
+
           if echo "$RESPONSE" | grep -q '"success"'; then
-            cp $URLS_TO_SUBMIT_FILE $SUCCESS_FILE
-            echo "Baidu submission successful for this batch."
+            grep -Ff baidu_batch.txt to_submit_baidu.tsv > "$SUCCESS_FILE" || true
+          else
+            echo "Baidu submission did not report success." >&2
+            exit 1
           fi
-          echo "success_file=$SUCCESS_FILE" >> $GITHUB_OUTPUT
 
-      - name: 3. Submit to Bing and Track Success
-        id: submit_bing
-        env:
-          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Submit changed URLs to IndexNow
+        id: submit_indexnow
         run: |
-          echo "--- Preparing and submitting to Bing ---"
-          MASTER_FILE="${{ steps.get_master_list.outputs.master_file }}"
-          HISTORY_FILE="backup/submitted_bing.txt"
-          SUCCESS_FILE="bing_success_this_run.txt"
-          touch $HISTORY_FILE
-          touch $SUCCESS_FILE
-          
-          grep -Fxv -f "$HISTORY_FILE" "$MASTER_FILE" > to_submit_bing.txt || true
+          set -euo pipefail
+          SUCCESS_FILE="indexnow_success_this_run.tsv"
+          : > "$SUCCESS_FILE"
 
-          if [ ! -s "to_submit_bing.txt" ]; then
-            echo "No new URLs to submit to Bing."
-            echo "success_file=/dev/null" >> $GITHUB_OUTPUT
+          if [ ! -s "to_submit_indexnow.txt" ]; then
+            echo "No changed URLs to submit to IndexNow."
+            echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          
-          URL_LIST=$(shuf -n 10 to_submit_bing.txt)
-          for url in $URL_LIST; do
-            RESPONSE=$(curl -s -X POST -H "Content-Type: application/json; charset=utf-8" --data "{\"siteUrl\":\"https://www.790427.xyz\",\"url\":\"$url\"}" "https://ssl.bing.com/webmaster/api.svc/json/SubmitUrl?apikey=${{ env.BING_API_KEY }}")
-            if echo "$RESPONSE" | grep -q '"d":null' && ! echo "$RESPONSE" | grep -q '"ErrorCode"'; then
-              echo "$url" >> $SUCCESS_FILE
-            fi
-          done
-          echo "success_file=$SUCCESS_FILE" >> $GITHUB_OUTPUT
 
-      - name: 4. Authenticate to Google Cloud
+          python - <<'PY'
+          import json
+          import urllib.request
+
+          urls = [line.strip() for line in open("to_submit_indexnow.txt", encoding="utf-8") if line.strip()]
+          urls = urls[:10000]
+          payload = {
+              "host": "www.790427.xyz",
+              "key": "${{ env.INDEXNOW_KEY }}",
+              "keyLocation": "${{ env.INDEXNOW_KEY_LOCATION }}",
+              "urlList": urls,
+          }
+          req = urllib.request.Request(
+              "https://api.indexnow.org/IndexNow",
+              data=json.dumps(payload).encode("utf-8"),
+              headers={"Content-Type": "application/json; charset=utf-8"},
+              method="POST",
+          )
+          try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  print(f"IndexNow status: {resp.status}")
+                  if resp.status != 200:
+                      raise SystemExit(1)
+          except urllib.error.HTTPError as exc:
+              print(f"IndexNow status: {exc.code}", flush=True)
+              print(exc.read().decode("utf-8", errors="replace"))
+              raise SystemExit(1)
+          PY
+
+          grep -Ff to_submit_indexnow.txt to_submit_indexnow.tsv > "$SUCCESS_FILE" || true
+          echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Authenticate to Google Search Console
         id: auth_google
-        env:
-          GOOGLE_API_KEY_JSON: ${{ secrets.GOOGLE_API_KEY_JSON }}
+        if: env.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON != ''
         uses: google-github-actions/auth@v2
         with:
-          credentials_json: ${{ secrets.GOOGLE_API_KEY_JSON }}
+          credentials_json: ${{ env.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON }}
+          token_format: access_token
+          scopes: https://www.googleapis.com/auth/webmasters
 
-      - name: 5. Submit to Google and Track Success
-        id: submit_google
+      - name: Submit sitemap to Google Search Console
         if: steps.auth_google.conclusion == 'success'
         env:
-          GCP_SA_EMAIL: ${{ secrets.GCP_SA_EMAIL }}
+          ACCESS_TOKEN: ${{ steps.auth_google.outputs.access_token }}
         run: |
-          echo "--- Preparing and submitting to Google ---"
-          MASTER_FILE="${{ steps.get_master_list.outputs.master_file }}"
-          HISTORY_FILE="backup/submitted_google.txt"
-          SUCCESS_FILE="google_success_this_run.txt"
-          touch $HISTORY_FILE
-          touch $SUCCESS_FILE
-          
-          grep -Fxv -f "$HISTORY_FILE" "$MASTER_FILE" > to_submit_google.txt || true
-          
-          if [ ! -s "to_submit_google.txt" ]; then
-            echo "No new URLs to submit to Google."
-            echo "success_file=/dev/null" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          
-          URL_LIST=$(shuf -n 100 to_submit_google.txt)
-          ACCESS_TOKEN=$(gcloud auth print-access-token --impersonate-service-account="$GCP_SA_EMAIL" --scopes="https://www.googleapis.com/auth/indexing")
-          for url in $URL_LIST; do
-            RESPONSE=$(curl -s -X POST -H "Authorization: Bearer $ACCESS_TOKEN" -H "Content-Type: application/json" --data "{\"url\":\"$url\",\"type\":\"URL_UPDATED\"}" "https://indexing.googleapis.com/v3/urlNotifications:publish")
-            if ! echo "$RESPONSE" | grep -q '"error"'; then
-              echo "$url" >> $SUCCESS_FILE
-            fi
-          done
-          echo "success_file=$SUCCESS_FILE" >> $GITHUB_OUTPUT
+          set -euo pipefail
+          SITE_ENCODED=$(python -c 'import urllib.parse; print(urllib.parse.quote("${{ env.SITE_URL }}/", safe=""))')
+          SITEMAP_ENCODED=$(python -c 'import urllib.parse; print(urllib.parse.quote("${{ env.SITEMAP_URL }}", safe=""))')
+          curl -sS -X PUT \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+            "https://www.googleapis.com/webmasters/v3/sites/${SITE_ENCODED}/sitemaps/${SITEMAP_ENCODED}"
+          echo "Submitted sitemap to Google Search Console: ${{ env.SITEMAP_URL }}"
 
-      - name: 6. Update and Commit All Submission Histories
+      - name: Update successful submission histories
         if: github.repository == 'neverasecond/granthuang999.github.io'
         run: |
-          echo "Updating all submission history files..."
-          
-          # A helper function to safely update a history file
+          set -euo pipefail
+          mkdir -p backup
+
           update_history() {
             local history_file=$1
-            local success_file_expr=$2
-            
-            # Check if the success file variable is set and the file is not empty
-            if [ -n "$success_file_expr" ] && [ -s "$success_file_expr" ]; then
-              echo "Merging successes from $success_file_expr into $history_file"
-              cat "$history_file" "$success_file_expr" | sort -u > tmp_file && mv tmp_file "$history_file"
+            local success_file=$2
+            touch "$history_file"
+            if [ -s "$success_file" ]; then
+              cat "$history_file" "$success_file" | sort -u > history.tmp
+              mv history.tmp "$history_file"
             fi
           }
-          
-          update_history "backup/submitted_baidu.txt" "${{ steps.submit_baidu.outputs.success_file }}"
-          update_history "backup/submitted_bing.txt" "${{ steps.submit_bing.outputs.success_file }}"
-          update_history "backup/submitted_google.txt" "${{ steps.submit_google.outputs.success_file }}"
-          
-          echo "Committing updated history files..."
+
+          update_history "backup/submitted_baidu.tsv" "${{ steps.submit_baidu.outputs.success_file }}"
+          update_history "backup/submitted_indexnow.tsv" "${{ steps.submit_indexnow.outputs.success_file }}"
+
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add backup/
-          git diff --quiet --cached --exit-code || git commit -m "📈 Chore: Update successfully submitted URLs history"
+          git add backup/submitted_baidu.tsv backup/submitted_indexnow.tsv
+          git diff --quiet --cached --exit-code || git commit -m "📈 Chore: update submitted URL histories"
           git push

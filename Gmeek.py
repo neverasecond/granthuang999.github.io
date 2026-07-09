@@ -333,8 +333,11 @@ class GMEEK:
             post_data["description"] = first_sentence.replace("\"", "\'") + period
 
         thisTime = datetime.datetime.fromtimestamp(post_data["createdAt"], tz=self.TZ)
+        updatedTime = issue.updated_at.replace(tzinfo=datetime.timezone.utc).astimezone(self.TZ)
         post_data["createdDate"] = thisTime.strftime("%Y-%m-%d")
         post_data["isoDate"] = thisTime.isoformat()
+        post_data["updatedDate"] = updatedTime.strftime("%Y-%m-%d")
+        post_data["updatedIsoDate"] = updatedTime.isoformat()
         post_data["dateLabelColor"] = self.blogBase["yearColorList"][thisTime.year % len(self.blogBase["yearColorList"])]
 
         # [MODIFIED] Added "password" to allowed keys
@@ -436,11 +439,11 @@ class GMEEK:
 
         for page in self.blogBase["singeListJson"].values():
             if page["createdAt"] <= current_time:
-                add_url(page["postUrl"], page["createdDate"], priority="0.8")
+                add_url(page["postUrl"], page.get("updatedDate", page["createdDate"]), priority="0.8")
 
         for post in self.blogBase["postListJson"].values():
             if post["createdAt"] <= current_time:
-                add_url(post["postUrl"], post["createdDate"], priority="0.9")
+                add_url(post["postUrl"], post.get("updatedDate", post["createdDate"]), priority="0.9")
 
         for label in self.blogBase.get("labelColorDict", {}).keys():
             if label not in self.blogBase["singlePage"] and label not in self.blogBase["hiddenPage"]:

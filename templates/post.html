@@ -23,7 +23,7 @@
     "headline": "{{ blogBase.postTitle }}",
     "image": "{{ blogBase.ogImage }}",
     "datePublished": "{{ blogBase.isoDate }}",
-    "dateModified": "{{ blogBase.isoDate }}",
+    "dateModified": "{{ blogBase.updatedIsoDate|default(blogBase.isoDate) }}",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{ blogBase.postUrl }}"
