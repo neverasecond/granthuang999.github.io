@@ -98,7 +98,7 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0}
+        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":""}
 
         self.blogBase={**dconfig,**config}
         self.blogBase["postListJson"]={}
@@ -183,6 +183,11 @@ class GMEEK:
         render_dict.update(issue_data)
         render_dict["postBody"] = self.markdown2html(raw_md_content)
         render_dict["canonicalUrl"] = issue_data["postUrl"]
+        primary_label = issue_data["labels"][0] if issue_data.get("labels") else ""
+        if primary_label and primary_label not in self.blogBase["singlePage"] and primary_label not in self.blogBase["hiddenPage"]:
+            render_dict["primaryLabelUrl"] = f"{self.blogBase['homeUrl']}/{Pinyin().get_pinyin(primary_label)}.html"
+        else:
+            render_dict["primaryLabelUrl"] = self.blogBase["homeUrl"]
 
         if issue_data["labels"][0] in self.blogBase["singlePage"]:
             render_dict["bottomText"]=''
