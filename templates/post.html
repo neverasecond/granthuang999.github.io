@@ -28,7 +28,7 @@
     "datePublished": {{ blogBase.isoDate|tojson }},
     "dateModified": {{ blogBase.updatedIsoDate|default(blogBase.isoDate)|tojson }},
     "articleSection": {{ (blogBase.labels[0] if blogBase.labels else '文章')|tojson }},
-    "keywords": {{ blogBase.labels|join(',')|tojson }},
+    "keywords": {{ (blogBase.keywords or (blogBase.labels|join(',')))|tojson }},
     "inLanguage": "zh-CN",
     "mainEntityOfPage": {
         "@type": "WebPage",
