@@ -43,6 +43,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "name": "\u4eba\u5230\u4e2d\u5e74",
         "url": "https://www.790427.xyz"
     },
+    ,
+    "potentialAction": {
+        "@type": "SubscribeAction",
+        "target": "https://www.790427.xyz/api/subscribe"
+    }
     
 }
 </script>
@@ -248,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="subscribe-panel">
         <h2>收到新文章提醒</h2>
         <p>留下邮箱后会收到一封确认邮件。确认后，只发送新文章和阶段性札记，每封邮件都会带退订入口。</p>
-        <form class="subscribe-form" id="subscribe-form" action="" method="post">
+        <form class="subscribe-form" id="subscribe-form" action="https://www.790427.xyz/api/subscribe" method="post">
             <input type="email" name="email" placeholder="你的邮箱" autocomplete="email" required>
             
             <div class="turnstile-row">
