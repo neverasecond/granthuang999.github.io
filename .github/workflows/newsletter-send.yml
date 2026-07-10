@@ -1,0 +1,142 @@
+name: Send Newsletter Notifications
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_url:
+        description: "Optional post URL to send. Empty means latest recent post."
+        required: false
+        default: ""
+      dry_run:
+        description: "Preview recipients without sending."
+        required: true
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      test_email:
+        description: "Optional test recipient. Does not write send history."
+        required: false
+        default: ""
+  workflow_run:
+    workflows:
+      - Build and Deploy Gmeek Site (Full Build)
+      - Incremental Build (Issues)
+    types:
+      - completed
+
+env:
+  SITE_URL: https://www.790427.xyz
+  NEWSLETTER_ENDPOINT: https://www.790427.xyz/api/newsletter/send
+  AUTO_SEND_WINDOW_HOURS: "72"
+
+jobs:
+  send:
+    name: Send latest post email
+    runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    permissions:
+      contents: read
+    env:
+      NEWSLETTER_SEND_TOKEN: ${{ secrets.NEWSLETTER_SEND_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare newsletter payload
+        id: payload
+        env:
+          INPUT_POST_URL: ${{ github.event.inputs.post_url || '' }}
+          INPUT_DRY_RUN: ${{ github.event.inputs.dry_run || '' }}
+          INPUT_TEST_EMAIL: ${{ github.event.inputs.test_email || '' }}
+          WORKFLOW_RUN_EVENT: ${{ github.event.workflow_run.event || '' }}
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import os
+          import time
+          from pathlib import Path
+
+          site_url = os.environ["SITE_URL"].rstrip("/")
+          input_url = os.environ.get("INPUT_POST_URL", "").strip()
+          input_dry_run = os.environ.get("INPUT_DRY_RUN", "").strip().lower()
+          input_test_email = os.environ.get("INPUT_TEST_EMAIL", "").strip()
+          workflow_event = os.environ.get("WORKFLOW_RUN_EVENT", "").strip()
+          auto_window_seconds = int(float(os.environ["AUTO_SEND_WINDOW_HOURS"]) * 3600)
+
+          data = json.loads(Path("blogBase.json").read_text(encoding="utf-8"))
+          now = int(time.time())
+          posts = []
+          for value in data.get("postListJson", {}).values():
+              if not isinstance(value, dict):
+                  continue
+              post_url = value.get("postUrl", "")
+              title = value.get("postTitle", "")
+              created_at = int(value.get("createdAt", 0) or 0)
+              if not post_url.startswith(site_url + "/post/") or not title or created_at > now:
+                  continue
+              posts.append(value)
+
+          if input_url:
+              selected = next((post for post in posts if post.get("postUrl") == input_url), None)
+              if selected is None:
+                  raise SystemExit(f"Post URL not found or not publishable: {input_url}")
+          else:
+              selected = max(posts, key=lambda post: int(post.get("createdAt", 0) or 0), default=None)
+
+          if selected is None:
+              Path("newsletter_skip.txt").write_text("No publishable post found.\n", encoding="utf-8")
+              print("send=false")
+              print("send=false", file=open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"))
+              raise SystemExit(0)
+
+          created_at = int(selected.get("createdAt", 0) or 0)
+          if not input_url and workflow_event and now - created_at > auto_window_seconds:
+              message = f"Latest post is older than {os.environ['AUTO_SEND_WINDOW_HOURS']} hours; skipping automatic newsletter.\n"
+              Path("newsletter_skip.txt").write_text(message, encoding="utf-8")
+              print(message)
+              print("send=false", file=open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"))
+              raise SystemExit(0)
+
+          if input_dry_run in ("true", "false"):
+              dry_run = input_dry_run == "true"
+          else:
+              dry_run = False
+
+          payload = {
+              "post": {
+                  "title": selected.get("postTitle", ""),
+                  "url": selected.get("postUrl", ""),
+                  "description": selected.get("description", ""),
+                  "date": selected.get("createdDate", ""),
+                  "ogImage": selected.get("ogImage", ""),
+              },
+              "dryRun": dry_run,
+          }
+          if input_test_email:
+              payload["testEmail"] = input_test_email
+
+          Path("newsletter_payload.json").write_text(
+              json.dumps(payload, ensure_ascii=False, indent=2),
+              encoding="utf-8",
+          )
+          print(f"Prepared newsletter for {payload['post']['url']} dryRun={payload['dryRun']}")
+          print("send=true", file=open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"))
+          PY
+
+      - name: Send newsletter
+        if: steps.payload.outputs.send == 'true' && env.NEWSLETTER_SEND_TOKEN != ''
+        run: |
+          set -euo pipefail
+          curl --fail-with-body -sS \
+            -H "Authorization: Bearer ${NEWSLETTER_SEND_TOKEN}" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data-binary @newsletter_payload.json \
+            "${NEWSLETTER_ENDPOINT}"
+
+      - name: Explain skipped secret
+        if: steps.payload.outputs.send == 'true' && env.NEWSLETTER_SEND_TOKEN == ''
+        run: |
+          echo "NEWSLETTER_SEND_TOKEN is not configured; newsletter send skipped."

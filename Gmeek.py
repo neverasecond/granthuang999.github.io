@@ -440,7 +440,6 @@ class GMEEK:
         add_url(self.blogBase["homeUrl"], priority="1.0", changefreq="daily")
         add_url(f"{self.blogBase['homeUrl']}/tag.html", priority="0.7")
         add_url(f"{self.blogBase['homeUrl']}/subscribe.html", priority="0.7")
-        add_url(f"{self.blogBase['homeUrl']}/pansou.html", priority="0.5")
 
         for page in self.blogBase["singeListJson"].values():
             if page["createdAt"] <= current_time:
@@ -569,6 +568,17 @@ class GMEEK:
         }
         self.renderHtml('subscribe.html', context, f"{self.root_dir}subscribe.html")
 
+    def createNotFoundPage(self):
+        print("====== create 404 page ======")
+        render_dict = self.blogBase.copy()
+        render_dict["canonicalUrl"] = self.blogBase["homeUrl"]
+        context = {
+            'blogBase': render_dict,
+            'i18n': self.i18n,
+            'IconList': IconBase
+        }
+        self.renderHtml('404.html', context, f"{self.root_dir}404.html")
+
     def runAll(self):
         print("====== start create static html ======")
         # [关键修正] 运行前清空旧的文章列表数据
@@ -589,18 +599,8 @@ class GMEEK:
         self.createPlistHtml()
         self.createTagCloudPage()
         self.createTagPages()
-
-        pansou_render_dict = self.blogBase.copy()
-        pansou_render_dict["canonicalUrl"] = f"{self.blogBase['homeUrl']}/pansou.html"
-        context = {
-            'blogBase': pansou_render_dict,
-            'i18n': self.i18n,
-            'IconList': IconBase
-        }
-        self.renderHtml('pansou.html', context, f"{self.root_dir}pansou.html")
-        print("Created pansou.html")
-
         self.createSubscribePage()
+        self.createNotFoundPage()
         self.createFeedXml()
         self.createSitemapXml()
 
@@ -632,6 +632,7 @@ class GMEEK:
             self.createTagCloudPage()
             self.createTagPages()
             self.createSubscribePage()
+            self.createNotFoundPage()
             self.createFeedXml()
             self.createSitemapXml()
             print("====== create static html end ======")

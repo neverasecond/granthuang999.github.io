@@ -8,13 +8,18 @@
     {
       "pattern": "www.790427.xyz/api/subscribe*",
       "zone_name": "790427.xyz"
+    },
+    {
+      "pattern": "www.790427.xyz/api/newsletter*",
+      "zone_name": "790427.xyz"
     }
   ],
   "vars": {
     "SITE_URL": "https://www.790427.xyz",
     "SITE_NAME": "人到中年",
     "MAIL_FROM": "人到中年 <service@790427.xyz>",
-    "REQUIRE_TURNSTILE": "true"
+    "REQUIRE_TURNSTILE": "true",
+    "NEWSLETTER_BATCH_LIMIT": "50"
   },
   "d1_databases": [
     {
