@@ -16,6 +16,7 @@ env:
   SITEMAP_URL: https://www.790427.xyz/sitemap.xml
   INDEXNOW_KEY: d2db752d3ea5400e876f2b2fa50a2b6d
   INDEXNOW_KEY_LOCATION: https://www.790427.xyz/d2db752d3ea5400e876f2b2fa50a2b6d.txt
+  SUBMISSION_HISTORY_DIR: .github/url-submission-history
   GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON }}
 
 jobs:
@@ -42,7 +43,11 @@ jobs:
           import xml.etree.ElementTree as ET
 
           sitemap_url = "${{ env.SITEMAP_URL }}?_=${{ github.run_id }}"
-          raw = urllib.request.urlopen(sitemap_url, timeout=30).read()
+          req = urllib.request.Request(
+              sitemap_url,
+              headers={"User-Agent": "Mozilla/5.0 (compatible; URLSubmitWorkflow/1.0)"},
+          )
+          raw = urllib.request.urlopen(req, timeout=30).read()
           root = ET.fromstring(raw)
 
           ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
@@ -73,7 +78,7 @@ jobs:
         id: batches
         run: |
           set -euo pipefail
-          mkdir -p backup
+          mkdir -p "${{ env.SUBMISSION_HISTORY_DIR }}"
           python - <<'PY'
           import csv
           from pathlib import Path
@@ -102,8 +107,9 @@ jobs:
                       f.write(loc + "\n")
               print(f"{txt_path}: {len(rows)} URLs")
 
-          write_delta("backup/submitted_baidu.tsv", "to_submit_baidu.tsv", "to_submit_baidu.txt")
-          write_delta("backup/submitted_indexnow.tsv", "to_submit_indexnow.tsv", "to_submit_indexnow.txt")
+          history_dir = "${{ env.SUBMISSION_HISTORY_DIR }}"
+          write_delta(f"{history_dir}/submitted_baidu.tsv", "to_submit_baidu.tsv", "to_submit_baidu.txt")
+          write_delta(f"{history_dir}/submitted_indexnow.tsv", "to_submit_indexnow.tsv", "to_submit_indexnow.txt")
           PY
 
       - name: Submit changed URLs to Baidu
@@ -155,6 +161,7 @@ jobs:
 
           python - <<'PY'
           import json
+          import urllib.error
           import urllib.request
 
           urls = [line.strip() for line in open("to_submit_indexnow.txt", encoding="utf-8") if line.strip()]
@@ -202,7 +209,7 @@ jobs:
           set -euo pipefail
           SITE_ENCODED=$(python -c 'import urllib.parse; print(urllib.parse.quote("${{ env.SITE_URL }}/", safe=""))')
           SITEMAP_ENCODED=$(python -c 'import urllib.parse; print(urllib.parse.quote("${{ env.SITEMAP_URL }}", safe=""))')
-          curl -sS -X PUT \
+          curl --fail-with-body -sS -X PUT \
             -H "Authorization: Bearer ${ACCESS_TOKEN}" \
             "https://www.googleapis.com/webmasters/v3/sites/${SITE_ENCODED}/sitemaps/${SITEMAP_ENCODED}"
           echo "Submitted sitemap to Google Search Console: ${{ env.SITEMAP_URL }}"
@@ -211,7 +218,7 @@ jobs:
         if: github.repository == 'neverasecond/granthuang999.github.io'
         run: |
           set -euo pipefail
-          mkdir -p backup
+          mkdir -p "${{ env.SUBMISSION_HISTORY_DIR }}"
 
           update_history() {
             local history_file=$1
@@ -223,11 +230,11 @@ jobs:
             fi
           }
 
-          update_history "backup/submitted_baidu.tsv" "${{ steps.submit_baidu.outputs.success_file }}"
-          update_history "backup/submitted_indexnow.tsv" "${{ steps.submit_indexnow.outputs.success_file }}"
+          update_history "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_baidu.tsv" "${{ steps.submit_baidu.outputs.success_file }}"
+          update_history "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_indexnow.tsv" "${{ steps.submit_indexnow.outputs.success_file }}"
 
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add backup/submitted_baidu.tsv backup/submitted_indexnow.tsv
+          git add "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_baidu.tsv" "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_indexnow.tsv"
           git diff --quiet --cached --exit-code || git commit -m "📈 Chore: update submitted URL histories"
           git push
