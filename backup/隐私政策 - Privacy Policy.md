@@ -80,12 +80,19 @@ We use Google AdSense to display advertisements. Google may use cookies and othe
 
 Our website may contain social media sharing buttons, and these services have their own privacy policies.
 
+## **3.4 邮件订阅服务 / Email Subscription Services**
+
+当您订阅邮件列表时，我们会收集并保存您的邮箱地址、订阅状态、确认时间、退订状态和订阅来源页面。邮件订阅功能可能使用 Cloudflare Worker、Cloudflare D1 以及第三方邮件发送服务（如 Resend 或 Amazon SES）来保存订阅记录、发送确认邮件和处理退订请求。
+
+When you subscribe to the email list, we collect and store your email address, subscription status, confirmation time, unsubscribe status, and subscription source page. The email subscription feature may use Cloudflare Worker, Cloudflare D1, and third-party email delivery services such as Resend or Amazon SES to store subscription records, send confirmation emails, and process unsubscribe requests.
+
 ## **4. 信息使用 / Information Usage**
 
 我们收集的信息用于以下目的：
 
 - 提供和改善我们的服务
 - 响应您的询问和请求
+- 处理邮件订阅、确认订阅和退订请求
 - 发送服务相关通知
 - 进行网站分析和优化
 - 展示相关广告内容
@@ -94,6 +101,7 @@ The information we collect is used for the following purposes:
 
 - Provide and improve our services
 - Respond to your inquiries and requests
+- Process email subscriptions, confirmations, and unsubscribe requests
 - Send service-related notifications
 - Conduct website analysis and optimization
 - Display relevant advertising content
@@ -111,14 +119,14 @@ We take reasonable technical and administrative measures to protect the security
 - 获得您的明确同意
 - 法律法规要求
 - 保护我们的合法权益
-- 与可信的服务提供商合作（如Google Analytics、AdSense）
+- 与可信的服务提供商合作（如 Google Analytics、AdSense、Cloudflare、Resend 或 Amazon SES）
 
 We do not share your personal information with third parties except in the following circumstances:
 
 - With your explicit consent
 - As required by laws and regulations
 - To protect our legitimate interests
-- In cooperation with trusted service providers (such as Google Analytics, AdSense)
+- In cooperation with trusted service providers such as Google Analytics, AdSense, Cloudflare, Resend, or Amazon SES
 
 ## **7. 数据保留 / Data Retention**
 
