@@ -12,6 +12,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="google-adsense-account" content="ca-pub-3409938612356670">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
     <link rel="canonical" href="{{ blogBase['canonicalUrl'] }}" />
     {{ blogBase['primerCSS'] }}
     {{ blogBase['allHead'] }}
@@ -52,21 +53,39 @@ var _hmt = _hmt || [];
 {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "{{ blogBase.title }}",
-    "url": "{{ blogBase.homeUrl }}",
+    "name": {{ blogBase.title|tojson }},
+    "alternateName": {{ blogBase.subTitle|tojson }},
+    "url": {{ blogBase.homeUrl|tojson }},
+    "inLanguage": "zh-CN",
     "publisher": {
         "@type": "Person",
-        "name": "{{ blogBase.author }}",
-        "url": "{{ blogBase.xUrl }}"
+        "name": {{ blogBase.author|tojson }},
+        "url": {{ blogBase.xUrl|tojson }},
+        "sameAs": [
+            {{ blogBase.xUrl|tojson }}
+        ]
     },
     "potentialAction": {
         "@type": "SearchAction",
         "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "{{ blogBase.homeUrl }}/tag.html?q={search_term_string}"
+            "urlTemplate": {{ (blogBase.homeUrl + "/tag.html?q={search_term_string}")|tojson }}
         },
         "query-input": "required name=search_term_string"
     }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ blogBase.author|tojson }},
+    "alternateName": {{ blogBase.xName|tojson }},
+    "url": {{ blogBase.homeUrl|tojson }},
+    "email": {{ ("mailto:" ~ blogBase.email)|tojson }},
+    "sameAs": [
+        {{ blogBase.xUrl|tojson }}
+    ]
 }
 </script>
 </head>

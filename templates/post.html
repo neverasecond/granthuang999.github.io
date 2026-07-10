@@ -19,30 +19,38 @@
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{{ blogBase.postTitle }}",
-    "image": "{{ blogBase.ogImage }}",
-    "datePublished": "{{ blogBase.isoDate }}",
-    "dateModified": "{{ blogBase.updatedIsoDate|default(blogBase.isoDate) }}",
+    "@type": "BlogPosting",
+    "headline": {{ blogBase.postTitle|tojson }},
+    "description": {{ blogBase.description|tojson }},
+    "image": [
+        {{ blogBase.ogImage|tojson }}
+    ],
+    "datePublished": {{ blogBase.isoDate|tojson }},
+    "dateModified": {{ blogBase.updatedIsoDate|default(blogBase.isoDate)|tojson }},
+    "articleSection": {{ (blogBase.labels[0] if blogBase.labels else '文章')|tojson }},
+    "keywords": {{ blogBase.labels|join(',')|tojson }},
+    "inLanguage": "zh-CN",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ blogBase.postUrl }}"
+        "@id": {{ blogBase.postUrl|tojson }}
     },
     "author": {
         "@type": "Person",
-        "name": "{{ blogBase.author }}",
-        "url": "{{ blogBase.xUrl }}"
+        "name": {{ blogBase.author|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }},
+        "sameAs": [
+            {{ blogBase.xUrl|tojson }}
+        ]
     },
     "publisher": {
-        "@type": "Person",
-        "name": "{{ blogBase.title }}",
+        "@type": "Organization",
+        "name": {{ blogBase.title|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }},
         "logo": {
             "@type": "ImageObject",
-            "url": "{{ blogBase.faviconUrl }}"
+            "url": {{ (blogBase.homeUrl + blogBase.faviconUrl if blogBase.faviconUrl.startswith('/') else blogBase.faviconUrl)|tojson }}
         }
-
-    },
-    "description": "{{ blogBase.description }}"
+    }
 }
 </script>
 <script type="application/ld+json">
@@ -53,19 +61,20 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": "{{ blogBase.title }}",
-            "item": "{{ blogBase.homeUrl }}"
+            "name": {{ blogBase.title|tojson }},
+            "item": {{ blogBase.homeUrl|tojson }}
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": "{{ blogBase.labels[0] if blogBase.labels else '文章' }}"
+            "name": {{ (blogBase.labels[0] if blogBase.labels else '文章')|tojson }},
+            "item": {{ blogBase.primaryLabelUrl|tojson }}
         },
         {
             "@type": "ListItem",
             "position": 3,
-            "name": "{{ blogBase.postTitle }}",
-            "item": "{{ blogBase.postUrl }}"
+            "name": {{ blogBase.postTitle|tojson }},
+            "item": {{ blogBase.postUrl|tojson }}
         }
     ]
 }

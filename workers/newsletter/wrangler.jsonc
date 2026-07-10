@@ -1,0 +1,29 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bailai-newsletter",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-10",
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "www.790427.xyz/api/subscribe*",
+      "zone_name": "790427.xyz"
+    }
+  ],
+  "vars": {
+    "SITE_URL": "https://www.790427.xyz",
+    "SITE_NAME": "人到中年",
+    "MAIL_FROM": "人到中年 <service@790427.xyz>",
+    "REQUIRE_TURNSTILE": "true"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "bailai_newsletter",
+      "database_id": "replace-with-cloudflare-d1-database-id"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
