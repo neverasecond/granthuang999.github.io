@@ -12,6 +12,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="google-adsense-account" content="ca-pub-3409938612356670">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
     <link rel="canonical" href="https://www.790427.xyz/subscribe.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
@@ -28,6 +29,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>邮件订阅 - 人到中年</title>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "\u90ae\u4ef6\u8ba2\u9605 - \u4eba\u5230\u4e2d\u5e74",
+    "description": "订阅白来关于职场、投资、读书与修行的新文章。",
+    "url": "https://www.790427.xyz/subscribe.html",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": "\u4eba\u5230\u4e2d\u5e74",
+        "url": "https://www.790427.xyz"
+    },
+    
+}
+</script>
 
 <script>
 var _hmt = _hmt || [];
@@ -58,12 +76,17 @@ var _hmt = _hmt || [];
 {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "人到中年",
+    "name": "\u4eba\u5230\u4e2d\u5e74",
+    "alternateName": "\u613f\u4f60\u6ca1\u767d\u6765",
     "url": "https://www.790427.xyz",
+    "inLanguage": "zh-CN",
     "publisher": {
         "@type": "Person",
-        "name": "白来",
-        "url": "https://x.com/wiselyfreely"
+        "name": "\u767d\u6765",
+        "url": "https://x.com/wiselyfreely",
+        "sameAs": [
+            "https://x.com/wiselyfreely"
+        ]
     },
     "potentialAction": {
         "@type": "SearchAction",
@@ -73,6 +96,19 @@ var _hmt = _hmt || [];
         },
         "query-input": "required name=search_term_string"
     }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "\u767d\u6765",
+    "alternateName": "\u83ab\u767d\u6765",
+    "url": "https://www.790427.xyz",
+    "email": "mailto:service@790427.xyz",
+    "sameAs": [
+        "https://x.com/wiselyfreely"
+    ]
 }
 </script>
 </head>
@@ -159,13 +195,19 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 .subscribe-wrap{max-width:720px;margin:0 auto;}
 .subscribe-lead{font-size:18px;line-height:1.7;color:var(--color-fg-muted);margin:0 0 24px;}
 .subscribe-panel{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:24px;background:var(--color-canvas-subtle);}
-.subscribe-form{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 10px;}
+.subscribe-form{display:grid;grid-template-columns:1fr auto;gap:10px;margin:18px 0 10px;}
 .subscribe-form input{flex:1;min-width:240px;padding:10px 12px;border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;background:var(--color-canvas-default);color:var(--color-fg-default);}
 .subscribe-form a,.subscribe-form button{padding:10px 16px;border-radius:6px;border:1px solid var(--color-accent-emphasis,#0969da);background:var(--color-accent-emphasis,#0969da);color:#fff!important;text-decoration:none;cursor:pointer;}
+.subscribe-form button[disabled]{opacity:.65;cursor:not-allowed;}
+.turnstile-row,.subscribe-status{grid-column:1/-1;}
+.subscribe-status{display:none;padding:10px 12px;border-radius:6px;font-size:14px;line-height:1.5;}
+.subscribe-status.success{display:block;background:#dafbe1;color:#1a7f37;border:1px solid #aceebb;}
+.subscribe-status.error{display:block;background:#ffebe9;color:#cf222e;border:1px solid #ffcecb;}
+.subscribe-status.info{display:block;background:#ddf4ff;color:#0969da;border:1px solid #b6e3ff;}
 .subscribe-note{font-size:13px;color:var(--color-fg-muted);line-height:1.6;margin:10px 0 0;}
 .subscribe-columns{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:24px;}
 .subscribe-columns a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:12px;text-decoration:none;font-weight:600;text-align:center;}
-@media (max-width: 700px){.subscribe-columns{grid-template-columns:repeat(2,minmax(0,1fr));}.subscribe-form input{min-width:100%;}}
+@media (max-width: 700px){.subscribe-columns{grid-template-columns:repeat(2,minmax(0,1fr));}.subscribe-form{grid-template-columns:1fr;}.subscribe-form input{min-width:100%;}}
 </style>
 
 
@@ -205,12 +247,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="subscribe-lead">少一点噪音，多一点能留下来的判断。这里会更新白来关于职场、投资、读书与修行的长文与阶段性札记。</p>
     <section class="subscribe-panel">
         <h2>收到新文章提醒</h2>
-        <p>正式邮件服务接入前，可以先用邮箱联系订阅；后续会替换为自动订阅表单，并保留退订入口。</p>
-        <form class="subscribe-form" action="mailto:service@790427.xyz" method="post" enctype="text/plain">
+        <p>留下邮箱后会收到一封确认邮件。确认后，只发送新文章和阶段性札记，每封邮件都会带退订入口。</p>
+        <form class="subscribe-form" id="subscribe-form" action="" method="post">
             <input type="email" name="email" placeholder="你的邮箱" autocomplete="email" required>
+            
             <button type="submit">订阅</button>
+            <div class="subscribe-status" id="subscribe-status" role="status" aria-live="polite"></div>
         </form>
-        <p class="subscribe-note">也可以直接写信到 <a href="mailto:service@790427.xyz">service@790427.xyz</a>，标题写“订阅人到中年”。</p>
+        <p class="subscribe-note">如果表单暂时不可用，也可以直接写信到 <a href="mailto:service@790427.xyz">service@790427.xyz</a>，标题写“订阅人到中年”。</p>
     </section>
     <nav class="subscribe-columns" aria-label="栏目">
         <a href="https://www.790427.xyz/zhi-chang.html">职场</a>
@@ -271,6 +315,57 @@ console.log("\n %c 人到中年 " + "last" + " https://www.790427.xyz \n","paddi
 
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+
+(function(){
+    const form = document.getElementById('subscribe-form');
+    const statusBox = document.getElementById('subscribe-status');
+    if (!form || !statusBox) return;
+
+    function setStatus(type, message) {
+        statusBox.className = 'subscribe-status ' + type;
+        statusBox.textContent = message;
+    }
+
+    form.addEventListener('submit', async function(event) {
+        event.preventDefault();
+        const endpoint = form.getAttribute('action');
+        const email = form.email.value.trim();
+        const button = form.querySelector('button[type="submit"]');
+        if (!endpoint) {
+            setStatus('error', '订阅接口尚未配置，请先通过邮箱联系订阅。');
+            return;
+        }
+
+        const turnstileInput = form.querySelector('input[name="cf-turnstile-response"]');
+        const turnstileToken = turnstileInput ? turnstileInput.value : '';
+        button.disabled = true;
+        setStatus('info', '正在提交...');
+
+        try {
+            const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    email: email,
+                    source: window.location.href,
+                    turnstileToken: turnstileToken
+                })
+            });
+            const result = await response.json().catch(function(){ return {}; });
+            if (!response.ok) {
+                throw new Error(result.message || '提交失败，请稍后再试。');
+            }
+            setStatus('success', result.message || '确认邮件已发送，请去邮箱里完成确认。');
+            form.reset();
+            if (window.turnstile) window.turnstile.reset();
+        } catch (error) {
+            setStatus('error', error.message || '提交失败，请稍后再试。');
+            if (window.turnstile) window.turnstile.reset();
+        } finally {
+            button.disabled = false;
+        }
+    });
+})();
 </script>
 
 

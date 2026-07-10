@@ -47,6 +47,8 @@
   "xHandle": "wiselyfreely",
   "xUrl": "https://x.com/wiselyfreely",
   "enableAds": 0,
+  "subscribeApiUrl": "",
+  "turnstileSiteKey": "",
   "title": "人到中年",
   "subTitle": "愿你没白来",
   "avatarUrl": "/images/bb.png",
