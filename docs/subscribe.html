@@ -29,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>邮件订阅 - 人到中年</title>
-
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -250,6 +250,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p>留下邮箱后会收到一封确认邮件。确认后，只发送新文章和阶段性札记，每封邮件都会带退订入口。</p>
         <form class="subscribe-form" id="subscribe-form" action="" method="post">
             <input type="email" name="email" placeholder="你的邮箱" autocomplete="email" required>
+            
+            <div class="turnstile-row">
+                <div class="cf-turnstile" data-sitekey="0x4AAAAAADy7m99tTX6ix-52" data-action="turnstile-spin-v1"></div>
+            </div>
             
             <button type="submit">订阅</button>
             <div class="subscribe-status" id="subscribe-status" role="status" aria-live="polite"></div>
