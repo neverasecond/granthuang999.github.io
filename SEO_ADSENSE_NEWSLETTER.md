@@ -6,7 +6,7 @@
 - 全站增加搜索引擎 robots meta。
 - 首页/列表页增加 `CollectionPage` 结构化数据。
 - 文章页使用 `BlogPosting` 结构化数据，并补充栏目、关键词、作者、发布和更新时间。
-- 订阅页改为可接入真实后端的表单，提交到 `config.json` 的 `subscribeApiUrl`。
+- 订阅页已接入真实后端表单，提交到 `config.json` 的 `subscribeApiUrl`。
 - 新增 Cloudflare Worker 订阅后端样板，支持确认订阅和退订。
 
 ## AdSense 审核前不要做
@@ -26,10 +26,8 @@
 
 1. 到 Cloudflare Turnstile 创建站点，域名填 `www.790427.xyz`。
 2. 把 Turnstile site key 写入根目录 `config.json` 的 `turnstileSiteKey`。
-3. 在 `workers/newsletter` 创建 D1，并把 `database_id` 写入 `wrangler.jsonc`。
-4. 用 `schema.sql` 初始化 D1。
-5. 在 Resend 或 SES 验证发信域名，配置 SPF/DKIM/DMARC。
-6. 用 Wrangler 设置 `RESEND_API_KEY` 和 `TURNSTILE_SECRET`。
-7. 部署 Worker，确认 `/api/subscribe` 路由生效。
-8. 把根目录 `config.json` 的 `subscribeApiUrl` 改为 `https://www.790427.xyz/api/subscribe`。
-9. 发送一次测试订阅，确认收到邮件、确认链接、退订链接都可用。
+3. 当前已创建 D1 `bailai_newsletter`，并把 `database_id` 写入 `wrangler.jsonc`。
+4. 当前已用 `schema.sql` 初始化 D1。
+5. 当前已部署 Worker，并设置 `RESEND_API_KEY` 和 `TURNSTILE_SECRET`。
+6. 当前已绑定 `/api/subscribe*` 路由，并打开 `subscribeApiUrl`。
+7. 仍需确认 Resend 发信域名已经 verified，再发送一次测试订阅，确认收到邮件、确认链接、退订链接都可用。
