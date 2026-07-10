@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<meta name="robots" content="noindex,follow">
+<meta name="description" content="页面不存在，返回人到中年继续阅读职场、投资、读书与修行内容。">
+<meta property="og:title" content="页面不存在 - {{ blogBase['title'] }}">
+<meta property="og:description" content="这页暂时没有内容，回到人到中年继续阅读。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ blogBase['homeUrl'] }}">
+<meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<title>页面不存在 - {{ blogBase['title'] }}</title>
+{% endblock %}
+
+{% block style %}
+<style>
+.not-found-title{margin:auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding:14px 16px;margin-right:8px;}
+.not-found-wrap{max-width:680px;margin:0 auto;text-align:center;padding:40px 0;}
+.not-found-code{font-size:72px;font-weight:700;line-height:1;margin:0 0 18px;color:var(--color-accent-fg,#0969da);}
+.not-found-copy{font-size:18px;line-height:1.7;color:var(--color-fg-muted);margin:0 auto 24px;max-width:520px;}
+.not-found-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;}
+.not-found-actions a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:10px 14px;text-decoration:none;font-weight:600;}
+</style>
+{% endblock %}
+
+{% block header %}
+<h1 class="not-found-title">页面不存在</h1>
+<div class="title-right">
+    <a href="{{ blogBase['homeUrl'] }}" id="buttonHome" class="btn btn-invisible circle" title="{{ i18n['home'] }}">
+        <svg class="octicon" width="16" height="16"><path id="pathHome" fill-rule="evenodd"></path></svg>
+    </a>
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="{{ i18n['switchTheme'] }}" {%- if blogBase['themeMode']=='fix' -%}style="display:none;"{%- endif -%}>
+        <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
+    </a>
+</div>
+{% endblock %}
+
+{% block content %}
+<main class="not-found-wrap">
+    <p class="not-found-code">404</p>
+    <p class="not-found-copy">这页可能已经移动、删除，或者还没写出来。先回到能继续往前走的地方。</p>
+    <nav class="not-found-actions" aria-label="404 导航">
+        <a href="{{ blogBase['homeUrl'] }}/">首页</a>
+        <a href="{{ blogBase['homeUrl'] }}/zhi-chang.html">职场</a>
+        <a href="{{ blogBase['homeUrl'] }}/tou-zi.html">投资</a>
+        <a href="{{ blogBase['homeUrl'] }}/du-shu.html">读书</a>
+        <a href="{{ blogBase['homeUrl'] }}/xiu-xing.html">修行</a>
+        <a href="{{ blogBase['homeUrl'] }}/tag.html">搜索</a>
+    </nav>
+</main>
+{% endblock %}
+
+{% block script %}
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+</script>
+{% endblock %}

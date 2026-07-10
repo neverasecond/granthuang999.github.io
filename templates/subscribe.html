@@ -23,8 +23,7 @@
         "@type": "WebSite",
         "name": {{ blogBase.title|tojson }},
         "url": {{ blogBase.homeUrl|tojson }}
-    },
-    {% if blogBase.subscribeApiUrl %},
+    }{% if blogBase.subscribeApiUrl %},
     "potentialAction": {
         "@type": "SubscribeAction",
         "target": {{ blogBase.subscribeApiUrl|tojson }}
