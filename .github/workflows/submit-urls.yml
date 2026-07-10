@@ -185,13 +185,22 @@ jobs:
                   print(f"IndexNow status: {resp.status}")
                   if resp.status != 200:
                       raise SystemExit(1)
+                  open("indexnow_submitted.ok", "w", encoding="utf-8").write("ok\n")
           except urllib.error.HTTPError as exc:
               print(f"IndexNow status: {exc.code}", flush=True)
-              print(exc.read().decode("utf-8", errors="replace"))
+              body = exc.read().decode("utf-8", errors="replace")
+              print(body)
+              if exc.code in (403, 429) or "SiteVerificationNotCompleted" in body:
+                  print("IndexNow submission is temporarily unavailable; keeping URLs pending.")
+                  raise SystemExit(0)
               raise SystemExit(1)
           PY
 
-          grep -Ff to_submit_indexnow.txt to_submit_indexnow.tsv > "$SUCCESS_FILE" || true
+          if [ -f indexnow_submitted.ok ]; then
+            grep -Ff to_submit_indexnow.txt to_submit_indexnow.tsv > "$SUCCESS_FILE" || true
+          else
+            echo "IndexNow URLs were not accepted; keeping them pending for a future run."
+          fi
           echo "success_file=$SUCCESS_FILE" >> "$GITHUB_OUTPUT"
 
       - name: Authenticate to Google Search Console
