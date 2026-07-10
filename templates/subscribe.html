@@ -80,7 +80,7 @@
             <input type="email" name="email" placeholder="你的邮箱" autocomplete="email" required>
             {% if blogBase['turnstileSiteKey'] %}
             <div class="turnstile-row">
-                <div class="cf-turnstile" data-sitekey="{{ blogBase['turnstileSiteKey'] }}"></div>
+                <div class="cf-turnstile" data-sitekey="{{ blogBase['turnstileSiteKey'] }}" data-action="turnstile-spin-v1"></div>
             </div>
             {% endif %}
             <button type="submit">订阅</button>

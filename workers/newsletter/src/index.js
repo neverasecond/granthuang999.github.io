@@ -60,7 +60,9 @@ function escapeHtml(value) {
 
 async function verifyTurnstile(request, env, token) {
   if (env.REQUIRE_TURNSTILE !== 'true') return true;
-  if (!env.TURNSTILE_SECRET) return true;
+  if (!env.TURNSTILE_SECRET) {
+    throw new Error('TURNSTILE_SECRET is not configured');
+  }
   if (!token) return false;
 
   const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
@@ -78,7 +80,9 @@ async function verifyTurnstile(request, env, token) {
 }
 
 async function sendEmail(env, { to, subject, html }) {
-  if (!env.RESEND_API_KEY) return { skipped: true };
+  if (!env.RESEND_API_KEY) {
+    throw new Error('RESEND_API_KEY is not configured');
+  }
 
   const response = await fetch('https://api.resend.com/emails', {
     method: 'POST',
@@ -135,10 +139,14 @@ async function subscribe(request, env) {
     return json(request, { message: '邮箱格式不正确。' }, 400);
   }
 
-  const passedTurnstile = await verifyTurnstile(request, env, payload.turnstileToken);
-  if (!passedTurnstile) {
-    return json(request, { message: '验证失败，请刷新页面后重试。' }, 403);
+  let passedTurnstile;
+  try {
+    passedTurnstile = await verifyTurnstile(request, env, payload.turnstileToken);
+  } catch (error) {
+    console.error(error);
+    return json(request, { message: '订阅服务尚未完成安全配置。' }, 503);
   }
+  if (!passedTurnstile) return json(request, { message: '验证失败，请刷新页面后重试。' }, 403);
 
   const existing = await env.DB.prepare(
     'SELECT email, status, confirm_token, unsubscribe_token FROM subscribers WHERE email = ?'
@@ -163,11 +171,16 @@ async function subscribe(request, env) {
       updated_at = CURRENT_TIMESTAMP
   `).bind(email, name, source, confirmToken, unsubscribeToken).run();
 
-  await sendEmail(env, {
-    to: email,
-    subject: `确认订阅《${env.SITE_NAME || '人到中年'}》`,
-    html: confirmEmailHtml(env, email, confirmToken, unsubscribeToken),
-  });
+  try {
+    await sendEmail(env, {
+      to: email,
+      subject: `确认订阅《${env.SITE_NAME || '人到中年'}》`,
+      html: confirmEmailHtml(env, email, confirmToken, unsubscribeToken),
+    });
+  } catch (error) {
+    console.error(error);
+    return json(request, { message: '订阅记录已保存，但确认邮件暂时无法发送。' }, 503);
+  }
 
   return json(request, { message: '确认邮件已发送，请去邮箱里完成确认。' }, 202);
 }
