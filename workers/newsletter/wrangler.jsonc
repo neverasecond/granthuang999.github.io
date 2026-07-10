@@ -20,7 +20,7 @@
     {
       "binding": "DB",
       "database_name": "bailai_newsletter",
-      "database_id": "replace-with-cloudflare-d1-database-id"
+      "database_id": "3e62e94a-af0f-46ce-ad25-65c845a35553"
     }
   ],
   "observability": {
