@@ -139,6 +139,8 @@ jobs:
 
           if echo "$RESPONSE" | grep -q '"success"'; then
             grep -Ff baidu_batch.txt to_submit_baidu.tsv > "$SUCCESS_FILE" || true
+          elif echo "$RESPONSE" | grep -qi 'over quota'; then
+            echo "Baidu quota is exhausted; keeping URLs pending for a future run."
           else
             echo "Baidu submission did not report success." >&2
             exit 1
