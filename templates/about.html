@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<meta name="description" content="关于人到中年与白来：记录读书、投资、AI 和生活实操，写给还想重新开始的人。">
+<meta property="og:title" content="关于本站 - {{ blogBase['title'] }}">
+<meta property="og:description" content="人到中年，重新学习如何生活、投资和使用技术。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ blogBase['homeUrl'] }}/about.html">
+<meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
+<title>关于本站 - {{ blogBase['title'] }}</title>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": {{ ("关于本站 - " ~ blogBase.title)|tojson }},
+    "description": "关于人到中年与白来：记录读书、投资、AI 和生活实操。",
+    "url": {{ (blogBase.homeUrl ~ "/about.html")|tojson }},
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": {{ blogBase.title|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }}
+    },
+    "author": {
+        "@type": "Person",
+        "name": {{ blogBase.author|tojson }},
+        "alternateName": {{ blogBase.xName|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }},
+        "email": {{ ("mailto:" ~ blogBase.email)|tojson }},
+        "sameAs": [{{ blogBase.xUrl|tojson }}]
+    }
+}
+</script>
+{% endblock %}
+
+{% block style %}
+<style>
+.page-title{margin:auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding:14px 16px;margin-right:8px;}
+.content-page{max-width:760px;margin:0 auto;}
+.content-page h2{margin-top:28px;}
+.content-page p,.content-page li{font-size:16px;line-height:1.8;color:var(--color-fg-default);}
+.content-page .lead{font-size:19px;line-height:1.8;color:var(--color-fg-muted);margin-top:0;}
+.content-page ul{padding-left:22px;}
+.notice{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:14px 16px;background:var(--color-canvas-subtle);color:var(--color-fg-muted);}
+.page-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+.page-links a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;}
+</style>
+{% endblock %}
+
+{% block header %}
+<h1 class="page-title">关于本站</h1>
+<div class="title-right">
+    <a href="{{ blogBase['homeUrl'] }}" id="buttonHome" class="btn btn-invisible circle" title="{{ i18n['home'] }}">
+        <svg class="octicon" width="16" height="16"><path id="pathHome" fill-rule="evenodd"></path></svg>
+    </a>
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="{{ i18n['switchTheme'] }}" {%- if blogBase['themeMode']=='fix' -%}style="display:none;"{%- endif -%}>
+        <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
+    </a>
+</div>
+{% endblock %}
+
+{% block content %}
+<main class="content-page">
+    <p class="lead">人到中年，是白来写给自己，也写给还想重新开始的人的个人网站。</p>
+    <p>这里不追逐热闹，也不制造焦虑。它记录三件事：读书和人生感悟，投资研判与实操复盘，以及面向中老年人的 iPhone 和 AI 操作教学。</p>
+
+    <h2>这个网站写什么</h2>
+    <ul>
+        <li>读书、人生下半场、关系、健康、心态和自我修正。</li>
+        <li>宏观观察、资产配置、投资实盘、风险控制和阶段复盘。</li>
+        <li>手机设置、防诈骗、ChatGPT、AI 工具和日常效率教程。</li>
+    </ul>
+
+    <h2>这个网站不写什么</h2>
+    <ul>
+        <li>不写没有验证过的暴富故事。</li>
+        <li>不把投资记录包装成确定性建议。</li>
+        <li>不为了流量故意制造恐惧、对立或羞辱。</li>
+    </ul>
+
+    <h2>联系与订阅</h2>
+    <p>你可以写信到 <a href="mailto:{{ blogBase['email'] }}">{{ blogBase['email'] }}</a>，也可以在 X 上关注 <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">{{ blogBase['xName'] }}</a>。</p>
+    <p class="notice">投资相关内容仅为个人研究、记录与复盘，不构成任何投资建议。请根据自己的风险承受能力独立判断。</p>
+    <div class="page-links">
+        <a href="{{ blogBase['homeUrl'] }}/start.html">从这里开始</a>
+        <a href="{{ blogBase['homeUrl'] }}/subscribe.html">邮件订阅</a>
+        <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 X</a>
+    </div>
+</main>
+{% endblock %}
+
+{% block script %}
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+</script>
+{% endblock %}

@@ -440,6 +440,9 @@ class GMEEK:
         add_url(self.blogBase["homeUrl"], priority="1.0", changefreq="daily")
         add_url(f"{self.blogBase['homeUrl']}/tag.html", priority="0.7")
         add_url(f"{self.blogBase['homeUrl']}/subscribe.html", priority="0.7")
+        add_url(f"{self.blogBase['homeUrl']}/about.html", priority="0.8")
+        add_url(f"{self.blogBase['homeUrl']}/start.html", priority="0.8")
+        add_url(f"{self.blogBase['homeUrl']}/ai-jiao-xue.html", priority="0.8")
 
         for page in self.blogBase["singeListJson"].values():
             if page["createdAt"] <= current_time:
@@ -568,6 +571,23 @@ class GMEEK:
         }
         self.renderHtml('subscribe.html', context, f"{self.root_dir}subscribe.html")
 
+    def createStaticLandingPages(self):
+        print("====== create static landing pages ======")
+        pages = [
+            ("about.html", "about.html"),
+            ("start.html", "start.html"),
+            ("ai-guide.html", "ai-jiao-xue.html"),
+        ]
+        for template_name, output_name in pages:
+            render_dict = self.blogBase.copy()
+            render_dict["canonicalUrl"] = f"{self.blogBase['homeUrl']}/{output_name}"
+            context = {
+                'blogBase': render_dict,
+                'i18n': self.i18n,
+                'IconList': IconBase
+            }
+            self.renderHtml(template_name, context, f"{self.root_dir}{output_name}")
+
     def createNotFoundPage(self):
         print("====== create 404 page ======")
         render_dict = self.blogBase.copy()
@@ -600,6 +620,7 @@ class GMEEK:
         self.createTagCloudPage()
         self.createTagPages()
         self.createSubscribePage()
+        self.createStaticLandingPages()
         self.createNotFoundPage()
         self.createFeedXml()
         self.createSitemapXml()
@@ -632,6 +653,7 @@ class GMEEK:
             self.createTagCloudPage()
             self.createTagPages()
             self.createSubscribePage()
+            self.createStaticLandingPages()
             self.createNotFoundPage()
             self.createFeedXml()
             self.createSitemapXml()
