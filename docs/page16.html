@@ -186,6 +186,14 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 .listTitle{overflow:hidden;white-space:nowrap;text-overflow: ellipsis;max-width: 100%;}
 .listLabels{white-space:nowrap;display:flex;}
 .listLabels object{max-height:16px;max-width:24px;}
+.home-kicker{font-size:13px;font-weight:700;color:var(--color-accent-fg,#0969da);margin:0 0 8px;}
+.home-lead{font-size:18px;line-height:1.7;color:var(--color-fg-muted);margin:0 auto 22px;max-width:720px;text-align:center;}
+.home-tracks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0 0 24px;}
+.home-track{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:16px;text-decoration:none;background:var(--color-canvas-default);}
+.home-track strong{display:block;font-size:16px;margin-bottom:8px;color:var(--color-fg-default);}
+.home-track span{display:block;font-size:14px;line-height:1.6;color:var(--color-fg-muted);}
+.home-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:0 0 28px;}
+.home-actions a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;}
 
 #animated-subtitle {
     min-height: 24px; /* 您可以根据字体大小调整 */
@@ -197,6 +205,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     .blogTitle{display:none;}
     #buttonRSS{display:none;}
     .LabelTime{display:none;}
+    .home-tracks{grid-template-columns:1fr;}
 }
 </style>
 
@@ -206,11 +215,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <header id="header" class="page-header">
         <nav class="header-nav-menu">
             <a href="https://www.790427.xyz/">首页</a>
-            <a href="https://www.790427.xyz/zhi-chang.html">职场</a>
+            <a href="https://www.790427.xyz/start.html">从这里开始</a>
+            <a href="https://www.790427.xyz/xiu-xing.html">人生</a>
             <a href="https://www.790427.xyz/tou-zi.html">投资</a>
             <a href="https://www.790427.xyz/du-shu.html">读书</a>
-            <a href="https://www.790427.xyz/xiu-xing.html">修行</a>
+            <a href="https://www.790427.xyz/ai-jiao-xue.html">AI 教学</a>
             <a href="https://www.790427.xyz/subscribe.html">订阅</a>
+            <a href="https://www.790427.xyz/about.html">关于</a>
             <a href="https://www.790427.xyz/tag.html">搜索</a>
         </nav>
 
@@ -256,6 +267,30 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 
 <div id="animated-subtitle" style="margin-bottom: 16px; text-align: center; font-style: italic;"></div>
+
+<section class="home-intro" aria-labelledby="home-intro-title">
+    <p class="home-kicker" id="home-intro-title" style="text-align:center;">人到中年，重新学习如何生活、投资和使用技术</p>
+    <p class="home-lead">这里记录白来的读书与人生感悟、投资研判与实操复盘，也写给中老年人的 iPhone 和 AI 操作教学。</p>
+    <div class="home-tracks">
+        <a class="home-track" href="https://www.790427.xyz/xiu-xing.html">
+            <strong>人生与读书</strong>
+            <span>读书笔记、人生下半场、关系、健康、心态和自我修正。</span>
+        </a>
+        <a class="home-track" href="https://www.790427.xyz/tou-zi.html">
+            <strong>投资研判</strong>
+            <span>宏观观察、资产配置、实盘记录、风险控制和阶段复盘。</span>
+        </a>
+        <a class="home-track" href="https://www.790427.xyz/ai-jiao-xue.html">
+            <strong>iPhone 与 AI 教学</strong>
+            <span>面向中老年人的手机设置、防诈骗、ChatGPT 和日常效率教程。</span>
+        </a>
+    </div>
+    <div class="home-actions">
+        <a href="https://www.790427.xyz/start.html">从这里开始</a>
+        <a href="https://www.790427.xyz/subscribe.html">邮件订阅</a>
+        <a href="https://x.com/wiselyfreely" target="_blank" rel="noopener">关注 莫白来</a>
+    </div>
+</section>
 
 <nav class="SideNav border">
 
@@ -322,6 +357,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
     <div id="footer"><div id="footer1" style="margin-top: 32px;">Copyright all reserved © <span id="copyrightYear"></span>-future <a href="https://www.790427.xyz">人到中年</a><br>
 <a href="https://www.790427.xyz/about.html">关于本站</a> |
+<a href="https://www.790427.xyz/start.html">从这里开始</a> |
 <a href="https://www.790427.xyz/subscribe.html">邮件订阅</a> |
 <a href="https://x.com/wiselyfreely" target="_blank" rel="noopener">X: 莫白来</a> |
 <a href="https://www.790427.xyz/terms-of-service.html">服务条款</a> |
