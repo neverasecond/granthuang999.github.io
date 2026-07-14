@@ -179,6 +179,16 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 12px;
 }
+.investment-disclaimer {
+    margin: 24px 0 0;
+    padding: 14px 16px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    background: var(--color-canvas-subtle);
+    color: var(--color-fg-muted);
+    font-size: 14px;
+    line-height: 1.7;
+}
 
 /* Password Overlay Styles */
 #password-overlay {
@@ -270,6 +280,12 @@
 </div>
 
 <div class="markdown-body" id="postBody">{{ blogBase['postBody']|safe }}</div>
+
+{% if '投资' in blogBase['labels'] %}
+<div class="investment-disclaimer">
+    本文仅为个人研究、记录与复盘，不构成任何投资建议。市场有风险，请根据自己的财务状况、风险承受能力和独立判断做决定。
+</div>
+{% endif %}
 
 <div class="post-footer">
     <div class="bottom-text-inline">{{ blogBase['bottomText'] }}</div>

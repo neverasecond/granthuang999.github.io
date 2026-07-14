@@ -1,0 +1,99 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<meta name="description" content="从这里开始阅读人到中年：人生与读书、投资研判、iPhone 与 AI 教学三条主线。">
+<meta property="og:title" content="从这里开始 - {{ blogBase['title'] }}">
+<meta property="og:description" content="按人生、投资、AI 教学三条主线进入人到中年。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ blogBase['homeUrl'] }}/start.html">
+<meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
+<title>从这里开始 - {{ blogBase['title'] }}</title>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": {{ ("从这里开始 - " ~ blogBase.title)|tojson }},
+    "description": "按人生、投资、AI 教学三条主线进入人到中年。",
+    "url": {{ (blogBase.homeUrl ~ "/start.html")|tojson }},
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": {{ blogBase.title|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }}
+    }
+}
+</script>
+{% endblock %}
+
+{% block style %}
+<style>
+.page-title{margin:auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding:14px 16px;margin-right:8px;}
+.start-page{max-width:820px;margin:0 auto;}
+.start-lead{font-size:19px;line-height:1.8;color:var(--color-fg-muted);margin:0 0 24px;}
+.start-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0 28px;}
+.start-card{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:18px;text-decoration:none;background:var(--color-canvas-default);}
+.start-card strong{display:block;font-size:18px;margin-bottom:10px;color:var(--color-fg-default);}
+.start-card span{display:block;font-size:14px;line-height:1.7;color:var(--color-fg-muted);}
+.start-list{border-top:1px solid var(--borderColor-muted,var(--color-border-muted));padding-top:20px;}
+.start-list h2{margin-top:0;}
+.start-list li{line-height:1.8;margin:8px 0;}
+.start-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+.start-actions a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;}
+@media (max-width: 760px){.start-grid{grid-template-columns:1fr;}}
+</style>
+{% endblock %}
+
+{% block header %}
+<h1 class="page-title">从这里开始</h1>
+<div class="title-right">
+    <a href="{{ blogBase['homeUrl'] }}" id="buttonHome" class="btn btn-invisible circle" title="{{ i18n['home'] }}">
+        <svg class="octicon" width="16" height="16"><path id="pathHome" fill-rule="evenodd"></path></svg>
+    </a>
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="{{ i18n['switchTheme'] }}" {%- if blogBase['themeMode']=='fix' -%}style="display:none;"{%- endif -%}>
+        <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
+    </a>
+</div>
+{% endblock %}
+
+{% block content %}
+<main class="start-page">
+    <p class="start-lead">如果你第一次来到这里，可以先按三条主线阅读：想重新理解自己，读人生与读书；想管好钱，读投资；想把手机和 AI 用起来，读教学。</p>
+    <section class="start-grid" aria-label="内容主线">
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/xiu-xing.html">
+            <strong>人生与读书</strong>
+            <span>给人生下半场留一点安静的判断力，记录读过的书、想通的事和还没想通的地方。</span>
+        </a>
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/tou-zi.html">
+            <strong>投资研判</strong>
+            <span>记录宏观、资产配置、实际操作和复盘。重视风险，少一点口号，多一点过程。</span>
+        </a>
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/ai-jiao-xue.html">
+            <strong>iPhone 与 AI 教学</strong>
+            <span>写给中老年人，也写给需要把技术真正用进生活的人。</span>
+        </a>
+    </section>
+    <section class="start-list">
+        <h2>推荐阅读方式</h2>
+        <ul>
+            <li>先读一篇和你当下问题最接近的文章，不必从头补课。</li>
+            <li>投资内容重点看判断过程和风险清单，不把任何一篇文章当成买卖指令。</li>
+            <li>教学内容可以边看边做，遇到家人也需要的步骤，可以直接转给他们。</li>
+        </ul>
+        <div class="start-actions">
+            <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅新文章</a>
+            <a href="{{ blogBase['homeUrl'] }}/tag.html">查看全部标签</a>
+            <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 {{ blogBase['xName'] }}</a>
+        </div>
+    </section>
+</main>
+{% endblock %}
+
+{% block script %}
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+</script>
+{% endblock %}

@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<meta name="description" content="中老年 iPhone 与 AI 教学入口：手机设置、防诈骗、ChatGPT、AI 工具和生活实操。">
+<meta property="og:title" content="iPhone 与 AI 教学 - {{ blogBase['title'] }}">
+<meta property="og:description" content="写给中老年人的手机和 AI 操作教学。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ blogBase['homeUrl'] }}/ai-jiao-xue.html">
+<meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
+<title>iPhone 与 AI 教学 - {{ blogBase['title'] }}</title>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": {{ ("iPhone 与 AI 教学 - " ~ blogBase.title)|tojson }},
+    "description": "中老年 iPhone 与 AI 教学入口：手机设置、防诈骗、ChatGPT、AI 工具和生活实操。",
+    "url": {{ (blogBase.homeUrl ~ "/ai-jiao-xue.html")|tojson }},
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": {{ blogBase.title|tojson }},
+        "url": {{ blogBase.homeUrl|tojson }}
+    }
+}
+</script>
+{% endblock %}
+
+{% block style %}
+<style>
+.page-title{margin:auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding:14px 16px;margin-right:8px;}
+.guide-page{max-width:780px;margin:0 auto;}
+.guide-lead{font-size:19px;line-height:1.8;color:var(--color-fg-muted);margin:0 0 22px;}
+.guide-section{border-top:1px solid var(--borderColor-muted,var(--color-border-muted));padding-top:20px;margin-top:20px;}
+.guide-section h2{margin-top:0;}
+.guide-section p,.guide-section li{font-size:16px;line-height:1.8;}
+.guide-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+.guide-actions a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;}
+</style>
+{% endblock %}
+
+{% block header %}
+<h1 class="page-title">iPhone 与 AI 教学</h1>
+<div class="title-right">
+    <a href="{{ blogBase['homeUrl'] }}" id="buttonHome" class="btn btn-invisible circle" title="{{ i18n['home'] }}">
+        <svg class="octicon" width="16" height="16"><path id="pathHome" fill-rule="evenodd"></path></svg>
+    </a>
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="{{ i18n['switchTheme'] }}" {%- if blogBase['themeMode']=='fix' -%}style="display:none;"{%- endif -%}>
+        <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
+    </a>
+</div>
+{% endblock %}
+
+{% block content %}
+<main class="guide-page">
+    <p class="guide-lead">这个栏目写给中老年人，也写给想把手机和 AI 真正用进生活的人。目标不是炫技，而是让每一步都能照着做。</p>
+    <section class="guide-section">
+        <h2>会重点写什么</h2>
+        <ul>
+            <li>iPhone 基础设置：字体、相册、备忘录、健康、家人共享和账号安全。</li>
+            <li>防诈骗与隐私保护：陌生链接、支付安全、验证码、骚扰电话和密码管理。</li>
+            <li>AI 日常用法：用 ChatGPT 查资料、写消息、整理旅行计划、学习英语和做表格。</li>
+        </ul>
+    </section>
+    <section class="guide-section">
+        <h2>推荐文章标签</h2>
+        <p>后续发布教程时，建议统一使用 “AI教学” 或 “iPhone” 标签。等文章积累后，这个入口页会继续改成按系列导航。</p>
+        <div class="guide-actions">
+            <a href="{{ blogBase['homeUrl'] }}/tag.html#AI教学">AI 教学标签</a>
+            <a href="{{ blogBase['homeUrl'] }}/tag.html#iPhone">iPhone 标签</a>
+            <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅教程更新</a>
+        </div>
+    </section>
+</main>
+{% endblock %}
+
+{% block script %}
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+</script>
+{% endblock %}
