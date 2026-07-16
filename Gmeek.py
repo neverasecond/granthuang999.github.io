@@ -418,9 +418,9 @@ class GMEEK:
         english_item.link(href=english_guide_url)
         english_item.pubDate(datetime.datetime.fromisoformat('2025-09-10T01:05:46+00:00'))
         english_item.enclosure(
-            url=f"{self.blogBase['homeUrl']}/images/big.png",
+            url=self.blogBase["ogImage"],
             length='0',
-            type='image/png'
+            type='image/jpeg'
         )
         feed.rss_file(os.path.join(self.root_dir, 'rss.xml'), pretty=True)
 
