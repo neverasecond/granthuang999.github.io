@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: gmeek-incremental-${{ github.event.issue.number }}
-    cancel-in-progress: true
+      cancel-in-progress: true
     if: |
       github.actor != 'github-actions[bot]' &&
       github.repository == 'neverasecond/granthuang999.github.io'
