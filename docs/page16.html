@@ -190,7 +190,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-size: 40px; 
+    font-size: 30px !important;
 }
 
 .header-main-content h1 a {
@@ -240,6 +240,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
     .site-title {
         font-size: 24px;
+    }
+
+    .header-main-content h1 {
+        font-size: 20px !important;
     }
 }
 </style>
@@ -299,7 +303,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
             </div>
             
-<img class="header-statement" src="https://www.790427.xyz/images/home-statement.svg" alt="可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！">
+<img class="header-statement" src="https://www.790427.xyz/images/home-statement-20260716.svg" alt="可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！">
 
         </div>
 
@@ -311,20 +315,6 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 
 <section class="home-intro">
-    <div class="home-tracks">
-        <a class="home-track" href="https://www.790427.xyz/xiu-xing.html">
-            <strong>人生与读书</strong>
-            <span>读书笔记、人生下半场、关系、健康、心态和自我修正。</span>
-        </a>
-        <a class="home-track" href="https://www.790427.xyz/tou-zi.html">
-            <strong>投资研判</strong>
-            <span>宏观观察、资产配置、实盘记录、风险控制和阶段复盘。</span>
-        </a>
-        <a class="home-track" href="https://www.790427.xyz/ai-jiao-xue.html">
-            <strong>iPhone 与 AI 教学</strong>
-            <span>面向中老年人的手机设置、防诈骗、ChatGPT 和日常效率教程。</span>
-        </a>
-    </div>
     <div class="home-actions">
         <a href="https://www.790427.xyz/start.html">从这里开始</a>
         <a href="https://www.790427.xyz/subscribe.html">邮件订阅</a>
@@ -345,6 +335,20 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         <button type="button" class="home-action-icon" onclick="modeSwitch()" title="切换主题" aria-label="切换主题">
             <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
         </button>
+    </div>
+    <div class="home-tracks">
+        <a class="home-track" href="https://www.790427.xyz/xiu-xing.html">
+            <strong>人生与读书</strong>
+            <span>读书笔记、人生下半场、关系、健康、心态和自我修正。</span>
+        </a>
+        <a class="home-track" href="https://www.790427.xyz/tou-zi.html">
+            <strong>投资研判</strong>
+            <span>宏观观察、资产配置、实盘记录、风险控制和阶段复盘。</span>
+        </a>
+        <a class="home-track" href="https://www.790427.xyz/ai-jiao-xue.html">
+            <strong>iPhone 与 AI 教学</strong>
+            <span>面向中老年人的手机设置、防诈骗、ChatGPT 和日常效率教程。</span>
+        </a>
     </div>
 </section>
 
@@ -494,15 +498,6 @@ window.addEventListener('load', function() {
         const h1Element = document.querySelector('.header-main-content h1');
         if (!h1Element) return;
 
-        const avatar = document.querySelector('img.avatar');
-        if (avatar) {
-            const homeTitle = h1Element.querySelector('a') || h1Element;
-            if (homeTitle) {
-                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
-            }
-            return;
-        }
-
         const textElement = h1Element.querySelector('a') || h1Element;
         const parentContainer = h1Element.closest('.header-main-content');
         
@@ -513,17 +508,17 @@ window.addEventListener('load', function() {
 
         // 在确保所有元素都存在后，再进行计算
         const availableWidth = parentContainer.clientWidth - rightButtons.clientWidth - 20;
-        const maxFontSize = 40;
+        const maxFontSize = window.innerWidth <= 600 ? 20 : 30;
         const minFontSize = 12;
 
         let currentFontSize = maxFontSize;
-        textElement.style.fontSize = currentFontSize + 'px';
+        textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
 
         // 添加一个安全检查，防止无限循环
         let attempts = 0;
         while (textElement.scrollWidth > availableWidth && currentFontSize > minFontSize && attempts < 100) {
             currentFontSize--;
-            textElement.style.fontSize = currentFontSize + 'px';
+            textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
             attempts++;
         }
     }
