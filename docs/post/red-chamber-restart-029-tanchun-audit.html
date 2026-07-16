@@ -204,6 +204,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     flex: 0 0 auto;
     gap: 14px;
     min-width: 0;
+    padding-right: 18px;
+    border-right: 1px solid #d8cec0;
 }
 
 .site-brand-logo {
@@ -239,14 +241,31 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     color: #151515 !important;
 }
 
+.header-statement {
+    display: block;
+    flex: 1 1 0;
+    width: auto;
+    min-width: 0;
+    max-width: 520px;
+    height: auto;
+}
+
 [data-color-mode="dark"] .site-brand-row {
     background: #1c2128;
     border-color: #444c56;
 }
 
+[data-color-mode="dark"] .site-brand {
+    border-right-color: #444c56;
+}
+
 [data-color-mode="dark"] .site-title,
 [data-color-mode="dark"] .page-header a.site-title {
     color: #f0f3f6;
+}
+
+[data-color-mode="dark"] .header-statement {
+    filter: invert(1) hue-rotate(180deg);
 }
 
 .header-main-content {
@@ -299,10 +318,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     .site-brand-row {
         gap: 10px;
         padding: 12px;
+        flex-wrap: wrap;
     }
 
     .site-brand {
         gap: 7px;
+        padding-right: 0;
+        border-right: 0;
     }
 
     .site-brand-logo {
@@ -313,6 +335,12 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
     .site-title {
         font-size: 24px;
+    }
+
+    .header-statement {
+        flex-basis: 100%;
+        width: 100%;
+        max-width: none;
     }
 
     .header-main-content h1 {
@@ -487,6 +515,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
                 <a class="site-title" href="https://www.790427.xyz">人到中年</a>
                 
             </div>
+            
+            <img class="header-statement" src="https://www.790427.xyz/images/home-statement-20260716.svg" alt="可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！">
             
         </div>
 
