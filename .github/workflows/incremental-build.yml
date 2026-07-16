@@ -12,7 +12,6 @@ jobs:
       group: gmeek-incremental-${{ github.event.issue.number }}
     cancel-in-progress: true
     if: |
-      false &&
       github.actor != 'github-actions[bot]' &&
       github.repository == 'neverasecond/granthuang999.github.io'
     permissions:
