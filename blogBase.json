@@ -96,7 +96,20 @@
         "createdDate": "2026-02-04",
         "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
       },
-      "relatedPosts": []
+      "relatedPosts": [
+        {
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
+        },
+        {
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
+        }
+      ]
     },
     "P248": {
       "htmlDir": "docs/post/three-kingdoms-003-jiaxu-conscience.html",
@@ -1098,72 +1111,6 @@
         "description": "老板是暴君，大领导是渣男，夹在中间怎么活，深度复盘平儿的灰度管理学，教你如何做职场的超级防火墙。"
       },
       "olderPost": {
-        "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-        "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-        "createdDate": "2026-01-16",
-        "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
-        }
-      ]
-    },
-    "P225": {
-      "htmlDir": "docs/post/redemption-of-mirage-10-father-predator.html",
-      "labels": [
-        "连载",
-        "修行"
-      ],
-      "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-      "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/225",
-      "commentNum": 0,
-      "wordCount": 811,
-      "createdAt": 1768526684,
-      "top": 0,
-      "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。",
-      "createdDate": "2026-01-16",
-      "isoDate": "2026-01-16T09:24:44+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:27:18+08:00",
-      "dateLabelColor": "#1f883d",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/redemption-of-mirage-10-father-predator.png",
-      "keywords": "救赎,社会契约,精神弑父,塔西佗陷阱,莫白来,独立人格",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "【红楼重启 034】：没有任命书，怎么拉动平级甚至比你牛的人",
-        "postUrl": "https://www.790427.xyz/post/red-chamber-restart-034-tanchun-leadership.html",
-        "createdDate": "2026-01-16",
-        "description": "没有任命书，怎么当领导，看探春如何通过愿景和规则，拉动大观园顶级团队搞成海棠诗社。"
-      },
-      "olderPost": {
         "postTitle": "【红楼重启 033】：“以公司为家”是职场最大的谎言",
         "postUrl": "https://www.790427.xyz/post/red-chamber-restart-033-xiren-tragedy.html",
         "createdDate": "2026-01-15",
@@ -1224,10 +1171,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-        "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
+        "postTitle": "【红楼重启 034】：没有任命书，怎么拉动平级甚至比你牛的人",
+        "postUrl": "https://www.790427.xyz/post/red-chamber-restart-034-tanchun-leadership.html",
         "createdDate": "2026-01-16",
-        "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
+        "description": "没有任命书，怎么当领导，看探春如何通过愿景和规则，拉动大观园顶级团队搞成海棠诗社。"
       },
       "olderPost": {
         "postTitle": "【红楼重启 032】：为什么“能干”的人死得早？",
@@ -2885,18 +2832,6 @@
           "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
           "createdDate": "2025-12-25",
           "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
-        },
-        {
-          "postTitle": "👋 愿你莫白来：从这里开始",
-          "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-          "createdDate": "2025-12-21",
-          "description": "人到中年的产品与服务导航"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -2951,18 +2886,6 @@
           "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
           "createdDate": "2025-12-25",
           "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
-        },
-        {
-          "postTitle": "👋 愿你莫白来：从这里开始",
-          "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-          "createdDate": "2025-12-21",
-          "description": "人到中年的产品与服务导航"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -3017,18 +2940,6 @@
           "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
           "createdDate": "2025-12-25",
           "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
-        },
-        {
-          "postTitle": "👋 愿你莫白来：从这里开始",
-          "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-          "createdDate": "2025-12-21",
-          "description": "人到中年的产品与服务导航"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -4120,10 +4031,10 @@
         "description": "深度阐述重读红楼梦的现实意义 将其重新定义为豪门破产实录与乱世生存指南 剖析贾府财务危机与人际博弈对当代中产阶级的启示 开启80回生存锦囊连载计划"
       },
       "olderPost": {
-        "postTitle": "👋 愿你莫白来：从这里开始",
-        "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-        "createdDate": "2025-12-21",
-        "description": "人到中年的产品与服务导航"
+        "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
+        "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
+        "createdDate": "2025-12-18",
+        "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
       },
       "relatedPosts": [
         {
@@ -4149,71 +4060,6 @@
           "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
           "createdDate": "2025-12-18",
           "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
-        }
-      ]
-    },
-    "P160": {
-      "htmlDir": "docs/post/👋 -yuan-ni-mo-bai-lai-：-cong-zhe-li-kai-shi.html",
-      "labels": [
-        "产品服务"
-      ],
-      "postTitle": "👋 愿你莫白来：从这里开始",
-      "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/160",
-      "commentNum": 0,
-      "wordCount": 597,
-      "createdAt": 1766305267,
-      "top": 1,
-      "description": "人到中年的产品与服务导航",
-      "createdDate": "2025-12-21",
-      "isoDate": "2025-12-21T16:21:07+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:29:25+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/product-service.png",
-      "keywords": "人到中年, 中年人, 个人成长, 名著解析,红楼职场, 投资理财, 宏观经济分析,资产配置,懒人投资周报, 名著,财富人生,人生下半场, 探索笔记",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
-        "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
-        "createdDate": "2025-12-21",
-        "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
-      },
-      "olderPost": {
-        "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
-        "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
-        "createdDate": "2025-12-18",
-        "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
-          "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
-        },
-        {
-          "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-          "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-          "createdDate": "2025-12-25",
-          "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
-        },
-        {
-          "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
-          "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -4245,10 +4091,10 @@
       "daily_sentence": "",
       "password": "oldarticle",
       "newerPost": {
-        "postTitle": "👋 愿你莫白来：从这里开始",
-        "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
+        "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
+        "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
         "createdDate": "2025-12-21",
-        "description": "人到中年的产品与服务导航"
+        "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
       },
       "olderPost": {
         "postTitle": "你孩子的大学专业、择业路径正在被重新定义",
@@ -4388,12 +4234,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -4410,6 +4250,12 @@
           "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
           "createdDate": "2025-10-30",
           "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
+        },
+        {
+          "postTitle": "重阳节思考：父母与子女，最好的关系是什么？",
+          "postUrl": "https://www.790427.xyz/post/chongyang-parent-child-relationship-rethinking.html",
+          "createdDate": "2025-10-29",
+          "description": "重阳节深度思考，超越养儿防老的传统观念,探讨父母与子女之间最理想的关系——建立在平等、理解、尊重、自由基础上的双向奔赴，为夹在两代人之间的中年人提供平衡智慧与实践建议。"
         }
       ]
     },
@@ -4518,12 +4364,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -4540,6 +4380,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "重阳节思考：父母与子女，最好的关系是什么？",
+          "postUrl": "https://www.790427.xyz/post/chongyang-parent-child-relationship-rethinking.html",
+          "createdDate": "2025-10-29",
+          "description": "重阳节深度思考，超越养儿防老的传统观念,探讨父母与子女之间最理想的关系——建立在平等、理解、尊重、自由基础上的双向奔赴，为夹在两代人之间的中年人提供平衡智慧与实践建议。"
         }
       ]
     },
@@ -4583,12 +4429,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -4605,6 +4445,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -4778,12 +4624,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -4800,6 +4640,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -4843,12 +4689,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -4865,6 +4705,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5038,12 +4884,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5060,6 +4900,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5103,12 +4949,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5125,6 +4965,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5233,12 +5079,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5255,6 +5095,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5363,12 +5209,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5385,6 +5225,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5493,12 +5339,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5515,6 +5355,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5558,12 +5404,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5580,6 +5420,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5623,12 +5469,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5645,6 +5485,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -5818,12 +5664,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -5840,6 +5680,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6013,12 +5859,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6035,6 +5875,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6078,12 +5924,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6100,6 +5940,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6143,12 +5989,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6165,6 +6005,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6273,12 +6119,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6295,6 +6135,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6338,12 +6184,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6360,6 +6200,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6403,12 +6249,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6425,6 +6265,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6468,12 +6314,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6490,6 +6330,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6533,12 +6379,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6555,6 +6395,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6663,12 +6509,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6685,6 +6525,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6728,12 +6574,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6750,6 +6590,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6793,12 +6639,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -6815,6 +6655,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -6988,12 +6834,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7010,6 +6850,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7053,12 +6899,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7075,6 +6915,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7118,12 +6964,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7140,6 +6980,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7248,12 +7094,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7270,6 +7110,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7378,12 +7224,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7400,6 +7240,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7443,12 +7289,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7465,6 +7305,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7508,12 +7354,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7530,6 +7370,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7566,10 +7412,10 @@
         "description": "你是否陷入了健康信息焦虑，本文提供了一套名为个人健康仪表盘的系统性框架，帮助中年人从被动的信息接收者转变为主动的健康管理者，通过整合体检的基石数据，智能穿戴的日常监控数据和主观感受三大模块，将模糊的健康感受转化为可追踪的指标，从而精准高效地管理自己的下半生"
       },
       "olderPost": {
-        "postTitle": "数字过载正在“吞噬”你的大脑：中年人如何用“数字极简主义”夺回专注力？",
-        "postUrl": "https://www.790427.xyz/post/digital-minimalism-focus.html",
+        "postTitle": "AI工具介绍",
+        "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
         "createdDate": "2025-09-08",
-        "description": "你是否感觉大脑内存不够用，被无休止的数字噪音吞噬，本文深度剖析了中年人面临的数字过载危机，并提供了一套名为数字极简主义的系统性解决方案，通过定义高质量休闲，进行30天数字大扫除，并有选择地重新引入技术这三步实操法，帮助你摆脱信息焦虑，夺回宝贵的专注力与深度思考能力"
+        "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
       },
       "relatedPosts": [
         {
@@ -7595,6 +7441,59 @@
           "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
           "createdDate": "2025-08-18",
           "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
+        }
+      ]
+    },
+    "P81": {
+      "htmlDir": "docs/post/AI-gong-ju-jie-shao.html",
+      "labels": [
+        "AI教学"
+      ],
+      "postTitle": "AI工具介绍",
+      "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/81",
+      "commentNum": 0,
+      "wordCount": 19651,
+      "createdAt": 1757320676,
+      "top": 0,
+      "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。",
+      "createdDate": "2025-09-08",
+      "isoDate": "2025-09-08T16:37:56+08:00",
+      "updatedDate": "2026-07-16",
+      "updatedIsoDate": "2026-07-16T21:53:05+08:00",
+      "dateLabelColor": "#0969da",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/social-card.jpg",
+      "keywords": "",
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": {
+        "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
+        "postUrl": "https://www.790427.xyz/post/english-book-download.html",
+        "createdDate": "2025-09-09",
+        "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
+      },
+      "olderPost": {
+        "postTitle": "数字过载正在“吞噬”你的大脑：中年人如何用“数字极简主义”夺回专注力？",
+        "postUrl": "https://www.790427.xyz/post/digital-minimalism-focus.html",
+        "createdDate": "2025-09-08",
+        "description": "你是否感觉大脑内存不够用，被无休止的数字噪音吞噬，本文深度剖析了中年人面临的数字过载危机，并提供了一套名为数字极简主义的系统性解决方案，通过定义高质量休闲，进行30天数字大扫除，并有选择地重新引入技术这三步实操法，帮助你摆脱信息焦虑，夺回宝贵的专注力与深度思考能力"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
+        },
+        {
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -7638,12 +7537,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7660,6 +7553,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7833,12 +7732,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7855,6 +7748,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7898,12 +7797,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7920,6 +7813,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -7963,12 +7862,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -7985,6 +7878,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8015,10 +7914,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-        "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-        "createdDate": "2025-09-09",
-        "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
+        "postTitle": "AI工具介绍",
+        "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+        "createdDate": "2025-09-08",
+        "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
       },
       "olderPost": {
         "postTitle": "黄金，中年人最后的“财富保险”：如何科学配置黄金，穿越经济迷雾？",
@@ -8027,12 +7926,6 @@
         "description": "在黑天鹅频发的时代，中年投资者需重新审视黄金作为财富保险的战略价值，本文摒弃传统观念，剖析黄金作为避险资产、通胀对冲及稳定器这三大核心角色，并指出黄金ETF是最佳选择，同时提供5-10%黄金法则与再平衡纪律的科学配置方案，助您守护家庭财富。"
       },
       "relatedPosts": [
-        {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
         {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
@@ -8050,6 +7943,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8158,12 +8057,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8180,6 +8073,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8223,12 +8122,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8245,6 +8138,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8288,12 +8187,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8310,6 +8203,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8418,12 +8317,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8440,6 +8333,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8613,12 +8512,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8635,13 +8528,19 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
     "P63": {
       "htmlDir": "docs/post/debugging-log.html",
       "labels": [
-        "产品服务"
+        "AI教学"
       ],
       "postTitle": "网站调试与功能增强日志",
       "postUrl": "https://www.790427.xyz/post/debugging-log.html",
@@ -8649,12 +8548,12 @@
       "commentNum": 0,
       "wordCount": 1617,
       "createdAt": 1756026568,
-      "top": 1,
+      "top": 0,
       "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。",
       "createdDate": "2025-08-24",
       "isoDate": "2025-08-24T17:09:28+08:00",
-      "updatedDate": "2026-07-09",
-      "updatedIsoDate": "2026-07-09T18:38:09+08:00",
+      "updatedDate": "2026-07-16",
+      "updatedIsoDate": "2026-07-16T21:56:56+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -8678,28 +8577,16 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
-          "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-          "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-          "createdDate": "2025-12-25",
-          "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
-        },
-        {
-          "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
-          "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
-        },
-        {
-          "postTitle": "👋 愿你莫白来：从这里开始",
-          "postUrl": "https://www.790427.xyz/post/%F0%9F%91%8B%20-yuan-ni-mo-bai-lai-%EF%BC%9A-cong-zhe-li-kai-shi.html",
-          "createdDate": "2025-12-21",
-          "description": "人到中年的产品与服务导航"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         }
       ]
     },
@@ -8808,12 +8695,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8830,6 +8711,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -8873,12 +8760,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -8895,6 +8776,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -9128,12 +9015,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -9150,6 +9031,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -9323,12 +9210,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -9345,6 +9226,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -9518,12 +9405,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -9540,6 +9421,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -9973,12 +9860,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -9995,6 +9876,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -10103,12 +9990,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -10125,6 +10006,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -10168,12 +10055,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -10190,6 +10071,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -10558,12 +10445,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -10580,6 +10461,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -10883,12 +10770,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -10905,6 +10786,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -11143,12 +11030,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -11165,6 +11046,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -11598,12 +11485,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -11620,6 +11501,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -11923,12 +11810,6 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【救赎的海市蜃楼 10】：严父的背影与捕食者的獠牙",
-          "postUrl": "https://www.790427.xyz/post/redemption-of-mirage-10-father-predator.html",
-          "createdDate": "2026-01-16",
-          "description": "当牧羊人变成捕食者，我们该如何自处，深度解析东亚巨婴情结的崩塌与精神上的弑父救赎。"
-        },
-        {
           "postTitle": "中年维修手册：男人的“洞穴”",
           "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
           "createdDate": "2026-01-11",
@@ -11945,6 +11826,12 @@
           "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
           "createdDate": "2025-11-01",
           "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
         }
       ]
     },
@@ -12015,33 +11902,6 @@
     }
   },
   "singeListJson": {
-    "P81": {
-      "htmlDir": "docs/tools-link.html",
-      "labels": [
-        "tools-link"
-      ],
-      "postTitle": "AI工具介绍",
-      "postUrl": "https://www.790427.xyz/tools-link.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/81",
-      "commentNum": 0,
-      "wordCount": 19651,
-      "createdAt": 1757320676,
-      "top": 0,
-      "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。",
-      "createdDate": "2025-09-08",
-      "isoDate": "2025-09-08T16:37:56+08:00",
-      "updatedDate": "2025-09-22",
-      "updatedIsoDate": "2025-09-22T17:42:11+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/social-card.jpg",
-      "keywords": "",
-      "quote": "",
-      "daily_sentence": "",
-      "password": ""
-    },
     "P40": {
       "htmlDir": "docs/link.html",
       "labels": [
