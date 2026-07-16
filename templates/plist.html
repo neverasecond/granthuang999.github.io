@@ -31,10 +31,6 @@
 
 {% block style %}
 <style>
-.site-brand{padding-right:18px;border-right:1px solid #d8cec0;}
-.header-statement{display:block;flex:1 1 0;width:auto;min-width:0;max-width:520px;height:auto;}
-[data-color-mode="dark"] .header-statement{filter:invert(1) hue-rotate(180deg);}
-[data-color-mode="dark"] .site-brand{border-right-color:#444c56;}
 .header-main-content{display:none;}
 
 .SideNav{min-width: 360px;}
@@ -54,9 +50,6 @@
 
 @media (max-width: 600px) {
     body {padding: 8px;}
-    .site-brand-row{flex-wrap:wrap;}
-    .site-brand{padding-right:0;border-right:0;}
-    .header-statement{flex-basis:100%;width:100%;max-width:none;}
     #buttonRSS{display:none;}
     .LabelTime{display:none;}
     .home-tracks{grid-template-columns:1fr;}
@@ -67,10 +60,6 @@
 
 {% block site_title %}
 <h1 class="site-title"><a href="{{ blogBase['homeUrl'] }}">{{ blogBase['displayTitle'] }}</a></h1>
-{% endblock %}
-
-{% block brand_extra %}
-<img class="header-statement" src="{{ blogBase['homeUrl'] }}/images/home-statement-20260716.svg" alt="{{ blogBase['subTitle'] }}">
 {% endblock %}
 
 {% block content %}
