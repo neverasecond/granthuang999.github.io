@@ -133,6 +133,51 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     fill: currentColor;
 }
 
+.site-brand-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    gap: 18px;
+}
+
+.site-brand {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 12px;
+    min-width: 0;
+}
+
+.site-brand-logo {
+    display: block;
+    width: 58px;
+    height: 58px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+}
+
+.site-brand-logo:hover {
+    transform: scale(1.06);
+}
+
+.site-title {
+    margin: 0;
+    color: var(--color-fg-default, #24292f);
+    font-family: Monaco, "Songti SC", STSong, serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.15;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.site-title a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
 .header-main-content {
     display: flex;
     justify-content: space-between;
@@ -174,19 +219,35 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     background-color: var(--color-accent-subtle, #ddf4ff);
     color: var(--color-accent-fg, #0969da) !important;
 }
+
+@media (max-width: 600px) {
+    .page-header {
+        padding: 1rem;
+    }
+
+    .site-brand-row {
+        gap: 10px;
+    }
+
+    .site-brand {
+        gap: 7px;
+    }
+
+    .site-brand-logo {
+        width: 38px;
+        height: 38px;
+    }
+
+    .site-title {
+        font-size: 24px;
+    }
+}
 </style>
 
 <style>
-.avatar {transition: 0.8s;width:64px;height:64px;object-fit: cover;}
-.avatar:hover{transform: scale(1.15) rotate(360deg);}
-.title-left{display:flex;align-items:center;gap:12px;min-width:0;}
-.site-heading{display:flex;flex-direction:column;align-items:flex-start;gap:7px;min-width:0;}
-.title-left a{color:inherit;text-decoration:none;vertical-align: middle;font-size:40px;font-weight: bold;font-family:Monaco;}
-.header-statement{display:block;width:min(100%,470px);height:auto;}
+.header-statement{display:block;flex:1 1 0;width:auto;min-width:0;max-width:520px;height:auto;}
 [data-color-mode="dark"] .header-statement{filter:invert(1) hue-rotate(180deg);}
-.title-right{display:flex; margin-left:auto; align-items:center;vertical-align: bottom;}
-.title-right button{margin-right:8px;padding:16px;}
-.title-right .circle{padding: 14px 8px;}
+.header-main-content{display:none;}
 
 .SideNav{min-width: 360px;}
 .SideNav-icon{margin-right: 16px}
@@ -199,18 +260,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 .home-track{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:16px;text-decoration:none;background:var(--color-canvas-default);}
 .home-track strong{display:block;font-size:16px;margin-bottom:8px;color:var(--color-fg-default);}
 .home-track span{display:block;font-size:14px;line-height:1.6;color:var(--color-fg-muted);}
-.home-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:0 0 28px;}
-.home-actions a{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;}
+.home-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;margin:0 0 28px;}
+.home-actions a,.home-actions button{display:inline-flex;align-items:center;justify-content:center;min-height:40px;border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:9px 13px;text-decoration:none;font-weight:600;background:var(--color-canvas-default);color:var(--color-fg-default);cursor:pointer;}
+.home-actions .home-action-icon{width:40px;padding:9px;}
 
 @media (max-width: 600px) {
     body {padding: 8px;}
-    .avatar {width:40px;height:40px;}
-    .title-left{align-items:center;gap:8px;}
-    .site-heading{gap:5px;}
-    .blogTitle a{font-size:28px!important;}
-    .header-statement{width:min(100%,330px);}
-    .header-main-content{flex-wrap:wrap;gap:8px;}
-    .title-right{width:100%;justify-content:flex-end;}
+    .header-statement{max-width:none;}
     #buttonRSS{display:none;}
     .LabelTime{display:none;}
     .home-tracks{grid-template-columns:1fr;}
@@ -233,45 +289,22 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
             <a href="https://www.790427.xyz/tag.html">搜索</a>
         </nav>
 
+        <div class="site-brand-row">
+            <div class="site-brand">
+                <a href="https://www.790427.xyz" aria-label="人到中年首页">
+                    <img src="/images/site-logo.svg" class="site-brand-logo" alt="人到中年网站 Logo">
+                </a>
+                
+<h1 class="site-title"><a href="https://www.790427.xyz">人到中年</a></h1>
+
+            </div>
+            
+<img class="header-statement" src="https://www.790427.xyz/images/home-statement.svg" alt="可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！">
+
+        </div>
+
         <div class="header-main-content">
             
-<div class="title-left">
-    <img src="/images/site-logo.svg" class="avatar circle" id="avatarImg" alt="avatar">
-    <div class="site-heading">
-    <h1 class="blogTitle" style="font-size: 40px !important; font-weight: bold; margin: 0; display: inline;">
-        <a href="https://www.790427.xyz" style="color: inherit; text-decoration: none; font-size: 40px !important;">人到中年</a>
-    </h1>
-    <img class="header-statement" src="https://www.790427.xyz/images/home-statement.svg" alt="可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！"></div>
-</div>
-<div class="title-right">
-    <a href="https://www.790427.xyz/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
-        <svg class="octicon" width="16" height="16" >
-            <path id="pathSearch" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-    
-    <a href="https://www.790427.xyz/link.html" class="btn btn-invisible circle" title="导航链接">
-        <svg class="octicon" width="16" height="16" >
-            <path id="导航链接" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-    <a href="https://www.790427.xyz/about.html" class="btn btn-invisible circle" title="关于本站&我/About us">
-        <svg class="octicon" width="16" height="16" >
-            <path id="关于本站&我/About us" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-    <a href="https://www.790427.xyz/rss.xml" target="_blank" id="buttonRSS" class="btn btn-invisible circle" title="RSS">
-        <svg class="octicon" width="16" height="16" >
-            <path id="pathRSS" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-    <a class="btn btn-invisible circle" onclick="modeSwitch()" title="切换主题">
-        <svg class="octicon" width="16" height="16" >
-            <path id="themeSwitch" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-</div>
-
         </div>
     </header>
     
@@ -296,6 +329,22 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         <a href="https://www.790427.xyz/start.html">从这里开始</a>
         <a href="https://www.790427.xyz/subscribe.html">邮件订阅</a>
         <a href="https://x.com/wiselyfreely" target="_blank" rel="noopener">关注 莫白来</a>
+        <a href="https://www.790427.xyz/tag.html" id="buttonSearch" class="home-action-icon" title="搜索" aria-label="搜索">
+            <svg class="octicon" width="16" height="16"><path id="pathSearch" fill-rule="evenodd"></path></svg>
+        </a>
+        
+        <a href="https://www.790427.xyz/link.html" class="home-action-icon" title="导航链接" aria-label="导航链接">
+            <svg class="octicon" width="16" height="16"><path id="导航链接" fill-rule="evenodd"></path></svg>
+        </a>
+        <a href="https://www.790427.xyz/about.html" class="home-action-icon" title="关于本站&我/About us" aria-label="关于本站&我/About us">
+            <svg class="octicon" width="16" height="16"><path id="关于本站&我/About us" fill-rule="evenodd"></path></svg>
+        </a>
+        <a href="https://www.790427.xyz/rss.xml" target="_blank" id="buttonRSS" class="home-action-icon" title="RSS" aria-label="RSS">
+            <svg class="octicon" width="16" height="16"><path id="pathRSS" fill-rule="evenodd"></path></svg>
+        </a>
+        <button type="button" class="home-action-icon" onclick="modeSwitch()" title="切换主题" aria-label="切换主题">
+            <svg class="octicon" width="16" height="16"><path id="themeSwitch" fill-rule="evenodd"></path></svg>
+        </button>
     </div>
 </section>
 

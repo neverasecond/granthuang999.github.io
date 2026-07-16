@@ -114,6 +114,51 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     fill: currentColor;
 }
 
+.site-brand-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    gap: 18px;
+}
+
+.site-brand {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 12px;
+    min-width: 0;
+}
+
+.site-brand-logo {
+    display: block;
+    width: 58px;
+    height: 58px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 0.5s ease;
+}
+
+.site-brand-logo:hover {
+    transform: scale(1.06);
+}
+
+.site-title {
+    margin: 0;
+    color: var(--color-fg-default, #24292f);
+    font-family: Monaco, "Songti SC", STSong, serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.15;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.site-title a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
 .header-main-content {
     display: flex;
     justify-content: space-between;
@@ -155,6 +200,29 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     background-color: var(--color-accent-subtle, #ddf4ff);
     color: var(--color-accent-fg, #0969da) !important;
 }
+
+@media (max-width: 600px) {
+    .page-header {
+        padding: 1rem;
+    }
+
+    .site-brand-row {
+        gap: 10px;
+    }
+
+    .site-brand {
+        gap: 7px;
+    }
+
+    .site-brand-logo {
+        width: 38px;
+        height: 38px;
+    }
+
+    .site-title {
+        font-size: 24px;
+    }
+}
 </style>
 
 <style>
@@ -182,6 +250,18 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
             <a href="https://www.790427.xyz/about.html">关于</a>
             <a href="https://www.790427.xyz/tag.html">搜索</a>
         </nav>
+
+        <div class="site-brand-row">
+            <div class="site-brand">
+                <a href="https://www.790427.xyz" aria-label="人到中年首页">
+                    <img src="/images/site-logo.svg" class="site-brand-logo" alt="人到中年网站 Logo">
+                </a>
+                
+                <a class="site-title" href="https://www.790427.xyz">人到中年</a>
+                
+            </div>
+            
+        </div>
 
         <div class="header-main-content">
             
