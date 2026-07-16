@@ -84,16 +84,17 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 .page-header {
     position: relative;
-    background: var(--color-canvas-subtle, #f6f8fa);
-    padding: 1.2rem 1.4rem;
-    border-radius: 6px;
+    background: transparent;
+    padding: 0 0 1.4rem;
+    border-radius: 0;
     margin-bottom: 2rem;
     color: var(--color-fg-default, #24292f);
     overflow: hidden;
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
-    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border: 0;
+    border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
 }
 
 .page-header > * {
@@ -114,22 +115,27 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     width: 100%;
     min-width: 0;
     gap: 18px;
+    box-sizing: border-box;
+    padding: 14px 16px;
+    background: #fffaf0;
+    border: 1px solid #ded4c7;
+    border-radius: 6px;
 }
 
 .site-brand {
     display: flex;
     align-items: center;
     flex: 0 0 auto;
-    gap: 12px;
+    gap: 14px;
     min-width: 0;
 }
 
 .site-brand-logo {
     display: block;
-    width: 58px;
-    height: 58px;
+    width: 72px;
+    height: 72px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 14px;
     transition: transform 0.5s ease;
 }
 
@@ -139,8 +145,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 .site-title {
     margin: 0;
-    color: var(--color-fg-default, #24292f);
-    font-family: Monaco, "Songti SC", STSong, serif;
+    color: #151515;
+    font-family: "Songti SC", STSong, "Noto Serif CJK SC", serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.15;
@@ -151,6 +157,20 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 .site-title a {
     color: inherit !important;
     text-decoration: none;
+}
+
+.page-header a.site-title {
+    color: #151515 !important;
+}
+
+[data-color-mode="dark"] .site-brand-row {
+    background: #1c2128;
+    border-color: #444c56;
+}
+
+[data-color-mode="dark"] .site-title,
+[data-color-mode="dark"] .page-header a.site-title {
+    color: #f0f3f6;
 }
 
 .header-main-content {
@@ -197,11 +217,12 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 @media (max-width: 600px) {
     .page-header {
-        padding: 1rem;
+        padding-bottom: 1rem;
     }
 
     .site-brand-row {
         gap: 10px;
+        padding: 12px;
     }
 
     .site-brand {
@@ -209,8 +230,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     }
 
     .site-brand-logo {
-        width: 38px;
-        height: 38px;
+        width: 44px;
+        height: 44px;
+        border-radius: 10px;
     }
 
     .site-title {
