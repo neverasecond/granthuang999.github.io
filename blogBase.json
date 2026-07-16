@@ -62,6 +62,42 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "postListJson": {
+    "P272": {
+      "htmlDir": "docs/post/restart-life-with-iphone-and-ai.html",
+      "labels": [
+        "AI教学",
+        "iPhone技巧"
+      ],
+      "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+      "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/272",
+      "commentNum": 0,
+      "wordCount": 4184,
+      "createdAt": 1784197228,
+      "top": 0,
+      "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。",
+      "createdDate": "2026-07-16",
+      "isoDate": "2026-07-16T18:20:28+08:00",
+      "updatedDate": "2026-07-16",
+      "updatedIsoDate": "2026-07-16T18:20:28+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/restart-with-iphone-ai-2026.jpg",
+      "keywords": "人到中年,莫白来,iPhone,AI教学,ChatGPT,个人网站,数字生活,网站重启",
+      "quote": "世界不会变得更好，但你可以。",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
+        "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
+        "createdDate": "2026-02-04",
+        "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+      },
+      "relatedPosts": []
+    },
     "P248": {
       "htmlDir": "docs/post/three-kingdoms-003-jiaxu-conscience.html",
       "labels": [
@@ -89,7 +125,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+        "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+        "createdDate": "2026-07-16",
+        "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
+      },
       "olderPost": {
         "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
         "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
@@ -15254,7 +15295,9 @@
   },
   "labelColorDict": {
     "about": "#aaaaaa",
+    "AI教学": "#aaaaaa",
     "disclaimer": "#aaaaaa",
+    "iPhone技巧": "#aaaaaa",
     "link": "#2f3c4c",
     "privacy-policy": "#aaaaaa",
     "terms-of-service": "#aaaaaa",
