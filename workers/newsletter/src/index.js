@@ -324,7 +324,7 @@ function confirmEmailHtml(env, email, confirmToken, unsubscribeToken) {
     <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.7;color:#24292f">
       <h2>确认订阅《${siteName}》</h2>
       <p>你好，${safeEmail}：</p>
-      <p>请点击下面的链接确认订阅。确认后，你会收到白来关于职场、投资、读书与修行的新文章提醒。</p>
+      <p>请点击下面的链接确认订阅。确认后，你会收到莫白来关于职场、投资、读书与修行的新文章提醒。</p>
       <p><a href="${escapeHtml(confirmUrl)}" style="display:inline-block;background:#0969da;color:#fff;padding:10px 14px;border-radius:6px;text-decoration:none">确认订阅</a></p>
       <p style="font-size:13px;color:#57606a">如果不是你本人操作，可以忽略这封邮件，或点击 <a href="${escapeHtml(unsubscribeUrl)}">退订</a>。</p>
     </div>

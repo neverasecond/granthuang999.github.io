@@ -98,7 +98,7 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":""}
+        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":""}
 
         self.blogBase={**dconfig,**config}
         self.blogBase["postListJson"]={}
@@ -730,7 +730,7 @@ if __name__ == '__main__':
             f"### :speech_balloon: {commentNumSum} \r\n"
             f"### :hibiscus: {wordCount} \r\n"
             f"### :alarm_clock: {datetime.datetime.now(blog.TZ).strftime('%Y-%m-%d %H:%M:%S')} \r\n"
-            f"### Powered by :heart: [白来]({blog.blogBase['homeUrl']})\r\n"
+            f"### Powered by :heart: [莫白来]({blog.blogBase['homeUrl']})\r\n"
         )
         with open(os.path.join(workspace_path, "README.md"), "w", encoding='utf-8') as f:
             f.write(readme)

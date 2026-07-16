@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<meta name="description" content="订阅人到中年，收到白来关于人生、读书、投资与 iPhone/AI 教学的新文章。">
+<meta name="description" content="订阅人到中年，收到莫白来关于人生、读书、投资与 iPhone/AI 教学的新文章。">
 <meta property="og:title" content="邮件订阅 - {{ blogBase['title'] }}">
 <meta property="og:description" content="少一点噪音，多一点能留下来的判断。">
 <meta property="og:type" content="website">
@@ -16,7 +16,7 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": {{ ("邮件订阅 - " ~ blogBase.title)|tojson }},
-    "description": "订阅白来关于人生、读书、投资与 iPhone/AI 教学的新文章。",
+    "description": "订阅莫白来关于人生、读书、投资与 iPhone/AI 教学的新文章。",
     "url": {{ (blogBase.homeUrl ~ "/subscribe.html")|tojson }},
     "inLanguage": "zh-CN",
     "isPartOf": {
@@ -71,7 +71,7 @@
 
 {% block content %}
 <main class="subscribe-wrap">
-    <p class="subscribe-lead">少一点噪音，多一点能留下来的判断。这里会更新白来关于人生、读书、投资与 iPhone/AI 教学的长文与阶段性札记。</p>
+    <p class="subscribe-lead">少一点噪音，多一点能留下来的判断。这里会更新莫白来关于人生、读书、投资与 iPhone/AI 教学的长文与阶段性札记。</p>
     <section class="subscribe-panel">
         <h2>收到新文章提醒</h2>
         <p>留下邮箱后会收到一封确认邮件。确认后，只发送新文章和阶段性札记，每封邮件都会带退订入口。</p>
