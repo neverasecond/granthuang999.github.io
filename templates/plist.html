@@ -47,9 +47,7 @@
 .listTitle{overflow:hidden;white-space:nowrap;text-overflow: ellipsis;max-width: 100%;}
 .listLabels{white-space:nowrap;display:flex;}
 .listLabels object{max-height:16px;max-width:24px;}
-.home-belief{max-width:680px;margin:0 auto 24px;text-align:center;color:var(--color-fg-muted);}
-.home-belief p{margin:0 0 10px;font-size:18px;line-height:1.7;}
-.home-belief p:first-child,.home-belief p:last-child{color:var(--color-fg-default);font-weight:700;}
+.home-statement{display:block;width:min(100%,760px);height:auto;margin:0 auto 24px;border-radius:8px;}
 .home-tracks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0 0 24px;}
 .home-track{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:16px;text-decoration:none;background:var(--color-canvas-default);}
 .home-track strong{display:block;font-size:16px;margin-bottom:8px;color:var(--color-fg-default);}
@@ -66,7 +64,7 @@
     #buttonRSS{display:none;}
     .LabelTime{display:none;}
     .home-tracks{grid-template-columns:1fr;}
-    .home-belief p{font-size:16px;}
+    .home-statement{margin-bottom:18px;}
 }
 </style>
 {{ blogBase['indexStyle'] }}
@@ -123,12 +121,7 @@
 {% block content %}
 
 <section class="home-intro" aria-labelledby="home-intro-title">
-    <div class="home-belief" id="home-intro-title">
-        <p>可以对别人失望，但自己不能绝望。</p>
-        <p>写写读书与人生、投资复盘、iPhone/AI 教学。</p>
-        <p>世界不会变得更好，但你可以。</p>
-        <p>愿你莫白来，与君共勉！</p>
-    </div>
+    <img class="home-statement" id="home-intro-title" src="{{ blogBase['homeUrl'] }}/images/home-statement.svg" alt="这里记录莫白来的读书与人生感悟、投资研判与实操复盘，也写给中老年人的 iPhone 和 AI 操作教学。">
     <div class="home-tracks">
         <a class="home-track" href="{{ blogBase['homeUrl'] }}/xiu-xing.html">
             <strong>人生与读书</strong>
