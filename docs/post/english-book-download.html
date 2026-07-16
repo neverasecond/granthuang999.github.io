@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/post/english-book-download.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -22,11 +22,11 @@
 <meta property="og:description" content="为英语学习爱好者提供一份英语学习指南和相应的免费资源">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.790427.xyz/post/english-book-download.html">
-<meta property="og:image" content="https://www.790427.xyz/images/big.png">
+<meta property="og:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="经济学人、纽约客等英语外刊杂志下载及说明">
 <meta name="twitter:description" content="为英语学习爱好者提供一份英语学习指南和相应的免费资源">
-<meta name="twitter:image" content="https://www.790427.xyz/images/big.png">
+<meta name="twitter:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>经济学人、纽约客等英语外刊杂志下载及说明</title>
 
@@ -38,7 +38,7 @@
     "headline": "\u7ecf\u6d4e\u5b66\u4eba\u3001\u7ebd\u7ea6\u5ba2\u7b49\u82f1\u8bed\u5916\u520a\u6742\u5fd7\u4e0b\u8f7d\u53ca\u8bf4\u660e",
     "description": "\u4e3a\u82f1\u8bed\u5b66\u4e60\u7231\u597d\u8005\u63d0\u4f9b\u4e00\u4efd\u82f1\u8bed\u5b66\u4e60\u6307\u5357\u548c\u76f8\u5e94\u7684\u514d\u8d39\u8d44\u6e90",
     "image": [
-        "https://www.790427.xyz/images/big.png"
+        "https://www.790427.xyz/images/social-card.jpg"
     ],
     "datePublished": "2025-09-09T08:28:26+08:00",
     "dateModified": "2026-07-09T21:38:15+08:00",
@@ -63,7 +63,7 @@
         "url": "https://www.790427.xyz",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.790427.xyz/images/bb.png"
+            "url": "https://www.790427.xyz/images/logo.png"
         }
     }
 }
@@ -409,7 +409,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     
     <div id="content">
 <div style="text-align: center; margin-bottom: 24px;">
-    <img src="https://www.790427.xyz/images/big.png" style="max-width: 100%; border-radius: 6px;" alt="经济学人、纽约客等英语外刊杂志下载及说明" loading="eager" decoding="async">
+    <img src="https://www.790427.xyz/images/social-card.jpg" style="max-width: 100%; border-radius: 6px;" alt="经济学人、纽约客等英语外刊杂志下载及说明" loading="eager" decoding="async">
 </div>
 
 <div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
@@ -801,7 +801,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
     if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
     if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
-    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/big.png`; }
+    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/social-card.jpg`; }
     if (shareTelegram) { shareTelegram.href = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; }
 });
 
@@ -826,7 +826,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }

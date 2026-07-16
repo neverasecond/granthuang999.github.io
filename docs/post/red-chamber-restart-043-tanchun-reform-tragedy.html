@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/post/red-chamber-restart-043-tanchun-reform-tragedy.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -63,7 +63,7 @@
         "url": "https://www.790427.xyz",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.790427.xyz/images/bb.png"
+            "url": "https://www.790427.xyz/images/logo.png"
         }
     }
 }
@@ -830,7 +830,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }

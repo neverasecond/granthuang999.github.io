@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://www.790427.xyz/images/bb.png</url>
+      <url>https://www.790427.xyz/images/logo.png</url>
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Thu, 16 Jul 2026 06:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:02:06 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -21,7 +21,7 @@
       <link>https://www.790427.xyz/english-study/index.html</link>
       <description>英语学习指南，专注中年人英语学习，雅思，托福，英语口语，英文写作，英语考试，英语自学，留学，移民英语的学习</description>
       <guid isPermaLink="true">https://www.790427.xyz/english-study/index.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Sep 2025 01:05:46 +0000</pubDate>
     </item>
     <item>
@@ -77,7 +77,7 @@
       <link>https://www.790427.xyz/post/tianya-articles.html</link>
       <description>当年在天涯论坛上有很多帖子真的是神话般的存在，引起了广泛的关注和讨论。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/tianya-articles.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 14:15:00 +0000</pubDate>
     </item>
     <item>
@@ -496,7 +496,7 @@
 &lt;/div&gt;
 &lt;/div&gt;。</description>
       <guid isPermaLink="true">https://www.790427.xyz/link.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 24 Aug 2025 02:03:10 +0000</pubDate>
     </item>
     <item>
@@ -506,7 +506,7 @@
 
 这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/debugging-log.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 24 Aug 2025 09:09:28 +0000</pubDate>
     </item>
     <item>
@@ -653,7 +653,7 @@
 
 在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。</description>
       <guid isPermaLink="true">https://www.790427.xyz/tools-link.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 08:37:56 +0000</pubDate>
     </item>
     <item>
@@ -661,7 +661,7 @@
       <link>https://www.790427.xyz/post/english-book-download.html</link>
       <description>为英语学习爱好者提供一份英语学习指南和相应的免费资源</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/english-book-download.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 00:28:26 +0000</pubDate>
     </item>
     <item>
@@ -693,7 +693,7 @@
       <link>https://www.790427.xyz/post/weread-shelf-sync.html</link>
       <description>通过https://github.com/sailor0913/weread-to-notion得到启发把微信读书的状态同步到github issues，然后渲染生成本页面，因为原来的api已经修改了权限，导致现在无法获取读书划线和评论，只能获取书籍的基本信息和读书状态，也欢迎大家在本页面下留言讨论，谢谢</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/weread-shelf-sync.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 03:15:39 +0000</pubDate>
     </item>
     <item>
@@ -717,7 +717,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20250913.html</link>
       <description>2025年9月13日每日资讯，包含国际国内要闻、AI与科技前沿、全球金融市场动态以及实用开源工具介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20250913.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 17:05:46 +0000</pubDate>
     </item>
     <item>
@@ -733,7 +733,7 @@
       <link>https://www.790427.xyz/post/daily-news-20250914.html</link>
       <description>2025年9月14日每日资讯，包含国际国内热点、AI领域前沿应用、全球金融动态、热门网络平台趋势以及实用开源工具介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/daily-news-20250914.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 14 Sep 2025 03:51:29 +0000</pubDate>
     </item>
     <item>
@@ -749,7 +749,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20250915.html</link>
       <description>2025年9月15日每日资讯，内容涵盖国际国内热点、AI应用落地、全球市场动态及实用开源翻译工具介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20250915.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 00:49:11 +0000</pubDate>
     </item>
     <item>
@@ -845,7 +845,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20250923.html</link>
       <description>每日精选国际国内热点、AI前沿动态、金融市场简报和实用开源工具，人到中年为您提供最新资讯。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20250923.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 06:47:40 +0000</pubDate>
     </item>
     <item>
@@ -853,7 +853,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20250924.html</link>
       <description>2025年9月24日每日资讯，内容涵盖联合国大会、欧洲罢工潮、AI新模型、全球市场最新数据及JavaScript新工具Bun介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20250924.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 01:05:50 +0000</pubDate>
     </item>
     <item>
@@ -869,7 +869,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20250925.html</link>
       <description>2025年9月25日《每日资讯》，深入解读国际国内最新热点、AI前沿技术具身智能与多模态模型、全球金融市场动态以及实用开源工具，助您把握时代脉搏。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20250925.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 00:14:03 +0000</pubDate>
     </item>
     <item>
@@ -885,7 +885,7 @@
       <link>https://www.790427.xyz/post/future--media-daily-20250926.html</link>
       <description>2025年9月26日每日资讯：聚焦全球AI监管新动态、中美互联网巨头财报展望、OpenAI最新模型发布以及实用的开源项目管理工具推荐。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future--media-daily-20250926.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 00:32:48 +0000</pubDate>
     </item>
     <item>
@@ -909,7 +909,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20250928.html</link>
       <description>2025年9月28日每日资讯，涵盖巴以冲突最新动态、美国TikTok政策、中国区域创新与5G发展、AI全球治理进展、具身智能应用前景以及开源工具Obsidian介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20250928.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 28 Sep 2025 00:11:44 +0000</pubDate>
     </item>
     <item>
@@ -925,7 +925,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20250929.html</link>
       <description>每日资讯：聚焦最新国际国内爆炸性要闻、AI具身智能进展、全球金融市场简报，并介绍高实用性开源工具Rye。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20250929.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 01:24:27 +0000</pubDate>
     </item>
     <item>
@@ -949,7 +949,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20250930.html</link>
       <description>2025年9月30日每日资讯，涵盖国际国内时事热点、AI领域最新进展、全球金融市场简报及实用开源工具介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20250930.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 00:33:49 +0000</pubDate>
     </item>
     <item>
@@ -965,7 +965,7 @@
       <link>https://www.790427.xyz/post/futurmedia-daily-news-20251001.html</link>
       <description>2025年10月1日每日资讯：聚焦美国政府关门危机、AI领域的机器人和可穿戴设备等杀手级应用前景，以及值得关注的开源设计工具Penpot。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/futurmedia-daily-news-20251001.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 00:30:55 +0000</pubDate>
     </item>
     <item>
@@ -981,7 +981,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20251002.html</link>
       <description>2025年10月2日每日资讯：聚焦AI多模态模型新突破、个性化AI健康助手应用前景、全球金融市场简报及实用开源文件管理工具。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20251002.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 01:49:01 +0000</pubDate>
     </item>
     <item>
@@ -997,7 +997,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20251003.html</link>
       <description>2025年10月3日每日资讯：聚焦AI代理与多模态模型前沿，国际国内热点与全球金融市场简报，并推荐实用开源工具。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20251003.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 00:01:32 +0000</pubDate>
     </item>
     <item>
@@ -1013,7 +1013,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-news-20251004.html</link>
       <description>2025年10月4日每日资讯：聚焦AI驱动的个性化教育应用、台风麦德姆影响以及知识管理工具Obsidian的介绍。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-news-20251004.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 04 Oct 2025 00:28:27 +0000</pubDate>
     </item>
     <item>
@@ -1029,7 +1029,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20251005.html</link>
       <description>涵盖国际国内热点、AI最新动态与应用、全球金融简报、互联网热门资讯及实用开源工具推荐。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20251005.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 05 Oct 2025 01:44:39 +0000</pubDate>
     </item>
     <item>
@@ -1053,7 +1053,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20251006.html</link>
       <description>涵盖国际国内热点、AI最新动态与应用、全球金融简报、互联网热门资讯及实用开源工具推荐。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20251006.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 04:59:45 +0000</pubDate>
     </item>
     <item>
@@ -1061,7 +1061,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20251007.html</link>
       <description>深度解读全球及中国最新热点，中东和谈进展、AI前沿突破、金融市场动态及互联网实用工具推荐。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20251007.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 01:41:44 +0000</pubDate>
     </item>
     <item>
@@ -1085,7 +1085,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20251009.html</link>
       <description>聚焦国际热点、国内要闻、AI产业新动向、全球金融和科技市场行情，每日更新。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20251009.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 00:50:27 +0000</pubDate>
     </item>
     <item>
@@ -1101,7 +1101,7 @@
       <link>https://www.790427.xyz/post/historical-faultline-silent-roar.html</link>
       <description>本文分析当代全球体系的潜在断裂，从黄金价格、AI投资、能源结构和军费增加等数据中揭示秩序重组的迹象，指出历史的剧变正以无声的方式进行。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/historical-faultline-silent-roar.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 23:52:06 +0000</pubDate>
     </item>
     <item>
@@ -1117,7 +1117,7 @@
       <link>https://www.790427.xyz/post/future-media-daily-20251011.html</link>
       <description>涵盖国际与中美贸易最新博弈、中国政策动态、AI前沿突破、全球市场简报及互联网工具推荐。</description>
       <guid isPermaLink="true">https://www.790427.xyz/post/future-media-daily-20251011.html</guid>
-      <enclosure url="https://www.790427.xyz/images/big.png" length="0" type="image/png"/>
+      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 11 Oct 2025 03:02:59 +0000</pubDate>
     </item>
     <item>

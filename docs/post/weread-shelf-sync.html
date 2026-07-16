@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/post/weread-shelf-sync.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -22,11 +22,11 @@
 <meta property="og:description" content="通过https://github.com/sailor0913/weread-to-notion得到启发把微信读书的状态同步到github issues，然后渲染生成本页面，因为原来的api已经修改了权限，导致现在无法获取读书划线和评论，只能获取书籍的基本信息和读书状态，也欢迎大家在本页面下留言讨论，谢谢">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.790427.xyz/post/weread-shelf-sync.html">
-<meta property="og:image" content="https://www.790427.xyz/images/big.png">
+<meta property="og:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="我的微信读书书架 / My WeRead Bookshelf">
 <meta name="twitter:description" content="通过https://github.com/sailor0913/weread-to-notion得到启发把微信读书的状态同步到github issues，然后渲染生成本页面，因为原来的api已经修改了权限，导致现在无法获取读书划线和评论，只能获取书籍的基本信息和读书状态，也欢迎大家在本页面下留言讨论，谢谢">
-<meta name="twitter:image" content="https://www.790427.xyz/images/big.png">
+<meta name="twitter:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>我的微信读书书架 / My WeRead Bookshelf</title>
 
@@ -38,7 +38,7 @@
     "headline": "\u6211\u7684\u5fae\u4fe1\u8bfb\u4e66\u4e66\u67b6 / My WeRead Bookshelf",
     "description": "\u901a\u8fc7https://github.com/sailor0913/weread-to-notion\u5f97\u5230\u542f\u53d1\u628a\u5fae\u4fe1\u8bfb\u4e66\u7684\u72b6\u6001\u540c\u6b65\u5230github issues\uff0c\u7136\u540e\u6e32\u67d3\u751f\u6210\u672c\u9875\u9762\uff0c\u56e0\u4e3a\u539f\u6765\u7684api\u5df2\u7ecf\u4fee\u6539\u4e86\u6743\u9650\uff0c\u5bfc\u81f4\u73b0\u5728\u65e0\u6cd5\u83b7\u53d6\u8bfb\u4e66\u5212\u7ebf\u548c\u8bc4\u8bba\uff0c\u53ea\u80fd\u83b7\u53d6\u4e66\u7c4d\u7684\u57fa\u672c\u4fe1\u606f\u548c\u8bfb\u4e66\u72b6\u6001\uff0c\u4e5f\u6b22\u8fce\u5927\u5bb6\u5728\u672c\u9875\u9762\u4e0b\u7559\u8a00\u8ba8\u8bba\uff0c\u8c22\u8c22",
     "image": [
-        "https://www.790427.xyz/images/big.png"
+        "https://www.790427.xyz/images/social-card.jpg"
     ],
     "datePublished": "2025-09-11T11:15:39+08:00",
     "dateModified": "2026-07-09T21:38:00+08:00",
@@ -63,7 +63,7 @@
         "url": "https://www.790427.xyz",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.790427.xyz/images/bb.png"
+            "url": "https://www.790427.xyz/images/logo.png"
         }
     }
 }
@@ -409,7 +409,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     
     <div id="content">
 <div style="text-align: center; margin-bottom: 24px;">
-    <img src="https://www.790427.xyz/images/big.png" style="max-width: 100%; border-radius: 6px;" alt="我的微信读书书架 / My WeRead Bookshelf" loading="eager" decoding="async">
+    <img src="https://www.790427.xyz/images/social-card.jpg" style="max-width: 100%; border-radius: 6px;" alt="我的微信读书书架 / My WeRead Bookshelf" loading="eager" decoding="async">
 </div>
 
 <div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
@@ -1116,7 +1116,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
     if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
     if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
-    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/big.png`; }
+    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/social-card.jpg`; }
     if (shareTelegram) { shareTelegram.href = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; }
 });
 
@@ -1141,7 +1141,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }

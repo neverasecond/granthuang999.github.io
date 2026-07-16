@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/subscribe.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -21,7 +21,7 @@
 <meta property="og:description" content="少一点噪音，多一点能留下来的判断。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.790427.xyz/subscribe.html">
-<meta property="og:image" content="https://www.790427.xyz/images/big.png">
+<meta property="og:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>邮件订阅 - 人到中年</title>
@@ -373,7 +373,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }

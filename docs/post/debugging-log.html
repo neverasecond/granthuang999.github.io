@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/post/debugging-log.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -26,13 +26,13 @@
 这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.790427.xyz/post/debugging-log.html">
-<meta property="og:image" content="https://www.790427.xyz/images/big.png">
+<meta property="og:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="网站调试与功能增强日志">
 <meta name="twitter:description" content="## 我的网站调试与功能增强日志
 
 这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。">
-<meta name="twitter:image" content="https://www.790427.xyz/images/big.png">
+<meta name="twitter:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>网站调试与功能增强日志</title>
 
@@ -44,7 +44,7 @@
     "headline": "\u7f51\u7ad9\u8c03\u8bd5\u4e0e\u529f\u80fd\u589e\u5f3a\u65e5\u5fd7",
     "description": "## \u6211\u7684\u7f51\u7ad9\u8c03\u8bd5\u4e0e\u529f\u80fd\u589e\u5f3a\u65e5\u5fd7\n\n\u8fd9\u4efd\u6587\u6863\u8bb0\u5f55\u4e86\u6211\u5728\u6df1\u5ea6\u5b9a\u5236\u548c\u4f18\u5316\u6211\u7684\u4e2a\u4eba\u7f51\u7ad9 `www.790427.xyz` \u8fc7\u7a0b\u4e2d\u7684\u70b9\u70b9\u6ef4\u6ef4\u3002",
     "image": [
-        "https://www.790427.xyz/images/big.png"
+        "https://www.790427.xyz/images/social-card.jpg"
     ],
     "datePublished": "2025-08-24T17:09:28+08:00",
     "dateModified": "2026-07-09T18:38:09+08:00",
@@ -69,7 +69,7 @@
         "url": "https://www.790427.xyz",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.790427.xyz/images/bb.png"
+            "url": "https://www.790427.xyz/images/logo.png"
         }
     }
 }
@@ -415,7 +415,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     
     <div id="content">
 <div style="text-align: center; margin-bottom: 24px;">
-    <img src="https://www.790427.xyz/images/big.png" style="max-width: 100%; border-radius: 6px;" alt="网站调试与功能增强日志" loading="eager" decoding="async">
+    <img src="https://www.790427.xyz/images/social-card.jpg" style="max-width: 100%; border-radius: 6px;" alt="网站调试与功能增强日志" loading="eager" decoding="async">
 </div>
 
 <div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
@@ -803,7 +803,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
     if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
     if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
-    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/big.png`; }
+    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/social-card.jpg`; }
     if (shareTelegram) { shareTelegram.href = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; }
 });
 
@@ -828,7 +828,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }

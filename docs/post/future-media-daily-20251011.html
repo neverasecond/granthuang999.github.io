@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.790427.xyz/post/future-media-daily-20251011.html" />
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <script src='https://www.790427.xyz/plugins/GmeekVercount.js'></script>
-    <link rel="icon" href="/images/bb.png"><script>
+    <link rel="icon" href="/images/logo.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -22,11 +22,11 @@
 <meta property="og:description" content="涵盖国际与中美贸易最新博弈、中国政策动态、AI前沿突破、全球市场简报及互联网工具推荐。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.790427.xyz/post/future-media-daily-20251011.html">
-<meta property="og:image" content="https://www.790427.xyz/images/big.png">
+<meta property="og:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="每日资讯2025-10-11">
 <meta name="twitter:description" content="涵盖国际与中美贸易最新博弈、中国政策动态、AI前沿突破、全球市场简报及互联网工具推荐。">
-<meta name="twitter:image" content="https://www.790427.xyz/images/big.png">
+<meta name="twitter:image" content="https://www.790427.xyz/images/social-card.jpg">
 <meta name="twitter:creator" content="@wiselyfreely">
 <title>每日资讯2025-10-11</title>
 
@@ -38,7 +38,7 @@
     "headline": "\u6bcf\u65e5\u8d44\u8baf2025-10-11",
     "description": "\u6db5\u76d6\u56fd\u9645\u4e0e\u4e2d\u7f8e\u8d38\u6613\u6700\u65b0\u535a\u5f08\u3001\u4e2d\u56fd\u653f\u7b56\u52a8\u6001\u3001AI\u524d\u6cbf\u7a81\u7834\u3001\u5168\u7403\u5e02\u573a\u7b80\u62a5\u53ca\u4e92\u8054\u7f51\u5de5\u5177\u63a8\u8350\u3002",
     "image": [
-        "https://www.790427.xyz/images/big.png"
+        "https://www.790427.xyz/images/social-card.jpg"
     ],
     "datePublished": "2025-10-11T11:02:59+08:00",
     "dateModified": "2026-07-09T21:34:16+08:00",
@@ -63,7 +63,7 @@
         "url": "https://www.790427.xyz",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.790427.xyz/images/bb.png"
+            "url": "https://www.790427.xyz/images/logo.png"
         }
     }
 }
@@ -409,7 +409,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     
     <div id="content">
 <div style="text-align: center; margin-bottom: 24px;">
-    <img src="https://www.790427.xyz/images/big.png" style="max-width: 100%; border-radius: 6px;" alt="每日资讯2025-10-11" loading="eager" decoding="async">
+    <img src="https://www.790427.xyz/images/social-card.jpg" style="max-width: 100%; border-radius: 6px;" alt="每日资讯2025-10-11" loading="eager" decoding="async">
 </div>
 
 <div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
@@ -835,7 +835,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
     if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
     if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
-    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/big.png`; }
+    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/social-card.jpg`; }
     if (shareTelegram) { shareTelegram.href = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; }
 });
 
@@ -860,7 +860,7 @@ window.addEventListener('load', function() {
         if (avatar) {
             const homeTitle = h1Element.querySelector('a') || h1Element;
             if (homeTitle) {
-                homeTitle.style.fontSize = '40px';
+                homeTitle.style.fontSize = window.innerWidth <= 600 ? '28px' : '40px';
             }
             return;
         }
