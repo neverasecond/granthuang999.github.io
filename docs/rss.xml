@@ -3,16 +3,16 @@
   <channel>
     <title>人到中年</title>
     <link>https://www.790427.xyz</link>
-    <description>愿你没白来</description>
+    <description>愿你莫白来</description>
     <copyright>人到中年</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://www.790427.xyz/images/logo.png</url>
+      <url>https://www.790427.xyz/images/site-logo.svg</url>
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Thu, 16 Jul 2026 08:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:40:28 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>

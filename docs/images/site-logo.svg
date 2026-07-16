@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">人到中年网站标识</title>
+  <desc id="desc">人到中年的圆形网站 logo，用中字符、书页和地平线表达中年重新出发。</desc>
+  <rect width="512" height="512" rx="96" fill="#f7f2e8"/>
+  <circle cx="256" cy="256" r="205" fill="#fffaf0" stroke="#c8beb0" stroke-width="12"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#e2d8ca" stroke-width="2"/>
+  <path d="M117 329c51-21 96-20 139 4 43-24 88-25 139-4" fill="none" stroke="#c8beb0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M118 354c52-18 97-16 138 7 41-23 86-25 138-7" fill="none" stroke="#d8cec0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M134 292c66-35 150-35 244 0" fill="none" stroke="#2f6f6a" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="369" cy="284" r="19" fill="#b84936"/>
+  <text x="256" y="260" text-anchor="middle" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="185" font-weight="700" fill="#151515">中</text>
+  <text x="256" y="405" text-anchor="middle" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700" letter-spacing="4" fill="#3d3832">人到中年</text>
+</svg>
