@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">人到中年首页说明</title>
-  <desc id="desc">这里记录莫白来的读书与人生感悟、投资研判与实操复盘，也写给中老年人的 iPhone 和 AI 操作教学。</desc>
-  <rect width="1200" height="280" rx="26" fill="#fffaf0"/>
-  <rect x="18" y="18" width="1164" height="244" rx="20" fill="none" stroke="#ded4c7" stroke-width="2"/>
-  <path d="M111 214c146-37 282-36 407 3 126-40 264-40 413-2" fill="none" stroke="#2f6f6a" stroke-width="5" stroke-linecap="round" opacity="0.72"/>
-  <circle cx="945" cy="203" r="13" fill="#b84936" opacity="0.92"/>
-  <text x="600" y="92" text-anchor="middle" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="33" font-weight="700" fill="#151515">这里记录莫白来的读书与人生感悟</text>
-  <text x="600" y="145" text-anchor="middle" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="33" font-weight="700" fill="#151515">投资研判与实操复盘</text>
-  <text x="600" y="198" text-anchor="middle" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="33" font-weight="700" fill="#151515">也写给中老年人的 iPhone 和 AI 操作教学</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 126" role="img" aria-labelledby="title desc">
+  <title id="title">人到中年网站宣言</title>
+  <desc id="desc">可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！</desc>
+  <text x="0" y="25" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="22" font-weight="600" fill="#24292f">可以对别人失望，但自己不能绝望。</text>
+  <text x="0" y="65" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="22" font-weight="600" fill="#24292f">写写读书与人生、投资复盘、iPhone/AI 教学。</text>
+  <text x="0" y="105" font-family="Songti SC, STSong, Noto Serif CJK SC, serif" font-size="22" font-weight="600" fill="#24292f">世界不会变得更好，但你可以。愿你莫白来，与君共勉！</text>
 </svg>
