@@ -347,7 +347,7 @@ console.log("\n %c 人到中年 " + {{ blogBase['GMEEK_VERSION']|tojson }} + " h
 <script>
 (function(){
     document.addEventListener('click', function(event) {
-        const link = event.target.closest('a');
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
         if (!link) return;
 
         if (link.matches('.share-button')) {

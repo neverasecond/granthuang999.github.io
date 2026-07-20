@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "workers/newsletter/**"
+      - "operations/**"
       - ".github/workflows/deploy-newsletter-worker.yml"
 
 jobs:
@@ -34,6 +35,10 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: Apply operations database schema
+        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''
+        run: npx wrangler d1 execute daily_operations_metrics --remote --file=../../operations/schema.sql
 
       - name: Deploy newsletter worker
         if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''

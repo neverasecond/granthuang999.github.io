@@ -307,7 +307,8 @@ def collect_clarity() -> list[Metric]:
             number = clarity_number(raw_value)
             if number is not None:
                 metrics.append(Metric("clarity", metric_name, number, dimension))
-    return metrics
+    # Keep the private ingestion request comfortably below the Worker batch limit.
+    return metrics[:200]
 
 
 def collect_newsletter(metric_date: dt.date) -> list[Metric]:
@@ -515,7 +516,14 @@ def main() -> int:
         )
         return 0
 
-    authorized_json("metrics", method="POST", json_body=payload)
+    if len(metrics) > 480:
+        source_errors.append(f"metric_limit: truncated {len(metrics) - 480} rows")
+        metrics = metrics[:480]
+        payload["status"] = "partial"
+        payload["errors"] = source_errors + health_failures
+        payload["metrics"] = [item.as_payload() for item in metrics]
+
+    store_result = authorized_json("metrics", method="POST", json_body=payload)
     if report_mode != "none":
         subject, report_html, report_text = build_report(
             metrics, metric_date, report_mode, health_failures, source_errors
@@ -532,6 +540,7 @@ def main() -> int:
                 "metricDate": payload["metricDate"],
                 "reportMode": report_mode,
                 "metricCount": len(metrics),
+                "storedMetricCount": int(store_result.get("stored") or 0),
                 "sources": sorted({item.source for item in metrics}),
                 "errorCount": len(payload["errors"]),
             },
