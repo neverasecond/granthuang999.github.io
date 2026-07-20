@@ -1,6 +1,6 @@
 {
     "title":"人到中年",
-    "subTitle":"可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！",
+    "subTitle":"可以对别人失望，但自己不能绝望。写写人生修行、赚钱投资、技术辅助。世界不会变得更好，但你可以。愿你莫白来，与君共勉！",
     "avatarUrl":"/images/site-logo.svg",
     "GMEEK_VERSION":"last",
     "displayTitle":"人到中年",
@@ -14,6 +14,11 @@
 "xName":"莫白来",
 "xHandle":"wiselyfreely",
 "xUrl":"https://x.com/wiselyfreely",
+"contentCategorySlugs": {
+    "人生修行": "xiu-xing",
+    "赚钱投资": "tou-zi",
+    "技术辅助": "ai-jiao-xue"
+},
 "enableAds":0,
 "subscribeApiUrl":"https://www.790427.xyz/api/subscribe",
 "turnstileSiteKey":"0x4AAAAAADy7m99tTX6ix-52",
@@ -37,7 +42,7 @@
 "indexScript":"",
 "showPostSource":0,
 "rssSplit":"sentence",
-"bottomText":"文章皆为原创，转载文章请注明出处。人到中年，记录读书、投资、AI 和生活实操。愿你莫白来。",
+"bottomText":"文章皆为原创，转载文章请注明出处。人到中年，记录人生修行、赚钱投资与技术辅助。愿你莫白来。",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
 "needComment":0
 }

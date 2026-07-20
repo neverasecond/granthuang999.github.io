@@ -2,11 +2,11 @@
 
 {% block head %}
 <meta name="description" content="{{ blogBase['description'] }}">
-{% if '投资' in blogBase['labels'] %}
+{% if blogBase['contentCategory'] == '赚钱投资' %}
 <meta name="content-line" content="investment">
-{% elif 'AI教学' in blogBase['labels'] or 'iPhone' in blogBase['labels'] %}
+{% elif blogBase['contentCategory'] == '技术辅助' %}
 <meta name="content-line" content="iphone_ai">
-{% elif '读书' in blogBase['labels'] or '修行' in blogBase['labels'] %}
+{% elif blogBase['contentCategory'] == '人生修行' %}
 <meta name="content-line" content="reading_life">
 {% else %}
 <meta name="content-line" content="other">
@@ -36,7 +36,7 @@
     ],
     "datePublished": {{ blogBase.isoDate|tojson }},
     "dateModified": {{ blogBase.updatedIsoDate|default(blogBase.isoDate)|tojson }},
-    "articleSection": {{ (blogBase.labels[0] if blogBase.labels else '文章')|tojson }},
+    "articleSection": {{ (blogBase.contentCategory or '文章')|tojson }},
     "keywords": {{ (blogBase.keywords or (blogBase.labels|join(',')))|tojson }},
     "inLanguage": "zh-CN",
     "mainEntityOfPage": {
@@ -76,7 +76,7 @@
         {
             "@type": "ListItem",
             "position": 2,
-            "name": {{ (blogBase.labels[0] if blogBase.labels else '文章')|tojson }},
+            "name": {{ (blogBase.contentCategory or '文章')|tojson }},
             "item": {{ blogBase.primaryLabelUrl|tojson }}
         },
         {
