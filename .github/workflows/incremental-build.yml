@@ -2,7 +2,9 @@ name: Incremental Build (Issues)
 
 on:
   issues:
-    types: [opened, edited]
+    # New Issues start without labels and are drafts. Publishing begins when
+    # the first label is added; later edits to a published Issue rebuild it.
+    types: [edited, labeled]
 
 jobs:
   build-incremental:
@@ -13,7 +15,8 @@ jobs:
       cancel-in-progress: true
     if: |
       github.actor != 'github-actions[bot]' &&
-      github.repository == 'neverasecond/granthuang999.github.io'
+      github.repository == 'neverasecond/granthuang999.github.io' &&
+      join(github.event.issue.labels.*.name, '') != ''
     permissions:
       contents: write
       issues: read
