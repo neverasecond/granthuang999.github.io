@@ -142,7 +142,17 @@ def request_json(
             raw = response.read()
     except urllib.error.HTTPError as error:
         body = error.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"HTTP {error.code} from {url}: {body[:500]}") from error
+        message = ""
+        try:
+            error_payload = json.loads(body)
+            error_data = error_payload.get("error", error_payload)
+            if isinstance(error_data, dict):
+                message = str(error_data.get("message") or error_data.get("status") or "")
+        except json.JSONDecodeError:
+            pass
+        host = urllib.parse.urlsplit(url).hostname or "remote API"
+        detail = f": {message[:240]}" if message else ""
+        raise RuntimeError(f"HTTP {error.code} from {host}{detail}") from error
     return json.loads(raw.decode("utf-8")) if raw else {}
 
 
@@ -299,14 +309,17 @@ def collect_clarity() -> list[Metric]:
                 or item.get("dimension")
                 or "all"
             )[:500]
-            raw_value = item.get("sessions")
-            if raw_value is None:
-                raw_value = item.get("value")
-            if raw_value is None:
-                raw_value = item.get("metricValue")
-            number = clarity_number(raw_value)
-            if number is not None:
-                metrics.append(Metric("clarity", metric_name, number, dimension))
+            for field_name, raw_value in item.items():
+                number = clarity_number(raw_value)
+                if number is not None:
+                    metrics.append(
+                        Metric(
+                            "clarity",
+                            f"{metric_name}.{str(field_name)[:80]}",
+                            number,
+                            dimension,
+                        )
+                    )
     # Keep the private ingestion request comfortably below the Worker batch limit.
     return metrics[:200]
 
@@ -486,8 +499,9 @@ def main() -> int:
         try:
             metrics.extend(collector())
         except Exception as exc:  # noqa: BLE001 - one source must not erase other sources.
-            source_errors.append(f"{source}: {type(exc).__name__}")
-            print(f"Collector failed: {source}: {type(exc).__name__}")
+            detail = str(exc) if isinstance(exc, RuntimeError) else type(exc).__name__
+            source_errors.append(f"{source}: {detail}")
+            print(f"Collector failed: {source}: {detail}")
 
     report_mode = resolve_report_mode(
         args.report_mode, now, bool(health_failures or source_errors)
