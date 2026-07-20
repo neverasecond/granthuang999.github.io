@@ -4,6 +4,15 @@ on:
   push:
     branches:
       - main
+    # Article images are staged before an Issue is published. They are copied
+    # and deployed by the later label-triggered incremental build.
+    paths-ignore:
+      - "static/images/**"
+      - "docs/**"
+      - "backup/**"
+      - "blogBase.json"
+      - "README.md"
+      - ".github/url-submission-history/**"
   workflow_dispatch:
   schedule:
     - cron: "16 4 * * *"
