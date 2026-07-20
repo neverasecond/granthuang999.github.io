@@ -2,6 +2,15 @@
 
 {% block head %}
 <meta name="description" content="{{ blogBase['description'] }}">
+{% if '投资' in blogBase['labels'] %}
+<meta name="content-line" content="investment">
+{% elif 'AI教学' in blogBase['labels'] or 'iPhone' in blogBase['labels'] %}
+<meta name="content-line" content="iphone_ai">
+{% elif '读书' in blogBase['labels'] or '修行' in blogBase['labels'] %}
+<meta name="content-line" content="reading_life">
+{% else %}
+<meta name="content-line" content="other">
+{% endif %}
 {% if blogBase['keywords'] %}<meta name="keywords" content="{{ blogBase['keywords'] }}">{% endif %}
 <meta property="og:title" content="{{ blogBase['postTitle'] }}">
 <meta property="og:description" content="{{ blogBase['description'] }}">
