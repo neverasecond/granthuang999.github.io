@@ -42,3 +42,18 @@ CREATE TABLE IF NOT EXISTS manual_x_metrics (
   notes TEXT,
   updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
+
+CREATE TABLE IF NOT EXISTS weekly_operations (
+  week_ending TEXT PRIMARY KEY,
+  followers INTEGER,
+  posts_published INTEGER,
+  impressions INTEGER,
+  profile_visits INTEGER,
+  link_clicks INTEGER,
+  bookmarks INTEGER,
+  replies INTEGER,
+  reposts INTEGER,
+  creation_hours REAL,
+  interaction_hours REAL,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
