@@ -176,10 +176,22 @@
           "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+        },
+        {
           "postTitle": "网站调试与功能增强日志",
           "postUrl": "https://www.790427.xyz/post/debugging-log.html",
           "createdDate": "2025-08-24",
           "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
+        },
+        {
+          "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
+          "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
+          "createdDate": "2025-08-18",
+          "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
         }
       ]
     },
@@ -7736,10 +7748,22 @@
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+        },
+        {
           "postTitle": "网站调试与功能增强日志",
           "postUrl": "https://www.790427.xyz/post/debugging-log.html",
           "createdDate": "2025-08-24",
           "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
+        },
+        {
+          "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
+          "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
+          "createdDate": "2025-08-18",
+          "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
         }
       ]
     },
@@ -8850,6 +8874,18 @@
           "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
           "createdDate": "2025-09-08",
           "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
+        },
+        {
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+        },
+        {
+          "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
+          "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
+          "createdDate": "2025-08-18",
+          "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
         }
       ]
     },
@@ -9120,9 +9156,9 @@
     "P58": {
       "htmlDir": "docs/post/Perplexity-AI.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
       "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/58",
@@ -9134,7 +9170,7 @@
       "createdDate": "2025-08-25",
       "isoDate": "2025-08-25T06:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:30:31+08:00",
+      "updatedIsoDate": "2026-07-20T14:42:13+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -9158,28 +9194,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
+          "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
+          "createdDate": "2025-08-18",
+          "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
         }
       ]
     },
@@ -10435,9 +10471,9 @@
     "P36": {
       "htmlDir": "docs/post/chatgpt-tasks-smart-assistant.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "ChatGPT Tasks智能任务助手",
       "postUrl": "https://www.790427.xyz/post/chatgpt-tasks-smart-assistant.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/36",
@@ -10449,7 +10485,7 @@
       "createdDate": "2025-07-24",
       "isoDate": "2025-07-24T12:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:34:59+08:00",
+      "updatedIsoDate": "2026-07-20T14:41:50+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -10473,37 +10509,37 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
     "P35": {
       "htmlDir": "docs/post/Fireflies-ai-Smart-Meeting-Assistant.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Fireflies.ai智能会议助理 ",
       "postUrl": "https://www.790427.xyz/post/Fireflies-ai-Smart-Meeting-Assistant.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/35",
@@ -10515,7 +10551,7 @@
       "createdDate": "2025-07-24",
       "isoDate": "2025-07-24T22:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:34:52+08:00",
+      "updatedIsoDate": "2026-07-20T14:41:22+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -10539,28 +10575,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -10765,9 +10801,9 @@
     "P30": {
       "htmlDir": "docs/post/Cursor-AI-Revitalizes.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Cursor AI让中年程序员重新焕发职场活力",
       "postUrl": "https://www.790427.xyz/post/Cursor-AI-Revitalizes.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/30",
@@ -10779,7 +10815,7 @@
       "createdDate": "2025-07-27",
       "isoDate": "2025-07-27T12:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:34:13+08:00",
+      "updatedIsoDate": "2026-07-20T14:41:11+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -10803,28 +10839,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -11425,9 +11461,9 @@
     "P19": {
       "htmlDir": "docs/post/Miro-A-smart-whiteboard.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Miro：重塑中年团队协作的智能白板",
       "postUrl": "https://www.790427.xyz/post/Miro-A-smart-whiteboard.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/19",
@@ -11439,7 +11475,7 @@
       "createdDate": "2025-08-07",
       "isoDate": "2025-08-07T12:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:32:51+08:00",
+      "updatedIsoDate": "2026-07-20T14:40:56+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -11463,28 +11499,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -11557,9 +11593,9 @@
     "P17": {
       "htmlDir": "docs/post/Framer-AI.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Framer AI：30秒生成网站，助力中年创业者零代码打造个人品牌",
       "postUrl": "https://www.790427.xyz/post/Framer-AI.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/17",
@@ -11571,7 +11607,7 @@
       "createdDate": "2025-08-11",
       "isoDate": "2025-08-11T12:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:34:00+08:00",
+      "updatedIsoDate": "2026-07-20T14:40:44+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -11595,28 +11631,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -11887,9 +11923,9 @@
     "P12": {
       "htmlDir": "docs/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
       "labels": [
-        "人生修行"
+        "技术辅助"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "技术辅助",
       "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
       "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/12",
@@ -11901,7 +11937,7 @@
       "createdDate": "2025-08-18",
       "isoDate": "2025-08-18T12:15:00+08:00",
       "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:32:42+08:00",
+      "updatedIsoDate": "2026-07-20T14:40:21+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -11925,28 +11961,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+          "postTitle": "AI工具介绍",
+          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
+          "createdDate": "2025-09-08",
+          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
+          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
+          "createdDate": "2025-08-25",
+          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
         },
         {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
