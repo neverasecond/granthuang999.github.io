@@ -62,6 +62,67 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "postListJson": {
+    "P280": {
+      "htmlDir": "docs/post/why-start-with-platform-sutra.html",
+      "labels": [
+        "连载",
+        "读书"
+      ],
+      "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+      "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/280",
+      "commentNum": 0,
+      "wordCount": 3631,
+      "createdAt": 1784525019,
+      "top": 0,
+      "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。",
+      "createdDate": "2026-07-20",
+      "isoDate": "2026-07-20T13:23:39+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:25:32+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/platform-sutra-opening.jpg",
+      "keywords": "坛经,六祖坛经,佛经阅读,人到中年,读书笔记,莫白来,内心安顿",
+      "quote": "人到中年，真正需要重新学习的，可能不是怎样获得更多，而是怎样不在已经拥有的一切里面失去自己。",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+        "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+        "createdDate": "2026-07-16",
+        "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
+          "createdDate": "2026-02-04",
+          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+        },
+        {
+          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
+          "createdDate": "2026-02-03",
+          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+        },
+        {
+          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
+          "createdDate": "2026-02-01",
+          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+        },
+        {
+          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
+          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
+          "createdDate": "2026-01-28",
+          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
+        }
+      ]
+    },
     "P272": {
       "htmlDir": "docs/post/restart-life-with-iphone-and-ai.html",
       "labels": [
@@ -89,7 +150,12 @@
       "quote": "世界不会变得更好，但你可以。",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+        "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+        "createdDate": "2026-07-20",
+        "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+      },
       "olderPost": {
         "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
         "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
@@ -152,6 +218,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
@@ -168,19 +240,12 @@
           "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
           "createdDate": "2026-01-28",
           "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
-        },
-        {
-          "postTitle": "【红楼重启 043】：老祖宗走了，这艘船的压舱石就没了",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-044-death-of-matriarch.html",
-          "createdDate": "2026-01-27",
-          "description": "贾母一死，贾府为何瞬间崩塌？深度解析：当系统中最后一个懂“体面”的老人离开，剩下的只有无底线的互害。"
         }
       ]
     },
     "P247": {
       "htmlDir": "docs/post/common-sense-005-dao-of-retail-investor.html",
       "labels": [
-        "随笔",
         "投资"
       ],
       "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
@@ -193,8 +258,8 @@
       "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。",
       "createdDate": "2026-02-03",
       "isoDate": "2026-02-03T20:44:57+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:26:35+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:30:23+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -224,10 +289,22 @@
           "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
         },
         {
-          "postTitle": "中年维修手册：男人的“洞穴”",
-          "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
+          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
-          "description": "男人发呆不是逃避，是在系统重启，从VPS建站聊聊中年男人为什么需要一个绝对掌控的洞穴时间。"
+          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
+        },
+        {
+          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
+          "createdDate": "2026-01-04",
+          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
+        },
+        {
+          "postTitle": "【投资周报20251228】2026 年度展望：在K型分裂中寻找确定性",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
+          "createdDate": "2025-12-28",
+          "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
         }
       ]
     },
@@ -272,6 +349,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -288,12 +371,6 @@
           "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
           "createdDate": "2026-01-28",
           "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
-        },
-        {
-          "postTitle": "【红楼重启 043】：老祖宗走了，这艘船的压舱石就没了",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-044-death-of-matriarch.html",
-          "createdDate": "2026-01-27",
-          "description": "贾母一死，贾府为何瞬间崩塌？深度解析：当系统中最后一个懂“体面”的老人离开，剩下的只有无底线的互害。"
         }
       ]
     },
@@ -338,6 +415,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -354,19 +437,12 @@
           "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
           "createdDate": "2026-01-28",
           "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
-        },
-        {
-          "postTitle": "【红楼重启 043】：老祖宗走了，这艘船的压舱石就没了",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-044-death-of-matriarch.html",
-          "createdDate": "2026-01-27",
-          "description": "贾母一死，贾府为何瞬间崩塌？深度解析：当系统中最后一个懂“体面”的老人离开，剩下的只有无底线的互害。"
         }
       ]
     },
     "P244": {
       "htmlDir": "docs/post/common-sense-004-trading-brutal-truth.html",
       "labels": [
-        "随笔",
         "投资"
       ],
       "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
@@ -379,8 +455,8 @@
       "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。",
       "createdDate": "2026-01-31",
       "isoDate": "2026-01-31T20:16:46+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:26:41+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:30:16+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -410,10 +486,22 @@
           "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         },
         {
-          "postTitle": "中年维修手册：男人的“洞穴”",
-          "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
+          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
-          "description": "男人发呆不是逃避，是在系统重启，从VPS建站聊聊中年男人为什么需要一个绝对掌控的洞穴时间。"
+          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
+        },
+        {
+          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
+          "createdDate": "2026-01-04",
+          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
+        },
+        {
+          "postTitle": "【投资周报20251228】2026 年度展望：在K型分裂中寻找确定性",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
+          "createdDate": "2025-12-28",
+          "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
         }
       ]
     },
@@ -458,6 +546,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -474,12 +568,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 043】：老祖宗走了，这艘船的压舱石就没了",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-044-death-of-matriarch.html",
-          "createdDate": "2026-01-27",
-          "description": "贾母一死，贾府为何瞬间崩塌？深度解析：当系统中最后一个懂“体面”的老人离开，剩下的只有无底线的互害。"
         }
       ]
     },
@@ -524,6 +612,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -540,12 +634,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -590,6 +678,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -606,12 +700,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -656,6 +744,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -672,12 +766,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -722,6 +810,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -738,12 +832,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -788,6 +876,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -804,12 +898,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -854,6 +942,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -870,12 +964,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -920,6 +1008,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -936,12 +1030,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -986,6 +1074,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1002,12 +1096,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1052,6 +1140,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1068,12 +1162,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1118,6 +1206,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1134,12 +1228,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1184,6 +1272,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1200,12 +1294,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1250,6 +1338,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1266,12 +1360,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1316,6 +1404,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1332,12 +1426,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1382,6 +1470,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1398,19 +1492,12 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
     "P215": {
       "htmlDir": "docs/post/lazy-investor-weekly-31-fomo-control.html",
       "labels": [
-        "周报",
         "投资"
       ],
       "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
@@ -1423,8 +1510,8 @@
       "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。",
       "createdDate": "2026-01-11",
       "isoDate": "2026-01-11T12:09:05+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:27:30+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:33:23+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -1448,6 +1535,18 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+        },
+        {
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
           "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
@@ -1458,25 +1557,12 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
           "createdDate": "2025-12-28",
           "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
-        },
-        {
-          "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
-          "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
-          "createdDate": "2025-12-21",
-          "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
-        },
-        {
-          "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
-          "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
-          "createdDate": "2025-12-18",
-          "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
         }
       ]
     },
     "P214": {
       "htmlDir": "docs/post/midlife-maintenance-04-man-cave.html",
       "labels": [
-        "随笔",
         "修行"
       ],
       "postTitle": "中年维修手册：男人的“洞穴”",
@@ -1489,8 +1575,8 @@
       "description": "男人发呆不是逃避，是在系统重启，从VPS建站聊聊中年男人为什么需要一个绝对掌控的洞穴时间。",
       "createdDate": "2026-01-11",
       "isoDate": "2026-01-11T12:00:40+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:27:33+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:30:06+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -1514,16 +1600,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+          "postTitle": "【财商觉醒】负债30万 vs 存款30万：毁掉你人生的不是缺钱，而是失去了时间的控制权",
+          "postUrl": "https://www.790427.xyz/post/cash-vs-debt-freedom.html",
+          "createdDate": "2025-12-24",
+          "description": "30万现金和30万负债的差距不仅仅是钱，而是时间的掌控权，揭示负债如何剥夺你的未来，以及现金作为人生安全库存的真正价值。"
         },
         {
-          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
-          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
-          "createdDate": "2026-01-31",
-          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+          "postTitle": "越是成熟的父母，越懂得\"放手\"：养育的终极目标是帮助孩子脱离我们",
+          "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
+          "createdDate": "2025-11-01",
+          "description": "深入探讨成熟父母的本质使命：帮助孩子完成心理分离，实现真正的独立。阐述不同成长阶段的放手策略，揭示基于尊重而非依赖的亲子关系的深层价值。"
+        },
+        {
+          "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
+          "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
+          "createdDate": "2025-10-30",
+          "description": "深度剖析父母养育的两大模式——托举(投入最大化)与兜底(尊重自由)的本质差异,揭示各自的陷阱与优势，提出托举+兜底的平衡模式,为中年父母提供科学的养育反思与实践建议。"
+        },
+        {
+          "postTitle": "重阳节思考：父母与子女，最好的关系是什么？",
+          "postUrl": "https://www.790427.xyz/post/chongyang-parent-child-relationship-rethinking.html",
+          "createdDate": "2025-10-29",
+          "description": "重阳节深度思考，超越养儿防老的传统观念,探讨父母与子女之间最理想的关系——建立在平等、理解、尊重、自由基础上的双向奔赴，为夹在两代人之间的中年人提供平衡智慧与实践建议。"
         }
       ]
     },
@@ -1568,6 +1666,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1584,12 +1688,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1634,6 +1732,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1650,12 +1754,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1700,6 +1798,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1716,12 +1820,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1766,6 +1864,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1782,12 +1886,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1832,6 +1930,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1848,12 +1952,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1898,6 +1996,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1914,12 +2018,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -1964,6 +2062,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -1980,19 +2084,12 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
     "P201": {
       "htmlDir": "docs/post/lazy-investor-weekly-048-venezuela-shock.html",
       "labels": [
-        "周报",
         "投资"
       ],
       "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
@@ -2005,8 +2102,8 @@
       "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。",
       "createdDate": "2026-01-04",
       "isoDate": "2026-01-04T11:25:17+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:27:55+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:33:39+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -2030,6 +2127,18 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+        },
+        {
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
           "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
@@ -2040,18 +2149,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
           "createdDate": "2025-12-28",
           "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
-        },
-        {
-          "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
-          "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
-          "createdDate": "2025-12-21",
-          "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
-        },
-        {
-          "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
-          "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
-          "createdDate": "2025-12-18",
-          "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
         }
       ]
     },
@@ -2096,6 +2193,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2112,12 +2215,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2162,6 +2259,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2178,12 +2281,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2228,6 +2325,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2244,12 +2347,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2294,6 +2391,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2310,12 +2413,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2360,6 +2457,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2376,12 +2479,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2426,6 +2523,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2442,12 +2545,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2492,6 +2589,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2508,12 +2611,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2558,6 +2655,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2574,19 +2677,12 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
     "P184": {
       "htmlDir": "docs/post/lazy-investor-weekly-002-2026-outlook.html",
       "labels": [
-        "周报",
         "投资"
       ],
       "postTitle": "【投资周报20251228】2026 年度展望：在K型分裂中寻找确定性",
@@ -2599,8 +2695,8 @@
       "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。",
       "createdDate": "2025-12-28",
       "isoDate": "2025-12-28T14:41:52+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:28:20+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:33:47+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -2624,6 +2720,18 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+        },
+        {
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
           "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
@@ -2634,18 +2742,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
           "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        },
-        {
-          "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
-          "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
-          "createdDate": "2025-12-21",
-          "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
-        },
-        {
-          "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
-          "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
-          "createdDate": "2025-12-18",
-          "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
         }
       ]
     },
@@ -2690,6 +2786,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2706,12 +2808,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -2756,6 +2852,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -2772,19 +2874,12 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
     "P181": {
       "htmlDir": "docs/post/rmb-outbound-first-mile-guide.html",
       "labels": [
-        "产品服务",
         "投资"
       ],
       "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
@@ -2797,8 +2892,8 @@
       "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。",
       "createdDate": "2025-12-25",
       "isoDate": "2025-12-25T16:25:40+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:28:30+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:31:20+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -2822,23 +2917,34 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-          "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-          "createdDate": "2025-12-25",
-          "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         },
         {
-          "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
-          "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
+          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
+          "createdDate": "2026-01-11",
+          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
+        },
+        {
+          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
+          "createdDate": "2026-01-04",
+          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
         }
       ]
     },
     "P180": {
       "htmlDir": "docs/post/virtual-bank-firewall-strategy.html",
       "labels": [
-        "产品服务",
         "投资"
       ],
       "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
@@ -2851,8 +2957,8 @@
       "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。",
       "createdDate": "2025-12-25",
       "isoDate": "2025-12-25T16:23:20+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:28:33+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:31:38+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -2876,23 +2982,34 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
-          "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         },
         {
-          "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
-          "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。"
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
+          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
+          "createdDate": "2026-01-11",
+          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
+        },
+        {
+          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
+          "createdDate": "2026-01-04",
+          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
         }
       ]
     },
     "P179": {
       "htmlDir": "docs/post/hk-bank-account-security-guide.html",
       "labels": [
-        "产品服务",
         "投资"
       ],
       "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
@@ -2905,8 +3022,8 @@
       "description": "渣打银行真的不管控吗？揭秘香港银行账户冻结的底层逻辑，提供一套包含养号策略与多银行账户矩阵的防冻结实操指南。",
       "createdDate": "2025-12-25",
       "isoDate": "2025-12-25T16:19:55+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:28:36+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:31:31+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -2930,16 +3047,28 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
-          "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
-          "createdDate": "2025-12-25",
-          "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         },
         {
-          "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-          "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-          "createdDate": "2025-12-25",
-          "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
+          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
+          "createdDate": "2026-01-11",
+          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
+        },
+        {
+          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
+          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
+          "createdDate": "2026-01-04",
+          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
         }
       ]
     },
@@ -2984,6 +3113,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3000,12 +3135,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3116,6 +3245,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3132,12 +3267,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3182,6 +3311,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3198,12 +3333,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3378,6 +3507,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3394,12 +3529,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3444,6 +3573,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3460,12 +3595,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3510,6 +3639,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3526,12 +3661,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3576,6 +3705,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3592,12 +3727,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3642,6 +3771,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3658,12 +3793,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3708,6 +3837,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3724,12 +3859,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3774,6 +3903,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3790,12 +3925,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3840,6 +3969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3856,12 +3991,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3906,6 +4035,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3922,12 +4057,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -3972,6 +4101,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -3988,19 +4123,12 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
     "P161": {
       "htmlDir": "docs/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
       "labels": [
-        "周报",
         "投资"
       ],
       "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
@@ -4013,8 +4141,8 @@
       "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议",
       "createdDate": "2025-12-21",
       "isoDate": "2025-12-21T18:29:36+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:29:22+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:33:31+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -4038,6 +4166,18 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+        },
+        {
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
           "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
@@ -4048,25 +4188,12 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
           "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        },
-        {
-          "postTitle": "【投资周报20251228】2026 年度展望：在K型分裂中寻找确定性",
-          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
-          "createdDate": "2025-12-28",
-          "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
-        },
-        {
-          "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
-          "postUrl": "https://www.790427.xyz/post/great-divergence-blueprint-2026.html",
-          "createdDate": "2025-12-18",
-          "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图"
         }
       ]
     },
     "P159": {
       "htmlDir": "docs/post/great-divergence-blueprint-2026.html",
       "labels": [
-        "周报",
         "投资"
       ],
       "postTitle": "2025-2026年全球宏观经济与金融市场深度研究报告：大分化时代的资本清算与重构",
@@ -4079,8 +4206,8 @@
       "description": "深度解析2025-2026全球宏观变局,从美股估值,AI折旧,消费信贷到日元套利,为中年投资者提供全方位的资产保全与增值蓝图",
       "createdDate": "2025-12-18",
       "isoDate": "2025-12-18T11:38:49+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:29:28+08:00",
+      "updatedDate": "2026-07-20",
+      "updatedIsoDate": "2026-07-20T13:34:00+08:00",
       "dateLabelColor": "#0969da",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -4104,6 +4231,18 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
+          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
+          "createdDate": "2026-02-03",
+          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
+        },
+        {
+          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
+          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
+          "createdDate": "2026-01-31",
+          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
+        },
+        {
           "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
@@ -4114,18 +4253,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
           "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        },
-        {
-          "postTitle": "【投资周报20251228】2026 年度展望：在K型分裂中寻找确定性",
-          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-002-2026-outlook.html",
-          "createdDate": "2025-12-28",
-          "description": "懒人投资周报20251228，2026年度深度展望。高盛预测黄金将破$5000？中国经济转向反内卷？美股进入类滞胀？给出一份详细的懒人资产再平衡策略。"
-        },
-        {
-          "postTitle": "【投资周报20251221】降息迷雾下的资产锚点：为什么我们依然超配黄金？",
-          "postUrl": "https://www.790427.xyz/post/lazy-macro-weekly-001-gold-rates-asset-allocation.html",
-          "createdDate": "2025-12-21",
-          "description": "深度解析全球流动性拐点下的资产定价逻辑与黄金超配策略 揭示康波周期滞胀阶段的生存法则与懒人投资组合建议"
         }
       ]
     },
@@ -4754,6 +4881,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -4770,12 +4903,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -4819,6 +4946,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -4835,12 +4968,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -5274,6 +5401,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -5290,12 +5423,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -5534,6 +5661,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -5550,12 +5683,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -5599,6 +5726,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -5615,12 +5748,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -5729,6 +5856,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -5745,12 +5878,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -5794,6 +5921,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -5810,12 +5943,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -6704,6 +6831,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -6720,12 +6853,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -6769,6 +6896,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -6785,12 +6918,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -8382,6 +8509,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -8398,12 +8531,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -8825,6 +8952,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -8841,12 +8974,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -8950,6 +9077,12 @@
       "olderPost": null,
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -8966,12 +9099,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9080,6 +9207,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9096,12 +9229,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9145,6 +9272,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9161,12 +9294,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9275,6 +9402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9291,12 +9424,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9470,6 +9597,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9486,12 +9619,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9535,6 +9662,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9551,12 +9684,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9730,6 +9857,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9746,12 +9879,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9795,6 +9922,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9811,12 +9944,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -9925,6 +10052,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -9941,12 +10074,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -10380,6 +10507,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -10396,12 +10529,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -10640,6 +10767,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -10656,12 +10789,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -10900,6 +11027,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -10916,12 +11049,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11095,6 +11222,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11111,12 +11244,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11225,6 +11352,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11241,12 +11374,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11355,6 +11482,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11371,12 +11504,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11420,6 +11547,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11436,12 +11569,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11680,6 +11807,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11696,12 +11829,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -11745,6 +11872,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
           "createdDate": "2026-02-04",
@@ -11761,12 +11894,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -12040,20 +12167,16 @@
   },
   "labelColorDict": {
     "about": "#aaaaaa",
-    "AI教学": "#aaaaaa",
+    "AI教学": "#ca5386",
     "disclaimer": "#aaaaaa",
-    "iPhone技巧": "#aaaaaa",
+    "iPhone技巧": "#4d46e3",
     "link": "#2f3c4c",
     "privacy-policy": "#aaaaaa",
     "terms-of-service": "#aaaaaa",
-    "tools-link": "#b4c98d",
-    "产品服务": "#6d5b74",
     "修行": "#4F7F5F",
-    "周报": "#71c363",
     "投资": "#A65E2E",
     "职场": "#3B6EA8",
     "读书": "#6F5BA7",
-    "连载": "#ad4a9b",
-    "随笔": "#c09e02"
+    "连载": "#ad4a9b"
   }
 }
