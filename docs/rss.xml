@@ -3,7 +3,7 @@
   <channel>
     <title>人到中年</title>
     <link>https://www.790427.xyz</link>
-    <description>可以对别人失望，但自己不能绝望。写写读书与人生、投资复盘、iPhone/AI 教学。世界不会变得更好，但你可以。愿你莫白来，与君共勉！</description>
+    <description>可以对别人失望，但自己不能绝望。写写人生修行、赚钱投资、技术辅助。世界不会变得更好，但你可以。愿你莫白来，与君共勉！</description>
     <copyright>人到中年</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Mon, 20 Jul 2026 05:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:23:43 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
