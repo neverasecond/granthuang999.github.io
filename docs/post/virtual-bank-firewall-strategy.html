@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。">
+
+<meta name="content-line" content="investment">
+
 <meta name="keywords" content="众安银行,ZA Bank,虚拟银行,资金防火墙,香港开户攻略,转数快FPS,资产隔离">
 <meta property="og:title" content="【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？">
 <meta property="og:description" content="为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -1006,6 +1015,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

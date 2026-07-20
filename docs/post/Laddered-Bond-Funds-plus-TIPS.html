@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="债券基金作为一种低费用、高流动性的投资工具，其期限阶梯策略通过分散1-10年期债券到期日来降低再投资风险并锁定滚动现金流，中年投资者可将核心资产配置于阶梯式国债基金，辅以高收益债和通胀保值债券TIPS以实现真实收益与通胀补偿，同时通过季度再平衡和随年龄调整高收益债占比来优化风险控制，以获得稳定的税前月度现金流。">
+
+<meta name="content-line" content="investment">
+
 <meta name="keywords" content="债券基金, 期限阶梯, TIPS, 通胀保值债券, 投资组合, 现金流, 再平衡, 风险管理, 资产配置, 中年理财">
 <meta property="og:title" content="固定收益进阶：阶梯式债券基金与TIPS的通胀对冲组合">
 <meta property="og:description" content="债券基金作为一种低费用、高流动性的投资工具，其期限阶梯策略通过分散1-10年期债券到期日来降低再投资风险并锁定滚动现金流，中年投资者可将核心资产配置于阶梯式国债基金，辅以高收益债和通胀保值债券TIPS以实现真实收益与通胀补偿，同时通过季度再平衡和随年龄调整高收益债占比来优化风险控制，以获得稳定的税前月度现金流。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -980,6 +989,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

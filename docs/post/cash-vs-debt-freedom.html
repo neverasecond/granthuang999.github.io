@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="30万现金和30万负债的差距不仅仅是钱，而是时间的掌控权，揭示负债如何剥夺你的未来，以及现金作为人生安全库存的真正价值。">
+
+<meta name="content-line" content="investment">
+
 <meta name="keywords" content="现金流,负债陷阱,时间贫穷,财务自由,安全库存,极简主义,莫白来读书">
 <meta property="og:title" content="【财商觉醒】负债30万 vs 存款30万：毁掉你人生的不是缺钱，而是失去了时间的控制权">
 <meta property="og:description" content="30万现金和30万负债的差距不仅仅是钱，而是时间的掌控权，揭示负债如何剥夺你的未来，以及现金作为人生安全库存的真正价值。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -970,6 +979,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

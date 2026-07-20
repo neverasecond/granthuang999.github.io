@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="Miro作为全球领先的在线协作白板平台，凭借其上千种专业模板、故事板模式和无缝集成常用办公工具的强大功能，为面临远程协作与会议效率挑战的中年专业人士提供了极具价值的解决方案，通过其直观的数字便利贴、流程图和看板功能，中年管理者能够高效地进行战略规划与项目管理，实现团队会议效率与决策速度的大幅提升。">
+
+<meta name="content-line" content="other">
+
 <meta name="keywords" content="Miro, 在线协作, 白板, 中年专业人士, 远程协作, 战略规划, seamless integration, 异步沟通, 项目管理, 效率提升">
 <meta property="og:title" content="Miro：重塑中年团队协作的智能白板">
 <meta property="og:description" content="Miro作为全球领先的在线协作白板平台，凭借其上千种专业模板、故事板模式和无缝集成常用办公工具的强大功能，为面临远程协作与会议效率挑战的中年专业人士提供了极具价值的解决方案，通过其直观的数字便利贴、流程图和看板功能，中年管理者能够高效地进行战略规划与项目管理，实现团队会议效率与决策速度的大幅提升。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -951,6 +960,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

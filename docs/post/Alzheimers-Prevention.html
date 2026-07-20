@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="2025年最新研究证实45至65岁期间增加体育锻炼能显著降低阿尔茨海默病风险，其原理在于运动能直接减少大脑中β-淀粉样蛋白的积累，文章详细解读了WHO每周150至300分钟中等强度运动的建议，并为不同年龄段的中年人提供了从活力建立期到智慧调节期的具体实施方案，同时阐述了运动通过改善血管健康和促进神经可塑性来保护大脑的机制，最终强调中年是投资大脑健康的黄金时期，规律运动是保障晚年生活质量的终生承诺。">
+
+<meta name="content-line" content="reading_life">
+
 <meta name="keywords" content="阿尔茨海默, 中年健康, 体育锻炼, 大脑健康, β-淀粉样蛋白, beta-amyloid, WHO, 神经可塑性, neuroplasticity, 预防">
 <meta property="og:title" content="运动预防阿尔茨海默病的科学指南">
 <meta property="og:description" content="2025年最新研究证实45至65岁期间增加体育锻炼能显著降低阿尔茨海默病风险，其原理在于运动能直接减少大脑中β-淀粉样蛋白的积累，文章详细解读了WHO每周150至300分钟中等强度运动的建议，并为不同年龄段的中年人提供了从活力建立期到智慧调节期的具体实施方案，同时阐述了运动通过改善血管健康和促进神经可塑性来保护大脑的机制，最终强调中年是投资大脑健康的黄金时期，规律运动是保障晚年生活质量的终生承诺。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -1024,6 +1033,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

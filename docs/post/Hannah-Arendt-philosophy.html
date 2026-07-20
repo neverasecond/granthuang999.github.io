@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="德国哲学家汉娜·阿伦特的思想为现代中年人的精神困境提供了深刻洞察，她将人类活动分为劳动、工作与行动三个层次，并指出当代中年人因生活被困于维持生存的劳动和创造物品的工作而感到无意义，其核心理念在于重新激活最高层次的行动，即通过在公共领域的言论和行为展现自我独特性，中年人应通过在职场主动创新、参与社区公共事务和建立真实人际关系来抵抗平庸之恶，最终在创造和维护共同世界中找到真正的幸福与自我显现。">
+
+<meta name="content-line" content="reading_life">
+
 <meta name="keywords" content="汉娜·阿伦特, 积极生活, vita activa, 行动, Action, 劳动, 工作, 公共空间, 平庸之恶, 自我显现">
 <meta property="og:title" content="汉娜·阿伦特的"行动"哲学指引 ">
 <meta property="og:description" content="德国哲学家汉娜·阿伦特的思想为现代中年人的精神困境提供了深刻洞察，她将人类活动分为劳动、工作与行动三个层次，并指出当代中年人因生活被困于维持生存的劳动和创造物品的工作而感到无意义，其核心理念在于重新激活最高层次的行动，即通过在公共领域的言论和行为展现自我独特性，中年人应通过在职场主动创新、参与社区公共事务和建立真实人际关系来抵抗平庸之恶，最终在创造和维护共同世界中找到真正的幸福与自我显现。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -1053,6 +1062,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

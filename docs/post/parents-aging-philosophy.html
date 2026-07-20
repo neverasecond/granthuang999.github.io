@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="面对父母老去这一中年人最沉重的情感挑战，本文提供了一套融合斯多葛与存在主义哲学的陪护心法，旨在帮助为人子女者在角色反转的痛苦中安放内心，方案的核心在于运用斯多葛主义的控制圈来区分可控与不可控之事，从而在情感风暴中保持稳定，同时借鉴存在主义意义疗法的智慧，通过遗产访谈等可操作方法，将被动的照顾过程转化为主动创造和记录意义的深刻体验，最终在这场漫长的告别中实现自我成长。">
+
+<meta name="content-line" content="reading_life">
+
 <meta name="keywords" content="中年危机,父母养老,斯多葛主义,存在主义,意义疗法,情绪管理,个人成长,哲学思考,活出生命的意义,预期性悲痛">
 <meta property="og:title" content="当父母老去，我们如何“得体”地告别：一份来自斯多葛与存在主义的“陪护手册">
 <meta property="og:description" content="面对父母老去这一中年人最沉重的情感挑战，本文提供了一套融合斯多葛与存在主义哲学的陪护心法，旨在帮助为人子女者在角色反转的痛苦中安放内心，方案的核心在于运用斯多葛主义的控制圈来区分可控与不可控之事，从而在情感风暴中保持稳定，同时借鉴存在主义意义疗法的智慧，通过遗产访谈等可操作方法，将被动的照顾过程转化为主动创造和记录意义的深刻体验，最终在这场漫长的告别中实现自我成长。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -956,6 +965,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。">
+
+<meta name="content-line" content="reading_life">
+
 <meta name="keywords" content="中年学习, Claude AI, 深度阅读, 信息过载, AI工作流, 第二大脑, 认知升级, 生产力工具, 知识管理, 决策制定">
 <meta property="og:title" content="终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？">
 <meta property="og:description" content="面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -977,6 +986,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

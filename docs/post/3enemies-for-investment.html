@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="中年投资者最大的敌人并非市场而是自身根深蒂固的认知偏误，本文深度剖析了过度自信、确认偏误和损失厌恶这三大最致命的投资心魔，并指出中年人的丰富经验反而可能成为思维陷阱，为系统性地解决这些问题，文章提供了一套可操作的心智防火墙行动指南，包括用于对抗过度自信的事前验尸决策法，用于打破信息茧房的魔鬼代言人笔记法，以及用于克服情绪化操作的非情绪化卖出规则，帮助中年投资者战胜自我，实现长期稳健的财富增值。">
+
+<meta name="content-line" content="investment">
+
 <meta name="keywords" content="中年理财, 投资心理学, 认知偏误, 行为金融学, 损失厌恶, 确认偏误, 投资决策, 风险管理, 丹尼尔·卡尼曼, 资产配置">
 <meta property="og:title" content="投资最大的敌人是你自己：中年人必须警惕的三大认知偏误与解药">
 <meta property="og:description" content="中年投资者最大的敌人并非市场而是自身根深蒂固的认知偏误，本文深度剖析了过度自信、确认偏误和损失厌恶这三大最致命的投资心魔，并指出中年人的丰富经验反而可能成为思维陷阱，为系统性地解决这些问题，文章提供了一套可操作的心智防火墙行动指南，包括用于对抗过度自信的事前验尸决策法，用于打破信息茧房的魔鬼代言人笔记法，以及用于克服情绪化操作的非情绪化卖出规则，帮助中年投资者战胜自我，实现长期稳健的财富增值。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -967,6 +976,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {

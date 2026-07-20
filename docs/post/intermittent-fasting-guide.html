@@ -17,6 +17,9 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。">
+
+<meta name="content-line" content="reading_life">
+
 <meta name="keywords" content="间歇性禁食, 中年健康, 新陈代谢, 体重管理, 代谢转换, metabolic switching, 荷尔蒙, hormonal profile, 胰岛素敏感性, 可持续健康">
 <meta property="og:title" content="14:10间歇性禁食深度实践指南">
 <meta property="og:description" content="间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。">
@@ -101,7 +104,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FDL6BTW5FM');
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
 </script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -1028,6 +1037,61 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 <script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
 
 
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
 
 <script>
 window.addEventListener('load', function() {
