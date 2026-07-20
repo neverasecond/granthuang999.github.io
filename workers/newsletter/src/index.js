@@ -154,6 +154,64 @@ async function ensureNewsletterSchema(env) {
   `).run();
 }
 
+async function ensureOperationsSchema(env) {
+  if (!env.OPS_DB) throw new Error('OPS_DB is not configured');
+
+  await env.OPS_DB.batch([
+    env.OPS_DB.prepare(`
+      CREATE TABLE IF NOT EXISTS daily_metrics (
+        metric_date TEXT NOT NULL,
+        source TEXT NOT NULL,
+        metric TEXT NOT NULL,
+        dimension TEXT NOT NULL DEFAULT '',
+        value REAL NOT NULL,
+        metadata TEXT,
+        collected_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (metric_date, source, metric, dimension)
+      )
+    `),
+    env.OPS_DB.prepare(`
+      CREATE TABLE IF NOT EXISTS collection_runs (
+        run_id TEXT PRIMARY KEY,
+        metric_date TEXT NOT NULL,
+        report_mode TEXT NOT NULL,
+        status TEXT NOT NULL CHECK (status IN ('started', 'success', 'partial', 'failed')),
+        error_summary TEXT,
+        started_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        finished_at TEXT
+      )
+    `),
+    env.OPS_DB.prepare(`
+      CREATE TABLE IF NOT EXISTS manual_x_metrics (
+        metric_date TEXT PRIMARY KEY,
+        followers INTEGER,
+        verified_followers INTEGER,
+        impressions INTEGER,
+        profile_visits INTEGER,
+        link_clicks INTEGER,
+        bookmarks INTEGER,
+        replies INTEGER,
+        reposts INTEGER,
+        posts_published INTEGER,
+        notes TEXT,
+        updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+      )
+    `),
+    env.OPS_DB.prepare(`
+      CREATE INDEX IF NOT EXISTS idx_daily_metrics_source_date
+      ON daily_metrics(source, metric_date)
+    `),
+    env.OPS_DB.prepare(`
+      CREATE INDEX IF NOT EXISTS idx_daily_metrics_metric_date
+      ON daily_metrics(metric, metric_date)
+    `),
+    env.OPS_DB.prepare(`
+      CREATE INDEX IF NOT EXISTS idx_collection_runs_metric_date
+      ON collection_runs(metric_date)
+    `),
+  ]);
+}
+
 async function authorizeInternalRequest(request, env) {
   if (!env.NEWSLETTER_SEND_TOKEN) {
     throw new Error('NEWSLETTER_SEND_TOKEN is not configured');
@@ -162,6 +220,145 @@ async function authorizeInternalRequest(request, env) {
   const auth = request.headers.get('Authorization') || '';
   const token = auth.startsWith('Bearer ') ? auth.slice('Bearer '.length).trim() : '';
   return constantTimeEqual(token, env.NEWSLETTER_SEND_TOKEN);
+}
+
+async function operationsHealth(request, env) {
+  let newsletterDatabase = 'error';
+  let operationsDatabase = 'error';
+  try {
+    await env.DB.prepare('SELECT 1 AS ok').first();
+    newsletterDatabase = 'ok';
+    await ensureOperationsSchema(env);
+    await env.OPS_DB.prepare('SELECT 1 AS ok').first();
+    operationsDatabase = 'ok';
+  } catch (error) {
+    console.error('Operations health check failed', error);
+  }
+  const ok = newsletterDatabase === 'ok' && operationsDatabase === 'ok';
+  return json(request, {
+    ok,
+    database: ok ? 'ok' : 'error',
+    newsletterDatabase,
+    operationsDatabase,
+  }, ok ? 200 : 503);
+}
+
+function validMetricDate(value) {
+  return /^\d{4}-\d{2}-\d{2}$/.test(String(value || ''));
+}
+
+async function newsletterMetrics(request, env, metricDate) {
+  if (!validMetricDate(metricDate)) {
+    return json(request, { message: 'metricDate must use YYYY-MM-DD.' }, 400);
+  }
+  const statements = [
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE status = 'active'"),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE status = 'pending'"),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE status = 'unsubscribed'"),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(created_at, '+8 hours') = ?").bind(metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(confirmed_at, '+8 hours') = ?").bind(metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(unsubscribed_at, '+8 hours') = ?").bind(metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM newsletter_sends WHERE status = 'sent' AND DATE(sent_at, '+8 hours') = ?").bind(metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM newsletter_sends WHERE status = 'failed' AND DATE(created_at, '+8 hours') = ?").bind(metricDate),
+  ];
+  const results = await env.DB.batch(statements);
+  const names = [
+    'activeSubscribers',
+    'pendingSubscribers',
+    'unsubscribedSubscribers',
+    'createdYesterday',
+    'confirmedYesterday',
+    'unsubscribedYesterday',
+    'messagesSentYesterday',
+    'messagesFailedYesterday',
+  ];
+  const response = {};
+  names.forEach((name, index) => {
+    response[name] = Number(results[index]?.results?.[0]?.value || 0);
+  });
+  return json(request, response);
+}
+
+async function storeOperationsMetrics(request, env) {
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json(request, { message: '请求格式不正确。' }, 400);
+  }
+
+  const runId = String(payload.runId || '').slice(0, 120);
+  const metricDate = String(payload.metricDate || '');
+  const reportMode = String(payload.reportMode || 'none').slice(0, 30);
+  const status = ['success', 'partial', 'failed'].includes(payload.status)
+    ? payload.status
+    : 'failed';
+  const metrics = Array.isArray(payload.metrics) ? payload.metrics : [];
+  if (!runId || !validMetricDate(metricDate) || metrics.length > 500) {
+    return json(request, { message: '指标批次不合法。' }, 400);
+  }
+
+  await ensureOperationsSchema(env);
+  const statements = [];
+  for (const item of metrics) {
+    const source = String(item.source || '').slice(0, 80);
+    const metric = String(item.metric || '').slice(0, 120);
+    const dimension = String(item.dimension || '').slice(0, 500);
+    const value = Number(item.value);
+    if (!source || !metric || !Number.isFinite(value)) continue;
+    const metadata = JSON.stringify(item.metadata || {}).slice(0, 5000);
+    statements.push(env.OPS_DB.prepare(`
+      INSERT INTO daily_metrics (
+        metric_date, source, metric, dimension, value, metadata, collected_at
+      ) VALUES (?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+      ON CONFLICT(metric_date, source, metric, dimension) DO UPDATE SET
+        value = excluded.value,
+        metadata = excluded.metadata,
+        collected_at = CURRENT_TIMESTAMP
+    `).bind(metricDate, source, metric, dimension, value, metadata));
+  }
+  if (statements.length) await env.OPS_DB.batch(statements);
+
+  const errors = Array.isArray(payload.errors)
+    ? payload.errors.map((item) => String(item).slice(0, 300)).slice(0, 20)
+    : [];
+  await env.OPS_DB.prepare(`
+    INSERT INTO collection_runs (
+      run_id, metric_date, report_mode, status, error_summary, finished_at
+    ) VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+    ON CONFLICT(run_id) DO UPDATE SET
+      status = excluded.status,
+      error_summary = excluded.error_summary,
+      finished_at = CURRENT_TIMESTAMP
+  `).bind(runId, metricDate, reportMode, status, errors.join('\n')).run();
+
+  return json(request, { stored: statements.length, runId });
+}
+
+async function sendOperationsReport(request, env) {
+  if (!env.OPS_REPORT_EMAIL) {
+    return json(request, { message: 'OPS_REPORT_EMAIL is not configured.' }, 503);
+  }
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json(request, { message: '请求格式不正确。' }, 400);
+  }
+  const subject = String(payload.subject || '').trim().slice(0, 200);
+  const reportHtml = String(payload.html || '').trim().slice(0, 100000);
+  const text = String(payload.text || '').trim().slice(0, 50000);
+  if (!subject || !reportHtml || !text) {
+    return json(request, { message: '运营报告内容不完整。' }, 400);
+  }
+
+  await sendEmail(env, {
+    to: env.OPS_REPORT_EMAIL,
+    subject,
+    html: reportHtml,
+    text,
+  });
+  return json(request, { sent: true });
 }
 
 function postNotificationHtml(env, post, subscriber) {
@@ -324,7 +521,7 @@ function confirmEmailHtml(env, email, confirmToken, unsubscribeToken) {
     <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.7;color:#24292f">
       <h2>确认订阅《${siteName}》</h2>
       <p>你好，${safeEmail}：</p>
-      <p>请点击下面的链接确认订阅。确认后，你会收到莫白来关于职场、投资、读书与修行的新文章提醒。</p>
+      <p>请点击下面的链接确认订阅。确认后，你会收到莫白来关于读书与人生、投资复盘、iPhone/AI 教学的新文章提醒。</p>
       <p><a href="${escapeHtml(confirmUrl)}" style="display:inline-block;background:#0969da;color:#fff;padding:10px 14px;border-radius:6px;text-decoration:none">确认订阅</a></p>
       <p style="font-size:13px;color:#57606a">如果不是你本人操作，可以忽略这封邮件，或点击 <a href="${escapeHtml(unsubscribeUrl)}">退订</a>。</p>
     </div>
@@ -406,7 +603,7 @@ async function confirm(request, env, token) {
     return html(renderMessage(env, '确认链接无效', '没有找到对应的订阅记录。'), 404);
   }
 
-  return html(renderMessage(env, '订阅已确认', '以后你会收到《人到中年》的新文章提醒。'));
+  return Response.redirect(`${env.SITE_URL || 'https://www.790427.xyz'}/subscribe.html?status=confirmed`, 302);
 }
 
 async function unsubscribe(request, env, token) {
@@ -468,6 +665,29 @@ export default {
     }
     if (request.method === 'POST' && url.pathname === '/api/newsletter/send') {
       return sendNewsletter(request, env);
+    }
+    if (url.pathname.startsWith('/api/ops/')) {
+      let authorized;
+      try {
+        authorized = await authorizeInternalRequest(request, env);
+      } catch (error) {
+        console.error(error);
+        return json(request, { message: '运营接口尚未完成内部鉴权配置。' }, 503);
+      }
+      if (!authorized) return json(request, { message: 'Unauthorized' }, 401);
+
+      if (request.method === 'GET' && url.pathname === '/api/ops/health') {
+        return operationsHealth(request, env);
+      }
+      if (request.method === 'GET' && url.pathname === '/api/ops/newsletter-metrics') {
+        return newsletterMetrics(request, env, url.searchParams.get('metricDate'));
+      }
+      if (request.method === 'POST' && url.pathname === '/api/ops/metrics') {
+        return storeOperationsMetrics(request, env);
+      }
+      if (request.method === 'POST' && url.pathname === '/api/ops/report') {
+        return sendOperationsReport(request, env);
+      }
     }
 
     return json(request, { message: 'Not found' }, 404);

@@ -12,6 +12,10 @@
     {
       "pattern": "www.790427.xyz/api/newsletter*",
       "zone_name": "790427.xyz"
+    },
+    {
+      "pattern": "www.790427.xyz/api/ops*",
+      "zone_name": "790427.xyz"
     }
   ],
   "vars": {
@@ -26,6 +30,11 @@
       "binding": "DB",
       "database_name": "bailai_newsletter",
       "database_id": "3e62e94a-af0f-46ce-ad25-65c845a35553"
+    },
+    {
+      "binding": "OPS_DB",
+      "database_name": "daily_operations_metrics",
+      "database_id": "bcf876b1-afc8-49a5-b54c-f8d709209b34"
     }
   ],
   "observability": {

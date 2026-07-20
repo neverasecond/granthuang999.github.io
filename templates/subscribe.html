@@ -140,6 +140,11 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
                 throw new Error(result.message || '提交失败，请稍后再试。');
             }
             setStatus('success', result.message || '确认邮件已发送，请去邮箱里完成确认。');
+            if (window.trackSiteEvent) {
+                window.trackSiteEvent('newsletter_submit', {
+                    form_location: window.location.pathname
+                });
+            }
             form.reset();
             if (window.turnstile) window.turnstile.reset();
         } catch (error) {
@@ -149,6 +154,19 @@ document.getElementById("pathHome").setAttribute("d",IconList["home"]);
             button.disabled = false;
         }
     });
+
+    const query = new URLSearchParams(window.location.search);
+    if (query.get('status') === 'confirmed') {
+        setStatus('success', '订阅已确认，以后你会收到《人到中年》的新文章提醒。');
+        if (window.trackSiteEvent) {
+            window.trackSiteEvent('newsletter_confirm', {
+                form_location: window.location.pathname
+            });
+        }
+        query.delete('status');
+        const cleanQuery = query.toString();
+        window.history.replaceState({}, document.title, window.location.pathname + (cleanQuery ? '?' + cleanQuery : ''));
+    }
 })();
 </script>
 {% endblock %}
