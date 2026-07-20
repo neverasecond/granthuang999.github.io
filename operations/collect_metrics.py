@@ -440,7 +440,12 @@ def build_report(
     creation_hours = find_metric(metrics, "operations_time", "creationHours")
     interaction_hours = find_metric(metrics, "operations_time", "interactionHours")
 
-    prefix = "异常告警" if failures else ("月度运营报告" if report_mode == "monthly" else "每周运营报告")
+    report_titles = {
+        "daily": "每日运营基线",
+        "weekly": "每周运营报告",
+        "monthly": "月度运营报告",
+    }
+    prefix = "异常告警" if failures or source_errors else report_titles.get(report_mode, "运营报告")
     subject = f"{prefix}｜人到中年｜{metric_date.isoformat()}"
     issues = failures + source_errors
     issue_lines = "\n".join(f"- {item}" for item in issues) or "- 无"
