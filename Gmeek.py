@@ -98,7 +98,7 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":""}
+        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":"","contentCategorySlugs":{"人生修行":"xiu-xing","赚钱投资":"tou-zi","技术辅助":"ai-jiao-xue"}}
 
         self.blogBase={**dconfig,**config}
         self.blogBase["postListJson"]={}
@@ -122,6 +122,34 @@ class GMEEK:
 
         self.i18n = {"CN": i18nCN, "RU": i18nRU}.get(self.blogBase["i18n"], i18n)
         self.TZ = datetime.timezone(datetime.timedelta(hours=self.blogBase["UTC"]))
+
+    def getLabelSlug(self, label):
+        """Keep primary category URLs stable while auxiliary tags use pinyin."""
+        return self.blogBase.get("contentCategorySlugs", {}).get(label, Pinyin().get_pinyin(label))
+
+    def getContentCategory(self, labels):
+        """Return the single editorial category independent of GitHub label order."""
+        label_names = [label.name if hasattr(label, "name") else label for label in labels]
+        for category in self.blogBase.get("contentCategorySlugs", {}):
+            if category in label_names:
+                return category
+        return ""
+
+    def getSinglePageLabel(self, labels):
+        label_names = [label.name if hasattr(label, "name") else label for label in labels]
+        page_labels = self.blogBase["singlePage"] + self.blogBase["hiddenPage"]
+        return next((label for label in label_names if label in page_labels), "")
+
+    def validateContentCategories(self):
+        categories = set(self.blogBase.get("contentCategorySlugs", {}))
+        invalid_posts = []
+        for issue_key, post in self.blogBase["postListJson"].items():
+            matches = sorted(categories.intersection(post.get("labels", [])))
+            if len(matches) != 1:
+                invalid_posts.append(f"{issue_key}: {post['postTitle']} ({', '.join(matches) or '无正式栏目'})")
+        if invalid_posts:
+            details = "\n".join(invalid_posts)
+            raise ValueError(f"Published articles must have exactly one content category:\n{details}")
 
     def get_repo(self,user:Github, repo:str):
         return user.get_repo(repo)
@@ -183,13 +211,13 @@ class GMEEK:
         render_dict.update(issue_data)
         render_dict["postBody"] = self.markdown2html(raw_md_content)
         render_dict["canonicalUrl"] = issue_data["postUrl"]
-        primary_label = issue_data["labels"][0] if issue_data.get("labels") else ""
+        primary_label = issue_data.get("contentCategory") or (issue_data["labels"][0] if issue_data.get("labels") else "")
         if primary_label and primary_label not in self.blogBase["singlePage"] and primary_label not in self.blogBase["hiddenPage"]:
-            render_dict["primaryLabelUrl"] = f"{self.blogBase['homeUrl']}/{Pinyin().get_pinyin(primary_label)}.html"
+            render_dict["primaryLabelUrl"] = f"{self.blogBase['homeUrl']}/{self.getLabelSlug(primary_label)}.html"
         else:
             render_dict["primaryLabelUrl"] = self.blogBase["homeUrl"]
 
-        if issue_data["labels"][0] in self.blogBase["singlePage"]:
+        if self.getSinglePageLabel(issue_data.get("labels", [])) in self.blogBase["singlePage"]:
             render_dict["bottomText"]=''
 
         if '<pre class="notranslate">' in render_dict["postBody"]:
@@ -233,7 +261,7 @@ class GMEEK:
         for index, post in enumerate(posts):
             post["newerPost"] = post_summary(posts[index - 1]) if index > 0 else None
             post["olderPost"] = post_summary(posts[index + 1]) if index + 1 < len(posts) else None
-            primary_label = post["labels"][0] if post["labels"] else ""
+            primary_label = post.get("contentCategory") or self.getContentCategory(post.get("labels", []))
             related = [
                 p for p in posts
                 if p is not post and primary_label and primary_label in p["labels"]
@@ -298,11 +326,12 @@ class GMEEK:
             print(f"Skipping issue #{issue.number} because it has no labels.")
             return
 
-        label_name = issue.labels[0].name
-        is_single_page = label_name in self.blogBase["singlePage"] or label_name in self.blogBase["hiddenPage"]
+        issue_labels = [label.name for label in issue.labels]
+        page_label = self.getSinglePageLabel(issue_labels)
+        is_single_page = bool(page_label)
         listJsonName = 'singeListJson' if is_single_page else 'postListJson'
 
-        fileName = self.createFileName(issue, postConfig, useLabel=is_single_page)
+        fileName = self.createFileName(issue, postConfig, page_label=page_label)
         html_filename = f"{fileName}.html"
 
         if is_single_page:
@@ -314,7 +343,8 @@ class GMEEK:
 
         post_data = {
             "htmlDir": html_dir,
-            "labels": [label.name for label in issue.labels],
+            "labels": issue_labels,
+            "contentCategory": self.getContentCategory(issue_labels),
             "postTitle": issue.title,
             "postUrl": f"{self.blogBase['homeUrl']}/{urllib.parse.quote(relative_url)}",
             "postSourceUrl": issue.html_url,
@@ -355,9 +385,9 @@ class GMEEK:
         with open(os.path.join(self.backup_dir, f"{mdFileName}.md"), 'w', encoding='UTF-8') as f:
             f.write(body_content)
 
-    def createFileName(self, issue, postConfig, useLabel=False):
-        if useLabel:
-            return issue.labels[0].name
+    def createFileName(self, issue, postConfig, page_label=""):
+        if page_label:
+            return page_label
 
         slug = postConfig.get("slug")
         if slug:
@@ -442,8 +472,6 @@ class GMEEK:
         add_url(f"{self.blogBase['homeUrl']}/subscribe.html", priority="0.7")
         add_url(f"{self.blogBase['homeUrl']}/about.html", priority="0.8")
         add_url(f"{self.blogBase['homeUrl']}/start.html", priority="0.8")
-        add_url(f"{self.blogBase['homeUrl']}/ai-jiao-xue.html", priority="0.8")
-
         for page in self.blogBase["singeListJson"].values():
             if page["createdAt"] <= current_time:
                 add_url(page["postUrl"], page.get("updatedDate", page["createdDate"]), priority="0.8")
@@ -454,7 +482,7 @@ class GMEEK:
 
         for label in self.blogBase.get("labelColorDict", {}).keys():
             if label not in self.blogBase["singlePage"] and label not in self.blogBase["hiddenPage"]:
-                filename = f"{Pinyin().get_pinyin(label)}.html"
+                filename = f"{self.getLabelSlug(label)}.html"
                 add_url(f"{self.blogBase['homeUrl']}/{filename}", priority="0.6")
 
         urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
@@ -478,14 +506,13 @@ class GMEEK:
         tag_info = {}
         max_count = 0
 
-        p = Pinyin()
         for post in all_posts:
             for label in post['labels']:
                 if label not in self.blogBase['singlePage'] and label not in self.blogBase['hiddenPage']:
                     if label in tag_info:
                         tag_info[label]['count'] += 1
                     else:
-                        filename = f"{p.get_pinyin(label)}.html"
+                        filename = f"{self.getLabelSlug(label)}.html"
                         tag_info[label] = {
                             'count': 1,
                             'url': f"{self.blogBase['homeUrl']}/{filename}"
@@ -516,7 +543,6 @@ class GMEEK:
                 if label not in self.blogBase['singlePage'] and label not in self.blogBase['hiddenPage']:
                     all_tags.add(label)
 
-        p = Pinyin()
         for tag in all_tags:
             posts_for_this_tag = sorted(
                 [p for p in all_posts if tag in p['labels']],
@@ -527,7 +553,7 @@ class GMEEK:
             post_count = len(posts_for_this_tag)
             page_size = self.blogBase["onePageListNum"]
             num_pages = (post_count + page_size - 1) // page_size or 1
-            tag_pinyin = p.get_pinyin(tag)
+            tag_pinyin = self.getLabelSlug(tag)
 
             for page_num in range(num_pages):
                 start_index = page_num * page_size
@@ -576,7 +602,6 @@ class GMEEK:
         pages = [
             ("about.html", "about.html"),
             ("start.html", "start.html"),
-            ("ai-guide.html", "ai-jiao-xue.html"),
         ]
         for template_name, output_name in pages:
             render_dict = self.blogBase.copy()
@@ -611,6 +636,7 @@ class GMEEK:
         for issue in issues:
             self.addOnePostJson(issue)
 
+        self.validateContentCategories()
         self.enrichPostNavigation()
         all_pages = list(self.blogBase["postListJson"].values()) + list(self.blogBase["singeListJson"].values())
         for page_data in all_pages:
@@ -640,10 +666,10 @@ class GMEEK:
             issues = self.repo.get_issues(state='open')
             for i in issues:
                 self.addOnePostJson(i)
+            self.validateContentCategories()
             self.enrichPostNavigation()
 
-            label_name = issue.labels[0].name if issue.labels else ""
-            is_single_page = label_name in self.blogBase["singlePage"] or label_name in self.blogBase["hiddenPage"]
+            is_single_page = bool(self.getSinglePageLabel(issue.labels))
             listJsonName = 'singeListJson' if is_single_page else 'postListJson'
 
             if f"P{number_str}" in self.blogBase[listJsonName]:
