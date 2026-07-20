@@ -1,0 +1,98 @@
+name: Record Weekly Operations
+
+on:
+  workflow_dispatch:
+    inputs:
+      week_ending:
+        description: Week ending date (YYYY-MM-DD)
+        required: true
+        type: string
+      followers:
+        description: X followers at week end
+        required: true
+        type: number
+      posts_published:
+        description: X posts and threads published
+        required: true
+        type: number
+      impressions:
+        description: X impressions during the week
+        required: true
+        type: number
+      profile_visits:
+        description: X profile visits during the week
+        required: true
+        type: number
+      link_clicks:
+        description: X link clicks during the week
+        required: true
+        type: number
+      bookmarks:
+        description: X bookmarks during the week
+        required: true
+        type: number
+      replies:
+        description: X replies received during the week
+        required: true
+        type: number
+      reposts:
+        description: X reposts during the week
+        required: true
+        type: number
+      time_split:
+        description: Creation and interaction hours, for example 20,20
+        required: true
+        default: "20,20"
+        type: string
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    if: github.repository == 'neverasecond/granthuang999.github.io'
+    env:
+      OPS_ENDPOINT: https://www.790427.xyz/api/ops/weekly-input
+      NEWSLETTER_SEND_TOKEN: ${{ secrets.NEWSLETTER_SEND_TOKEN }}
+      WEEK_ENDING: ${{ inputs.week_ending }}
+      FOLLOWERS: ${{ inputs.followers }}
+      POSTS_PUBLISHED: ${{ inputs.posts_published }}
+      IMPRESSIONS: ${{ inputs.impressions }}
+      PROFILE_VISITS: ${{ inputs.profile_visits }}
+      LINK_CLICKS: ${{ inputs.link_clicks }}
+      BOOKMARKS: ${{ inputs.bookmarks }}
+      REPLIES: ${{ inputs.replies }}
+      REPOSTS: ${{ inputs.reposts }}
+      TIME_SPLIT: ${{ inputs.time_split }}
+    steps:
+      - name: Record private weekly totals
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json, os, urllib.request
+
+          creation, interaction = [float(part.strip()) for part in os.environ["TIME_SPLIT"].split(",", 1)]
+          payload = {
+              "weekEnding": os.environ["WEEK_ENDING"],
+              "followers": int(os.environ["FOLLOWERS"]),
+              "postsPublished": int(os.environ["POSTS_PUBLISHED"]),
+              "impressions": int(os.environ["IMPRESSIONS"]),
+              "profileVisits": int(os.environ["PROFILE_VISITS"]),
+              "linkClicks": int(os.environ["LINK_CLICKS"]),
+              "bookmarks": int(os.environ["BOOKMARKS"]),
+              "replies": int(os.environ["REPLIES"]),
+              "reposts": int(os.environ["REPOSTS"]),
+              "creationHours": creation,
+              "interactionHours": interaction,
+          }
+          request = urllib.request.Request(
+              os.environ["OPS_ENDPOINT"],
+              data=json.dumps(payload).encode(),
+              headers={
+                  "Authorization": f"Bearer {os.environ['NEWSLETTER_SEND_TOKEN']}",
+                  "Content-Type": "application/json",
+              },
+              method="POST",
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              result = json.load(response)
+          print(json.dumps({"stored": bool(result.get("stored")), "weekEnding": result.get("weekEnding")}))
+          PY

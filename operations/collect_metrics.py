@@ -333,6 +333,27 @@ def collect_newsletter(metric_date: dt.date) -> list[Metric]:
     ]
 
 
+def collect_weekly_input() -> list[Metric]:
+    result = authorized_json("weekly-input")
+    week_ending = str(result.get("weekEnding") or "")
+    if not week_ending:
+        return []
+    x_fields = (
+        "followers", "postsPublished", "impressions", "profileVisits",
+        "linkClicks", "bookmarks", "replies", "reposts",
+    )
+    time_fields = ("creationHours", "interactionHours")
+    metrics = [
+        Metric("x_manual", field, float(result.get(field) or 0), metadata={"weekEnding": week_ending})
+        for field in x_fields
+    ]
+    metrics.extend(
+        Metric("operations_time", field, float(result.get(field) or 0), metadata={"weekEnding": week_ending})
+        for field in time_fields
+    )
+    return metrics
+
+
 def check_url(url: str) -> tuple[int, float, str]:
     started = time.monotonic()
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -412,6 +433,12 @@ def build_report(
     new_subscribers = find_metric(metrics, "newsletter", "createdYesterday")
     confirmed = find_metric(metrics, "newsletter", "confirmedYesterday")
     unsubscribed = find_metric(metrics, "newsletter", "unsubscribedYesterday")
+    x_followers = find_metric(metrics, "x_manual", "followers")
+    x_posts = find_metric(metrics, "x_manual", "postsPublished")
+    x_impressions = find_metric(metrics, "x_manual", "impressions")
+    x_bookmarks = find_metric(metrics, "x_manual", "bookmarks")
+    creation_hours = find_metric(metrics, "operations_time", "creationHours")
+    interaction_hours = find_metric(metrics, "operations_time", "interactionHours")
 
     prefix = "异常告警" if failures else ("月度运营报告" if report_mode == "monthly" else "每周运营报告")
     subject = f"{prefix}｜人到中年｜{metric_date.isoformat()}"
@@ -437,6 +464,16 @@ Google 搜索（稳定的最近28天窗口）
 - 昨日确认：{fmt_number(confirmed)}
 - 昨日退订：{fmt_number(unsubscribed)}
 
+X（最近一次周度人工录入）
+- 关注者：{fmt_number(x_followers)}
+- 发布数：{fmt_number(x_posts)}
+- 展示：{fmt_number(x_impressions)}
+- 收藏：{fmt_number(x_bookmarks)}
+
+时间投入（最近一周）
+- 创作：{fmt_number(creation_hours, 1)} 小时
+- 互动：{fmt_number(interaction_hours, 1)} 小时
+
 健康与采集问题
 {issue_lines}
 
@@ -453,6 +490,10 @@ Google 搜索（稳定的最近28天窗口）
       <ul><li>点击：{fmt_number(clicks)}</li><li>展示：{fmt_number(impressions)}</li><li>CTR：{fmt_number(ctr, 2)}%</li></ul>
       <h2 style="font-size:17px">邮件订阅</h2>
       <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日退订：{fmt_number(unsubscribed)}</li></ul>
+      <h2 style="font-size:17px">X（最近一次周度人工录入）</h2>
+      <ul><li>关注者：{fmt_number(x_followers)}</li><li>发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>收藏：{fmt_number(x_bookmarks)}</li></ul>
+      <h2 style="font-size:17px">时间投入（最近一周）</h2>
+      <ul><li>创作：{fmt_number(creation_hours, 1)} 小时</li><li>互动：{fmt_number(interaction_hours, 1)} 小时</li></ul>
       <h2 style="font-size:17px">健康与采集问题</h2><ul>{escaped_issues}</ul>
       <p style="font-size:13px;color:#57606a">X 数据暂不自动抓取，在周度复盘中人工补录。AdSense 批准前不采集收入。</p>
     </div>
@@ -494,6 +535,7 @@ def main() -> int:
         ("search_console", lambda: collect_search_console(token, metric_date)),
         ("clarity", collect_clarity),
         ("newsletter", lambda: collect_newsletter(metric_date)),
+        ("weekly_input", collect_weekly_input),
     )
     for source, collector in collectors:
         try:

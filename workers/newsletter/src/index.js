@@ -198,6 +198,22 @@ async function ensureOperationsSchema(env) {
       )
     `),
     env.OPS_DB.prepare(`
+      CREATE TABLE IF NOT EXISTS weekly_operations (
+        week_ending TEXT PRIMARY KEY,
+        followers INTEGER,
+        posts_published INTEGER,
+        impressions INTEGER,
+        profile_visits INTEGER,
+        link_clicks INTEGER,
+        bookmarks INTEGER,
+        replies INTEGER,
+        reposts INTEGER,
+        creation_hours REAL,
+        interaction_hours REAL,
+        updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+      )
+    `),
+    env.OPS_DB.prepare(`
       CREATE INDEX IF NOT EXISTS idx_daily_metrics_source_date
       ON daily_metrics(source, metric_date)
     `),
@@ -359,6 +375,74 @@ async function sendOperationsReport(request, env) {
     text,
   });
   return json(request, { sent: true });
+}
+
+const WEEKLY_NUMBER_FIELDS = [
+  'followers', 'postsPublished', 'impressions', 'profileVisits', 'linkClicks',
+  'bookmarks', 'replies', 'reposts', 'creationHours', 'interactionHours',
+];
+
+async function weeklyOperations(request, env) {
+  if (request.method === 'GET') {
+    await ensureOperationsSchema(env);
+    const row = await env.OPS_DB.prepare(`
+      SELECT week_ending AS weekEnding, followers,
+             posts_published AS postsPublished, impressions,
+             profile_visits AS profileVisits, link_clicks AS linkClicks,
+             bookmarks, replies, reposts,
+             creation_hours AS creationHours,
+             interaction_hours AS interactionHours
+      FROM weekly_operations
+      ORDER BY week_ending DESC
+      LIMIT 1
+    `).first();
+    return json(request, row || {});
+  }
+
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json(request, { message: '请求格式不正确。' }, 400);
+  }
+  const weekEnding = String(payload.weekEnding || '');
+  if (!validMetricDate(weekEnding)) {
+    return json(request, { message: 'weekEnding must use YYYY-MM-DD.' }, 400);
+  }
+  const values = {};
+  for (const field of WEEKLY_NUMBER_FIELDS) {
+    const value = Number(payload[field]);
+    if (!Number.isFinite(value) || value < 0) {
+      return json(request, { message: `Invalid weekly metric: ${field}` }, 400);
+    }
+    values[field] = value;
+  }
+
+  await ensureOperationsSchema(env);
+  await env.OPS_DB.prepare(`
+    INSERT INTO weekly_operations (
+      week_ending, followers, posts_published, impressions, profile_visits,
+      link_clicks, bookmarks, replies, reposts, creation_hours,
+      interaction_hours, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+    ON CONFLICT(week_ending) DO UPDATE SET
+      followers = excluded.followers,
+      posts_published = excluded.posts_published,
+      impressions = excluded.impressions,
+      profile_visits = excluded.profile_visits,
+      link_clicks = excluded.link_clicks,
+      bookmarks = excluded.bookmarks,
+      replies = excluded.replies,
+      reposts = excluded.reposts,
+      creation_hours = excluded.creation_hours,
+      interaction_hours = excluded.interaction_hours,
+      updated_at = CURRENT_TIMESTAMP
+  `).bind(
+    weekEnding, values.followers, values.postsPublished, values.impressions,
+    values.profileVisits, values.linkClicks, values.bookmarks, values.replies,
+    values.reposts, values.creationHours, values.interactionHours,
+  ).run();
+  return json(request, { stored: true, weekEnding });
 }
 
 function postNotificationHtml(env, post, subscriber) {
@@ -687,6 +771,9 @@ export default {
       }
       if (request.method === 'POST' && url.pathname === '/api/ops/report') {
         return sendOperationsReport(request, env);
+      }
+      if ((request.method === 'GET' || request.method === 'POST') && url.pathname === '/api/ops/weekly-input') {
+        return weeklyOperations(request, env);
       }
     }
 
