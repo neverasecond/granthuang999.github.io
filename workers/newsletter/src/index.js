@@ -214,6 +214,18 @@ async function ensureOperationsSchema(env) {
       )
     `),
     env.OPS_DB.prepare(`
+      CREATE TABLE IF NOT EXISTS clarity_reviews (
+        week_ending TEXT NOT NULL,
+        page_path TEXT NOT NULL,
+        recordings_reviewed INTEGER NOT NULL DEFAULT 0,
+        heatmap_finding TEXT NOT NULL,
+        recording_finding TEXT NOT NULL,
+        action_decision TEXT NOT NULL,
+        updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (week_ending, page_path)
+      )
+    `),
+    env.OPS_DB.prepare(`
       CREATE INDEX IF NOT EXISTS idx_daily_metrics_source_date
       ON daily_metrics(source, metric_date)
     `),
@@ -224,6 +236,10 @@ async function ensureOperationsSchema(env) {
     env.OPS_DB.prepare(`
       CREATE INDEX IF NOT EXISTS idx_collection_runs_metric_date
       ON collection_runs(metric_date)
+    `),
+    env.OPS_DB.prepare(`
+      CREATE INDEX IF NOT EXISTS idx_clarity_reviews_week
+      ON clarity_reviews(week_ending)
     `),
   ]);
 }
@@ -276,6 +292,10 @@ async function newsletterMetrics(request, env, metricDate) {
     env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(unsubscribed_at, '+8 hours') = ?").bind(metricDate),
     env.DB.prepare("SELECT COUNT(*) AS value FROM newsletter_sends WHERE status = 'sent' AND DATE(sent_at, '+8 hours') = ?").bind(metricDate),
     env.DB.prepare("SELECT COUNT(*) AS value FROM newsletter_sends WHERE status = 'failed' AND DATE(created_at, '+8 hours') = ?").bind(metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(created_at, '+8 hours') BETWEEN DATE(?, '-6 days') AND ?").bind(metricDate, metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(confirmed_at, '+8 hours') BETWEEN DATE(?, '-6 days') AND ?").bind(metricDate, metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(created_at, '+8 hours') BETWEEN DATE(?, '-27 days') AND ?").bind(metricDate, metricDate),
+    env.DB.prepare("SELECT COUNT(*) AS value FROM subscribers WHERE DATE(confirmed_at, '+8 hours') BETWEEN DATE(?, '-27 days') AND ?").bind(metricDate, metricDate),
   ];
   const results = await env.DB.batch(statements);
   const names = [
@@ -287,6 +307,10 @@ async function newsletterMetrics(request, env, metricDate) {
     'unsubscribedYesterday',
     'messagesSentYesterday',
     'messagesFailedYesterday',
+    'created7d',
+    'confirmed7d',
+    'created28d',
+    'confirmed28d',
   ];
   const response = {};
   names.forEach((name, index) => {
@@ -443,6 +467,68 @@ async function weeklyOperations(request, env) {
     values.reposts, values.creationHours, values.interactionHours,
   ).run();
   return json(request, { stored: true, weekEnding });
+}
+
+async function clarityReview(request, env) {
+  if (request.method === 'GET') {
+    await ensureOperationsSchema(env);
+    const latest = await env.OPS_DB.prepare(`
+      SELECT MAX(week_ending) AS weekEnding
+      FROM clarity_reviews
+    `).first();
+    const weekEnding = String(latest?.weekEnding || '');
+    if (!weekEnding) return json(request, { weekEnding: '', reviews: [] });
+
+    const result = await env.OPS_DB.prepare(`
+      SELECT week_ending AS weekEnding, page_path AS pagePath,
+             recordings_reviewed AS recordingsReviewed,
+             heatmap_finding AS heatmapFinding,
+             recording_finding AS recordingFinding,
+             action_decision AS actionDecision
+      FROM clarity_reviews
+      WHERE week_ending = ?
+      ORDER BY page_path ASC
+      LIMIT 20
+    `).bind(weekEnding).all();
+    return json(request, { weekEnding, reviews: result.results || [] });
+  }
+
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json(request, { message: '请求格式不正确。' }, 400);
+  }
+
+  const weekEnding = String(payload.weekEnding || '');
+  const pagePath = String(payload.pagePath || '').trim().slice(0, 500);
+  const recordingsReviewed = Number(payload.recordingsReviewed);
+  const heatmapFinding = String(payload.heatmapFinding || '').trim().slice(0, 1500);
+  const recordingFinding = String(payload.recordingFinding || '').trim().slice(0, 1500);
+  const actionDecision = String(payload.actionDecision || '').trim().slice(0, 1500);
+  if (!validMetricDate(weekEnding) || !pagePath ||
+      !Number.isInteger(recordingsReviewed) || recordingsReviewed < 0 ||
+      !heatmapFinding || !recordingFinding || !actionDecision) {
+    return json(request, { message: 'Clarity 周度复盘字段不完整或不合法。' }, 400);
+  }
+
+  await ensureOperationsSchema(env);
+  await env.OPS_DB.prepare(`
+    INSERT INTO clarity_reviews (
+      week_ending, page_path, recordings_reviewed, heatmap_finding,
+      recording_finding, action_decision, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+    ON CONFLICT(week_ending, page_path) DO UPDATE SET
+      recordings_reviewed = excluded.recordings_reviewed,
+      heatmap_finding = excluded.heatmap_finding,
+      recording_finding = excluded.recording_finding,
+      action_decision = excluded.action_decision,
+      updated_at = CURRENT_TIMESTAMP
+  `).bind(
+    weekEnding, pagePath, recordingsReviewed, heatmapFinding,
+    recordingFinding, actionDecision,
+  ).run();
+  return json(request, { stored: true, weekEnding, pagePath });
 }
 
 function postNotificationHtml(env, post, subscriber) {
@@ -774,6 +860,9 @@ export default {
       }
       if ((request.method === 'GET' || request.method === 'POST') && url.pathname === '/api/ops/weekly-input') {
         return weeklyOperations(request, env);
+      }
+      if ((request.method === 'GET' || request.method === 'POST') && url.pathname === '/api/ops/clarity-review') {
+        return clarityReview(request, env);
       }
     }
 

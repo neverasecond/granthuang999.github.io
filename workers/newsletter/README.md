@@ -63,3 +63,15 @@ Resend/SES 等服务需要单独验证 `790427.xyz` 或子域名，并配置 SPF
 ```
 
 Worker 会读取 D1 中 `status = active` 的订阅者，并把每个 `post_url + email` 的发送结果写入 `newsletter_sends`，避免重复发送。
+
+## 私有运营数据
+
+运营数据接口统一使用 `NEWSLETTER_SEND_TOKEN` 鉴权，不向公网暴露报表或原始数据：
+
+- `POST /api/ops/weekly-input`：保存 X 与时间投入的每周合计。
+- `GET /api/ops/weekly-input`：返回最近一周的合计。
+- `POST /api/ops/clarity-review`：保存 Clarity 热图与录像的人工复盘摘要。
+- `GET /api/ops/clarity-review`：返回最近一周的复盘摘要。
+- `GET /api/ops/newsletter-metrics`：返回订阅者的单日、7 日和 28 日汇总。
+
+人工录入通过 GitHub Actions 的 `Record Weekly Operations` 和 `Record Clarity Review` 进行。Clarity 只记录页面级结论、查看录像数量和下一步动作；不录入访客标识、IP、录像链接、邮箱、完整对话或截图。

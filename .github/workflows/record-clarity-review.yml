@@ -1,0 +1,77 @@
+name: Record Clarity Review
+
+on:
+  workflow_dispatch:
+    inputs:
+      week_ending:
+        description: Week ending date (YYYY-MM-DD)
+        required: true
+        type: string
+      page_path:
+        description: Page path reviewed, for example /post/example.html or sitewide
+        required: true
+        default: sitewide
+        type: string
+      recordings_reviewed:
+        description: Number of recordings reviewed
+        required: true
+        default: 10
+        type: number
+      heatmap_finding:
+        description: One concise heatmap finding, without visitor identifiers
+        required: true
+        type: string
+      recording_finding:
+        description: One concise recording finding, without visitor identifiers
+        required: true
+        type: string
+      action_decision:
+        description: Concrete content or page change to test next
+        required: true
+        type: string
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    if: github.repository == 'neverasecond/granthuang999.github.io'
+    env:
+      OPS_ENDPOINT: https://www.790427.xyz/api/ops/clarity-review
+      NEWSLETTER_SEND_TOKEN: ${{ secrets.NEWSLETTER_SEND_TOKEN }}
+      WEEK_ENDING: ${{ inputs.week_ending }}
+      PAGE_PATH: ${{ inputs.page_path }}
+      RECORDINGS_REVIEWED: ${{ inputs.recordings_reviewed }}
+      HEATMAP_FINDING: ${{ inputs.heatmap_finding }}
+      RECORDING_FINDING: ${{ inputs.recording_finding }}
+      ACTION_DECISION: ${{ inputs.action_decision }}
+    steps:
+      - name: Record private Clarity review
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json, os, urllib.request
+
+          payload = {
+              "weekEnding": os.environ["WEEK_ENDING"],
+              "pagePath": os.environ["PAGE_PATH"],
+              "recordingsReviewed": int(os.environ["RECORDINGS_REVIEWED"]),
+              "heatmapFinding": os.environ["HEATMAP_FINDING"],
+              "recordingFinding": os.environ["RECORDING_FINDING"],
+              "actionDecision": os.environ["ACTION_DECISION"],
+          }
+          request = urllib.request.Request(
+              os.environ["OPS_ENDPOINT"],
+              data=json.dumps(payload, ensure_ascii=False).encode(),
+              headers={
+                  "Authorization": f"Bearer {os.environ['NEWSLETTER_SEND_TOKEN']}",
+                  "Content-Type": "application/json; charset=utf-8",
+              },
+              method="POST",
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              result = json.load(response)
+          print(json.dumps({
+              "stored": bool(result.get("stored")),
+              "weekEnding": result.get("weekEnding"),
+              "pagePath": result.get("pagePath"),
+          }, ensure_ascii=False))
+          PY
