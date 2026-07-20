@@ -35,6 +35,22 @@ OPS_ENDPOINT = os.environ.get(
     "OPS_ENDPOINT", f"{SITE_URL}/api/ops"
 ).rstrip("/")
 USER_AGENT = "DailyOperationsMetrics/1.0 (+https://www.790427.xyz/)"
+ENGAGEMENT_EVENTS = (
+    "scroll_50",
+    "scroll_90",
+    "article_share",
+    "related_article_click",
+    "outbound_x_click",
+    "newsletter_submit",
+    "newsletter_confirm",
+)
+ARTICLE_EVENTS = (
+    "scroll_50",
+    "scroll_90",
+    "article_share",
+    "related_article_click",
+    "outbound_x_click",
+)
 
 
 @dataclass
@@ -235,6 +251,189 @@ def collect_ga4(token: str, metric_date: dt.date) -> list[Metric]:
     return metrics
 
 
+def rate(numerator: float, denominator: float) -> float:
+    return round((numerator / denominator) * 100, 4) if denominator > 0 else 0.0
+
+
+def change_rate(current: float, baseline: float) -> float:
+    return round(((current - baseline) / baseline) * 100, 4) if baseline > 0 else 0.0
+
+
+def collect_ga4_window(token: str, metric_date: dt.date, days: int) -> list[Metric]:
+    end_date = metric_date
+    start_date = metric_date - dt.timedelta(days=days - 1)
+    date_range = {
+        "startDate": start_date.isoformat(),
+        "endDate": end_date.isoformat(),
+    }
+    metadata = {"startDate": start_date.isoformat(), "endDate": end_date.isoformat()}
+    summary_source = f"ga4_{days}d"
+    engagement_source = f"ga4_engagement_{days}d"
+    metrics: list[Metric] = []
+
+    summary = ga4_report(
+        token,
+        {
+            "dateRanges": [date_range],
+            "metrics": [
+                {"name": "activeUsers"},
+                {"name": "sessions"},
+                {"name": "engagedSessions"},
+                {"name": "screenPageViews"},
+                {"name": "averageSessionDuration"},
+                {"name": "bounceRate"},
+            ],
+        },
+    )
+    headers = [item["name"] for item in summary.get("metricHeaders", [])]
+    rows = summary.get("rows", [])
+    values = rows[0].get("metricValues", []) if rows else []
+    for name, raw in zip(headers, values):
+        metrics.append(
+            Metric(summary_source, name, float(raw.get("value") or 0), metadata=metadata)
+        )
+
+    event_report = ga4_report(
+        token,
+        {
+            "dateRanges": [date_range],
+            "dimensions": [{"name": "eventName"}],
+            "metrics": [{"name": "eventCount"}],
+            "dimensionFilter": {
+                "filter": {
+                    "fieldName": "eventName",
+                    "inListFilter": {"values": list(ENGAGEMENT_EVENTS)},
+                }
+            },
+            "limit": "50",
+        },
+    )
+    event_counts = {event_name: 0.0 for event_name in ENGAGEMENT_EVENTS}
+    for row in event_report.get("rows", []):
+        event_name = row["dimensionValues"][0].get("value", "")
+        if event_name in event_counts:
+            event_counts[event_name] = float(row["metricValues"][0].get("value") or 0)
+
+    post_pages = ga4_report(
+        token,
+        {
+            "dateRanges": [date_range],
+            "dimensions": [{"name": "pagePath"}],
+            "metrics": [{"name": "screenPageViews"}],
+            "dimensionFilter": {
+                "filter": {
+                    "fieldName": "pagePath",
+                    "stringFilter": {
+                        "matchType": "BEGINS_WITH",
+                        "value": "/post/",
+                        "caseSensitive": False,
+                    },
+                }
+            },
+            "limit": "10000",
+        },
+    )
+    post_page_views = sum(
+        float(row["metricValues"][0].get("value") or 0)
+        for row in post_pages.get("rows", [])
+    )
+    metrics.append(
+        Metric(engagement_source, "postPageViews", post_page_views, metadata=metadata)
+    )
+    for event_name, value in event_counts.items():
+        metrics.append(
+            Metric(engagement_source, event_name, value, metadata=metadata)
+        )
+    metrics.extend(
+        [
+            Metric(
+                engagement_source,
+                "completion50Rate",
+                rate(event_counts["scroll_50"], post_page_views),
+                metadata=metadata,
+            ),
+            Metric(
+                engagement_source,
+                "completion90Rate",
+                rate(event_counts["scroll_90"], post_page_views),
+                metadata=metadata,
+            ),
+            Metric(
+                engagement_source,
+                "shareRate",
+                rate(event_counts["article_share"], post_page_views),
+                metadata=metadata,
+            ),
+            Metric(
+                engagement_source,
+                "relatedClickRate",
+                rate(event_counts["related_article_click"], post_page_views),
+                metadata=metadata,
+            ),
+            Metric(
+                engagement_source,
+                "outboundXRate",
+                rate(event_counts["outbound_x_click"], post_page_views),
+                metadata=metadata,
+            ),
+            Metric(
+                engagement_source,
+                "newsletterConfirmRate",
+                rate(event_counts["newsletter_confirm"], event_counts["newsletter_submit"]),
+                metadata=metadata,
+            ),
+        ]
+    )
+
+    if days == 28:
+        page_events = ga4_report(
+            token,
+            {
+                "dateRanges": [date_range],
+                "dimensions": [{"name": "eventName"}, {"name": "pagePath"}],
+                "metrics": [{"name": "eventCount"}],
+                "dimensionFilter": {
+                    "andGroup": {
+                        "expressions": [
+                            {
+                                "filter": {
+                                    "fieldName": "eventName",
+                                    "inListFilter": {"values": list(ARTICLE_EVENTS)},
+                                }
+                            },
+                            {
+                                "filter": {
+                                    "fieldName": "pagePath",
+                                    "stringFilter": {
+                                        "matchType": "BEGINS_WITH",
+                                        "value": "/post/",
+                                        "caseSensitive": False,
+                                    },
+                                }
+                            },
+                        ]
+                    }
+                },
+                "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}],
+                "limit": "100",
+            },
+        )
+        for row in page_events.get("rows", []):
+            event_name = row["dimensionValues"][0].get("value", "")[:120]
+            page_path = row["dimensionValues"][1].get("value", "")[:500]
+            value = float(row["metricValues"][0].get("value") or 0)
+            metrics.append(
+                Metric(
+                    "ga4_event_page_28d",
+                    event_name,
+                    value,
+                    page_path,
+                    metadata,
+                )
+            )
+    return metrics
+
+
 def collect_search_console(token: str, metric_date: dt.date) -> list[Metric]:
     # Search Console is delayed. Use the latest stable 28-day window ending 3 days ago.
     end_date = metric_date - dt.timedelta(days=2)
@@ -354,6 +553,35 @@ def collect_weekly_input() -> list[Metric]:
     return metrics
 
 
+def collect_clarity_review() -> list[Metric]:
+    result = authorized_json("clarity-review")
+    week_ending = str(result.get("weekEnding") or "")
+    reviews = result.get("reviews") if isinstance(result, dict) else []
+    if not week_ending or not isinstance(reviews, list):
+        return []
+    metrics: list[Metric] = []
+    for review in reviews[:20]:
+        if not isinstance(review, dict):
+            continue
+        page_path = str(review.get("pagePath") or "sitewide")[:500]
+        recordings = float(review.get("recordingsReviewed") or 0)
+        metrics.append(
+            Metric(
+                "clarity_review",
+                "recordingsReviewed",
+                recordings,
+                page_path,
+                {
+                    "weekEnding": week_ending,
+                    "heatmapFinding": str(review.get("heatmapFinding") or "")[:1500],
+                    "recordingFinding": str(review.get("recordingFinding") or "")[:1500],
+                    "actionDecision": str(review.get("actionDecision") or "")[:1500],
+                },
+            )
+        )
+    return metrics
+
+
 def check_url(url: str) -> tuple[int, float, str]:
     started = time.monotonic()
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -410,6 +638,10 @@ def find_metric(metrics: list[Metric], source: str, name: str, dimension: str = 
     return 0.0
 
 
+def find_metrics(metrics: list[Metric], source: str, name: str) -> list[Metric]:
+    return [item for item in metrics if item.source == source and item.metric == name]
+
+
 def fmt_number(value: float, digits: int = 0) -> str:
     return f"{value:,.{digits}f}"
 
@@ -439,6 +671,39 @@ def build_report(
     x_bookmarks = find_metric(metrics, "x_manual", "bookmarks")
     creation_hours = find_metric(metrics, "operations_time", "creationHours")
     interaction_hours = find_metric(metrics, "operations_time", "interactionHours")
+    active_7d = find_metric(metrics, "ga4_7d", "activeUsers")
+    active_28d = find_metric(metrics, "ga4_28d", "activeUsers")
+    views_7d = find_metric(metrics, "ga4_7d", "screenPageViews")
+    views_28d = find_metric(metrics, "ga4_28d", "screenPageViews")
+    views_daily_7d = views_7d / 7
+    views_daily_28d = views_28d / 28
+    views_pace_change = change_rate(views_daily_7d, views_daily_28d)
+    completion_7d = find_metric(metrics, "ga4_engagement_7d", "completion90Rate")
+    completion_28d = find_metric(metrics, "ga4_engagement_28d", "completion90Rate")
+    share_rate_7d = find_metric(metrics, "ga4_engagement_7d", "shareRate")
+    share_rate_28d = find_metric(metrics, "ga4_engagement_28d", "shareRate")
+    related_rate_7d = find_metric(metrics, "ga4_engagement_7d", "relatedClickRate")
+    related_rate_28d = find_metric(metrics, "ga4_engagement_28d", "relatedClickRate")
+    x_outbound_rate_7d = find_metric(metrics, "ga4_engagement_7d", "outboundXRate")
+    x_outbound_rate_28d = find_metric(metrics, "ga4_engagement_28d", "outboundXRate")
+    newsletter_created_7d = find_metric(metrics, "newsletter", "created7d")
+    newsletter_confirmed_7d = find_metric(metrics, "newsletter", "confirmed7d")
+    newsletter_created_28d = find_metric(metrics, "newsletter", "created28d")
+    newsletter_confirmed_28d = find_metric(metrics, "newsletter", "confirmed28d")
+    newsletter_rate_7d = rate(newsletter_confirmed_7d, newsletter_created_7d)
+    newsletter_rate_28d = rate(newsletter_confirmed_28d, newsletter_created_28d)
+    clarity_reviews = find_metrics(metrics, "clarity_review", "recordingsReviewed")
+    clarity_review_count = len(clarity_reviews)
+    clarity_recordings = sum(item.value for item in clarity_reviews)
+    clarity_lines = []
+    for item in clarity_reviews[:5]:
+        metadata = item.metadata or {}
+        clarity_lines.append(
+            f"- {item.dimension}：热图 {metadata.get('heatmapFinding', '')}；"
+            f"录像 {metadata.get('recordingFinding', '')}；"
+            f"动作 {metadata.get('actionDecision', '')}"
+        )
+    clarity_text = "\n".join(clarity_lines) or "- 尚未录入本周人工复盘"
 
     report_titles = {
         "daily": "每日运营基线",
@@ -457,6 +722,15 @@ def build_report(
 - 页面浏览：{fmt_number(views)}
 - 回访活跃用户：{fmt_number(returning)}
 
+网站趋势与内容质量
+- 7日 / 28日活跃用户：{fmt_number(active_7d)} / {fmt_number(active_28d)}
+- 7日 / 28日页面浏览：{fmt_number(views_7d)} / {fmt_number(views_28d)}
+- 7日 / 28日日均页面浏览：{fmt_number(views_daily_7d, 1)} / {fmt_number(views_daily_28d, 1)}（近7日节奏 {views_pace_change:+.2f}%）
+- 90%阅读完成率：{fmt_number(completion_7d, 2)}% / {fmt_number(completion_28d, 2)}%
+- 分享点击率：{fmt_number(share_rate_7d, 2)}% / {fmt_number(share_rate_28d, 2)}%
+- 相关阅读点击率：{fmt_number(related_rate_7d, 2)}% / {fmt_number(related_rate_28d, 2)}%
+- 网站到X点击率：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%
+
 Google 搜索（稳定的最近28天窗口）
 - 点击：{fmt_number(clicks)}
 - 展示：{fmt_number(impressions)}
@@ -468,6 +742,13 @@ Google 搜索（稳定的最近28天窗口）
 - 昨日新增：{fmt_number(new_subscribers)}
 - 昨日确认：{fmt_number(confirmed)}
 - 昨日退订：{fmt_number(unsubscribed)}
+- 7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）
+- 28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）
+
+Clarity人工复盘（最近一次周度录入）
+- 复盘页面：{fmt_number(clarity_review_count)}
+- 查看录像：{fmt_number(clarity_recordings)}
+{clarity_text}
 
 X（最近一次周度人工录入）
 - 关注者：{fmt_number(x_followers)}
@@ -491,10 +772,15 @@ X（最近一次周度人工录入）
       <p style="color:#57606a">统计日期：{metric_date.isoformat()}</p>
       <h2 style="font-size:17px">网站（昨日）</h2>
       <ul><li>活跃用户：{fmt_number(active)}</li><li>会话：{fmt_number(sessions)}</li><li>页面浏览：{fmt_number(views)}</li><li>回访活跃用户：{fmt_number(returning)}</li></ul>
+      <h2 style="font-size:17px">网站趋势与内容质量</h2>
+      <ul><li>7日 / 28日活跃用户：{fmt_number(active_7d)} / {fmt_number(active_28d)}</li><li>7日 / 28日页面浏览：{fmt_number(views_7d)} / {fmt_number(views_28d)}</li><li>7日 / 28日日均页面浏览：{fmt_number(views_daily_7d, 1)} / {fmt_number(views_daily_28d, 1)}（近7日节奏 {views_pace_change:+.2f}%）</li><li>90%阅读完成率：{fmt_number(completion_7d, 2)}% / {fmt_number(completion_28d, 2)}%</li><li>分享点击率：{fmt_number(share_rate_7d, 2)}% / {fmt_number(share_rate_28d, 2)}%</li><li>相关阅读点击率：{fmt_number(related_rate_7d, 2)}% / {fmt_number(related_rate_28d, 2)}%</li><li>网站到X点击率：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%</li></ul>
       <h2 style="font-size:17px">Google 搜索（稳定的最近28天窗口）</h2>
       <ul><li>点击：{fmt_number(clicks)}</li><li>展示：{fmt_number(impressions)}</li><li>CTR：{fmt_number(ctr, 2)}%</li></ul>
       <h2 style="font-size:17px">邮件订阅</h2>
-      <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日退订：{fmt_number(unsubscribed)}</li></ul>
+      <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日退订：{fmt_number(unsubscribed)}</li><li>7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）</li><li>28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）</li></ul>
+      <h2 style="font-size:17px">Clarity 人工复盘</h2>
+      <ul><li>复盘页面：{fmt_number(clarity_review_count)}</li><li>查看录像：{fmt_number(clarity_recordings)}</li></ul>
+      <div style="font-size:14px;color:#57606a">{html.escape(clarity_text).replace(chr(10), '<br>')}</div>
       <h2 style="font-size:17px">X（最近一次周度人工录入）</h2>
       <ul><li>关注者：{fmt_number(x_followers)}</li><li>发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>收藏：{fmt_number(x_bookmarks)}</li></ul>
       <h2 style="font-size:17px">时间投入（最近一周）</h2>
@@ -537,10 +823,13 @@ def main() -> int:
     token = google_access_token(credentials_json)
     collectors = (
         ("ga4", lambda: collect_ga4(token, metric_date)),
+        ("ga4_7d", lambda: collect_ga4_window(token, metric_date, 7)),
+        ("ga4_28d", lambda: collect_ga4_window(token, metric_date, 28)),
         ("search_console", lambda: collect_search_console(token, metric_date)),
         ("clarity", collect_clarity),
         ("newsletter", lambda: collect_newsletter(metric_date)),
         ("weekly_input", collect_weekly_input),
+        ("clarity_review", collect_clarity_review),
     )
     for source, collector in collectors:
         try:

@@ -57,3 +57,17 @@ CREATE TABLE IF NOT EXISTS weekly_operations (
   interaction_hours REAL,
   updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
+
+CREATE TABLE IF NOT EXISTS clarity_reviews (
+  week_ending TEXT NOT NULL,
+  page_path TEXT NOT NULL,
+  recordings_reviewed INTEGER NOT NULL DEFAULT 0,
+  heatmap_finding TEXT NOT NULL,
+  recording_finding TEXT NOT NULL,
+  action_decision TEXT NOT NULL,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (week_ending, page_path)
+);
+
+CREATE INDEX IF NOT EXISTS idx_clarity_reviews_week
+ON clarity_reviews(week_ending);
