@@ -67,6 +67,68 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "postListJson": {
+    "P283": {
+      "htmlDir": "docs/post/circumstance-is-not-conclusion-platform-sutra.html",
+      "labels": [
+        "连载",
+        "人生修行"
+      ],
+      "contentCategory": "人生修行",
+      "postTitle": "处境不是结论：从惠能初见五祖说起",
+      "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/283",
+      "commentNum": 0,
+      "wordCount": 4995,
+      "createdAt": 1784698329,
+      "top": 0,
+      "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。",
+      "createdDate": "2026-07-22",
+      "isoDate": "2026-07-22T13:32:09+08:00",
+      "updatedDate": "2026-07-22",
+      "updatedIsoDate": "2026-07-22T13:32:09+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/platform-sutra-circumstance-not-conclusion.jpg",
+      "keywords": "坛经,六祖坛经,惠能,五祖弘忍,佛性,人到中年,人生修行,自我观察,身份认同",
+      "quote": "处境需要面对，身份可以重新观察，而结论真的不必过早写下。",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+        "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+        "createdDate": "2026-07-20",
+        "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        },
+        {
+          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
+          "createdDate": "2026-02-04",
+          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
+        },
+        {
+          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
+          "createdDate": "2026-02-03",
+          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
+        },
+        {
+          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
+          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
+          "createdDate": "2026-02-01",
+          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
+        }
+      ]
+    },
     "P280": {
       "htmlDir": "docs/post/why-start-with-platform-sutra.html",
       "labels": [
@@ -95,7 +157,12 @@
       "quote": "人到中年，真正需要重新学习的，可能不是怎样获得更多，而是怎样不在已经拥有的一切里面失去自己。",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "处境不是结论：从惠能初见五祖说起",
+        "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+        "createdDate": "2026-07-22",
+        "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+      },
       "olderPost": {
         "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
         "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
@@ -103,6 +170,12 @@
         "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
         {
           "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
@@ -120,12 +193,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -237,6 +304,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -253,12 +326,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -370,6 +437,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -386,12 +459,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
           "createdDate": "2026-02-01",
           "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -437,6 +504,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -453,12 +526,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
-          "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
-          "createdDate": "2026-01-28",
-          "description": "当大厦崩塌时，活下来的不是柱子，而是墙角的老鼠,深度复盘贾芸和小红的生存哲学,卑微、务实与系统外的救生艇。"
         }
       ]
     },
@@ -570,6 +637,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -586,12 +659,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -637,6 +704,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -653,12 +726,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -704,6 +771,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -720,12 +793,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -771,6 +838,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -787,12 +860,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -838,6 +905,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -854,12 +927,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -905,6 +972,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -921,12 +994,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -972,6 +1039,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -988,12 +1061,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1039,6 +1106,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1055,12 +1128,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1106,6 +1173,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1122,12 +1195,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1173,6 +1240,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1189,12 +1262,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1240,6 +1307,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1256,12 +1329,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1307,6 +1374,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1323,12 +1396,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1374,6 +1441,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1390,12 +1463,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1441,6 +1508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1457,12 +1530,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1508,6 +1575,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1524,12 +1597,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1640,6 +1707,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1656,12 +1729,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1707,6 +1774,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1723,12 +1796,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1774,6 +1841,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1790,12 +1863,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1841,6 +1908,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1857,12 +1930,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1908,6 +1975,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1924,12 +1997,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -1975,6 +2042,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -1991,12 +2064,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2042,6 +2109,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2058,12 +2131,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2109,6 +2176,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2125,12 +2198,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2242,6 +2309,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2258,12 +2331,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2309,6 +2376,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2325,12 +2398,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2376,6 +2443,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2392,12 +2465,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2443,6 +2510,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2459,12 +2532,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2510,6 +2577,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2526,12 +2599,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2577,6 +2644,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2593,12 +2666,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2644,6 +2711,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2660,12 +2733,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2711,6 +2778,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2727,12 +2800,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2844,6 +2911,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2860,12 +2933,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -2911,6 +2978,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -2927,12 +3000,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3176,6 +3243,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3192,12 +3265,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3309,6 +3376,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3325,12 +3398,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3376,6 +3443,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3392,12 +3465,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3575,6 +3642,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3591,12 +3664,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3642,6 +3709,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3658,12 +3731,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3709,6 +3776,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3725,12 +3798,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3776,6 +3843,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3792,12 +3865,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3843,6 +3910,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3859,12 +3932,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3910,6 +3977,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3926,12 +3999,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -3977,6 +4044,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -3993,12 +4066,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4044,6 +4111,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4060,12 +4133,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4111,6 +4178,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4127,12 +4200,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4178,6 +4245,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4194,12 +4267,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4376,6 +4443,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4392,12 +4465,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4442,6 +4509,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4458,12 +4531,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4574,6 +4641,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4590,12 +4663,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4640,6 +4707,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4656,12 +4729,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4838,6 +4905,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4854,12 +4927,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4904,6 +4971,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4920,12 +4993,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -4970,6 +5037,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -4986,12 +5059,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5036,6 +5103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5052,12 +5125,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5102,6 +5169,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5118,12 +5191,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5168,6 +5235,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5184,12 +5257,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5300,6 +5367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5316,12 +5389,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5432,6 +5499,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5448,12 +5521,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5498,6 +5565,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5514,12 +5587,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5564,6 +5631,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5580,12 +5653,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5630,6 +5697,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5646,12 +5719,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5696,6 +5763,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5712,12 +5785,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5762,6 +5829,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5778,12 +5851,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5828,6 +5895,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5844,12 +5917,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5894,6 +5961,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5910,12 +5983,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -5960,6 +6027,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -5976,12 +6049,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6026,6 +6093,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6042,12 +6115,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6092,6 +6159,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6108,12 +6181,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6158,6 +6225,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6174,12 +6247,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6224,6 +6291,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6240,12 +6313,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6356,6 +6423,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6372,12 +6445,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6422,6 +6489,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6438,12 +6511,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6488,6 +6555,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6504,12 +6577,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6554,6 +6621,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6570,12 +6643,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6620,6 +6687,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6636,12 +6709,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6752,6 +6819,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6768,12 +6841,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6818,6 +6885,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6834,12 +6907,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6884,6 +6951,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6900,12 +6973,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -6950,6 +7017,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -6966,12 +7039,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7016,6 +7083,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7032,12 +7105,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7082,6 +7149,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7098,12 +7171,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7148,6 +7215,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7164,12 +7237,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7214,6 +7281,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7230,12 +7303,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7346,6 +7413,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7362,12 +7435,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7412,6 +7479,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7428,12 +7501,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7478,6 +7545,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7494,12 +7567,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7544,6 +7611,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7560,12 +7633,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7610,6 +7677,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7626,12 +7699,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -7808,6 +7875,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -7824,12 +7897,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8006,6 +8073,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8022,12 +8095,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8072,6 +8139,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8088,12 +8161,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8138,6 +8205,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8154,12 +8227,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8204,6 +8271,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8220,12 +8293,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8336,6 +8403,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8352,12 +8425,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8402,6 +8469,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8418,12 +8491,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8600,6 +8667,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8616,12 +8689,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8666,6 +8733,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8682,12 +8755,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8798,6 +8865,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -8814,12 +8887,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -8996,6 +9063,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9012,12 +9085,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9062,6 +9129,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9078,12 +9151,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9128,6 +9195,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9144,12 +9217,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9255,6 +9322,12 @@
       "olderPost": null,
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9271,12 +9344,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9321,6 +9388,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9337,12 +9410,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9387,6 +9454,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9403,12 +9476,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9453,6 +9520,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9469,12 +9542,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9519,6 +9586,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9535,12 +9608,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9585,6 +9652,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9601,12 +9674,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9717,6 +9784,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9733,12 +9806,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9783,6 +9850,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9799,12 +9872,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -9849,6 +9916,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -9865,12 +9938,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10047,6 +10114,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10063,12 +10136,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10113,6 +10180,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10129,12 +10202,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10179,6 +10246,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10195,12 +10268,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10245,6 +10312,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10261,12 +10334,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10311,6 +10378,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10327,12 +10400,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10377,6 +10444,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10393,12 +10466,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10443,6 +10510,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10459,12 +10532,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10707,6 +10774,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10723,12 +10796,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10773,6 +10840,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10789,12 +10862,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -10971,6 +11038,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -10987,12 +11060,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11037,6 +11104,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11053,12 +11126,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11103,6 +11170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11119,12 +11192,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11235,6 +11302,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11251,12 +11324,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11367,6 +11434,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11383,12 +11456,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11433,6 +11500,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11449,12 +11522,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11565,6 +11632,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11581,12 +11654,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11697,6 +11764,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11713,12 +11786,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11763,6 +11830,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11779,12 +11852,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -11829,6 +11896,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -11845,12 +11918,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -12027,6 +12094,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -12043,12 +12116,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -12093,6 +12160,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -12109,12 +12182,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
@@ -12159,6 +12226,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
           "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
@@ -12175,12 +12248,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        },
-        {
-          "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
-          "createdDate": "2026-02-01",
-          "description": "大汉帝国崩塌的真相，当一个屠夫决定亲自部署这个国家，他会如何砸烂所有的刹车片，深度解析何进之死。"
         }
       ]
     },
