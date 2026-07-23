@@ -11,8 +11,8 @@ jobs:
     name: Incremental Build and Deploy
     runs-on: ubuntu-latest
     concurrency:
-      group: gmeek-incremental-${{ github.event.issue.number }}
-      cancel-in-progress: true
+      group: gmeek-site-build
+      cancel-in-progress: false
     if: |
       github.actor != 'github-actions[bot]' &&
       github.repository == 'neverasecond/granthuang999.github.io' &&
@@ -24,6 +24,7 @@ jobs:
       - name: Checkout main repository
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Determine Issue Number
