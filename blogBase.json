@@ -303,28 +303,16 @@
       },
       "relatedPosts": [
         {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
           "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
           "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
           "createdDate": "2025-09-04",
           "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         },
         {
-          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-          "createdDate": "2025-08-25",
-          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -345,8 +333,8 @@
       "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？",
       "createdDate": "2026-02-04",
       "isoDate": "2026-02-04T19:35:30+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:37:24+08:00",
+      "updatedDate": "2026-07-23",
+      "updatedIsoDate": "2026-07-23T14:37:45+08:00",
       "dateLabelColor": "#1f883d",
       "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
       "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
@@ -355,7 +343,7 @@
       "keywords": "贾诩,底线,精致利己主义,平庸之恶,莫白来,人性,海外华人",
       "quote": "",
       "daily_sentence": "",
-      "password": "oldarticle",
+      "password": "",
       "newerPost": {
         "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
         "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
@@ -3103,72 +3091,6 @@
         "description": "深度解析红楼梦第13回，秦可卿的托梦是顶级的家族资产隔离策略，而王熙凤的铁腕管理虽然精彩，却为何救不了贾府？从宏观战略与微观管理的冲突，看豪门衰落的必然性。"
       },
       "olderPost": {
-        "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-        "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-        "createdDate": "2025-12-25",
-        "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
-        },
-        {
-          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
-          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
-          "createdDate": "2026-01-31",
-          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
-        },
-        {
-          "postTitle": "投资周报：A股15连阳，我承认我眼红了，但我没动",
-          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
-          "createdDate": "2026-01-11",
-          "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
-        }
-      ]
-    },
-    "P180": {
-      "htmlDir": "docs/post/virtual-bank-firewall-strategy.html",
-      "labels": [
-        "赚钱投资"
-      ],
-      "contentCategory": "赚钱投资",
-      "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-      "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/180",
-      "commentNum": 0,
-      "wordCount": 2942,
-      "createdAt": 1766651000,
-      "top": 0,
-      "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。",
-      "createdDate": "2025-12-25",
-      "isoDate": "2025-12-25T16:23:20+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T13:31:38+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/virtual-bank-firewall.png",
-      "keywords": "众安银行,ZA Bank,虚拟银行,资金防火墙,香港开户攻略,转数快FPS,资产隔离",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "oldarticle",
-      "newerPost": {
-        "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
-        "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
-        "createdDate": "2025-12-25",
-        "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
-      },
-      "olderPost": {
         "postTitle": "【香港开户攻略】渣打银行真的不管控吗？一份价值百万的离岸账户防冻结指南",
         "postUrl": "https://www.790427.xyz/post/hk-bank-account-security-guide.html",
         "createdDate": "2025-12-25",
@@ -3229,10 +3151,10 @@
       "daily_sentence": "",
       "password": "oldarticle",
       "newerPost": {
-        "postTitle": "【香港开户攻略】给你的钱戴副“手套”：为什么你必须用虚拟银行做高频交易的防火墙？",
-        "postUrl": "https://www.790427.xyz/post/virtual-bank-firewall-strategy.html",
+        "postTitle": "【香港开户攻略】打通“第一公里”：50岁中产家庭如何合规、低风险地完成资金搬运？",
+        "postUrl": "https://www.790427.xyz/post/rmb-outbound-first-mile-guide.html",
         "createdDate": "2025-12-25",
-        "description": "为什么说实体卡是底子，虚拟卡是手套？深度解析如何利用众安银行ZA Bank搭建资金防火墙，隔离高频交易风险，保护核心大行账户安全。"
+        "description": "解决资金出海第一公里难题，为50岁中产家庭定制的合规资金搬运策略。利用购汇额度、ATM取现及保险红利，低风险实现资产跨境。"
       },
       "olderPost": {
         "postTitle": "【红楼重启 012】贾瑞之死与林如海病危：致命的“多巴胺陷阱”与家族现金牛的倒下",
@@ -7768,138 +7690,6 @@
         }
       ]
     },
-    "P82": {
-      "htmlDir": "docs/post/english-book-download.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-      "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/82",
-      "commentNum": 0,
-      "wordCount": 2392,
-      "createdAt": 1757377706,
-      "top": 0,
-      "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源",
-      "createdDate": "2025-09-09",
-      "isoDate": "2025-09-09T08:28:26+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:48:50+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/social-card.jpg",
-      "keywords": "英语学习，英语自学，雅思，托福，留学，移民，英语口语，英语考试，英语杂志，英语阅读",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "别再瞎养生了！为自己打造“个人健康仪表盘”，精准管理你的下半生",
-        "postUrl": "https://www.790427.xyz/post/personal-health-dashboard.html",
-        "createdDate": "2025-09-09",
-        "description": "你是否陷入了健康信息焦虑，本文提供了一套名为个人健康仪表盘的系统性框架，帮助中年人从被动的信息接收者转变为主动的健康管理者，通过整合体检的基石数据，智能穿戴的日常监控数据和主观感受三大模块，将模糊的健康感受转化为可追踪的指标，从而精准高效地管理自己的下半生"
-      },
-      "olderPost": {
-        "postTitle": "AI工具介绍",
-        "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-        "createdDate": "2025-09-08",
-        "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        },
-        {
-          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-          "createdDate": "2025-08-25",
-          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
-        }
-      ]
-    },
-    "P81": {
-      "htmlDir": "docs/post/AI-gong-ju-jie-shao.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "AI工具介绍",
-      "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/81",
-      "commentNum": 0,
-      "wordCount": 19651,
-      "createdAt": 1757320676,
-      "top": 0,
-      "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。",
-      "createdDate": "2025-09-08",
-      "isoDate": "2025-09-08T16:37:56+08:00",
-      "updatedDate": "2026-07-16",
-      "updatedIsoDate": "2026-07-16T21:53:05+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/social-card.jpg",
-      "keywords": "",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-        "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-        "createdDate": "2025-09-09",
-        "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-      },
-      "olderPost": {
-        "postTitle": "数字过载正在“吞噬”你的大脑：中年人如何用“数字极简主义”夺回专注力？",
-        "postUrl": "https://www.790427.xyz/post/digital-minimalism-focus.html",
-        "createdDate": "2025-09-08",
-        "description": "你是否感觉大脑内存不够用，被无休止的数字噪音吞噬，本文深度剖析了中年人面临的数字过载危机，并提供了一套名为数字极简主义的系统性解决方案，通过定义高质量休闲，进行30天数字大扫除，并有选择地重新引入技术这三步实操法，帮助你摆脱信息焦虑，夺回宝贵的专注力与深度思考能力"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        },
-        {
-          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-          "createdDate": "2025-08-25",
-          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
-        }
-      ]
-    },
     "P80": {
       "htmlDir": "docs/post/parents-relationship-reconciliation.html",
       "labels": [
@@ -8264,10 +8054,10 @@
         "description": "你是否人到中年，身处热闹却感到孤独疲惫，被无效社交掏空？本文深度拆解无效社交困境，引入能量社交概念，指导中年人如何通过清理低能量连接、主动吸引高质量同频者、培养能量互哺力等三步，重塑社交圈，构建一个滋养身心、助力成长的支持性社群，让每一次社交都充满能量和意义。"
       },
       "olderPost": {
-        "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-        "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-        "createdDate": "2025-09-09",
-        "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
+        "postTitle": "数字过载正在“吞噬”你的大脑：中年人如何用“数字极简主义”夺回专注力？",
+        "postUrl": "https://www.790427.xyz/post/digital-minimalism-focus.html",
+        "createdDate": "2025-09-08",
+        "description": "你是否感觉大脑内存不够用，被无休止的数字噪音吞噬，本文深度剖析了中年人面临的数字过载危机，并提供了一套名为数字极简主义的系统性解决方案，通过定义高质量休闲，进行30天数字大扫除，并有选择地重新引入技术这三步实操法，帮助你摆脱信息焦虑，夺回宝贵的专注力与深度思考能力"
       },
       "relatedPosts": [
         {
@@ -8324,10 +8114,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "AI工具介绍",
-        "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-        "createdDate": "2025-09-08",
-        "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
+        "postTitle": "别再瞎养生了！为自己打造“个人健康仪表盘”，精准管理你的下半生",
+        "postUrl": "https://www.790427.xyz/post/personal-health-dashboard.html",
+        "createdDate": "2025-09-09",
+        "description": "你是否陷入了健康信息焦虑，本文提供了一套名为个人健康仪表盘的系统性框架，帮助中年人从被动的信息接收者转变为主动的健康管理者，通过整合体检的基石数据，智能穿戴的日常监控数据和主观感受三大模块，将模糊的健康感受转化为可追踪的指标，从而精准高效地管理自己的下半生"
       },
       "olderPost": {
         "postTitle": "黄金，中年人最后的“财富保险”：如何科学配置黄金，穿越经济迷雾？",
@@ -8607,22 +8397,10 @@
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         },
         {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-          "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-          "createdDate": "2025-08-25",
-          "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+          "postTitle": "网站调试与功能增强日志",
+          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+          "createdDate": "2025-08-24",
+          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -8984,10 +8762,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-        "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-        "createdDate": "2025-08-25",
-        "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+        "postTitle": "维特根斯坦的语言游戏：中年人重新理解沟通与思维的哲学指南",
+        "postUrl": "https://www.790427.xyz/post/Wittgensteins.html",
+        "createdDate": "2025-08-26",
+        "description": "维特根斯坦的哲学思想从早期的逻辑构造转向晚期的语言游戏理论，强调意义源于具体使用情境而非固定本质，这一转变对中年人极具启发，能帮助他们借助家族相似性等概念打破固化思维，在不同沟通场景中保持灵活性，并认识到语言的公共性是有效交流的基础，最终将哲学智慧应用于现实生活和工作中。"
       },
       "olderPost": {
         "postTitle": "REITs投资：中年人房地产投资的新选择与财富增值策略",
@@ -9001,18 +8779,6 @@
           "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
           "createdDate": "2026-07-16",
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
         },
         {
           "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
@@ -9254,10 +9020,10 @@
         "description": "本文专为面临职业、投资等重大决策的中年人解读《思考，快与慢》，文章深入解析了大脑的快（直觉）与慢（理性）两种思维系统，并结合锚定效应、损失厌恶等常见认知偏误，提供了决策检查清单等实用工具，旨在帮助中年读者识别并克服思维陷阱，在人生的关键路口做出更明智、更理性的选择。"
       },
       "olderPost": {
-        "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-        "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-        "createdDate": "2025-08-25",
-        "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。"
+        "postTitle": "网站调试与功能增强日志",
+        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+        "createdDate": "2025-08-24",
+        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
       },
       "relatedPosts": [
         {
@@ -9283,72 +9049,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P58": {
-      "htmlDir": "docs/post/Perplexity-AI.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Perplexity AI：中年职场人的智能搜索革命，告别信息茧房的新利器",
-      "postUrl": "https://www.790427.xyz/post/Perplexity-AI.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/58",
-      "commentNum": 0,
-      "wordCount": 6036,
-      "createdAt": 1756073700,
-      "top": 0,
-      "description": "Perplexity AI是一款提供实时引用答案的对话式搜索引擎，它直接生成结构化摘要而非链接列表，特别适合需要快速获取可信信息的中年管理者，其强大的多模态搜索支持文档上传分析，并通过特定专注模式提升结果精准度，对专业人士而言，其核心价值在于引用透明度和信息可验证性，而深度研究功能更能自动化生成分析报告，是进行市场调研和竞争分析的高效工具。",
-      "createdDate": "2025-08-25",
-      "isoDate": "2025-08-25T06:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:42:13+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250825.png",
-      "keywords": "智能搜索,实时信息,引用来源,对话式搜索,信息验证,Perplexity AI,intelligent search,real-time information,source citations,conversational search,information verification",
-      "quote": "与传统搜索引擎不同，Perplexity不仅提供链接列表，而是直接给出结构化的答案摘要。这种方式特别适合忙碌的中年专业人士，因为他们往往时间有限，需要快速获取可信的信息。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "维特根斯坦的语言游戏：中年人重新理解沟通与思维的哲学指南",
-        "postUrl": "https://www.790427.xyz/post/Wittgensteins.html",
-        "createdDate": "2025-08-26",
-        "description": "维特根斯坦的哲学思想从早期的逻辑构造转向晚期的语言游戏理论，强调意义源于具体使用情境而非固定本质，这一转变对中年人极具启发，能帮助他们借助家族相似性等概念打破固化思维，在不同沟通场景中保持灵活性，并认识到语言的公共性是有效交流的基础，最终将哲学智慧应用于现实生活和工作中。"
-      },
-      "olderPost": {
-        "postTitle": "网站调试与功能增强日志",
-        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-        "createdDate": "2025-08-24",
-        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -9705,10 +9405,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "天涯神贴资源下载",
-        "postUrl": "https://www.790427.xyz/post/tianya-articles.html",
-        "createdDate": "2025-07-10",
-        "description": "当年在天涯论坛上有很多帖子真的是神话般的存在，引起了广泛的关注和讨论。"
+        "postTitle": "哈佛研究验证的五大健康习惯",
+        "postUrl": "https://www.790427.xyz/post/Five-Healthy-Habits.html",
+        "createdDate": "2025-07-11",
+        "description": "哈佛大学最新研究揭示中年保持五个核心健康习惯可显著延长无慢性病寿命超过十年，这些习惯包括遵循50-25-25法则的健康饮食，每日至少30分钟的规律运动，维持18.5至24.9的健康体重指数，适度饮酒以及完全戒烟，2025年的健康趋势更强调结合科技监测的个性化管理和对心理健康的同等重视，建议从微小改变入手以确保长期坚持。"
       },
       "olderPost": {
         "postTitle": "科学步行法",
@@ -9740,72 +9440,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P51": {
-      "htmlDir": "docs/post/tianya-articles.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "天涯神贴资源下载",
-      "postUrl": "https://www.790427.xyz/post/tianya-articles.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/51",
-      "commentNum": 0,
-      "wordCount": 743,
-      "createdAt": 1752156900,
-      "top": 0,
-      "description": "当年在天涯论坛上有很多帖子真的是神话般的存在，引起了广泛的关注和讨论。",
-      "createdDate": "2025-07-10",
-      "isoDate": "2025-07-10T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:49:23+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/social-card.jpg",
-      "keywords": "",
-      "quote": "忘记过去意味着背叛，换旧也是一种精神",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "哈佛研究验证的五大健康习惯",
-        "postUrl": "https://www.790427.xyz/post/Five-Healthy-Habits.html",
-        "createdDate": "2025-07-11",
-        "description": "哈佛大学最新研究揭示中年保持五个核心健康习惯可显著延长无慢性病寿命超过十年，这些习惯包括遵循50-25-25法则的健康饮食，每日至少30分钟的规律运动，维持18.5至24.9的健康体重指数，适度饮酒以及完全戒烟，2025年的健康趋势更强调结合科技监测的个性化管理和对心理健康的同等重视，建议从微小改变入手以确保长期坚持。"
-      },
-      "olderPost": {
-        "postTitle": "蝶蛹蜕变的智慧指南 ",
-        "postUrl": "https://www.790427.xyz/post/Chrysalis-Wisdom.html",
-        "createdDate": "2025-07-09",
-        "description": "企业家奇普·康利将中年定义为蝶蛹蜕变而非危机，他创办现代长老学院并提出12个智慧发现，帮助中年人放下旧有身份认同，从物质、情感、心智、职业和灵性层面重新审视人生，文章强调中年是主动成长的黄金时期，人们应从追求外在成就转向内在满足，从时间稀缺转向时间富裕，最终实现有意义的人生下半场。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -9843,10 +9477,10 @@
         "description": "MIT哲学教授基兰·塞蒂亚在其著作中探讨了中年危机的哲学根源，他认为过度专注于以完成为目的的“目标性”活动是内心空洞的来源，并建议中年人更多投入于享受过程本身的“非目标性”活动，同时他还提出了拥抱遗憾的智慧，认为错过的机会反而是做出其他有价值选择的证明，为中年读者提供了与众不同且深刻的哲学慰藉与实用指南。"
       },
       "olderPost": {
-        "postTitle": "天涯神贴资源下载",
-        "postUrl": "https://www.790427.xyz/post/tianya-articles.html",
-        "createdDate": "2025-07-10",
-        "description": "当年在天涯论坛上有很多帖子真的是神话般的存在，引起了广泛的关注和讨论。"
+        "postTitle": "蝶蛹蜕变的智慧指南 ",
+        "postUrl": "https://www.790427.xyz/post/Chrysalis-Wisdom.html",
+        "createdDate": "2025-07-09",
+        "description": "企业家奇普·康利将中年定义为蝶蛹蜕变而非危机，他创办现代长老学院并提出12个智慧发现，帮助中年人放下旧有身份认同，从物质、情感、心智、职业和灵性层面重新审视人生，文章强调中年是主动成长的黄金时期，人们应从追求外在成就转向内在满足，从时间稀缺转向时间富裕，最终实现有意义的人生下半场。"
       },
       "relatedPosts": [
         {
@@ -9969,10 +9603,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "NotebookLM：谷歌的个人AI研究助手",
-        "postUrl": "https://www.790427.xyz/post/NotebookLM-Google.html",
-        "createdDate": "2025-07-14",
-        "description": "谷歌在2024年推出的NotebookLM是一款免费的创新AI工具，专为个性化研究和学习设计，它支持多格式文档上传如PDF、网站链接和音视频文件，最独特的功能是能将资料转换为播客形式的音频概览，帮助用户建立主题间联系并发现隐藏洞察，目前完全免费且无使用限制，尤其适合中年学习者通过听觉方式高效获取知识，但仍处于测试阶段且依赖网络连接。"
+        "postTitle": "马库斯·奥勒留的智慧指引",
+        "postUrl": "https://www.790427.xyz/post/Marcus-Aureliuss.html",
+        "createdDate": "2025-07-16",
+        "description": "古罗马皇帝马库斯·奥勒留的斯多噶哲学为面临职业压力、家庭责任和内心困惑的中年人提供了宝贵智慧，他强调区分可控与不可控之事，专注于你能掌控的想法和行为，并活在当下这一瞬间，通过在繁忙生活中进行哲学反思，中年人可以培养内在的平静、节制与心理韧性，最终明白真正的幸福源于德行实践而非外在成功。"
       },
       "olderPost": {
         "postTitle": "《中年：哲学指南》",
@@ -10004,138 +9638,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P47": {
-      "htmlDir": "docs/post/NotebookLM-Google.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "NotebookLM：谷歌的个人AI研究助手",
-      "postUrl": "https://www.790427.xyz/post/NotebookLM-Google.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/47",
-      "commentNum": 0,
-      "wordCount": 2299,
-      "createdAt": 1752502500,
-      "top": 0,
-      "description": "谷歌在2024年推出的NotebookLM是一款免费的创新AI工具，专为个性化研究和学习设计，它支持多格式文档上传如PDF、网站链接和音视频文件，最独特的功能是能将资料转换为播客形式的音频概览，帮助用户建立主题间联系并发现隐藏洞察，目前完全免费且无使用限制，尤其适合中年学习者通过听觉方式高效获取知识，但仍处于测试阶段且依赖网络连接。",
-      "createdDate": "2025-07-14",
-      "isoDate": "2025-07-14T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:45:22+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250714.png",
-      "keywords": "NotebookLM, Google AI, 个性化研究, AI工具, 音频概览, 多模态理解, Gemini, 免费, 学习工具, 知识获取",
-      "quote": "NotebookLM支持多种格式文档上传，包括PDF文件、网站链接、YouTube视频和音频文件。最独特的功能是音频概览，能将您的资料转换成引人入胜的深度对话，类似播客形式。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "Notion AI智能助手",
-        "postUrl": "https://www.790427.xyz/post/Notion-AI.html",
-        "createdDate": "2025-07-15",
-        "description": "Notion AI作为一款集成在Notion平台的人工智能助手，专为需要整理复杂信息的中年专业人士设计，它通过智能写作、内容总结、多语言翻译和数据库整理等核心功能，帮助用户在职业和生活管理中实现效率最大化和流程优化，从而在数字化转型时代重新获得对知识的掌控感，让工作与生活更有价值。"
-      },
-      "olderPost": {
-        "postTitle": "伊壁鸠鲁：中年智慧的古希腊指南 ",
-        "postUrl": "https://www.790427.xyz/post/Epicurus.html",
-        "createdDate": "2025-07-13",
-        "description": "古希腊哲学家伊壁鸠鲁以其对老年和中年生活的深刻洞察而闻名，他主张幸福不应来自无止境的欲望追求而是“缩减规模”的智慧，建议中年人摆脱日常事务的束缚，重新审视人生优先级，通过专注于当下的宁静欣赏，放慢脚步，与朋友共度时光，从而实现从外在成就转向内在平静，从未来焦虑转向当下感恩的满足人生。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
-    "P46": {
-      "htmlDir": "docs/post/Notion-AI.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Notion AI智能助手",
-      "postUrl": "https://www.790427.xyz/post/Notion-AI.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/46",
-      "commentNum": 0,
-      "wordCount": 3165,
-      "createdAt": 1752588900,
-      "top": 0,
-      "description": "Notion AI作为一款集成在Notion平台的人工智能助手，专为需要整理复杂信息的中年专业人士设计，它通过智能写作、内容总结、多语言翻译和数据库整理等核心功能，帮助用户在职业和生活管理中实现效率最大化和流程优化，从而在数字化转型时代重新获得对知识的掌控感，让工作与生活更有价值。",
-      "createdDate": "2025-07-15",
-      "isoDate": "2025-07-15T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:47:07+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250715.png",
-      "keywords": "Notion AI, 知识管理, 生产力, 智能助手, 自动化, 中年专业人士, 工作流程优化, Digital Transformation, Knowledge Management, Productivity",
-      "quote": "Notion AI不仅仅是一个工具，更是中年人数字化生活的智能伙伴。它帮助我们在信息爆炸的时代，找回对知识的掌控感，让每一份努力都更有价值。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "马库斯·奥勒留的智慧指引",
-        "postUrl": "https://www.790427.xyz/post/Marcus-Aureliuss.html",
-        "createdDate": "2025-07-16",
-        "description": "古罗马皇帝马库斯·奥勒留的斯多噶哲学为面临职业压力、家庭责任和内心困惑的中年人提供了宝贵智慧，他强调区分可控与不可控之事，专注于你能掌控的想法和行为，并活在当下这一瞬间，通过在繁忙生活中进行哲学反思，中年人可以培养内在的平静、节制与心理韧性，最终明白真正的幸福源于德行实践而非外在成功。"
-      },
-      "olderPost": {
-        "postTitle": "NotebookLM：谷歌的个人AI研究助手",
-        "postUrl": "https://www.790427.xyz/post/NotebookLM-Google.html",
-        "createdDate": "2025-07-14",
-        "description": "谷歌在2024年推出的NotebookLM是一款免费的创新AI工具，专为个性化研究和学习设计，它支持多格式文档上传如PDF、网站链接和音视频文件，最独特的功能是能将资料转换为播客形式的音频概览，帮助用户建立主题间联系并发现隐藏洞察，目前完全免费且无使用限制，尤其适合中年学习者通过听觉方式高效获取知识，但仍处于测试阶段且依赖网络连接。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -10173,10 +9675,10 @@
         "description": "马库斯·奥勒留的《沉思录》是一部穿越时空的哲学经典，它以皇帝的真实心灵笔记形式，为面临职业压力、人生困惑和情绪挑战的中年人提供了深刻指导，核心思想强调接受无常变化和区分可控与不可控事物，通过晨间反思、反思日记等沉思式阅读方法，中年读者可以培养情绪稳定、理性思考和内心平静，从而提升领导力并形成成熟的人生观和价值观。"
       },
       "olderPost": {
-        "postTitle": "Notion AI智能助手",
-        "postUrl": "https://www.790427.xyz/post/Notion-AI.html",
-        "createdDate": "2025-07-15",
-        "description": "Notion AI作为一款集成在Notion平台的人工智能助手，专为需要整理复杂信息的中年专业人士设计，它通过智能写作、内容总结、多语言翻译和数据库整理等核心功能，帮助用户在职业和生活管理中实现效率最大化和流程优化，从而在数字化转型时代重新获得对知识的掌控感，让工作与生活更有价值。"
+        "postTitle": "伊壁鸠鲁：中年智慧的古希腊指南 ",
+        "postUrl": "https://www.790427.xyz/post/Epicurus.html",
+        "createdDate": "2025-07-13",
+        "description": "古希腊哲学家伊壁鸠鲁以其对老年和中年生活的深刻洞察而闻名，他主张幸福不应来自无止境的欲望追求而是“缩减规模”的智慧，建议中年人摆脱日常事务的束缚，重新审视人生优先级，通过专注于当下的宁静欣赏，放慢脚步，与朋友共度时光，从而实现从外在成就转向内在平静，从未来焦虑转向当下感恩的满足人生。"
       },
       "relatedPosts": [
         {
@@ -10601,204 +10103,6 @@
         }
       ]
     },
-    "P36": {
-      "htmlDir": "docs/post/chatgpt-tasks-smart-assistant.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "ChatGPT Tasks智能任务助手",
-      "postUrl": "https://www.790427.xyz/post/chatgpt-tasks-smart-assistant.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/36",
-      "commentNum": 0,
-      "wordCount": 7380,
-      "createdAt": 1753330500,
-      "top": 0,
-      "description": "OpenAI于2025年发布的ChatGPT Tasks功能是一款专为解决中年人时间稀缺核心痛点的革命性工具，它通过自动化执行重复性数字任务来应对职场效率危机和家庭管理焦虑，用户可通过每月20美元的Pro账户投资，实现定时报告生成、智能日程安排和健康管理提醒等功能，从而大幅提升生产力与工作生活平衡满意度，其直观的界面设计和企业级数据安全保障使其成为中年人重获生活掌控感的可靠数字助手。",
-      "createdDate": "2025-07-24",
-      "isoDate": "2025-07-24T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:41:50+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/2025007241.png",
-      "keywords": "ChatGPT Tasks, OpenAI, 自动化, automation, 生产力, productivity, 时间管理, 智能助手, 中年人, 工作流",
-      "quote": "ChatGPT Tasks是OpenAI最新推出的智能任务管理工具，通过预设任务自动化处理中年人的日常事务，显著提升工作效率和生活管理水平，让繁忙的中年人从重复性任务中解放出来。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "Fireflies.ai智能会议助理 ",
-        "postUrl": "https://www.790427.xyz/post/Fireflies-ai-Smart-Meeting-Assistant.html",
-        "createdDate": "2025-07-24",
-        "description": "Fireflies.ai是一款专业的AI会议助理，通过无缝集成Zoom和Teams等平台实现会议自动录制与智能转录，为面临大量会议的中年管理者解决了繁琐的记录整理痛点，其核心功能如超过60种语言的精准转录、AskFred对话式搜索和CRM系统集成，能自动生成结构化摘要与可执行洞察，极大地节省了时间成本并提升了决策效率，让用户能从重复性工作中解放出来专注于更有价值的战略思考。"
-      },
-      "olderPost": {
-        "postTitle": "汉娜·阿伦特的\"行动\"哲学指引 ",
-        "postUrl": "https://www.790427.xyz/post/Hannah-Arendt-philosophy.html",
-        "createdDate": "2025-07-24",
-        "description": "德国哲学家汉娜·阿伦特的思想为现代中年人的精神困境提供了深刻洞察，她将人类活动分为劳动、工作与行动三个层次，并指出当代中年人因生活被困于维持生存的劳动和创造物品的工作而感到无意义，其核心理念在于重新激活最高层次的行动，即通过在公共领域的言论和行为展现自我独特性，中年人应通过在职场主动创新、参与社区公共事务和建立真实人际关系来抵抗平庸之恶，最终在创造和维护共同世界中找到真正的幸福与自我显现。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
-    "P35": {
-      "htmlDir": "docs/post/Fireflies-ai-Smart-Meeting-Assistant.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Fireflies.ai智能会议助理 ",
-      "postUrl": "https://www.790427.xyz/post/Fireflies-ai-Smart-Meeting-Assistant.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/35",
-      "commentNum": 0,
-      "wordCount": 7032,
-      "createdAt": 1753366500,
-      "top": 0,
-      "description": "Fireflies.ai是一款专业的AI会议助理，通过无缝集成Zoom和Teams等平台实现会议自动录制与智能转录，为面临大量会议的中年管理者解决了繁琐的记录整理痛点，其核心功能如超过60种语言的精准转录、AskFred对话式搜索和CRM系统集成，能自动生成结构化摘要与可执行洞察，极大地节省了时间成本并提升了决策效率，让用户能从重复性工作中解放出来专注于更有价值的战略思考。",
-      "createdDate": "2025-07-24",
-      "isoDate": "2025-07-24T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:41:22+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/202507242.png",
-      "keywords": "Fireflies.ai, AI会议助理, 智能转录, 自动化, 无缝集成, seamless integration, 多语言能力, 可执行洞察, actionable insights, 生产力",
-      "quote": "Fireflies Ai通过自动录音、转录和AI摘要功能，让中年管理者在3分钟内掌握1小时会议要点，减少80%会后整理时间，显著提升工作效率和决策质量。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "14:10间歇性禁食深度实践指南",
-        "postUrl": "https://www.790427.xyz/post/intermittent-fasting-guide.html",
-        "createdDate": "2025-07-26",
-        "description": "间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。"
-      },
-      "olderPost": {
-        "postTitle": "ChatGPT Tasks智能任务助手",
-        "postUrl": "https://www.790427.xyz/post/chatgpt-tasks-smart-assistant.html",
-        "createdDate": "2025-07-24",
-        "description": "OpenAI于2025年发布的ChatGPT Tasks功能是一款专为解决中年人时间稀缺核心痛点的革命性工具，它通过自动化执行重复性数字任务来应对职场效率危机和家庭管理焦虑，用户可通过每月20美元的Pro账户投资，实现定时报告生成、智能日程安排和健康管理提醒等功能，从而大幅提升生产力与工作生活平衡满意度，其直观的界面设计和企业级数据安全保障使其成为中年人重获生活掌控感的可靠数字助手。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
-    "P34": {
-      "htmlDir": "docs/post/Anthropic-Claude-5-Mini-open-source.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Anthropic发布Claude 5 Mini开源模型",
-      "postUrl": "https://www.790427.xyz/post/Anthropic-Claude-5-Mini-open-source.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/34",
-      "commentNum": 0,
-      "wordCount": 9282,
-      "createdAt": 1753798500,
-      "top": 0,
-      "description": "Anthropic发布的Claude 5 Mini开源模型以其革命性的参数效率实现了技术突破，仅用20亿参数即达到接近GPT-3.5的性能，这一进展对中年专业人士意义重大，因为它意味着可以在家用电脑等低成本硬件上进行本地部署，从而完全掌控数据主权并大幅降低学习与运行成本，其用户友好的安装流程和深度行业定制能力，更为经验丰富的中年人通过AI增强咨询服务或开发数字化知识产品创造了新的商业与副业发展机会。",
-      "createdDate": "2025-07-29",
-      "isoDate": "2025-07-29T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:49:51+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/202507291.png",
-      "keywords": "Claude 5 Mini, 开源模型, 参数效率, parameter efficiency, 本地部署, 数据主权, data sovereignty, AI助手, 成本效益, 深度定制",
-      "quote": "Anthropic发布的Claude 5 Mini开源模型仅2B参数却达到接近GPT-3.5的性能，为中年人提供了低成本私有部署AI助手的机会，在数据安全和成本控制方面具有显著优势。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "《反脆弱》：中年人的抗风险能力提升指南",
-        "postUrl": "https://www.790427.xyz/post/Antifragile.html",
-        "createdDate": "2025-07-30",
-        "description": "纳西姆·塔勒布的《反脆弱》理论为中年人提供了一种全新的生存策略，它超越了仅仅抵抗压力的坚韧性，倡导从压力、变化和不确定性中获得收益并变得更强大，中年人可以通过构建技能组合的多元化、发展多重收入来源、在投资中应用杠铃策略以及在健康和教育中拥抱适度压力，将自己从脆弱的系统中解放出来，"
-      },
-      "olderPost": {
-        "postTitle": "叔本华的意志哲学：中年人的精神自救指南 ",
-        "postUrl": "https://www.790427.xyz/post/Schopenhauer-Philosophy.html",
-        "createdDate": "2025-07-29",
-        "description": "德国哲学家叔本华的意志哲学深刻洞察了中年人的精神困境，他指出人生的本质是永不满足的生存意志，这导致人们陷入匮乏与无聊的无尽循环，对中年人而言，真正的解脱并非追求更多外在目标，而是通过沉浸于艺术与美的体验、投入纯粹的知识与理性修炼以及实践源于同情心的道德修养这三种方式来超越个人意志，最终在接受痛苦为人生常态的清醒认识中获得内心的平静。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
     "P33": {
       "htmlDir": "docs/post/Hannah-Arendt-philosophy.html",
       "labels": [
@@ -10827,10 +10131,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "ChatGPT Tasks智能任务助手",
-        "postUrl": "https://www.790427.xyz/post/chatgpt-tasks-smart-assistant.html",
-        "createdDate": "2025-07-24",
-        "description": "OpenAI于2025年发布的ChatGPT Tasks功能是一款专为解决中年人时间稀缺核心痛点的革命性工具，它通过自动化执行重复性数字任务来应对职场效率危机和家庭管理焦虑，用户可通过每月20美元的Pro账户投资，实现定时报告生成、智能日程安排和健康管理提醒等功能，从而大幅提升生产力与工作生活平衡满意度，其直观的界面设计和企业级数据安全保障使其成为中年人重获生活掌控感的可靠数字助手。"
+        "postTitle": "14:10间歇性禁食深度实践指南",
+        "postUrl": "https://www.790427.xyz/post/intermittent-fasting-guide.html",
+        "createdDate": "2025-07-26",
+        "description": "间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。"
       },
       "olderPost": {
         "postTitle": "中国AI突破与全球竞争态势 ",
@@ -10893,16 +10197,16 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Cursor AI让中年程序员重新焕发职场活力",
-        "postUrl": "https://www.790427.xyz/post/Cursor-AI-Revitalizes.html",
-        "createdDate": "2025-07-27",
-        "description": "一位面临技术淘汰危机的46岁资深程序员，通过使用Cursor AI这款智能编程伙伴，彻底改变了工作与学习方式，AI的代码补全、智能调试和代码重构功能，使其学习新框架的效率从数周缩短至几天，开发周期也大幅减少，最终让他能够将丰富的项目经验与AI的高效率相结合，摆脱重复性工作，专注于创造性思考和决策，从而在职场中重新证明了自身价值。"
+        "postTitle": "叔本华的意志哲学：中年人的精神自救指南 ",
+        "postUrl": "https://www.790427.xyz/post/Schopenhauer-Philosophy.html",
+        "createdDate": "2025-07-29",
+        "description": "德国哲学家叔本华的意志哲学深刻洞察了中年人的精神困境，他指出人生的本质是永不满足的生存意志，这导致人们陷入匮乏与无聊的无尽循环，对中年人而言，真正的解脱并非追求更多外在目标，而是通过沉浸于艺术与美的体验、投入纯粹的知识与理性修炼以及实践源于同情心的道德修养这三种方式来超越个人意志，最终在接受痛苦为人生常态的清醒认识中获得内心的平静。"
       },
       "olderPost": {
-        "postTitle": "Fireflies.ai智能会议助理 ",
-        "postUrl": "https://www.790427.xyz/post/Fireflies-ai-Smart-Meeting-Assistant.html",
+        "postTitle": "汉娜·阿伦特的\"行动\"哲学指引 ",
+        "postUrl": "https://www.790427.xyz/post/Hannah-Arendt-philosophy.html",
         "createdDate": "2025-07-24",
-        "description": "Fireflies.ai是一款专业的AI会议助理，通过无缝集成Zoom和Teams等平台实现会议自动录制与智能转录，为面临大量会议的中年管理者解决了繁琐的记录整理痛点，其核心功能如超过60种语言的精准转录、AskFred对话式搜索和CRM系统集成，能自动生成结构化摘要与可执行洞察，极大地节省了时间成本并提升了决策效率，让用户能从重复性工作中解放出来专注于更有价值的战略思考。"
+        "description": "德国哲学家汉娜·阿伦特的思想为现代中年人的精神困境提供了深刻洞察，她将人类活动分为劳动、工作与行动三个层次，并指出当代中年人因生活被困于维持生存的劳动和创造物品的工作而感到无意义，其核心理念在于重新激活最高层次的行动，即通过在公共领域的言论和行为展现自我独特性，中年人应通过在职场主动创新、参与社区公共事务和建立真实人际关系来抵抗平庸之恶，最终在创造和维护共同世界中找到真正的幸福与自我显现。"
       },
       "relatedPosts": [
         {
@@ -10928,138 +10232,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P30": {
-      "htmlDir": "docs/post/Cursor-AI-Revitalizes.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Cursor AI让中年程序员重新焕发职场活力",
-      "postUrl": "https://www.790427.xyz/post/Cursor-AI-Revitalizes.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/30",
-      "commentNum": 0,
-      "wordCount": 7803,
-      "createdAt": 1753589700,
-      "top": 0,
-      "description": "一位面临技术淘汰危机的46岁资深程序员，通过使用Cursor AI这款智能编程伙伴，彻底改变了工作与学习方式，AI的代码补全、智能调试和代码重构功能，使其学习新框架的效率从数周缩短至几天，开发周期也大幅减少，最终让他能够将丰富的项目经验与AI的高效率相结合，摆脱重复性工作，专注于创造性思考和决策，从而在职场中重新证明了自身价值。",
-      "createdDate": "2025-07-27",
-      "isoDate": "2025-07-27T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:41:11+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250727.png",
-      "keywords": "中年程序员, Cursor AI, 技术淘汰, technological obsolescence, 智能编程伙伴, 编程效率, AI代码补全, 学习效率, 职业竞争力, 软件开发",
-      "quote": "Cursor AI通过智能代码补全和自动调试功能，让40+程序员编程效率提升200%，无需学习新语言即可跟上技术潮流，重新找回职场竞争力。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "Meta发布AI Agent新战略：重塑社交媒体未来 ",
-        "postUrl": "https://www.790427.xyz/post/Meta-AI-Agent.html",
-        "createdDate": "2025-07-28",
-        "description": "Meta最新发布的革命性AI Agent战略将通过具备自主行为能力的个性化AI助手重新定义社交媒体生态，它能为中年用户提供个性化内容策展和智能社交协助，从而变革信息获取方式并智能化管理社交关系，虽然带来了新的商业机会，但也引发了数据隐私的挑战，因此中年用户需要主动学习对话式交互界面并优化隐私设置，以适应即将到来的智能社交时代。"
-      },
-      "olderPost": {
-        "postTitle": "14:10间歇性禁食深度实践指南",
-        "postUrl": "https://www.790427.xyz/post/intermittent-fasting-guide.html",
-        "createdDate": "2025-07-26",
-        "description": "间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
-    "P29": {
-      "htmlDir": "docs/post/Meta-AI-Agent.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Meta发布AI Agent新战略：重塑社交媒体未来 ",
-      "postUrl": "https://www.790427.xyz/post/Meta-AI-Agent.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/29",
-      "commentNum": 0,
-      "wordCount": 10087,
-      "createdAt": 1753676100,
-      "top": 0,
-      "description": "Meta最新发布的革命性AI Agent战略将通过具备自主行为能力的个性化AI助手重新定义社交媒体生态，它能为中年用户提供个性化内容策展和智能社交协助，从而变革信息获取方式并智能化管理社交关系，虽然带来了新的商业机会，但也引发了数据隐私的挑战，因此中年用户需要主动学习对话式交互界面并优化隐私设置，以适应即将到来的智能社交时代。",
-      "createdDate": "2025-07-28",
-      "isoDate": "2025-07-28T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:50:30+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250728.png",
-      "keywords": "Meta, AI Agent, 社交媒体, 自主行为, autonomous behavior, 个性化, 数据隐私, data privacy, 对话式界面, conversational interface, 数字生活",
-      "quote": "Meta最新发布的AI Agent战略将改变社交媒体格局，中年用户需要了解个性化AI助手如何影响信息获取和社交方式，提前适应智能化社交时代。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "叔本华的意志哲学：中年人的精神自救指南 ",
-        "postUrl": "https://www.790427.xyz/post/Schopenhauer-Philosophy.html",
-        "createdDate": "2025-07-29",
-        "description": "德国哲学家叔本华的意志哲学深刻洞察了中年人的精神困境，他指出人生的本质是永不满足的生存意志，这导致人们陷入匮乏与无聊的无尽循环，对中年人而言，真正的解脱并非追求更多外在目标，而是通过沉浸于艺术与美的体验、投入纯粹的知识与理性修炼以及实践源于同情心的道德修养这三种方式来超越个人意志，最终在接受痛苦为人生常态的清醒认识中获得内心的平静。"
-      },
-      "olderPost": {
-        "postTitle": "Cursor AI让中年程序员重新焕发职场活力",
-        "postUrl": "https://www.790427.xyz/post/Cursor-AI-Revitalizes.html",
-        "createdDate": "2025-07-27",
-        "description": "一位面临技术淘汰危机的46岁资深程序员，通过使用Cursor AI这款智能编程伙伴，彻底改变了工作与学习方式，AI的代码补全、智能调试和代码重构功能，使其学习新框架的效率从数周缩短至几天，开发周期也大幅减少，最终让他能够将丰富的项目经验与AI的高效率相结合，摆脱重复性工作，专注于创造性思考和决策，从而在职场中重新证明了自身价值。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -11091,16 +10263,16 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Anthropic发布Claude 5 Mini开源模型",
-        "postUrl": "https://www.790427.xyz/post/Anthropic-Claude-5-Mini-open-source.html",
-        "createdDate": "2025-07-29",
-        "description": "Anthropic发布的Claude 5 Mini开源模型以其革命性的参数效率实现了技术突破，仅用20亿参数即达到接近GPT-3.5的性能，这一进展对中年专业人士意义重大，因为它意味着可以在家用电脑等低成本硬件上进行本地部署，从而完全掌控数据主权并大幅降低学习与运行成本，其用户友好的安装流程和深度行业定制能力，更为经验丰富的中年人通过AI增强咨询服务或开发数字化知识产品创造了新的商业与副业发展机会。"
+        "postTitle": "《反脆弱》：中年人的抗风险能力提升指南",
+        "postUrl": "https://www.790427.xyz/post/Antifragile.html",
+        "createdDate": "2025-07-30",
+        "description": "纳西姆·塔勒布的《反脆弱》理论为中年人提供了一种全新的生存策略，它超越了仅仅抵抗压力的坚韧性，倡导从压力、变化和不确定性中获得收益并变得更强大，中年人可以通过构建技能组合的多元化、发展多重收入来源、在投资中应用杠铃策略以及在健康和教育中拥抱适度压力，将自己从脆弱的系统中解放出来，"
       },
       "olderPost": {
-        "postTitle": "Meta发布AI Agent新战略：重塑社交媒体未来 ",
-        "postUrl": "https://www.790427.xyz/post/Meta-AI-Agent.html",
-        "createdDate": "2025-07-28",
-        "description": "Meta最新发布的革命性AI Agent战略将通过具备自主行为能力的个性化AI助手重新定义社交媒体生态，它能为中年用户提供个性化内容策展和智能社交协助，从而变革信息获取方式并智能化管理社交关系，虽然带来了新的商业机会，但也引发了数据隐私的挑战，因此中年用户需要主动学习对话式交互界面并优化隐私设置，以适应即将到来的智能社交时代。"
+        "postTitle": "14:10间歇性禁食深度实践指南",
+        "postUrl": "https://www.790427.xyz/post/intermittent-fasting-guide.html",
+        "createdDate": "2025-07-26",
+        "description": "间歇性禁食作为一种更温和且可持续的健康管理方案，特别适合生活节奏复杂的中年人，其核心在于每日禁食14小时并通过超过12小时后启动的代谢转换机制来燃烧脂肪，这种模式不仅能天然匹配中年人的社交与家庭生活节奏，还能积极应对中年期荷尔蒙变化，文章详细提供了营养优化策略、运动整合方案以及如何应对社交聚餐和初期适应症状的解决方案，最终强调通过系统监测将此法融入长期生活方式以实现可持续健康。"
       },
       "relatedPosts": [
         {
@@ -11163,10 +10335,10 @@
         "description": "腰椎间盘突出是中年人常见的脊柱疾病，其康复关键在于通过系统的康复训练而非立即手术，核心是强化由膈肌、盆底肌、腹横肌和多裂肌组成的“肌肉束腰”以重建核心稳定性，整个康复过程分为减轻疼痛的急性期、恢复活动度的恢复期和提高功能预防复发的强化期，通过科学的训练、正确的姿态保护、合理的营养补充和长期的生活方式调整，中年患者完全可以在12周内显著改善症状恢复正常生活与工作能力。"
       },
       "olderPost": {
-        "postTitle": "Anthropic发布Claude 5 Mini开源模型",
-        "postUrl": "https://www.790427.xyz/post/Anthropic-Claude-5-Mini-open-source.html",
+        "postTitle": "叔本华的意志哲学：中年人的精神自救指南 ",
+        "postUrl": "https://www.790427.xyz/post/Schopenhauer-Philosophy.html",
         "createdDate": "2025-07-29",
-        "description": "Anthropic发布的Claude 5 Mini开源模型以其革命性的参数效率实现了技术突破，仅用20亿参数即达到接近GPT-3.5的性能，这一进展对中年专业人士意义重大，因为它意味着可以在家用电脑等低成本硬件上进行本地部署，从而完全掌控数据主权并大幅降低学习与运行成本，其用户友好的安装流程和深度行业定制能力，更为经验丰富的中年人通过AI增强咨询服务或开发数字化知识产品创造了新的商业与副业发展机会。"
+        "description": "德国哲学家叔本华的意志哲学深刻洞察了中年人的精神困境，他指出人生的本质是永不满足的生存意志，这导致人们陷入匮乏与无聊的无尽循环，对中年人而言，真正的解脱并非追求更多外在目标，而是通过沉浸于艺术与美的体验、投入纯粹的知识与理性修炼以及实践源于同情心的道德修养这三种方式来超越个人意志，最终在接受痛苦为人生常态的清醒认识中获得内心的平静。"
       },
       "relatedPosts": [
         {
@@ -11223,10 +10395,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "社交媒体AI助手革命：中年人的数字社交新时代",
-        "postUrl": "https://www.790427.xyz/post/Digital-Socializing.html",
-        "createdDate": "2025-08-01",
-        "description": "最新的社交媒体AI助手通过其上下文理解能力，为面临信息过载和关系维护难题的中年用户提供了精准解决方案，它不仅能智能策展，优先展示家人朋友的动态及高价值内容，还能自动化辅助生日提醒和互动建议来优化关系管理，更有写作增强和隐私保护等功能，最终帮助中年用户在多个社交平台间实现高效、有意义且安全的数字社交体验。"
+        "postTitle": "庄子的逍遥哲学：中年人的心灵解脱之道",
+        "postUrl": "https://www.790427.xyz/post/Zhuangzi-Philosophy.html",
+        "createdDate": "2025-08-02",
+        "description": "庄子的道家哲学为面临工作压力与家庭责任束缚的中年人提供了深刻的精神指导，其核心无为思想并非消极避世而是倡导通过精神超脱来实现真正的内心自由，通过超越物质束缚、社会认知和实现精神自由这逍遥游的三个境界，中年人可以学会在工作与家庭关系中顺应自然、以柔克刚，并最终接纳生命无常、超越得失之心，在纷繁复杂的现代生活中找到内心的平静与平衡。"
       },
       "olderPost": {
         "postTitle": "《反脆弱》：中年人的抗风险能力提升指南",
@@ -11258,72 +10430,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P24": {
-      "htmlDir": "docs/post/Digital-Socializing.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "社交媒体AI助手革命：中年人的数字社交新时代",
-      "postUrl": "https://www.790427.xyz/post/Digital-Socializing.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/24",
-      "commentNum": 0,
-      "wordCount": 12507,
-      "createdAt": 1754021700,
-      "top": 0,
-      "description": "最新的社交媒体AI助手通过其上下文理解能力，为面临信息过载和关系维护难题的中年用户提供了精准解决方案，它不仅能智能策展，优先展示家人朋友的动态及高价值内容，还能自动化辅助生日提醒和互动建议来优化关系管理，更有写作增强和隐私保护等功能，最终帮助中年用户在多个社交平台间实现高效、有意义且安全的数字社交体验。",
-      "createdDate": "2025-08-01",
-      "isoDate": "2025-08-01T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:46:03+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250801.png",
-      "keywords": "AI社交助手, 信息过载, 内容策展, 关系管理, 上下文理解, contextual understanding, 个性化, 隐私保护, 写作增强, 数字社交",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "庄子的逍遥哲学：中年人的心灵解脱之道",
-        "postUrl": "https://www.790427.xyz/post/Zhuangzi-Philosophy.html",
-        "createdDate": "2025-08-02",
-        "description": "庄子的道家哲学为面临工作压力与家庭责任束缚的中年人提供了深刻的精神指导，其核心无为思想并非消极避世而是倡导通过精神超脱来实现真正的内心自由，通过超越物质束缚、社会认知和实现精神自由这逍遥游的三个境界，中年人可以学会在工作与家庭关系中顺应自然、以柔克刚，并最终接纳生命无常、超越得失之心，在纷繁复杂的现代生活中找到内心的平静与平衡。"
-      },
-      "olderPost": {
-        "postTitle": "腰椎间盘突出的康复训练：中年人的脊柱自救方案",
-        "postUrl": "https://www.790427.xyz/post/Lumbar-Disc-Herniation-Rehabilitation.html",
-        "createdDate": "2025-07-31",
-        "description": "腰椎间盘突出是中年人常见的脊柱疾病，其康复关键在于通过系统的康复训练而非立即手术，核心是强化由膈肌、盆底肌、腹横肌和多裂肌组成的“肌肉束腰”以重建核心稳定性，整个康复过程分为减轻疼痛的急性期、恢复活动度的恢复期和提高功能预防复发的强化期，通过科学的训练、正确的姿态保护、合理的营养补充和长期的生活方式调整，中年患者完全可以在12周内显著改善症状恢复正常生活与工作能力。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -11361,10 +10467,10 @@
         "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。"
       },
       "olderPost": {
-        "postTitle": "社交媒体AI助手革命：中年人的数字社交新时代",
-        "postUrl": "https://www.790427.xyz/post/Digital-Socializing.html",
-        "createdDate": "2025-08-01",
-        "description": "最新的社交媒体AI助手通过其上下文理解能力，为面临信息过载和关系维护难题的中年用户提供了精准解决方案，它不仅能智能策展，优先展示家人朋友的动态及高价值内容，还能自动化辅助生日提醒和互动建议来优化关系管理，更有写作增强和隐私保护等功能，最终帮助中年用户在多个社交平台间实现高效、有意义且安全的数字社交体验。"
+        "postTitle": "腰椎间盘突出的康复训练：中年人的脊柱自救方案",
+        "postUrl": "https://www.790427.xyz/post/Lumbar-Disc-Herniation-Rehabilitation.html",
+        "createdDate": "2025-07-31",
+        "description": "腰椎间盘突出是中年人常见的脊柱疾病，其康复关键在于通过系统的康复训练而非立即手术，核心是强化由膈肌、盆底肌、腹横肌和多裂肌组成的“肌肉束腰”以重建核心稳定性，整个康复过程分为减轻疼痛的急性期、恢复活动度的恢复期和提高功能预防复发的强化期，通过科学的训练、正确的姿态保护、合理的营养补充和长期的生活方式调整，中年患者完全可以在12周内显著改善症状恢复正常生活与工作能力。"
       },
       "relatedPosts": [
         {
@@ -11553,10 +10659,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Miro：重塑中年团队协作的智能白板",
-        "postUrl": "https://www.790427.xyz/post/Miro-A-smart-whiteboard.html",
-        "createdDate": "2025-08-07",
-        "description": "Miro作为全球领先的在线协作白板平台，凭借其上千种专业模板、故事板模式和无缝集成常用办公工具的强大功能，为面临远程协作与会议效率挑战的中年专业人士提供了极具价值的解决方案，通过其直观的数字便利贴、流程图和看板功能，中年管理者能够高效地进行战略规划与项目管理，实现团队会议效率与决策速度的大幅提升。"
+        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
+        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
+        "createdDate": "2025-08-08",
+        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
       },
       "olderPost": {
         "postTitle": "餐后运动与冥想的养生之道",
@@ -11591,72 +10697,6 @@
         }
       ]
     },
-    "P19": {
-      "htmlDir": "docs/post/Miro-A-smart-whiteboard.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Miro：重塑中年团队协作的智能白板",
-      "postUrl": "https://www.790427.xyz/post/Miro-A-smart-whiteboard.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/19",
-      "commentNum": 0,
-      "wordCount": 5789,
-      "createdAt": 1754540100,
-      "top": 0,
-      "description": "Miro作为全球领先的在线协作白板平台，凭借其上千种专业模板、故事板模式和无缝集成常用办公工具的强大功能，为面临远程协作与会议效率挑战的中年专业人士提供了极具价值的解决方案，通过其直观的数字便利贴、流程图和看板功能，中年管理者能够高效地进行战略规划与项目管理，实现团队会议效率与决策速度的大幅提升。",
-      "createdDate": "2025-08-07",
-      "isoDate": "2025-08-07T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:40:56+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250807.png",
-      "keywords": "Miro, 在线协作, 白板, 中年专业人士, 远程协作, 战略规划, seamless integration, 异步沟通, 项目管理, 效率提升",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
-        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
-        "createdDate": "2025-08-08",
-        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
-      },
-      "olderPost": {
-        "postTitle": "萨特的自由哲学与中年觉醒",
-        "postUrl": "https://www.790427.xyz/post/Jean-Paul-Sartre-philosophy.html",
-        "createdDate": "2025-08-06",
-        "description": "萨特的存在主义哲学以其存在先于本质的核心论断为中年危机提供了全新解读，他认为中年人无需被过去或社会期望所束缚，而是可以通过自由选择和行动重新定义自我，这种存在的焦虑并非消极症状而是觉醒的标志，中年人必须承担起选择的责任，并通过拒绝将自我价值完全依赖于他人眼光来摆脱他人即地狱的异化状态，最终通过承认选择的重量、拥抱不确定性和真诚面对自己来践行一种通往本真存在的行动哲学。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
-        }
-      ]
-    },
     "P18": {
       "htmlDir": "docs/post/The-Meaning-of-Living-LifeI.html",
       "labels": [
@@ -11685,16 +10725,16 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Framer AI：30秒生成网站，助力中年创业者零代码打造个人品牌",
-        "postUrl": "https://www.790427.xyz/post/Framer-AI.html",
-        "createdDate": "2025-08-11",
-        "description": "Framer AI作为一款云端网站生成器，为需要快速启动项目的中年用户提供了革命性的解决方案，它通过大语言模型仅需一句提示便可在30秒内生成包含配色、字体和多端自适应布局的网站草稿，其拖拽式和所见即所得的编辑界面，彻底消除了编码的技术门槛，让中年专业人士可以轻松创建行业落地页、课程页等，将更多精力聚焦于品牌和内容本身而非技术细节。"
+        "postTitle": "阿德勒的个体心理学：中年自卑与社会兴趣的再平衡",
+        "postUrl": "https://www.790427.xyz/post/Alfred-Adlers-Individual-Psychology.html",
+        "createdDate": "2025-08-12",
+        "description": "奥地利心理学家阿德勒的个体心理学强调整体人与社会情境，他认为人的成长动力源于自卑感，但中年危机往往来自于对自卑感的过度补偿，从而导致完美主义和比较焦虑，其理论指导中年人可通过回顾早期记忆修正生活风格，并将个人目标与共同体利益对齐来培养社会兴趣，最终在服务他人和贡献社会中找到更稳定的自尊与意义感。"
       },
       "olderPost": {
-        "postTitle": "Miro：重塑中年团队协作的智能白板",
-        "postUrl": "https://www.790427.xyz/post/Miro-A-smart-whiteboard.html",
-        "createdDate": "2025-08-07",
-        "description": "Miro作为全球领先的在线协作白板平台，凭借其上千种专业模板、故事板模式和无缝集成常用办公工具的强大功能，为面临远程协作与会议效率挑战的中年专业人士提供了极具价值的解决方案，通过其直观的数字便利贴、流程图和看板功能，中年管理者能够高效地进行战略规划与项目管理，实现团队会议效率与决策速度的大幅提升。"
+        "postTitle": "萨特的自由哲学与中年觉醒",
+        "postUrl": "https://www.790427.xyz/post/Jean-Paul-Sartre-philosophy.html",
+        "createdDate": "2025-08-06",
+        "description": "萨特的存在主义哲学以其存在先于本质的核心论断为中年危机提供了全新解读，他认为中年人无需被过去或社会期望所束缚，而是可以通过自由选择和行动重新定义自我，这种存在的焦虑并非消极症状而是觉醒的标志，中年人必须承担起选择的责任，并通过拒绝将自我价值完全依赖于他人眼光来摆脱他人即地狱的异化状态，最终通过承认选择的重量、拥抱不确定性和真诚面对自己来践行一种通往本真存在的行动哲学。"
       },
       "relatedPosts": [
         {
@@ -11720,72 +10760,6 @@
           "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
           "createdDate": "2026-02-03",
           "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P17": {
-      "htmlDir": "docs/post/Framer-AI.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Framer AI：30秒生成网站，助力中年创业者零代码打造个人品牌",
-      "postUrl": "https://www.790427.xyz/post/Framer-AI.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/17",
-      "commentNum": 1,
-      "wordCount": 2014,
-      "createdAt": 1754885700,
-      "top": 0,
-      "description": "Framer AI作为一款云端网站生成器，为需要快速启动项目的中年用户提供了革命性的解决方案，它通过大语言模型仅需一句提示便可在30秒内生成包含配色、字体和多端自适应布局的网站草稿，其拖拽式和所见即所得的编辑界面，彻底消除了编码的技术门槛，让中年专业人士可以轻松创建行业落地页、课程页等，将更多精力聚焦于品牌和内容本身而非技术细节。",
-      "createdDate": "2025-08-11",
-      "isoDate": "2025-08-11T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:40:44+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250811.png",
-      "keywords": "Framer AI, AI网站生成器, 无需编码, no coding, 落地页, SEO, 中年用户, 生产力工具, 所见即所得, 网站建设",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "阿德勒的个体心理学：中年自卑与社会兴趣的再平衡",
-        "postUrl": "https://www.790427.xyz/post/Alfred-Adlers-Individual-Psychology.html",
-        "createdDate": "2025-08-12",
-        "description": "奥地利心理学家阿德勒的个体心理学强调整体人与社会情境，他认为人的成长动力源于自卑感，但中年危机往往来自于对自卑感的过度补偿，从而导致完美主义和比较焦虑，其理论指导中年人可通过回顾早期记忆修正生活风格，并将个人目标与共同体利益对齐来培养社会兴趣，最终在服务他人和贡献社会中找到更稳定的自尊与意义感。"
-      },
-      "olderPost": {
-        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
-        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
-        "createdDate": "2025-08-08",
-        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -11823,10 +10797,10 @@
         "description": "以色列历史学家赫拉利的《人类简史》通过串联智人进化与社会秩序生成，为中年人提供了独特的叙事升级视角，其认知革命带来的想象秩序能启发个人将企业愿景、家庭价值和职业转轨重塑为有意义的叙事与使命，同时赫拉利也警示数字时代的技术崇拜风险，强调中年人需重视数据主权、算法偏见、老年可用性及长寿规划，以积极能动地应对未来挑战。"
       },
       "olderPost": {
-        "postTitle": "Framer AI：30秒生成网站，助力中年创业者零代码打造个人品牌",
-        "postUrl": "https://www.790427.xyz/post/Framer-AI.html",
-        "createdDate": "2025-08-11",
-        "description": "Framer AI作为一款云端网站生成器，为需要快速启动项目的中年用户提供了革命性的解决方案，它通过大语言模型仅需一句提示便可在30秒内生成包含配色、字体和多端自适应布局的网站草稿，其拖拽式和所见即所得的编辑界面，彻底消除了编码的技术门槛，让中年专业人士可以轻松创建行业落地页、课程页等，将更多精力聚焦于品牌和内容本身而非技术细节。"
+        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
+        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
+        "createdDate": "2025-08-08",
+        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
       },
       "relatedPosts": [
         {
@@ -12015,10 +10989,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
-        "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
-        "createdDate": "2025-08-18",
-        "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
+        "postTitle": "海德格尔哲学：中年危机中寻找\"本真存在\"的思辨之路",
+        "postUrl": "https://www.790427.xyz/post/Heideggers-Philosophy.html",
+        "createdDate": "2025-08-19",
+        "description": "德国哲学家海德格尔通过其核心概念此在重新定义了人的存在状态，他区分了本真存在与非本真存在，并指出中年人常常陷入被闲聊、好奇和歧义性所支配的沉沦状态，通往本真存在的路径在于聆听良知的召唤，勇敢直面向死而生这一生命有限性的事实，并最终以决断的勇气选择真正属于自己的生活方式，从而将死亡焦虑转化为生活的紧迫感和选择的清晰度。"
       },
       "olderPost": {
         "postTitle": "冷疗：中年人的代谢重启与疼痛管理新工具",
@@ -12050,72 +11024,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-31-fomo-control.html",
           "createdDate": "2026-01-11",
           "description": "A股疯涨15天，你也想追高吗，莫白来复盘本周心理战，如何用太极思维克服错失恐惧，以及为什么我放弃了最熟悉的京东物流，选择了盈富基金。"
-        }
-      ]
-    },
-    "P12": {
-      "htmlDir": "docs/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
-      "labels": [
-        "技术辅助"
-      ],
-      "contentCategory": "技术辅助",
-      "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
-      "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/12",
-      "commentNum": 0,
-      "wordCount": 5396,
-      "createdAt": 1755490500,
-      "top": 0,
-      "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。",
-      "createdDate": "2025-08-18",
-      "isoDate": "2025-08-18T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:40:21+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250818.png",
-      "keywords": "Claude AI, Anthropic, 上下文窗口, context window, Constitutional AI, 数据隐私, 多模态分析, AI助手, 生产力工具, 中年管理者",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "海德格尔哲学：中年危机中寻找\"本真存在\"的思辨之路",
-        "postUrl": "https://www.790427.xyz/post/Heideggers-Philosophy.html",
-        "createdDate": "2025-08-19",
-        "description": "德国哲学家海德格尔通过其核心概念此在重新定义了人的存在状态，他区分了本真存在与非本真存在，并指出中年人常常陷入被闲聊、好奇和歧义性所支配的沉沦状态，通往本真存在的路径在于聆听良知的召唤，勇敢直面向死而生这一生命有限性的事实，并最终以决断的勇气选择真正属于自己的生活方式，从而将死亡焦虑转化为生活的紧迫感和选择的清晰度。"
-      },
-      "olderPost": {
-        "postTitle": "固定收益进阶：阶梯式债券基金与TIPS的通胀对冲组合",
-        "postUrl": "https://www.790427.xyz/post/Laddered-Bond-Funds-plus-TIPS.html",
-        "createdDate": "2025-08-15",
-        "description": "债券基金作为一种低费用、高流动性的投资工具，其期限阶梯策略通过分散1-10年期债券到期日来降低再投资风险并锁定滚动现金流，中年投资者可将核心资产配置于阶梯式国债基金，辅以高收益债和通胀保值债券TIPS以实现真实收益与通胀补偿，同时通过季度再平衡和随年龄调整高收益债占比来优化风险控制，以获得稳定的税前月度现金流。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "经济学人、纽约客等英语外刊杂志下载及说明",
-          "postUrl": "https://www.790427.xyz/post/english-book-download.html",
-          "createdDate": "2025-09-09",
-          "description": "为英语学习爱好者提供一份英语学习指南和相应的免费资源"
-        },
-        {
-          "postTitle": "AI工具介绍",
-          "postUrl": "https://www.790427.xyz/post/AI-gong-ju-jie-shao.html",
-          "createdDate": "2025-09-08",
-          "description": "## 🤖 大语言模型\n<div align='center'>\n\n\n\n</div>\n\n### 🏆 本站推荐 TOP3\n| 模型 | 特点 | 排名 |\n|------|------|------|\n| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |\n| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |\n| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |\n\n<br>\n\n<details>\n<summary><b>查看详细内容</b></summary>\n\n在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。"
-        },
-        {
-          "postTitle": "终结深度阅读焦虑：中年人如何用Claude AI的200K窗口，10分钟“吃透”一份200页的报告？",
-          "postUrl": "https://www.790427.xyz/post/use-cluade-ai.html",
-          "createdDate": "2025-09-04",
-          "description": "面对中年专业人士普遍存在的深度阅读焦虑和信息密度过载问题，本文提供了一套基于Claude AI超大上下文窗口的AI顾问团工作流，该方案旨在将用户从被动的信息处理者升级为主动的智慧决策者，通过组建专家小组、进行批判性提问、召开虚拟圆-桌会议和生成最终决策备忘录这四个可操作步骤，中年人可以将多份复杂报告一次性输入AI，并通过多角色诘问与辩论，在短时间内将海量信息提炼为直达问题核心的深刻洞察，从而终结阅读焦虑，重获认知掌控力。"
         }
       ]
     },
@@ -12153,10 +11061,10 @@
         "description": "桥水基金创始人瑞·达利欧的《原则》为中年管理者提供了一套完整的决策与管理体系，其核心在于通过极度求真和极度透明的文化来诚实面对现实，并运用可信度加权的决策机制尊重专业经验，同时将工作与生活视为一台可通过设定目标、识别问题、诊断根因、设计方案和执行改进这五步流程来系统化优化的机器，最终帮助人们做出更好决策并创造更有意义的人生。"
       },
       "olderPost": {
-        "postTitle": "Claude AI：中年职场人的智能对话伙伴与高效工作助手",
-        "postUrl": "https://www.790427.xyz/post/Claude-AI-The-Intelligent-Conversational-Partner.html",
-        "createdDate": "2025-08-18",
-        "description": "由Anthropic公司开发的Claude AI凭借其20万token的超大上下文窗口彻底改变了中年管理者的工作模式，它能够处理相当于500页的文档，并基于其Constitutional AI训练方法和不无限期存储用户数据的策略，为注重安全与隐私的中年专业人士提供了可靠保障，其强大的编程、写作及多模态分析能力，结合用户友好的语音助手和办公工具集成功能，显著提升了处理复杂报告与信息的效率。"
+        "postTitle": "固定收益进阶：阶梯式债券基金与TIPS的通胀对冲组合",
+        "postUrl": "https://www.790427.xyz/post/Laddered-Bond-Funds-plus-TIPS.html",
+        "createdDate": "2025-08-15",
+        "description": "债券基金作为一种低费用、高流动性的投资工具，其期限阶梯策略通过分散1-10年期债券到期日来降低再投资风险并锁定滚动现金流，中年投资者可将核心资产配置于阶梯式国债基金，辅以高收益债和通胀保值债券TIPS以实现真实收益与通胀补偿，同时通过季度再平衡和随年龄调整高收益债占比来优化风险控制，以获得稳定的税前月度现金流。"
       },
       "relatedPosts": [
         {
