@@ -7978,16 +7978,16 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "《思考，快与慢》：中年决策者的认知升级指南，摆脱思维陷阱的智慧之书",
-        "postUrl": "https://www.790427.xyz/post/Thinking-Fast-and-Slow.html",
-        "createdDate": "2025-08-27",
-        "description": "本文专为面临职业、投资等重大决策的中年人解读《思考，快与慢》，文章深入解析了大脑的快（直觉）与慢（理性）两种思维系统，并结合锚定效应、损失厌恶等常见认知偏误，提供了决策检查清单等实用工具，旨在帮助中年读者识别并克服思维陷阱，在人生的关键路口做出更明智、更理性的选择。"
+        "postTitle": "量化投资策略：中年理财的科学化路径，用数据驱动财富增长",
+        "postUrl": "https://www.790427.xyz/post/quantitative-investment.html",
+        "createdDate": "2025-08-29",
+        "description": "量化投资是利用计算机和数学模型，通过分析海量数据执行投资策略的科学方法，它能克服人性弱点，实现纪律性交易，特别适合时间有限的中年投资者，本文介绍了多因子选股、市场中性等稳健策略，并阐述了从构建、回测到风险管理的实施步骤，同时，还涵盖了智能投顾的应用和模型失效等潜在风险，为中年投资者参与量化投资提供了清晰的指引。"
       },
       "olderPost": {
-        "postTitle": "阿德勒的个体心理学：中年自卑与社会兴趣的再平衡",
-        "postUrl": "https://www.790427.xyz/post/Alfred-Adlers-Individual-Psychology.html",
-        "createdDate": "2025-08-12",
-        "description": "奥地利心理学家阿德勒的个体心理学强调整体人与社会情境，他认为人的成长动力源于自卑感，但中年危机往往来自于对自卑感的过度补偿，从而导致完美主义和比较焦虑，其理论指导中年人可通过回顾早期记忆修正生活风格，并将个人目标与共同体利益对齐来培养社会兴趣，最终在服务他人和贡献社会中找到更稳定的自尊与意义感。"
+        "postTitle": "稳健增长的财富管理策略",
+        "postUrl": "https://www.790427.xyz/post/trust-products-and-growth-investing.html",
+        "createdDate": "2025-08-04",
+        "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。"
       },
       "relatedPosts": [
         {
@@ -8032,10 +8032,10 @@
         "description": "中年睡眠危机源于皮质醇与褪黑激素的节律失衡及深度睡眠的结构性减少，本文提供一套科学重置方案，核心在于建立固定的睡眠锚点并严格执行断电一小时的睡前仪式，通过分步调暗光线、降低体温和清空思绪，结合对凉爽、黑暗、安静睡眠环境的物理优化及对日间饮食运动的策略性安排，中年人可以系统性修复睡眠架构，解决夜醒和入睡困难，重获白日的专注力与情绪稳定。"
       },
       "olderPost": {
-        "postTitle": "中医拔罐疗法：中年人身心调理的传统智慧，现代生活的养生新选择",
-        "postUrl": "https://www.790427.xyz/post/cupping-therapy.html",
-        "createdDate": "2025-08-28",
-        "description": "拔罐疗法，古称角法，是一种利用负压原理的中医外治法，通过机械刺激和神经内分泌反应，改善局部循环和组织代谢，特别适用于中年人群，可缓解颈肩僵硬、腰背疼痛、失眠焦虑等问题，本文详细阐述了拔罐的科学原理、治疗机制、适用人群、安全操作、罐印颜色解读及禁忌事项，强调其作为一种科学有效且操作简便的现代养生方式。"
+        "postTitle": "网站调试与功能增强日志",
+        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+        "createdDate": "2025-08-24",
+        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
       },
       "relatedPosts": [
         {
@@ -8061,265 +8061,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
           "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        }
-      ]
-    },
-    "P61": {
-      "htmlDir": "docs/post/cupping-therapy.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "中医拔罐疗法：中年人身心调理的传统智慧，现代生活的养生新选择",
-      "postUrl": "https://www.790427.xyz/post/cupping-therapy.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/61",
-      "commentNum": 0,
-      "wordCount": 6648,
-      "createdAt": 1756332900,
-      "top": 0,
-      "description": "拔罐疗法，古称角法，是一种利用负压原理的中医外治法，通过机械刺激和神经内分泌反应，改善局部循环和组织代谢，特别适用于中年人群，可缓解颈肩僵硬、腰背疼痛、失眠焦虑等问题，本文详细阐述了拔罐的科学原理、治疗机制、适用人群、安全操作、罐印颜色解读及禁忌事项，强调其作为一种科学有效且操作简便的现代养生方式。",
-      "createdDate": "2025-08-28",
-      "isoDate": "2025-08-28T06:15:00+08:00",
-      "updatedDate": "2026-07-09",
-      "updatedIsoDate": "2026-07-09T21:39:26+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250828.png",
-      "keywords": "拔罐疗法,负压原理,气血调理,经络疏通,中医养生,身心调理,cupping therapy,negative pressure principle,qi-blood regulation,meridian unblocking,TCM wellness,physical-mental conditioning",
-      "quote": "拔罐疗法通过负压原理促进血液循环、疏通经络，为中年人提供安全有效的身心调理方法，适合现代快节奏生活的养生需求。 ",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "量化投资策略：中年理财的科学化路径，用数据驱动财富增长",
-        "postUrl": "https://www.790427.xyz/post/quantitative-investment.html",
-        "createdDate": "2025-08-29",
-        "description": "量化投资是利用计算机和数学模型，通过分析海量数据执行投资策略的科学方法，它能克服人性弱点，实现纪律性交易，特别适合时间有限的中年投资者，本文介绍了多因子选股、市场中性等稳健策略，并阐述了从构建、回测到风险管理的实施步骤，同时，还涵盖了智能投顾的应用和模型失效等潜在风险，为中年投资者参与量化投资提供了清晰的指引。"
-      },
-      "olderPost": {
-        "postTitle": "《思考，快与慢》：中年决策者的认知升级指南，摆脱思维陷阱的智慧之书",
-        "postUrl": "https://www.790427.xyz/post/Thinking-Fast-and-Slow.html",
-        "createdDate": "2025-08-27",
-        "description": "本文专为面临职业、投资等重大决策的中年人解读《思考，快与慢》，文章深入解析了大脑的快（直觉）与慢（理性）两种思维系统，并结合锚定效应、损失厌恶等常见认知偏误，提供了决策检查清单等实用工具，旨在帮助中年读者识别并克服思维陷阱，在人生的关键路口做出更明智、更理性的选择。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P60": {
-      "htmlDir": "docs/post/Thinking-Fast-and-Slow.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "《思考，快与慢》：中年决策者的认知升级指南，摆脱思维陷阱的智慧之书",
-      "postUrl": "https://www.790427.xyz/post/Thinking-Fast-and-Slow.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/60",
-      "commentNum": 0,
-      "wordCount": 7003,
-      "createdAt": 1756246500,
-      "top": 0,
-      "description": "本文专为面临职业、投资等重大决策的中年人解读《思考，快与慢》，文章深入解析了大脑的快（直觉）与慢（理性）两种思维系统，并结合锚定效应、损失厌恶等常见认知偏误，提供了决策检查清单等实用工具，旨在帮助中年读者识别并克服思维陷阱，在人生的关键路口做出更明智、更理性的选择。",
-      "createdDate": "2025-08-27",
-      "isoDate": "2025-08-27T06:15:00+08:00",
-      "updatedDate": "2026-07-09",
-      "updatedIsoDate": "2026-07-09T21:39:30+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/202508271.png",
-      "keywords": "思考快与慢,双系统思维,认知偏误,损失厌恶,框架效应,专家直觉,Thinking Fast and Slow,dual system thinking,cognitive bias,loss aversion,framing effect,expert intuition",
-      "quote": "卡尼曼的双系统思维模型为中年决策者提供了识别认知偏误、提升决策质量的科学框架，是应对复杂决策环境的必备工具",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "中医拔罐疗法：中年人身心调理的传统智慧，现代生活的养生新选择",
-        "postUrl": "https://www.790427.xyz/post/cupping-therapy.html",
-        "createdDate": "2025-08-28",
-        "description": "拔罐疗法，古称角法，是一种利用负压原理的中医外治法，通过机械刺激和神经内分泌反应，改善局部循环和组织代谢，特别适用于中年人群，可缓解颈肩僵硬、腰背疼痛、失眠焦虑等问题，本文详细阐述了拔罐的科学原理、治疗机制、适用人群、安全操作、罐印颜色解读及禁忌事项，强调其作为一种科学有效且操作简便的现代养生方式。"
-      },
-      "olderPost": {
-        "postTitle": "网站调试与功能增强日志",
-        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-        "createdDate": "2025-08-24",
-        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P55": {
-      "htmlDir": "docs/post/Seneca.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "与斯多葛哲学家塞涅卡对话",
-      "postUrl": "https://www.790427.xyz/post/Seneca.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/55",
-      "commentNum": 0,
-      "wordCount": 2883,
-      "createdAt": 1751811300,
-      "top": 0,
-      "description": "古罗马斯多葛哲学家塞涅卡的人生经历与哲学思想为中年人提供了深刻启示，他强调通过理性控制情感来面对生活的不确定性，并提出时间是最宝贵财富的观点，其教导我们专注于可控之事接纳不可控之实的智慧，有助于中年朋友在快节奏的现代社会中重估生活优先级，在压力下保持内心平静，培养面对变化的强大韧性。",
-      "createdDate": "2025-07-06",
-      "isoDate": "2025-07-06T22:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:38:08+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250706.png",
-      "keywords": "斯多葛哲学, 塞涅卡, 中年哲学, 人生智慧, 心理健康, 时间管理, Stoic philosophy, Seneca, midlife philosophy, life wisdom, mental health, time management",
-      "quote": "塞涅卡的智慧可以帮助我们：重新评估生活优先级，学会在压力中保持内心平静，理解财富和地位的相对价值，以及培养面对生活变化的韧性。正如他所说：每一个新的开始都来自某个其他开始的结束。",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "庄子的逍遥哲学：中年人的心灵解脱之道",
-        "postUrl": "https://www.790427.xyz/post/Zhuangzi-Philosophy.html",
-        "createdDate": "2025-08-02",
-        "description": "庄子的道家哲学为面临工作压力与家庭责任束缚的中年人提供了深刻的精神指导，其核心无为思想并非消极避世而是倡导通过精神超脱来实现真正的内心自由，通过超越物质束缚、社会认知和实现精神自由这逍遥游的三个境界，中年人可以学会在工作与家庭关系中顺应自然、以柔克刚，并最终接纳生命无常、超越得失之心，在纷繁复杂的现代生活中找到内心的平静与平衡。"
-      },
-      "olderPost": null,
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P23": {
-      "htmlDir": "docs/post/Zhuangzi-Philosophy.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "庄子的逍遥哲学：中年人的心灵解脱之道",
-      "postUrl": "https://www.790427.xyz/post/Zhuangzi-Philosophy.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/23",
-      "commentNum": 0,
-      "wordCount": 15083,
-      "createdAt": 1754108100,
-      "top": 0,
-      "description": "庄子的道家哲学为面临工作压力与家庭责任束缚的中年人提供了深刻的精神指导，其核心无为思想并非消极避世而是倡导通过精神超脱来实现真正的内心自由，通过超越物质束缚、社会认知和实现精神自由这逍遥游的三个境界，中年人可以学会在工作与家庭关系中顺应自然、以柔克刚，并最终接纳生命无常、超越得失之心，在纷繁复杂的现代生活中找到内心的平静与平衡。",
-      "createdDate": "2025-08-02",
-      "isoDate": "2025-08-02T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:38:16+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250802.png",
-      "keywords": "庄子, 逍遥游, 无为, wu wei, 精神超脱, spiritual detachment, 中年, 顺其自然, ziran, 内心平静",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "稳健增长的财富管理策略",
-        "postUrl": "https://www.790427.xyz/post/trust-products-and-growth-investing.html",
-        "createdDate": "2025-08-04",
-        "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。"
-      },
-      "olderPost": {
-        "postTitle": "与斯多葛哲学家塞涅卡对话",
-        "postUrl": "https://www.790427.xyz/post/Seneca.html",
-        "createdDate": "2025-07-06",
-        "description": "古罗马斯多葛哲学家塞涅卡的人生经历与哲学思想为中年人提供了深刻启示，他强调通过理性控制情感来面对生活的不确定性，并提出时间是最宝贵财富的观点，其教导我们专注于可控之事接纳不可控之实的智慧，有助于中年朋友在快节奏的现代社会中重估生活优先级，在压力下保持内心平静，培养面对变化的强大韧性。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
         }
       ]
     },
@@ -8351,17 +8092,12 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "餐后运动与冥想的养生之道",
-        "postUrl": "https://www.790427.xyz/post/post-meal-walking-and-meditation.html",
-        "createdDate": "2025-08-05",
-        "description": "中年人维护健康应建立综合养生策略，其中餐后30分钟开始的轻度运动如慢走能有效控制血糖峰值，而作为压力管理工具的正念冥想则通过培养觉察力帮助中年人理性面对生活挑战，同时结合了传统与现代技术的中医电针疗法和石疗养生，能分别对颈椎腰椎等具体病痛和慢性疲劳进行有效干预，最终建议中年人制定321养生计划以系统化地管理个人健康。"
+        "postTitle": "网站调试与功能增强日志",
+        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
+        "createdDate": "2025-08-24",
+        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
       },
-      "olderPost": {
-        "postTitle": "庄子的逍遥哲学：中年人的心灵解脱之道",
-        "postUrl": "https://www.790427.xyz/post/Zhuangzi-Philosophy.html",
-        "createdDate": "2025-08-02",
-        "description": "庄子的道家哲学为面临工作压力与家庭责任束缚的中年人提供了深刻的精神指导，其核心无为思想并非消极避世而是倡导通过精神超脱来实现真正的内心自由，通过超越物质束缚、社会认知和实现精神自由这逍遥游的三个境界，中年人可以学会在工作与家庭关系中顺应自然、以柔克刚，并最终接纳生命无常、超越得失之心，在纷繁复杂的现代生活中找到内心的平静与平衡。"
-      },
+      "olderPost": null,
       "relatedPosts": [
         {
           "postTitle": "投资理财不是目的，而是自然的结果",
@@ -8386,204 +8122,6 @@
           "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
           "createdDate": "2026-01-04",
           "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        }
-      ]
-    },
-    "P21": {
-      "htmlDir": "docs/post/post-meal-walking-and-meditation.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "餐后运动与冥想的养生之道",
-      "postUrl": "https://www.790427.xyz/post/post-meal-walking-and-meditation.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/21",
-      "commentNum": 0,
-      "wordCount": 7020,
-      "createdAt": 1754367300,
-      "top": 0,
-      "description": "中年人维护健康应建立综合养生策略，其中餐后30分钟开始的轻度运动如慢走能有效控制血糖峰值，而作为压力管理工具的正念冥想则通过培养觉察力帮助中年人理性面对生活挑战，同时结合了传统与现代技术的中医电针疗法和石疗养生，能分别对颈椎腰椎等具体病痛和慢性疲劳进行有效干预，最终建议中年人制定321养生计划以系统化地管理个人健康。",
-      "createdDate": "2025-08-05",
-      "isoDate": "2025-08-05T12:15:00+08:00",
-      "updatedDate": "2026-07-09",
-      "updatedIsoDate": "2026-07-09T21:41:52+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250805.png",
-      "keywords": "中年健康, 餐后运动, 冥想, 正念, 电针疗法, 石疗, 综合养生, 血糖控制, 压力管理, 321养生计划",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
-        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
-        "createdDate": "2025-08-08",
-        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
-      },
-      "olderPost": {
-        "postTitle": "稳健增长的财富管理策略",
-        "postUrl": "https://www.790427.xyz/post/trust-products-and-growth-investing.html",
-        "createdDate": "2025-08-04",
-        "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P18": {
-      "htmlDir": "docs/post/The-Meaning-of-Living-LifeI.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
-      "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/18",
-      "commentNum": 0,
-      "wordCount": 6794,
-      "createdAt": 1754626500,
-      "top": 0,
-      "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。",
-      "createdDate": "2025-08-08",
-      "isoDate": "2025-08-08T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:38:17+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250808.png",
-      "keywords": "弗兰克尔, 活出生命的意义, 意义疗法, Logotherapy, 求意义意志, Will to Meaning, 存在空虚, 苦难, 中年危机, 人生意义",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "阿德勒的个体心理学：中年自卑与社会兴趣的再平衡",
-        "postUrl": "https://www.790427.xyz/post/Alfred-Adlers-Individual-Psychology.html",
-        "createdDate": "2025-08-12",
-        "description": "奥地利心理学家阿德勒的个体心理学强调整体人与社会情境，他认为人的成长动力源于自卑感，但中年危机往往来自于对自卑感的过度补偿，从而导致完美主义和比较焦虑，其理论指导中年人可通过回顾早期记忆修正生活风格，并将个人目标与共同体利益对齐来培养社会兴趣，最终在服务他人和贡献社会中找到更稳定的自尊与意义感。"
-      },
-      "olderPost": {
-        "postTitle": "餐后运动与冥想的养生之道",
-        "postUrl": "https://www.790427.xyz/post/post-meal-walking-and-meditation.html",
-        "createdDate": "2025-08-05",
-        "description": "中年人维护健康应建立综合养生策略，其中餐后30分钟开始的轻度运动如慢走能有效控制血糖峰值，而作为压力管理工具的正念冥想则通过培养觉察力帮助中年人理性面对生活挑战，同时结合了传统与现代技术的中医电针疗法和石疗养生，能分别对颈椎腰椎等具体病痛和慢性疲劳进行有效干预，最终建议中年人制定321养生计划以系统化地管理个人健康。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
-        }
-      ]
-    },
-    "P16": {
-      "htmlDir": "docs/post/Alfred-Adlers-Individual-Psychology.html",
-      "labels": [
-        "人生修行"
-      ],
-      "contentCategory": "人生修行",
-      "postTitle": "阿德勒的个体心理学：中年自卑与社会兴趣的再平衡",
-      "postUrl": "https://www.790427.xyz/post/Alfred-Adlers-Individual-Psychology.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/16",
-      "commentNum": 0,
-      "wordCount": 1824,
-      "createdAt": 1754972100,
-      "top": 0,
-      "description": "奥地利心理学家阿德勒的个体心理学强调整体人与社会情境，他认为人的成长动力源于自卑感，但中年危机往往来自于对自卑感的过度补偿，从而导致完美主义和比较焦虑，其理论指导中年人可通过回顾早期记忆修正生活风格，并将个人目标与共同体利益对齐来培养社会兴趣，最终在服务他人和贡献社会中找到更稳定的自尊与意义感。",
-      "createdDate": "2025-08-12",
-      "isoDate": "2025-08-12T12:15:00+08:00",
-      "updatedDate": "2026-07-20",
-      "updatedIsoDate": "2026-07-20T14:38:18+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250812.png",
-      "keywords": "阿德勒, 个体心理学, 自卑感, Inferiority, 补偿, 生活风格, 社会兴趣, Social Interest, 中年危机, 意义感",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "网站调试与功能增强日志",
-        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-        "createdDate": "2025-08-24",
-        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
-      },
-      "olderPost": {
-        "postTitle": "《活出生命的意义》：集中营幸存者的人生智慧",
-        "postUrl": "https://www.790427.xyz/post/The-Meaning-of-Living-LifeI.html",
-        "createdDate": "2025-08-08",
-        "description": "奥地利精神病学家弗兰克尔在其著作《活出生命的意义》中，通过记录其纳粹集中营的经历提出了意义疗法，他认为人类最基本的动机是求意义意志，这对于在物质成功后仍感精神空虚的中年人具有深刻启示，人们可以通过创造价值、体验价值和面对苦难时选择正确态度的态度价值这三大源泉来找到生命的意义，从而在被生命询问时承担起责任，用自己的行动回答生命的提问。"
-      },
-      "relatedPosts": [
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
-        },
-        {
-          "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
-          "createdDate": "2026-02-03",
-          "description": "董卓进京干了三件事，打破继承法统、熔断经济引擎、违背规律迁都，深度解析野蛮人如何通过格式化来摧毁一个文明。"
         }
       ]
     }
