@@ -443,20 +443,6 @@ class GMEEK:
                     mime_type = 'image/gif'
                 item.enclosure(url=image_url, length='0', type=mime_type)
 
-        # [新增] 手动将“英语学习指南”页面添加到 RSS Feed
-        print("====== adding manual page to RSS feed ======")
-        english_item = feed.add_item()
-        english_guide_url = f"{self.blogBase['homeUrl']}/english-study/index.html"
-        english_item.guid(english_guide_url, permalink=True)
-        english_item.title('英语学习指南-人到中年')
-        english_item.description('英语学习指南，专注中年人英语学习，雅思，托福，英语口语，英文写作，英语考试，英语自学，留学，移民英语的学习')
-        english_item.link(href=english_guide_url)
-        english_item.pubDate(datetime.datetime.fromisoformat('2025-09-10T01:05:46+00:00'))
-        english_item.enclosure(
-            url=self.blogBase["ogImage"],
-            length='0',
-            type='image/jpeg'
-        )
         feed.rss_file(os.path.join(self.root_dir, 'rss.xml'), pretty=True)
 
     def createSitemapXml(self):
