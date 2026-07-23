@@ -7983,12 +7983,7 @@
         "createdDate": "2025-08-29",
         "description": "量化投资是利用计算机和数学模型，通过分析海量数据执行投资策略的科学方法，它能克服人性弱点，实现纪律性交易，特别适合时间有限的中年投资者，本文介绍了多因子选股、市场中性等稳健策略，并阐述了从构建、回测到风险管理的实施步骤，同时，还涵盖了智能投顾的应用和模型失效等潜在风险，为中年投资者参与量化投资提供了清晰的指引。"
       },
-      "olderPost": {
-        "postTitle": "稳健增长的财富管理策略",
-        "postUrl": "https://www.790427.xyz/post/trust-products-and-growth-investing.html",
-        "createdDate": "2025-08-04",
-        "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。"
-      },
+      "olderPost": null,
       "relatedPosts": [
         {
           "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
@@ -8037,67 +8032,6 @@
         "createdDate": "2025-08-24",
         "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
       },
-      "relatedPosts": [
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
-        },
-        {
-          "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
-          "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
-          "createdDate": "2026-01-31",
-          "description": "你真的赚到钱了吗，深度解析交易的对手盘逻辑、浮盈的陷阱以及认知的边界。"
-        },
-        {
-          "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
-          "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
-          "createdDate": "2026-01-04",
-          "description": "懒人投资周报第48期，委内瑞拉总统被捕引发地缘震荡，长期油价逻辑重构，复盘2025资产表现，布局2026哑铃型策略。"
-        }
-      ]
-    },
-    "P22": {
-      "htmlDir": "docs/post/trust-products-and-growth-investing.html",
-      "labels": [
-        "赚钱投资"
-      ],
-      "contentCategory": "赚钱投资",
-      "postTitle": "稳健增长的财富管理策略",
-      "postUrl": "https://www.790427.xyz/post/trust-products-and-growth-investing.html",
-      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/22",
-      "commentNum": 0,
-      "wordCount": 7499,
-      "createdAt": 1754280900,
-      "top": 0,
-      "description": "风险可控的信托产品来平衡收益与风险，同时构建包含基本养老保险、企业年金和个人投资的三支柱养老保障体系，运用核心卫星或哑铃型等多元化资产配置策略对冲通胀，并建立覆盖6个月支出的应急基金和定期重平衡投资组合的纪律性风险管理，最终实现财富的稳健增值与保值。",
-      "createdDate": "2025-08-04",
-      "isoDate": "2025-08-04T12:15:00+08:00",
-      "updatedDate": "2026-07-09",
-      "updatedIsoDate": "2026-07-09T21:41:46+08:00",
-      "dateLabelColor": "#0969da",
-      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
-      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
-      "head": "",
-      "ogImage": "https://www.790427.xyz/images/20250804.png",
-      "keywords": "成长型投资, 信托理财, 养老金投资, 多元化资产配置, 通胀对冲, 风险管理, 核心-卫星, 哑铃型策略, 投资组合, 中年理财",
-      "quote": "",
-      "daily_sentence": "",
-      "password": "",
-      "newerPost": {
-        "postTitle": "网站调试与功能增强日志",
-        "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-        "createdDate": "2025-08-24",
-        "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
-      },
-      "olderPost": null,
       "relatedPosts": [
         {
           "postTitle": "投资理财不是目的，而是自然的结果",
