@@ -98,7 +98,7 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":"","contentCategorySlugs":{"人生修行":"xiu-xing","赚钱投资":"tou-zi","技术辅助":"ai-jiao-xue"}}
+        dconfig={"singlePage":[],"hiddenPage":[],"disabledPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":"","contentCategorySlugs":{"人生修行":"xiu-xing","赚钱投资":"tou-zi","技术辅助":"ai-jiao-xue"}}
 
         self.blogBase={**dconfig,**config}
         self.blogBase["postListJson"]={}
@@ -327,6 +327,11 @@ class GMEEK:
             return
 
         issue_labels = [label.name for label in issue.labels]
+        disabled_labels = set(self.blogBase.get("disabledPage", []))
+        if disabled_labels.intersection(issue_labels):
+            print(f"Skipping issue #{issue.number} because it has a disabled page label.")
+            return
+
         page_label = self.getSinglePageLabel(issue_labels)
         is_single_page = bool(page_label)
         listJsonName = 'singeListJson' if is_single_page else 'postListJson'
