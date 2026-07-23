@@ -485,8 +485,9 @@ class GMEEK:
             if post["createdAt"] <= current_time:
                 add_url(post["postUrl"], post.get("updatedDate", post["createdDate"]), priority="0.9")
 
+        excluded_labels = set(self.blogBase["singlePage"]) | set(self.blogBase["hiddenPage"]) | set(self.blogBase.get("disabledPage", []))
         for label in self.blogBase.get("labelColorDict", {}).keys():
-            if label not in self.blogBase["singlePage"] and label not in self.blogBase["hiddenPage"]:
+            if label not in excluded_labels:
                 filename = f"{self.getLabelSlug(label)}.html"
                 add_url(f"{self.blogBase['homeUrl']}/{filename}", priority="0.6")
 
@@ -510,10 +511,11 @@ class GMEEK:
         all_posts = list(self.blogBase["postListJson"].values())
         tag_info = {}
         max_count = 0
+        excluded_labels = set(self.blogBase['singlePage']) | set(self.blogBase['hiddenPage']) | set(self.blogBase.get('disabledPage', []))
 
         for post in all_posts:
             for label in post['labels']:
-                if label not in self.blogBase['singlePage'] and label not in self.blogBase['hiddenPage']:
+                if label not in excluded_labels:
                     if label in tag_info:
                         tag_info[label]['count'] += 1
                     else:
@@ -543,9 +545,10 @@ class GMEEK:
         print("====== create single tag pages ======")
         all_posts = list(self.blogBase["postListJson"].values())
         all_tags = set()
+        excluded_labels = set(self.blogBase['singlePage']) | set(self.blogBase['hiddenPage']) | set(self.blogBase.get('disabledPage', []))
         for post in all_posts:
             for label in post['labels']:
-                if label not in self.blogBase['singlePage'] and label not in self.blogBase['hiddenPage']:
+                if label not in excluded_labels:
                     all_tags.add(label)
 
         for tag in all_tags:

@@ -209,6 +209,14 @@ jobs:
           GOOGLE_CREDS_JSON: ${{ env.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON }}
         run: |
           set -euo pipefail
+          GOOGLE_SITEMAP_HISTORY="${{ env.SUBMISSION_HISTORY_DIR }}/submitted_google_sitemap.txt"
+          mkdir -p "${{ env.SUBMISSION_HISTORY_DIR }}"
+          touch "$GOOGLE_SITEMAP_HISTORY"
+          if grep -Fxq "${{ env.SITEMAP_URL }}" "$GOOGLE_SITEMAP_HISTORY"; then
+            echo "Google sitemap already submitted successfully: ${{ env.SITEMAP_URL }}"
+            exit 0
+          fi
+
           ACCESS_TOKEN=$(python - <<'PY'
           import base64
           import json
@@ -271,6 +279,7 @@ jobs:
           curl --fail-with-body -sS -X PUT \
             -H "Authorization: Bearer ${ACCESS_TOKEN}" \
             "https://www.googleapis.com/webmasters/v3/sites/${SITE_ENCODED}/sitemaps/${SITEMAP_ENCODED}"
+          echo "${{ env.SITEMAP_URL }}" >> "$GOOGLE_SITEMAP_HISTORY"
           echo "Submitted sitemap to Google Search Console: ${{ env.SITEMAP_URL }}"
 
       - name: Update successful submission histories
@@ -294,6 +303,6 @@ jobs:
 
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_baidu.tsv" "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_indexnow.tsv"
+          git add "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_baidu.tsv" "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_indexnow.tsv" "${{ env.SUBMISSION_HISTORY_DIR }}/submitted_google_sitemap.txt"
           git diff --quiet --cached --exit-code || git commit -m "📈 Chore: update submitted URL histories"
           git push
