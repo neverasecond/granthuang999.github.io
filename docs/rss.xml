@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Thu, 23 Jul 2026 06:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:47:58 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -540,14 +540,6 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/personal-board-directors.html</guid>
       <enclosure url="https://www.790427.xyz/images/1757477701.png" length="0" type="image/png"/>
       <pubDate>Wed, 10 Sep 2025 04:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>我的微信读书书架 / My WeRead Bookshelf</title>
-      <link>https://www.790427.xyz/post/weread-shelf-sync.html</link>
-      <description>通过https://github.com/sailor0913/weread-to-notion得到启发把微信读书的状态同步到github issues，然后渲染生成本页面，因为原来的api已经修改了权限，导致现在无法获取读书划线和评论，只能获取书籍的基本信息和读书状态，也欢迎大家在本页面下留言讨论，谢谢</description>
-      <guid isPermaLink="true">https://www.790427.xyz/post/weread-shelf-sync.html</guid>
-      <enclosure url="https://www.790427.xyz/images/social-card.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 03:15:39 +0000</pubDate>
     </item>
     <item>
       <title>40岁后，感觉活成了一个“工具人”？请重置你的人生资产配置</title>
