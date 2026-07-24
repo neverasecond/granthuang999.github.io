@@ -69,6 +69,67 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "postListJson": {
+    "P287": {
+      "htmlDir": "docs/post/freedom-is-self-mastery.html",
+      "labels": [
+        "人生修行"
+      ],
+      "contentCategory": "人生修行",
+      "postTitle": "自由，是你能控制自己",
+      "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/287",
+      "commentNum": 0,
+      "wordCount": 3019,
+      "createdAt": 1784861597,
+      "top": 0,
+      "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。",
+      "createdDate": "2026-07-24",
+      "isoDate": "2026-07-24T10:53:17+08:00",
+      "updatedDate": "2026-07-24",
+      "updatedIsoDate": "2026-07-24T10:53:17+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/freedom-is-self-mastery.jpg",
+      "keywords": "自由,逍遥,得道,自我控制,思想自由,行为自由,人生修行,庄子,中年觉醒,知行合一,修行",
+      "quote": "真正的自由，不是欲望获得批准，而是一个人开始拥有控制自己思想和行为的能力。",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
+        "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
+        "createdDate": "2026-07-24",
+        "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
+          "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
+          "createdDate": "2026-07-24",
+          "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
+        },
+        {
+          "postTitle": "我为什么要写“道、自由与修行”",
+          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
+          "createdDate": "2026-07-24",
+          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
+        },
+        {
+          "postTitle": "处境不是结论：从惠能初见五祖说起",
+          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
+          "createdDate": "2026-07-22",
+          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
+        },
+        {
+          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
+          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
+          "createdDate": "2026-07-20",
+          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
+        }
+      ]
+    },
     "P286": {
       "htmlDir": "docs/post/what-is-dedao-life-principle.html",
       "labels": [
@@ -96,7 +157,12 @@
       "quote": "所谓得道，不是忽然懂了一个神秘道理，而是终于找到一种能够贯穿自己一生的根本秩序。",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "自由，是你能控制自己",
+        "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+        "createdDate": "2026-07-24",
+        "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+      },
       "olderPost": {
         "postTitle": "我为什么要写“道、自由与修行”",
         "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
@@ -104,6 +170,12 @@
         "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
         {
           "postTitle": "我为什么要写“道、自由与修行”",
           "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
@@ -121,12 +193,6 @@
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
           "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
         }
       ]
     },
@@ -171,6 +237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -187,12 +259,6 @@
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
           "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
         }
       ]
     },
@@ -304,6 +370,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -320,12 +392,6 @@
           "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
           "createdDate": "2026-07-20",
           "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
         }
       ]
     },
@@ -371,6 +437,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -387,12 +459,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
-          "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
-          "createdDate": "2026-02-04",
-          "description": "贾诩活成了乱世的赢家，却丢掉了做人的底线，借古讽今，深度解剖那些为了私利而为野蛮辩护的聪明人当生存成为唯一信仰，人与兽的界限在哪里？"
         }
       ]
     },
@@ -486,6 +552,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -502,12 +574,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -619,6 +685,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -635,12 +707,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -686,6 +752,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -702,12 +774,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -819,6 +885,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -835,12 +907,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -886,6 +952,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -902,12 +974,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -953,6 +1019,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -969,12 +1041,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1020,6 +1086,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1036,12 +1108,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1087,6 +1153,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1103,12 +1175,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1154,6 +1220,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1170,12 +1242,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1221,6 +1287,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1237,12 +1309,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1288,6 +1354,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1304,12 +1376,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1355,6 +1421,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1371,12 +1443,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1422,6 +1488,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1438,12 +1510,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1489,6 +1555,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1505,12 +1577,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1556,6 +1622,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1572,12 +1644,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1623,6 +1689,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1639,12 +1711,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1690,6 +1756,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1706,12 +1778,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1757,6 +1823,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1773,12 +1845,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1823,6 +1889,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1839,12 +1911,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1890,6 +1956,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1906,12 +1978,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -1957,6 +2023,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -1973,12 +2045,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2024,6 +2090,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2040,12 +2112,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2091,6 +2157,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2107,12 +2179,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2158,6 +2224,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2174,12 +2246,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2225,6 +2291,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2241,12 +2313,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2292,6 +2358,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2308,12 +2380,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2425,6 +2491,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2441,12 +2513,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2492,6 +2558,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2508,12 +2580,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2559,6 +2625,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2575,12 +2647,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2626,6 +2692,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2642,12 +2714,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2693,6 +2759,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2709,12 +2781,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2760,6 +2826,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2776,12 +2848,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2827,6 +2893,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2843,12 +2915,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2894,6 +2960,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2910,12 +2982,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -2961,6 +3027,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -2977,12 +3049,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3028,6 +3094,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3044,12 +3116,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3095,6 +3161,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3111,12 +3183,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3228,6 +3294,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3244,12 +3316,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3295,6 +3361,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3311,12 +3383,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3428,6 +3494,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3444,12 +3516,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3495,6 +3561,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3511,12 +3583,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3562,6 +3628,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3578,12 +3650,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3629,6 +3695,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3645,12 +3717,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3696,6 +3762,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3712,12 +3784,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3763,6 +3829,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3779,12 +3851,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3830,6 +3896,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3846,12 +3918,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3897,6 +3963,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3913,12 +3985,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -3964,6 +4030,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -3980,12 +4052,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4031,6 +4097,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4047,12 +4119,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4097,6 +4163,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4113,12 +4185,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4163,6 +4229,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4179,12 +4251,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4295,6 +4361,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4311,12 +4383,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4361,6 +4427,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4377,12 +4449,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4559,6 +4625,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4575,12 +4647,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4625,6 +4691,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4641,12 +4713,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4691,6 +4757,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4707,12 +4779,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4757,6 +4823,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4773,12 +4845,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4823,6 +4889,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4839,12 +4911,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -4889,6 +4955,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -4905,12 +4977,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5021,6 +5087,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5037,12 +5109,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5153,6 +5219,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5169,12 +5241,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5219,6 +5285,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5235,12 +5307,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5285,6 +5351,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5301,12 +5373,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5351,6 +5417,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5367,12 +5439,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5417,6 +5483,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5433,12 +5505,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5483,6 +5549,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5499,12 +5571,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5549,6 +5615,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5565,12 +5637,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5615,6 +5681,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5631,12 +5703,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5681,6 +5747,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5697,12 +5769,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5747,6 +5813,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5763,12 +5835,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5813,6 +5879,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5829,12 +5901,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5879,6 +5945,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5895,12 +5967,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -5945,6 +6011,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -5961,12 +6033,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6011,6 +6077,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6027,12 +6099,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6077,6 +6143,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6093,12 +6165,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6143,6 +6209,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6159,12 +6231,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6209,6 +6275,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6225,12 +6297,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6275,6 +6341,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6291,12 +6363,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6407,6 +6473,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6423,12 +6495,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6473,6 +6539,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6489,12 +6561,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6539,6 +6605,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6555,12 +6627,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6605,6 +6671,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6621,12 +6693,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6671,6 +6737,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6687,12 +6759,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6737,6 +6803,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6753,12 +6825,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6803,6 +6869,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6819,12 +6891,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -6869,6 +6935,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -6885,12 +6957,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7001,6 +7067,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7017,12 +7089,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7067,6 +7133,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7083,12 +7155,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7133,6 +7199,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7149,12 +7221,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7199,6 +7265,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7215,12 +7287,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7397,6 +7463,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7413,12 +7485,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7463,6 +7529,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7479,12 +7551,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7529,6 +7595,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7545,12 +7617,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7661,6 +7727,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7677,12 +7749,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7727,6 +7793,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7743,12 +7815,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7859,6 +7925,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7875,12 +7947,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -7925,6 +7991,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -7941,12 +8013,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
@@ -8057,6 +8123,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
           "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
@@ -8073,12 +8145,6 @@
           "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
           "createdDate": "2026-07-22",
           "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
-        },
-        {
-          "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
-          "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
-          "createdDate": "2026-07-20",
-          "description": "为什么在人到中年以后重新开始阅读佛经，并选择《坛经》作为第一部经典：不是寻找标准答案，而是学习在现实生活中观察自己的欲望、恐惧、执著与选择。"
         }
       ]
     },
