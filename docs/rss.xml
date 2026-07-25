@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Fri, 24 Jul 2026 06:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:00:45 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1049,6 +1049,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html</guid>
       <enclosure url="https://www.790427.xyz/images/cultivation-is-self-mastery-body-and-mind.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 02:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为什么给自己做了一个 iMessage 到 Codex 的小网关</title>
+      <link>https://www.790427.xyz/post/imessage-codex-gateway.html</link>
+      <description>我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/imessage-codex-gateway.html</guid>
+      <enclosure url="https://www.790427.xyz/images/imessage-codex-gateway-cover.png" length="0" type="image/png"/>
+      <pubDate>Sat, 25 Jul 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
