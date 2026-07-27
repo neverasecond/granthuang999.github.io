@@ -69,6 +69,67 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "postListJson": {
+    "P290": {
+      "htmlDir": "docs/post/platform-sutra-self-nature-clear.html",
+      "labels": [
+        "人生修行"
+      ],
+      "contentCategory": "人生修行",
+      "postTitle": "不必等心静下来：从《坛经》第一句说起",
+      "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/290",
+      "commentNum": 0,
+      "wordCount": 3209,
+      "createdAt": 1785027600,
+      "top": 0,
+      "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。",
+      "createdDate": "2026-07-26",
+      "isoDate": "2026-07-26T09:00:00+08:00",
+      "updatedDate": "2026-07-27",
+      "updatedIsoDate": "2026-07-27T10:50:17+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/platform-sutra-self-nature-clear-cover.png",
+      "keywords": "坛经,六祖坛经,惠能,菩提自性,本自清净,人生修行,中年修行,莫白来",
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
+        "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
+        "createdDate": "2026-07-25",
+        "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "修行，就是重新学会控制自己",
+          "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”与“自由”两篇文章，从一次练瑜伽动作做不到的亲身体验出发，讨论修行的意义：修行不是玄学表演，而是通过身体、注意力、欲望和情绪的日常练习，逐渐获得对身体与心灵的控制能力，让道和自由真正落到生活里。"
+        },
+        {
+          "postTitle": "自由，是你能控制自己",
+          "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
+          "createdDate": "2026-07-24",
+          "description": "承接“得道”主题，讨论世俗人生中的得道为何可以理解为获得逍遥与自由。文章区分欲望满足和真正自由，指出自由不是想做什么就做什么，而是能够控制自己的思想和行为，在欲望、情绪、责任和限制之中仍然保有选择能力。"
+        },
+        {
+          "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
+          "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
+          "createdDate": "2026-07-24",
+          "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
+        },
+        {
+          "postTitle": "我为什么要写“道、自由与修行”",
+          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
+          "createdDate": "2026-07-24",
+          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
+        }
+      ]
+    },
     "P289": {
       "htmlDir": "docs/post/imessage-codex-gateway.html",
       "labels": [
@@ -96,7 +157,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "不必等心静下来：从《坛经》第一句说起",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+        "createdDate": "2026-07-26",
+        "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+      },
       "olderPost": {
         "postTitle": "修行，就是重新学会控制自己",
         "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
@@ -159,6 +225,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "自由，是你能控制自己",
           "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
           "createdDate": "2026-07-24",
@@ -175,12 +247,6 @@
           "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
           "createdDate": "2026-07-24",
           "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
-        },
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
         }
       ]
     },
@@ -225,6 +291,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -241,12 +313,6 @@
           "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
           "createdDate": "2026-07-24",
           "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
-        },
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
         }
       ]
     },
@@ -291,6 +357,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -307,12 +379,6 @@
           "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
           "createdDate": "2026-07-24",
           "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
-        },
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
         }
       ]
     },
@@ -357,6 +423,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -373,12 +445,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "处境不是结论：从惠能初见五祖说起",
-          "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
-          "createdDate": "2026-07-22",
-          "description": "从惠能初见五祖的对话出发，讨论人在中年以后如何区分处境、身份和结论，并用事实、判断、行动三层方法重新观察年龄、失败、关系与自我设限。"
         }
       ]
     },
@@ -490,6 +556,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -506,12 +578,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -557,6 +623,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -573,12 +645,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -678,6 +744,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -694,12 +766,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -811,6 +877,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -827,12 +899,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -878,6 +944,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -894,12 +966,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1011,6 +1077,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1027,12 +1099,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1078,6 +1144,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1094,12 +1166,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1145,6 +1211,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1161,12 +1233,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1212,6 +1278,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1228,12 +1300,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1279,6 +1345,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1295,12 +1367,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1346,6 +1412,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1362,12 +1434,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1413,6 +1479,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1429,12 +1501,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1480,6 +1546,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1496,12 +1568,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1547,6 +1613,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1563,12 +1635,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1614,6 +1680,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1630,12 +1702,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1681,6 +1747,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1697,12 +1769,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1748,6 +1814,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1764,12 +1836,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1815,6 +1881,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1831,12 +1903,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1882,6 +1948,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1898,12 +1970,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -1949,6 +2015,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -1965,12 +2037,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2015,6 +2081,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2031,12 +2103,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2082,6 +2148,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2098,12 +2170,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2149,6 +2215,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2165,12 +2237,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2216,6 +2282,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2232,12 +2304,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2283,6 +2349,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2299,12 +2371,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2350,6 +2416,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2366,12 +2438,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2417,6 +2483,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2433,12 +2505,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2484,6 +2550,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2500,12 +2572,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2617,6 +2683,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2633,12 +2705,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2684,6 +2750,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2700,12 +2772,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2751,6 +2817,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2767,12 +2839,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2818,6 +2884,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2834,12 +2906,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2885,6 +2951,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2901,12 +2973,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -2952,6 +3018,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -2968,12 +3040,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3019,6 +3085,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3035,12 +3107,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3086,6 +3152,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3102,12 +3174,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3153,6 +3219,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3169,12 +3241,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3220,6 +3286,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3236,12 +3308,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3287,6 +3353,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3303,12 +3375,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3420,6 +3486,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3436,12 +3508,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3487,6 +3553,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3503,12 +3575,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3620,6 +3686,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3636,12 +3708,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3687,6 +3753,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3703,12 +3775,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3754,6 +3820,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3770,12 +3842,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3821,6 +3887,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3837,12 +3909,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3888,6 +3954,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3904,12 +3976,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -3955,6 +4021,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -3971,12 +4043,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4022,6 +4088,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4038,12 +4110,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4089,6 +4155,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4105,12 +4177,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4156,6 +4222,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4172,12 +4244,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4223,6 +4289,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4239,12 +4311,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4289,6 +4355,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4305,12 +4377,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4355,6 +4421,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4371,12 +4443,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4487,6 +4553,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4503,12 +4575,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4553,6 +4619,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4569,12 +4641,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4751,6 +4817,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4767,12 +4839,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4817,6 +4883,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4833,12 +4905,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4883,6 +4949,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4899,12 +4971,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -4949,6 +5015,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -4965,12 +5037,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5015,6 +5081,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5031,12 +5103,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5081,6 +5147,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5097,12 +5169,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5213,6 +5279,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5229,12 +5301,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5345,6 +5411,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5361,12 +5433,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5411,6 +5477,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5427,12 +5499,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5477,6 +5543,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5493,12 +5565,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5543,6 +5609,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5559,12 +5631,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5609,6 +5675,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5625,12 +5697,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5675,6 +5741,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5691,12 +5763,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5741,6 +5807,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5757,12 +5829,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5807,6 +5873,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5823,12 +5895,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5873,6 +5939,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5889,12 +5961,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -5939,6 +6005,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -5955,12 +6027,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6005,6 +6071,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6021,12 +6093,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6071,6 +6137,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6087,12 +6159,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6137,6 +6203,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6153,12 +6225,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6203,6 +6269,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6219,12 +6291,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6269,6 +6335,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6285,12 +6357,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6335,6 +6401,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6351,12 +6423,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6401,6 +6467,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6417,12 +6489,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6467,6 +6533,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6483,12 +6555,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6599,6 +6665,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6615,12 +6687,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6665,6 +6731,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6681,12 +6753,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6731,6 +6797,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6747,12 +6819,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6797,6 +6863,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6813,12 +6885,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6863,6 +6929,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6879,12 +6951,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6929,6 +6995,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -6945,12 +7017,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -6995,6 +7061,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7011,12 +7083,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7061,6 +7127,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7077,12 +7149,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7193,6 +7259,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7209,12 +7281,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7259,6 +7325,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7275,12 +7347,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7325,6 +7391,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7341,12 +7413,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7391,6 +7457,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7407,12 +7479,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7589,6 +7655,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7605,12 +7677,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7655,6 +7721,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7671,12 +7743,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7721,6 +7787,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7737,12 +7809,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7853,6 +7919,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7869,12 +7941,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -7919,6 +7985,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -7935,12 +8007,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -8051,6 +8117,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -8067,12 +8139,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -8117,6 +8183,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -8133,12 +8205,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
@@ -8249,6 +8315,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        },
+        {
           "postTitle": "修行，就是重新学会控制自己",
           "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
           "createdDate": "2026-07-24",
@@ -8265,12 +8337,6 @@
           "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
           "createdDate": "2026-07-24",
           "description": "从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生经验出发，讨论什么是“道”，何为“得道”，以及普通人如何从自己的经历、痛苦、反思和实践中找到能够贯穿一生的根本秩序。"
-        },
-        {
-          "postTitle": "我为什么要写“道、自由与修行”",
-          "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
-          "createdDate": "2026-07-24",
-          "description": "“道、自由与修行”小系列序言，从释迦牟尼、耶稣、老子、孔子、苏格拉底等人的人生追问出发，说明为什么人到中年以后需要找到自己的生命总纲，并把得道、自由与修行连成一条普通人也能实践的路径。"
         }
       ]
     },
