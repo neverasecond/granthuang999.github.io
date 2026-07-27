@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Mon, 27 Jul 2026 07:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:56:24 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1065,6 +1065,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/platform-sutra-self-nature-clear.html</guid>
       <enclosure url="https://www.790427.xyz/images/platform-sutra-self-nature-clear-cover.png" length="0" type="image/png"/>
       <pubDate>Sun, 26 Jul 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>普通家庭资产配置，先分用途，再谈收益</title>
+      <link>https://www.790427.xyz/post/asset-allocation-by-purpose.html</link>
+      <description>普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/asset-allocation-by-purpose.html</guid>
+      <enclosure url="https://www.790427.xyz/images/asset-allocation-by-purpose-cover.png" length="0" type="image/png"/>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
