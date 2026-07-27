@@ -543,7 +543,7 @@ def collect_weekly_input() -> list[Metric]:
     )
     time_fields = ("creationHours", "interactionHours")
     metrics = [
-        Metric("x_manual", field, float(result.get(field) or 0), metadata={"weekEnding": week_ending})
+        Metric("x_csv", field, float(result.get(field) or 0), metadata={"weekEnding": week_ending})
         for field in x_fields
     ]
     metrics.extend(
@@ -642,6 +642,14 @@ def find_metrics(metrics: list[Metric], source: str, name: str) -> list[Metric]:
     return [item for item in metrics if item.source == source and item.metric == name]
 
 
+def find_first_metric(metrics: list[Metric], candidates: tuple[tuple[str, str], ...]) -> float:
+    for source, name in candidates:
+        value = find_metric(metrics, source, name)
+        if value:
+            return value
+    return 0.0
+
+
 def fmt_number(value: float, digits: int = 0) -> str:
     return f"{value:,.{digits}f}"
 
@@ -665,10 +673,36 @@ def build_report(
     new_subscribers = find_metric(metrics, "newsletter", "createdYesterday")
     confirmed = find_metric(metrics, "newsletter", "confirmedYesterday")
     unsubscribed = find_metric(metrics, "newsletter", "unsubscribedYesterday")
-    x_followers = find_metric(metrics, "x_manual", "followers")
-    x_posts = find_metric(metrics, "x_manual", "postsPublished")
-    x_impressions = find_metric(metrics, "x_manual", "impressions")
-    x_bookmarks = find_metric(metrics, "x_manual", "bookmarks")
+    x_source_label = "CSV 周度导入"
+    x_followers = find_metric(metrics, "x_csv", "followers")
+    x_posts = find_first_metric(
+        metrics,
+        (("x_csv", "postsPublished"),),
+    )
+    x_impressions = find_first_metric(
+        metrics,
+        (("x_csv", "impressions"),),
+    )
+    x_bookmarks = find_first_metric(
+        metrics,
+        (("x_csv", "bookmarks"),),
+    )
+    x_profile_clicks = find_first_metric(
+        metrics,
+        (("x_csv", "profileVisits"),),
+    )
+    x_link_clicks = find_first_metric(
+        metrics,
+        (("x_csv", "linkClicks"),),
+    )
+    x_replies = find_first_metric(
+        metrics,
+        (("x_csv", "replies"),),
+    )
+    x_reposts = find_first_metric(
+        metrics,
+        (("x_csv", "reposts"),),
+    )
     creation_hours = find_metric(metrics, "operations_time", "creationHours")
     interaction_hours = find_metric(metrics, "operations_time", "interactionHours")
     active_7d = find_metric(metrics, "ga4_7d", "activeUsers")
@@ -692,18 +726,14 @@ def build_report(
     newsletter_confirmed_28d = find_metric(metrics, "newsletter", "confirmed28d")
     newsletter_rate_7d = rate(newsletter_confirmed_7d, newsletter_created_7d)
     newsletter_rate_28d = rate(newsletter_confirmed_28d, newsletter_created_28d)
-    clarity_reviews = find_metrics(metrics, "clarity_review", "recordingsReviewed")
-    clarity_review_count = len(clarity_reviews)
-    clarity_recordings = sum(item.value for item in clarity_reviews)
-    clarity_lines = []
-    for item in clarity_reviews[:5]:
-        metadata = item.metadata or {}
-        clarity_lines.append(
-            f"- {item.dimension}：热图 {metadata.get('heatmapFinding', '')}；"
-            f"录像 {metadata.get('recordingFinding', '')}；"
-            f"动作 {metadata.get('actionDecision', '')}"
+    clarity_api_metrics = [item for item in metrics if item.source == "clarity"]
+    clarity_api_count = len(clarity_api_metrics)
+    clarity_api_lines = []
+    for item in clarity_api_metrics[:8]:
+        clarity_api_lines.append(
+            f"- {item.dimension}：{item.metric} = {fmt_number(item.value, 2)}"
         )
-    clarity_text = "\n".join(clarity_lines) or "- 尚未录入本周人工复盘"
+    clarity_api_text = "\n".join(clarity_api_lines) or "- Clarity API 暂无可用数据"
 
     report_titles = {
         "daily": "每日运营基线",
@@ -745,16 +775,19 @@ Google 搜索（稳定的最近28天窗口）
 - 7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）
 - 28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）
 
-Clarity人工复盘（最近一次周度录入）
-- 复盘页面：{fmt_number(clarity_review_count)}
-- 查看录像：{fmt_number(clarity_recordings)}
-{clarity_text}
+Clarity（API 自动采集，最近 1 天）
+- API 指标行：{fmt_number(clarity_api_count)}
+{clarity_api_text}
 
-X（最近一次周度人工录入）
+X（{x_source_label}）
 - 关注者：{fmt_number(x_followers)}
-- 发布数：{fmt_number(x_posts)}
+- 跟踪/发布数：{fmt_number(x_posts)}
 - 展示：{fmt_number(x_impressions)}
+- 个人资料点击：{fmt_number(x_profile_clicks)}
+- 链接点击：{fmt_number(x_link_clicks)}
 - 收藏：{fmt_number(x_bookmarks)}
+- 回复：{fmt_number(x_replies)}
+- 转发：{fmt_number(x_reposts)}
 
 时间投入（最近一周）
 - 创作：{fmt_number(creation_hours, 1)} 小时
@@ -763,7 +796,7 @@ X（最近一次周度人工录入）
 健康与采集问题
 {issue_lines}
 
-说明：X 数据暂不自动抓取，在周度复盘中人工补录。AdSense 批准前不采集收入。
+说明：GA4、Search Console、Clarity 走 API 自动采集；X 使用每周 CSV 导入后的汇总数据。AdSense 批准前不采集收入。
 """
     escaped_issues = "".join(f"<li>{html.escape(item)}</li>" for item in issues) or "<li>无</li>"
     report_html = f"""
@@ -778,15 +811,15 @@ X（最近一次周度人工录入）
       <ul><li>点击：{fmt_number(clicks)}</li><li>展示：{fmt_number(impressions)}</li><li>CTR：{fmt_number(ctr, 2)}%</li></ul>
       <h2 style="font-size:17px">邮件订阅</h2>
       <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日退订：{fmt_number(unsubscribed)}</li><li>7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）</li><li>28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）</li></ul>
-      <h2 style="font-size:17px">Clarity 人工复盘</h2>
-      <ul><li>复盘页面：{fmt_number(clarity_review_count)}</li><li>查看录像：{fmt_number(clarity_recordings)}</li></ul>
-      <div style="font-size:14px;color:#57606a">{html.escape(clarity_text).replace(chr(10), '<br>')}</div>
-      <h2 style="font-size:17px">X（最近一次周度人工录入）</h2>
-      <ul><li>关注者：{fmt_number(x_followers)}</li><li>发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>收藏：{fmt_number(x_bookmarks)}</li></ul>
+      <h2 style="font-size:17px">Clarity（API 自动采集，最近 1 天）</h2>
+      <ul><li>API 指标行：{fmt_number(clarity_api_count)}</li></ul>
+      <div style="font-size:14px;color:#57606a">{html.escape(clarity_api_text).replace(chr(10), '<br>')}</div>
+      <h2 style="font-size:17px">X（{html.escape(x_source_label)}）</h2>
+      <ul><li>关注者：{fmt_number(x_followers)}</li><li>跟踪/发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>个人资料点击：{fmt_number(x_profile_clicks)}</li><li>链接点击：{fmt_number(x_link_clicks)}</li><li>收藏：{fmt_number(x_bookmarks)}</li><li>回复：{fmt_number(x_replies)}</li><li>转发：{fmt_number(x_reposts)}</li></ul>
       <h2 style="font-size:17px">时间投入（最近一周）</h2>
       <ul><li>创作：{fmt_number(creation_hours, 1)} 小时</li><li>互动：{fmt_number(interaction_hours, 1)} 小时</li></ul>
       <h2 style="font-size:17px">健康与采集问题</h2><ul>{escaped_issues}</ul>
-      <p style="font-size:13px;color:#57606a">X 数据暂不自动抓取，在周度复盘中人工补录。AdSense 批准前不采集收入。</p>
+      <p style="font-size:13px;color:#57606a">GA4、Search Console、Clarity 走 API 自动采集；X 使用每周 CSV 导入后的汇总数据。AdSense 批准前不采集收入。</p>
     </div>
     """
     return subject, report_html, text
@@ -828,8 +861,7 @@ def main() -> int:
         ("search_console", lambda: collect_search_console(token, metric_date)),
         ("clarity", collect_clarity),
         ("newsletter", lambda: collect_newsletter(metric_date)),
-        ("weekly_input", collect_weekly_input),
-        ("clarity_review", collect_clarity_review),
+        ("x_csv", collect_weekly_input),
     )
     for source, collector in collectors:
         try:

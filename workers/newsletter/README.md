@@ -66,12 +66,10 @@ Worker 会读取 D1 中 `status = active` 的订阅者，并把每个 `post_url 
 
 ## 私有运营数据
 
-运营数据接口统一使用 `NEWSLETTER_SEND_TOKEN` 鉴权，不向公网暴露报表或原始数据：
+运营数据接口统一使用 `NEWSLETTER_SEND_TOKEN` 鉴权，不向公网暴露报表或原始数据。GA4、Search Console 和 Clarity 由 `Daily Operations Metrics` 自动采集；X 不使用付费 API，改为每周导入 X Analytics CSV：
 
-- `POST /api/ops/weekly-input`：保存 X 与时间投入的每周合计。
-- `GET /api/ops/weekly-input`：返回最近一周的合计。
-- `POST /api/ops/clarity-review`：保存 Clarity 热图与录像的人工复盘摘要。
-- `GET /api/ops/clarity-review`：返回最近一周的复盘摘要。
+- `POST /api/ops/weekly-input`：保存 X CSV 解析后的每周合计与时间投入。
+- `GET /api/ops/weekly-input`：返回最近一周的 X CSV 合计。
 - `GET /api/ops/newsletter-metrics`：返回订阅者的单日、7 日和 28 日汇总。
 
-人工录入通过 GitHub Actions 的 `Record Weekly Operations` 和 `Record Clarity Review` 进行。Clarity 只记录页面级结论、查看录像数量和下一步动作；不录入访客标识、IP、录像链接、邮箱、完整对话或截图。
+`Daily Operations Metrics` 会直接调用 GA4 Data API、Search Console API 和 Clarity Data Export API。`Record Weekly Operations` 负责导入 X Analytics CSV，可通过 `csv_data` 粘贴内容，也可用 GitHub CLI 传文件内容，例如 `gh workflow run record-weekly-operations.yml -f week_ending=2026-07-26 -F csv_data=@x-analytics.csv -f time_split=20,20`。Clarity 不再保留手工复盘 workflow；不录入访客标识、IP、录像链接、邮箱、完整对话或截图。

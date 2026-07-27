@@ -7,43 +7,24 @@ on:
         description: Week ending date (YYYY-MM-DD)
         required: true
         type: string
-      followers:
-        description: X followers at week end
-        required: true
-        type: number
-      posts_published:
-        description: X posts and threads published
-        required: true
-        type: number
-      impressions:
-        description: X impressions during the week
-        required: true
-        type: number
-      profile_visits:
-        description: X profile visits during the week
-        required: true
-        type: number
-      link_clicks:
-        description: X link clicks during the week
-        required: true
-        type: number
-      bookmarks:
-        description: X bookmarks during the week
-        required: true
-        type: number
-      replies:
-        description: X replies received during the week
-        required: true
-        type: number
-      reposts:
-        description: X reposts during the week
-        required: true
-        type: number
+      csv_path:
+        description: Optional repository CSV path, for example operations/private/x-weekly.csv
+        required: false
+        type: string
+      csv_data:
+        description: Optional raw X analytics CSV content. CLI can use gh workflow run ... -F csv_data=@file.csv
+        required: false
+        type: string
       time_split:
         description: Creation and interaction hours, for example 20,20
         required: true
         default: "20,20"
         type: string
+      dry_run:
+        description: Parse and validate without storing
+        required: true
+        default: false
+        type: boolean
 
 jobs:
   record:
@@ -53,46 +34,32 @@ jobs:
       OPS_ENDPOINT: https://www.790427.xyz/api/ops/weekly-input
       NEWSLETTER_SEND_TOKEN: ${{ secrets.NEWSLETTER_SEND_TOKEN }}
       WEEK_ENDING: ${{ inputs.week_ending }}
-      FOLLOWERS: ${{ inputs.followers }}
-      POSTS_PUBLISHED: ${{ inputs.posts_published }}
-      IMPRESSIONS: ${{ inputs.impressions }}
-      PROFILE_VISITS: ${{ inputs.profile_visits }}
-      LINK_CLICKS: ${{ inputs.link_clicks }}
-      BOOKMARKS: ${{ inputs.bookmarks }}
-      REPLIES: ${{ inputs.replies }}
-      REPOSTS: ${{ inputs.reposts }}
+      CSV_PATH: ${{ inputs.csv_path }}
+      CSV_DATA: ${{ inputs.csv_data }}
       TIME_SPLIT: ${{ inputs.time_split }}
+      DRY_RUN: ${{ inputs.dry_run }}
     steps:
-      - name: Record private weekly totals
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Import X analytics CSV
         run: |
           set -euo pipefail
-          python - <<'PY'
-          import json, os, urllib.request
-
-          creation, interaction = [float(part.strip()) for part in os.environ["TIME_SPLIT"].split(",", 1)]
-          payload = {
-              "weekEnding": os.environ["WEEK_ENDING"],
-              "followers": int(os.environ["FOLLOWERS"]),
-              "postsPublished": int(os.environ["POSTS_PUBLISHED"]),
-              "impressions": int(os.environ["IMPRESSIONS"]),
-              "profileVisits": int(os.environ["PROFILE_VISITS"]),
-              "linkClicks": int(os.environ["LINK_CLICKS"]),
-              "bookmarks": int(os.environ["BOOKMARKS"]),
-              "replies": int(os.environ["REPLIES"]),
-              "reposts": int(os.environ["REPOSTS"]),
-              "creationHours": creation,
-              "interactionHours": interaction,
-          }
-          request = urllib.request.Request(
-              os.environ["OPS_ENDPOINT"],
-              data=json.dumps(payload).encode(),
-              headers={
-                  "Authorization": f"Bearer {os.environ['NEWSLETTER_SEND_TOKEN']}",
-                  "Content-Type": "application/json",
-              },
-              method="POST",
-          )
-          with urllib.request.urlopen(request, timeout=30) as response:
-              result = json.load(response)
-          print(json.dumps({"stored": bool(result.get("stored")), "weekEnding": result.get("weekEnding")}))
-          PY
+          args=(--week-ending "${WEEK_ENDING}" --time-split "${TIME_SPLIT}")
+          if [ -n "${CSV_PATH:-}" ]; then
+            args+=(--csv-path "${CSV_PATH}")
+          elif [ -n "${CSV_DATA:-}" ]; then
+            args+=(--csv-data "${CSV_DATA}")
+          else
+            echo "Provide csv_data or csv_path." >&2
+            exit 1
+          fi
+          if [ "${DRY_RUN}" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python operations/import_x_csv.py "${args[@]}"
