@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -17,6 +18,7 @@ from pathlib import Path
 OPS_ENDPOINT = os.environ.get(
     "OPS_ENDPOINT", "https://www.790427.xyz/api/ops/weekly-input"
 )
+USER_AGENT = "DailyOperationsMetrics/1.0 (+https://www.790427.xyz/)"
 
 FIELDS = {
     "followers": (
@@ -190,13 +192,29 @@ def post_payload(payload: dict[str, int | float | str]) -> dict:
         OPS_ENDPOINT,
         data=json.dumps(payload).encode(),
         headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/json",
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json",
         },
         method="POST",
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.load(response)
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="replace")
+        detail = ""
+        try:
+            payload = json.loads(body)
+            if isinstance(payload, dict):
+                detail = str(payload.get("message") or "")
+        except json.JSONDecodeError:
+            detail = body.strip()[:300]
+        message = f"HTTP {error.code} from operations endpoint"
+        if detail:
+            message += f": {detail}"
+        raise SystemExit(message) from error
 
 
 def parse_args() -> argparse.Namespace:
