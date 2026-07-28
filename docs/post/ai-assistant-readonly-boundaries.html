@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark_colorblind" data-light-theme="light" lang="zh-CN">
+<head>
+  <!-- Start cookieyes banner -->
+  <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/320661f17fdd46e13c6eaf24aa38699b/script.js"></script>
+  <!-- End cookieyes banner -->
+  <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="google-adsense-account" content="ca-pub-3409938612356670">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    <link rel="canonical" href="https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html" />
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    
+    <link rel="icon" href="/images/site-logo.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。">
+
+<meta name="content-line" content="iphone_ai">
+
+<meta name="keywords" content="技术辅助,AI助手,只读权限,受限执行,个人自动化,Codex,iMessage,远程工作流,安全边界,数字边界">
+<meta property="og:title" content="给codex设边界：为什么我宁愿先做只读和受限执行">
+<meta property="og:description" content="给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html">
+<meta property="og:image" content="https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="给codex设边界：为什么我宁愿先做只读和受限执行">
+<meta name="twitter:description" content="给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。">
+<meta name="twitter:image" content="https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png">
+<meta name="twitter:creator" content="@wiselyfreely">
+<title>给codex设边界：为什么我宁愿先做只读和受限执行</title>
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "\u7ed9codex\u8bbe\u8fb9\u754c\uff1a\u4e3a\u4ec0\u4e48\u6211\u5b81\u613f\u5148\u505a\u53ea\u8bfb\u548c\u53d7\u9650\u6267\u884c",
+    "description": "\u7ed9 AI\u8bbe\u8fb9\u754c\uff0c\u4e0d\u662f\u8ba9\u5b83\u53d8\u5f31\uff0c\u800c\u662f\u5148\u8ba9\u5b83\u5728\u53ef\u63a7\u8303\u56f4\u5185\u771f\u6b63\u6709\u7528\uff1a\u5165\u53e3\u8981\u7a84\u3001\u76ee\u5f55\u8981\u5e72\u51c0\u3001\u9ed8\u8ba4\u53ea\u8bfb\u3001\u80fd\u529b\u6309\u9700\u6253\u5f00\u3002",
+    "image": [
+        "https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png"
+    ],
+    "datePublished": "2026-07-28T12:00:00+08:00",
+    "dateModified": "2026-07-28T13:07:37+08:00",
+    "articleSection": "\u6280\u672f\u8f85\u52a9",
+    "keywords": "\u6280\u672f\u8f85\u52a9,AI\u52a9\u624b,\u53ea\u8bfb\u6743\u9650,\u53d7\u9650\u6267\u884c,\u4e2a\u4eba\u81ea\u52a8\u5316,Codex,iMessage,\u8fdc\u7a0b\u5de5\u4f5c\u6d41,\u5b89\u5168\u8fb9\u754c,\u6570\u5b57\u8fb9\u754c",
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "\u83ab\u767d\u6765",
+        "url": "https://www.790427.xyz",
+        "sameAs": [
+            "https://x.com/wiselyfreely"
+        ]
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "\u4eba\u5230\u4e2d\u5e74",
+        "url": "https://www.790427.xyz",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.790427.xyz/images/site-logo.svg"
+        }
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "\u4eba\u5230\u4e2d\u5e74",
+            "item": "https://www.790427.xyz"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "\u6280\u672f\u8f85\u52a9",
+            "item": "https://www.790427.xyz/ai-jiao-xue.html"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "\u7ed9codex\u8bbe\u8fb9\u754c\uff1a\u4e3a\u4ec0\u4e48\u6211\u5b81\u613f\u5148\u505a\u53ea\u8bfb\u548c\u53d7\u9650\u6267\u884c",
+            "item": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html"
+        }
+    ]
+}
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDL6BTW5FM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
+</script>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "xk8krek4hb");
+</script>
+<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "\u4eba\u5230\u4e2d\u5e74",
+    "alternateName": "\u53ef\u4ee5\u5bf9\u522b\u4eba\u5931\u671b\uff0c\u4f46\u81ea\u5df1\u4e0d\u80fd\u7edd\u671b\u3002\u5199\u5199\u4eba\u751f\u4fee\u884c\u3001\u8d5a\u94b1\u6295\u8d44\u3001\u6280\u672f\u8f85\u52a9\u3002\u4e16\u754c\u4e0d\u4f1a\u53d8\u5f97\u66f4\u597d\uff0c\u4f46\u4f60\u53ef\u4ee5\u3002\u613f\u4f60\u83ab\u767d\u6765\uff0c\u4e0e\u541b\u5171\u52c9\uff01",
+    "url": "https://www.790427.xyz",
+    "inLanguage": "zh-CN",
+    "publisher": {
+        "@type": "Person",
+        "name": "\u83ab\u767d\u6765",
+        "url": "https://x.com/wiselyfreely",
+        "sameAs": [
+            "https://x.com/wiselyfreely"
+        ]
+    },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.790427.xyz/tag.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "\u83ab\u767d\u6765",
+    "alternateName": "\u83ab\u767d\u6765",
+    "url": "https://www.790427.xyz",
+    "email": "mailto:service@790427.xyz",
+    "sameAs": [
+        "https://x.com/wiselyfreely"
+    ]
+}
+</script>
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+#footer, #footer a {
+    color: black !important;
+}
+
+.page-header {
+    position: relative;
+    background: transparent;
+    padding: 0 0 1.4rem;
+    border-radius: 0;
+    margin-bottom: 2rem;
+    color: var(--color-fg-default, #24292f);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    border: 0;
+    border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
+}
+
+.page-header > * {
+    position: relative;
+}
+
+.page-header a {
+    color: var(--color-fg-default, #24292f) !important;
+}
+
+.page-header .octicon path {
+    fill: currentColor;
+}
+
+.site-brand-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    gap: 18px;
+    box-sizing: border-box;
+    padding: 14px 16px;
+    background: #fffaf0;
+    border: 1px solid #ded4c7;
+    border-radius: 6px;
+}
+
+.site-brand {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 14px;
+    min-width: 0;
+    padding-right: 18px;
+    border-right: 1px solid #d8cec0;
+}
+
+.site-brand-logo {
+    display: block;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: 14px;
+    transition: transform 0.5s ease;
+}
+
+.site-brand-logo:hover {
+    transform: scale(1.06);
+}
+
+.site-title {
+    margin: 0;
+    color: #151515;
+    font-family: "Songti SC", STSong, "Noto Serif CJK SC", serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.15;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.site-title a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
+.page-header a.site-title {
+    color: #151515 !important;
+}
+
+.header-statement {
+    display: block;
+    flex: 1 1 0;
+    width: auto;
+    min-width: 0;
+    max-width: 520px;
+    height: auto;
+}
+
+[data-color-mode="dark"] .site-brand-row {
+    background: #1c2128;
+    border-color: #444c56;
+}
+
+[data-color-mode="dark"] .site-brand {
+    border-right-color: #444c56;
+}
+
+[data-color-mode="dark"] .site-title,
+[data-color-mode="dark"] .page-header a.site-title {
+    color: #f0f3f6;
+}
+
+[data-color-mode="dark"] .header-statement {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.header-main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header-main-content h1 {
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 30px !important;
+}
+
+.header-main-content h1 a {
+    color: inherit !important;
+    font-size: inherit !important;
+}
+
+
+.header-nav-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 12px;
+}
+
+.header-nav-menu a {
+    padding: 8px 12px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.header-nav-menu a:hover {
+    background-color: var(--color-accent-subtle, #ddf4ff);
+    color: var(--color-accent-fg, #0969da) !important;
+}
+
+@media (max-width: 600px) {
+    .page-header {
+        padding-bottom: 1rem;
+    }
+
+    .site-brand-row {
+        gap: 10px;
+        padding: 12px;
+        flex-wrap: wrap;
+    }
+
+    .site-brand {
+        gap: 7px;
+        padding-right: 0;
+        border-right: 0;
+    }
+
+    .site-brand-logo {
+        width: 44px;
+        height: 44px;
+        border-radius: 10px;
+    }
+
+    .site-title {
+        font-size: 24px;
+    }
+
+    .header-statement {
+        flex-basis: 100%;
+        width: 100%;
+        max-width: none;
+    }
+
+    .header-main-content h1 {
+        font-size: 20px !important;
+    }
+}
+</style>
+
+<style>
+/* [唯一改动] 删除了 font-size 属性 */
+.postTitle{margin: auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{padding-bottom:36px;}
+#postBody hr{height:2px;}
+#postBody img{max-width:100%;height:auto;border-radius:6px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    /* [唯一改动] 删除了 .postTitle 的 font-size 属性 */
+    .post-footer { flex-direction: column; align-items: flex-start; }
+    .post-nav, .related-posts-grid { grid-template-columns: 1fr; }
+}
+
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 16px; 
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+}
+.share-buttons-inline {
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+}
+.share-button {
+    display: inline-block;
+    padding: 4px 12px; 
+    border-radius: 6px;
+    color: #ffffff !important;
+    text-decoration: none;
+    font-size: 12px; 
+    transition: opacity 0.3s;
+    border: none;
+}
+.share-button:hover {
+    opacity: 0.85;
+}
+.bottom-text-inline {
+    font-size: small;
+    white-space: nowrap; 
+}
+.share-button.x { background-color: #1DA1F2; }
+.share-button.facebook { background-color: #1877F2; }
+.share-button.linkedin { background-color: #0A66C2; }
+.share-button.weibo { background-color: #e6162d; }
+.share-button.telegram { background-color: #26A5E4; }
+.share-button.wechat { background-color: #07C160; }
+.post-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin: 28px 0 10px;
+}
+.post-nav a, .related-posts a {
+    display: block;
+    padding: 12px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    text-decoration: none;
+}
+.post-nav span, .related-posts span {
+    display: block;
+    color: var(--color-fg-muted);
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.related-posts {
+    margin: 28px 0 12px;
+}
+.related-posts h2 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.related-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+}
+.investment-disclaimer {
+    margin: 24px 0 0;
+    padding: 14px 16px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    background: var(--color-canvas-subtle);
+    color: var(--color-fg-muted);
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+</style>
+<style>
+/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }
+</style>
+
+
+
+<body>
+    <header id="header" class="page-header">
+        <nav class="header-nav-menu">
+            <a href="https://www.790427.xyz/">首页</a>
+            <a href="https://www.790427.xyz/start.html">从这里开始</a>
+            <a href="https://www.790427.xyz/xiu-xing.html">人生修行</a>
+            <a href="https://www.790427.xyz/tou-zi.html">赚钱投资</a>
+            <a href="https://www.790427.xyz/ai-jiao-xue.html">技术辅助</a>
+            <a href="https://www.790427.xyz/subscribe.html">订阅</a>
+            <a href="https://www.790427.xyz/about.html">关于</a>
+            <a href="https://www.790427.xyz/tag.html">搜索</a>
+        </nav>
+
+        <div class="site-brand-row">
+            <div class="site-brand">
+                <a href="https://www.790427.xyz" aria-label="人到中年首页">
+                    <img src="/images/site-logo.svg" class="site-brand-logo" alt="人到中年网站 Logo">
+                </a>
+                
+                <a class="site-title" href="https://www.790427.xyz">人到中年</a>
+                
+            </div>
+            
+            <img class="header-statement" src="https://www.790427.xyz/images/home-statement-20260716.svg" alt="可以对别人失望，但自己不能绝望。写写人生修行、赚钱投资、技术辅助。世界不会变得更好，但你可以。愿你莫白来，与君共勉！">
+            
+        </div>
+
+        <div class="header-main-content">
+            
+
+<h1 class="postTitle">给codex设边界：为什么我宁愿先做只读和受限执行</h1>
+<div class="title-right">
+    <a href="https://www.790427.xyz" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+
+        </div>
+    </header>
+    
+    <div id="content">
+<div style="text-align: center; margin-bottom: 24px;">
+    <img src="https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png" style="max-width: 100%; border-radius: 6px;" alt="给codex设边界：为什么我宁愿先做只读和受限执行" loading="eager" decoding="async">
+</div>
+
+<div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
+
+<div class="markdown-body" id="postBody"><h2 id="_1">方便之前，先问边界</h2>
+<p>上一篇我写过，我给自己做了一个很小的 iMessage 到 Codex 网关。</p>
+<p>手机发一句话，家里的电脑收到以后，把这个请求交给mac mini上的codex处理，再把结果回到手机上。</p>
+<p>这件事看起来很方便。人在外面，手机在手边，突然想确认一个后台任务、整理一段文字、查一个公开资料、判断一个配置问题，不用打开远程桌面，也不用在手机上来回切换工具。</p>
+<p>但我真正花时间想的，反而不是怎么让它更强。</p>
+<p>而是怎么让它不要太强。</p>
+<p>很多个人自动化出问题，并不是因为功能太少，而是因为一开始就给了太多能力。能读所有目录，能写文件，能调用插件，能打开浏览器，能连各种账号，能保存完整日志，还能从远程入口触发。</p>
+<p>听起来很自由，实际上很危险。</p>
+<p>所以我做这类 AI 辅助工具时，第一版宁愿笨一点，也要先只读、先受限、先能复查。</p>
+<h2 id="_2">我不是要一台远程电脑</h2>
+<p>我真正需要的，不是“手机控制电脑”。</p>
+<p>我需要的是：手机可以请求家里的电脑替我完成一个受限的小任务。</p>
+<p>这两句话差别很大。</p>
+<p>如果是远程控制电脑，那它应该能打开应用、移动文件、运行脚本、改配置、登录后台，甚至替我操作很多东西。</p>
+<p>但我的真实场景没这么复杂。</p>
+<p>我更多遇到的是这些事：</p>
+<ul>
+<li>帮我查一条公开资料，回一段摘要。</li>
+<li>帮我判断某个任务现在是不是还在跑。</li>
+<li>帮我整理一个想法，变成更清楚的文字。</li>
+<li>帮我看一个只读状态，告诉我大概发生了什么。</li>
+<li>帮我把一个问题拆成下一步该检查什么。</li>
+</ul>
+<p>这些需求，本质上都不需要写入权限。</p>
+<p>既然不需要，就先不给。</p>
+<p>这是我现在做个人 AI 工具时很重要的一个原则：不是因为 AI 做不到，所以不给权限；而是因为当前任务不需要，所以不给权限。</p>
+<h2 id="_3">我的第一层边界：入口要窄</h2>
+<p>入口越宽，后面的风险越难控制。</p>
+<p>所以我没有给这个小工具做公网入口，也没有先做成一个完整 Web 服务。对我来说，第一版只需要一个很窄的入口：固定的消息通道、固定的触发前缀、固定的一对一使用场景。</p>
+<p>这不是为了显得原始，而是为了减少需要防守的面。</p>
+<p>一个普通人做自己的自动化工具，最怕的是一开始就把入口做得像产品。多端登录、多用户、网页面板、远程 API、长会话、历史记录、任务队列，听起来很完整，但每多一个入口，就多一层需要考虑的权限和误触。</p>
+<p>我的做法很简单：</p>
+<table>
+<thead>
+<tr>
+<th>边界</th>
+<th>我的选择</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>谁能触发</td>
+<td>只保留自己使用的一对一入口</td>
+</tr>
+<tr>
+<td>怎么触发</td>
+<td>固定前缀，普通消息不执行</td>
+</tr>
+<tr>
+<td>从哪里进入</td>
+<td>不开放公网服务，不做通用 API</td>
+</tr>
+<tr>
+<td>出错怎么办</td>
+<td>返回结果或状态，不默默继续扩大权限</td>
+</tr>
+</tbody>
+</table>
+<p>先把入口做窄，工具就不容易失控。</p>
+<h2 id="_4">第二层边界：工作目录要干净</h2>
+<p>我不希望一个远程触发的小请求，默认进入我平时工作的所有项目。</p>
+<p>所以它应该在一个单独的、干净的工作目录里运行。这个目录可以很空，也可以只放少量专门给它看的材料。它不应该默认读取我的主项目、历史草稿、私人配置和各种工作文件。</p>
+<p>这个设计的意义很实际。</p>
+<p>当我在手机上发一句“帮我查一下某件事”，codex不需要顺手扫完整个电脑。当我让它判断一个状态，它不需要顺便接触所有项目。当我让它整理一段文字，它也不需要看到和这段文字无关的文件。</p>
+<p>很多人谈 AI 安全，会直接跳到很复杂的权限系统。</p>
+<p>但个人使用里，一个非常朴素的办法就是：让它先待在一个空房间里。</p>
+<p>需要什么，再把什么递进去。</p>
+<h2 id="_5">第三层边界：默认只读</h2>
+<p>只读是我最看重的一层。</p>
+<p>它的意思不是工具永远不能写入，而是第一阶段不写入。</p>
+<p>先让 AI做这些事：</p>
+<ul>
+<li>读公开资料。</li>
+<li>读明确给它的文本。</li>
+<li>读任务状态。</li>
+<li>读日志摘要。</li>
+<li>读一小段配置说明。</li>
+<li>给出判断、摘要、下一步建议。</li>
+</ul>
+<p>暂时不让它做这些事：</p>
+<ul>
+<li>改文件。</li>
+<li>删文件。</li>
+<li>发消息。</li>
+<li>创建工单。</li>
+<li>提交代码。</li>
+<li>操作账号。</li>
+<li>调用会改变外部状态的工具。</li>
+</ul>
+<p>这样做以后，哪怕它理解错了我的意思，损失也有限。</p>
+<p>它最多回答得不好，或者判断得不准。这个问题我可以复查、重问、修正。但如果一开始就给写入权限，它理解错一次，就可能把问题从“回答不准”变成“东西被改了”。</p>
+<p>这不是不相信 AI。</p>
+<p>这是承认自动化的基本事实：能力越大，误触成本越高。</p>
+<p><img alt="AI的边界要分步骤打开" src="/images/ai-assistant-readonly-boundaries-steps.png" /></p>
+<h2 id="_6">第四层边界：先关掉不需要的能力</h2>
+<p>我做这个小工具时，还会刻意关掉很多看起来很有用的能力。</p>
+<p>比如插件、个人配置、浏览器控制、外部应用控制、图片生成、多代理协作、默认记忆，以及各种可能读到更多上下文或发起外部动作的入口。</p>
+<p>不是这些能力不好。</p>
+<p>而是这个具体场景暂时用不上。</p>
+<p>如果我只是想让手机发一句话，得到一个受限回答，那么它不需要突然变成一个全能工作台。全能当然诱人，但全能也意味着每次触发时，我都要担心它到底能碰到哪里。</p>
+<p>我的经验是：个人 AI 工具第一版要先做减法。</p>
+<p>能不联网，就不联网。</p>
+<p>能不写入，就不写入。</p>
+<p>能不保存，就不保存。</p>
+<p>能不用插件，就不用插件。</p>
+<p>能让人最后确认，就不要自动替人提交。</p>
+<p>工具先变可靠，再慢慢变强。</p>
+<h2 id="_7">第五层边界：日志只留必要状态</h2>
+<p>很多自动化系统喜欢保存完整历史。</p>
+<p>这对调试当然方便，但对个人工具来说，也可能变成新的风险。尤其是消息入口、AI 请求、任务内容和返回结果，如果全部长期保存，时间久了就会堆出一份很不必要的个人记录。</p>
+<p>所以我更愿意只保留必要状态。</p>
+<p>比如最近是否运行成功、最后一次错误大概是什么、当前是否准备好、任务有没有超时。至于完整消息内容、私人问题、临时请求，如果不是当前排错必须，就不要长期保存。</p>
+<p>一个小工具是否成熟，不只看它能做什么，也要看它不保存什么。</p>
+<h2 id="_8">我会怎样逐步放开权限</h2>
+<p>只读不是终点，而是起点。</p>
+<p>如果一个 AI 辅助工具连续一段时间都稳定，确实能帮我减少切换成本，也没有出现误触和越界，我才会考虑慢慢放开一点能力。</p>
+<p>但放开也不是一下子全开。</p>
+<p>我会按这样的顺序来：</p>
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>可以做什么</th>
+<th>仍然不做什么</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>只读阶段</td>
+<td>查资料、看状态、总结、建议下一步</td>
+<td>不写文件，不操作外部账号</td>
+</tr>
+<tr>
+<td>草稿阶段</td>
+<td>生成草稿、生成命令建议、整理检查清单</td>
+<td>不自动执行，不自动提交</td>
+</tr>
+<tr>
+<td>半自动阶段</td>
+<td>在指定目录生成文件，等待人工检查</td>
+<td>不直接发布，不直接删除</td>
+</tr>
+<tr>
+<td>授权阶段</td>
+<td>单次明确授权后执行具体动作</td>
+<td>不保留长期无限权限</td>
+</tr>
+</tbody>
+</table>
+<p>这样做虽然慢一点，但每一步都知道自己增加了什么风险。</p>
+<p>对普通人来说，AI 工具最好的状态，不是替你完全接管，而是把你从重复的小动作里解放一点，同时保留最后的判断权。</p>
+<h2 id="_9">一个可复用的边界清单</h2>
+<p>如果你也想把 AI 接进自己的工作流，我觉得可以先问这些问题。</p>
+<p><strong>入口</strong></p>
+<ul>
+<li>它从哪里被触发？</li>
+<li>是自己用，还是多人用？</li>
+<li>有没有公网入口？</li>
+<li>普通消息会不会被误识别成命令？</li>
+</ul>
+<p><strong>权限</strong></p>
+<ul>
+<li>它默认能读哪些目录？</li>
+<li>它默认能不能写文件？</li>
+<li>它能不能调用插件、浏览器、外部应用？</li>
+<li>它能不能改变外部状态？</li>
+</ul>
+<p><strong>数据</strong></p>
+<ul>
+<li>它会不会保存完整消息？</li>
+<li>日志里有没有私人内容？</li>
+<li>临时文件任务结束后会不会清理？</li>
+<li>有没有把敏感信息交给不必要的工具？</li>
+</ul>
+<p><strong>执行</strong></p>
+<ul>
+<li>每次任务有没有超时？</li>
+<li>出错后会不会继续尝试危险动作？</li>
+<li>有没有人工确认环节？</li>
+<li>有没有明确的停止和回退方式？</li>
+</ul>
+<p><strong>复查</strong></p>
+<ul>
+<li>我能不能看懂它做了什么？</li>
+<li>结果错了以后，损失是不是可控？</li>
+<li>这个工具是真的减少摩擦，还是制造了新的维护负担？</li>
+</ul>
+<p>这些问题不复杂，但很有用。</p>
+<p>它们能帮人从“我想让 AI 替我做更多事”，回到“我到底需要它帮我做哪一小段事”。</p>
+<h2 id="_10">吸引人的工具，未必是最强的工具</h2>
+<p>我现在越来越觉得，真正能长期用下去的个人工具，不一定是最炫的。</p>
+<p>它可能很小，入口很窄，权限很低，功能也不多。</p>
+<p>但它刚好解决一个真实问题。</p>
+<p>比如人在外面时，帮我查一个公开信息；不在电脑前时，帮我确认一个状态；脑子里冒出一个想法时，帮我整理成几条清楚的下一步。</p>
+<p>这些事情单独看都不大，但它们减少的是生活里的摩擦。</p>
+<p>而一个中年人真正缺的，很多时候不是更多功能，而是更少切换、更少担心、更少需要记住的东西。</p>
+<p>所以我宁愿先做只读和受限执行。</p>
+<p>不是因为我不想让 AI 更有用。</p>
+<p>而是因为我希望它有用得更让我安心一点。</p>
+<blockquote>
+<p>本文是个人技术实践记录，不构成安全方案、产品推荐或部署指南。涉及远程触发、自动化执行、消息处理、账号权限和本地文件访问的工具，都应根据自己的设备、账号、权限和风险承受能力谨慎设置；不建议在不了解边界的情况下开放公网入口、保存敏感消息或授予自动化工具长期写入权限。</p>
+</blockquote></div>
+
+
+
+<div class="post-footer">
+    <div class="bottom-text-inline">文章皆为原创，转载文章请注明出处。人到中年，记录人生修行、赚钱投资与技术辅助。愿你莫白来。</div>
+    <div class="share-buttons-inline">
+        <a id="share-x" class="share-button x" href="#" target="_blank" title="分享到 X">X</a>
+        <a id="share-facebook" class="share-button facebook" href="#" target="_blank" title="分享到 Facebook">Facebook</a>
+        <a id="share-linkedin" class="share-button linkedin" href="#" target="_blank" title="分享到 LinkedIn">LinkedIn</a>
+        <a id="share-weibo" class="share-button weibo" href="#" target="_blank" title="分享到微博">微博</a>
+        <a id="share-telegram" class="share-button telegram" href="#" target="_blank" title="分享到 Telegram">Telegram</a>
+        <a id="share-wechat" class="share-button wechat" href="#" onclick="shareToWechat(); return false;" title="分享到微信朋友圈">微信</a>
+    </div>
+</div>
+
+
+<nav class="post-nav" aria-label="文章导航">
+    
+    
+    <a href="https://www.790427.xyz/post/asset-allocation-by-purpose.html"><span>下一篇</span>普通家庭资产配置，先分用途，再谈收益</a>
+    
+</nav>
+
+
+
+<section class="related-posts" aria-labelledby="related-posts-title">
+    <h2 id="related-posts-title">相关阅读</h2>
+    <div class="related-posts-grid">
+        
+        <a href="https://www.790427.xyz/post/imessage-codex-gateway.html"><span>2026-07-25</span>我为什么给自己做了一个 iMessage 到 Codex 的小网关</a>
+        
+        <a href="https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html"><span>2026-07-16</span>网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活</a>
+        
+        <a href="https://www.790427.xyz/post/debugging-log.html"><span>2025-08-24</span>网站调试与功能增强日志</a>
+        
+    </div>
+</section>
+
+
+</div>
+    <div id="footer"><div id="footer1" style="margin-top: 32px;">Copyright all reserved © <span id="copyrightYear"></span>-3000 <a href="https://www.790427.xyz">人到中年</a><br>
+<a href="https://www.790427.xyz/about.html">关于本站</a> |
+<a href="https://www.790427.xyz/start.html">从这里开始</a> |
+<a href="https://www.790427.xyz/subscribe.html">邮件订阅</a> |
+<a href="https://www.790427.xyz/terms-of-service.html">服务条款</a> |
+<a href="https://www.790427.xyz/privacy-policy.html">隐私政策</a> |
+<a href="https://www.790427.xyz/disclaimer.html">免责声明</a>
+</div>
+<div id="footer2">
+    <span id="runday"></span><span>本站由
+        <a href="https://x.com/wiselyfreely" target="_blank" rel="noopener" title="X: 莫白来" style="display:inline-flex;vertical-align:-3px;margin:0 4px;text-decoration:none;">
+            <img src="https://www.790427.xyz/images/logo.png" alt="X: 莫白来" width="18" height="18" style="border-radius:50%;">
+        </a>
+        <a href="mailto:service@790427.xyz" target="_blank">莫白来</a> 建立&维护</span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("6/4/2025"!=""){
+    var startSite=new Date("6/4/2025");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={"sun": "M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z", "moon": "M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z", "sync": "M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z", "home": "M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z", "github": "M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"};
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c 人到中年 " + "last" + " https://www.790427.xyz \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+// 微信分享功能
+function shareToWechat() {
+    const postUrl = window.location.href;
+    const postTitle = document.title;
+
+    // 检测是否在微信浏览器中
+    function isWechat() {
+        const ua = navigator.userAgent.toLowerCase();
+        return ua.indexOf('micromessenger') !== -1;
+    }
+
+    // 检测是否在移动设备上
+    function isMobile() {
+        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    }
+
+    if (isWechat()) {
+        // 在微信浏览器中，显示分享提示
+        showWechatShareTip();
+    } else if (isMobile()) {
+        // 移动设备上，尝试调用微信分享或显示引导
+        if (navigator.share) {
+            // 使用 Web Share API
+            navigator.share({
+                title: postTitle,
+                url: postUrl
+            }).catch(console.error);
+        } else {
+            showWechatShareTip();
+        }
+    } else {
+        // 桌面设备，显示二维码或复制链接
+        showWechatShareModal();
+    }
+}
+
+function showWechatShareTip() {
+    // 创建分享提示弹窗
+    const modal = document.createElement('div');
+    modal.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.8);
+        z-index: 10000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    `;
+
+    const content = document.createElement('div');
+    content.style.cssText = `
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        text-align: center;
+        max-width: 300px;
+        color: #333;
+    `;
+
+    content.innerHTML = `
+        <h3 style="margin: 0 0 20px 0; color: #07C160;">微信分享</h3>
+        <p style="margin: 0 0 20px 0; line-height: 1.5;">
+            点击右上角的"..."按钮<br>
+            选择"分享到朋友圈"
+        </p>
+        <button onclick="this.closest('div[style*=\"position: fixed\"]').remove()" 
+                style="background: #07C160; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+            知道了
+        </button>
+    `;
+
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+
+    // 点击背景关闭弹窗
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) {
+            modal.remove();
+        }
+    });
+}
+
+function showWechatShareModal() {
+    const postUrl = window.location.href;
+    const postTitle = document.title;
+
+    // 创建二维码分享弹窗
+    const modal = document.createElement('div');
+    modal.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.8);
+        z-index: 10000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    `;
+
+    const content = document.createElement('div');
+    content.style.cssText = `
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        text-align: center;
+        max-width: 400px;
+        color: #333;
+    `;
+
+    // 生成二维码URL（使用免费的二维码生成服务）
+    const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(postUrl)}`;
+
+    content.innerHTML = `
+        <h3 style="margin: 0 0 20px 0; color: #07C160;">分享到微信朋友圈</h3>
+        <div style="margin: 20px 0;">
+            <img src="${qrUrl}" alt="二维码" style="width: 200px; height: 200px; border: 1px solid #eee;">
+        </div>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;">
+            用微信扫描二维码分享
+        </p>
+        <div style="margin: 20px 0; padding: 10px; background: #f5f5f5; border-radius: 5px; word-break: break-all; font-size: 12px;">
+            ${postUrl}
+        </div>
+        <button onclick="copyToClipboard('${postUrl.replace(/'/g, "\'")}'); this.innerText='已复制!'; setTimeout(() => this.innerText='复制链接', 2000);" 
+                style="background: #07C160; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer; margin-right: 10px;">
+            复制链接
+        </button>
+        <button onclick="this.closest('div[style*=\"position: fixed\"]').remove()" 
+                style="background: #ccc; color: white; border: none; padding: 8px 16px; border-radius: 5px; cursor: pointer;">
+            关闭
+        </button>
+    `;
+
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+
+    // 点击背景关闭弹窗
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) {
+            modal.remove();
+        }
+    });
+}
+
+function copyToClipboard(text) {
+    if (navigator.clipboard) {
+        navigator.clipboard.writeText(text);
+    } else {
+        // 兼容老版本浏览器
+        const tempTextArea = document.createElement('textarea');
+        tempTextArea.value = text;
+        document.body.appendChild(tempTextArea);
+        tempTextArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempTextArea);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const quoteText = "工具先变可靠，再慢慢变强。";
+    const dailySentenceRaw = `""`; 
+    let typeitStrings = [];
+
+    if (quoteText && quoteText.trim() && quoteText !== 'None' && quoteText !== 'null') {
+        typeitStrings.push(quoteText);
+    } 
+    else if (dailySentenceRaw && dailySentenceRaw !== 'null') {
+        try {
+            const parsedSentences = JSON.parse(dailySentenceRaw);
+            if (Array.isArray(parsedSentences) && parsedSentences.length > 0) {
+                typeitStrings = parsedSentences;
+            }
+        } catch (e) {
+            console.error("无法解析 daily_sentence JSON:", dailySentenceRaw, e);
+        }
+    }
+
+    if (typeitStrings.length > 0 && typeitStrings[0]) {
+        const container = document.getElementById('typeit-animation-container');
+        if(container) {
+             new TypeIt(container, {
+                 strings: typeitStrings,
+                 speed: 75,
+                 lifeLike: true,
+                 waitUntilVisible: true,
+                 breakLines: false,
+                 cursor: false
+             }).go();
+        }
+    }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    const postUrl = window.location.href;
+    const postTitle = document.title;
+    const encodedUrl = encodeURIComponent(postUrl);
+    const encodedTitle = encodeURIComponent(postTitle);
+    const shareX = document.getElementById('share-x');
+    const shareFacebook = document.getElementById('share-facebook');
+    const shareLinkedin = document.getElementById('share-linkedin');
+    const shareWeibo = document.getElementById('share-weibo');
+    const shareTelegram = document.getElementById('share-telegram');
+    if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodedUrl}&text=${encodedTitle}`; }
+    if (shareFacebook) { shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`; }
+    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
+    if (shareWeibo) { shareWeibo.href = `http://service.weibo.com/share/share.php?url=${encodedUrl}&title=${encodedTitle}&pic=https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png`; }
+    if (shareTelegram) { shareTelegram.href = `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`; }
+});
+
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+
+
+
+
+</script>
+
+<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
+
+
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+        try {
+            const destination = new URL(link.href, window.location.href);
+            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
+                window.trackSiteEvent('outbound_x_click', {
+                    link_url: destination.href,
+                    link_text: (link.textContent || '').trim().slice(0, 120)
+                });
+            }
+        } catch (_) {
+            // Ignore non-HTTP links such as mailto and javascript URLs.
+        }
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
+
+<script>
+window.addEventListener('load', function() {
+    function fitHeading() {
+        const h1Element = document.querySelector('.header-main-content h1');
+        if (!h1Element) return;
+
+        const textElement = h1Element.querySelector('a') || h1Element;
+        const parentContainer = h1Element.closest('.header-main-content');
+        
+        // [关键修正] 提前进行严格的安全检查，防止任何一个元素不存在时脚本报错
+        if (!parentContainer || !textElement) return;
+        const rightButtons = parentContainer.querySelector('.title-right');
+        if (!rightButtons) return;
+
+        // 在确保所有元素都存在后，再进行计算
+        const availableWidth = parentContainer.clientWidth - rightButtons.clientWidth - 20;
+        const maxFontSize = window.innerWidth <= 600 ? 20 : 30;
+        const minFontSize = 12;
+
+        let currentFontSize = maxFontSize;
+        textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
+
+        // 添加一个安全检查，防止无限循环
+        let attempts = 0;
+        while (textElement.scrollWidth > availableWidth && currentFontSize > minFontSize && attempts < 100) {
+            currentFontSize--;
+            textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
+            attempts++;
+        }
+    }
+
+    function debounce(func, delay) {
+        let timeout;
+        return function(...args) {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), delay);
+        };
+    }
+    
+    fitHeading();
+    window.addEventListener('resize', debounce(fitHeading, 100));
+});
+</script>
+
+</html>

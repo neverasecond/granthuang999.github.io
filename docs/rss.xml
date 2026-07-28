@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Tue, 28 Jul 2026 04:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:09:35 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1073,6 +1073,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/asset-allocation-by-purpose.html</guid>
       <enclosure url="https://www.790427.xyz/images/asset-allocation-by-purpose-cover.png" length="0" type="image/png"/>
       <pubDate>Mon, 27 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>给codex设边界：为什么我宁愿先做只读和受限执行</title>
+      <link>https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html</link>
+      <description>给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html</guid>
+      <enclosure url="https://www.790427.xyz/images/ai-assistant-readonly-boundaries-cover.png" length="0" type="image/png"/>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
