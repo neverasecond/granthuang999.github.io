@@ -202,8 +202,11 @@ def post_payload(payload: dict[str, int | float | str]) -> dict:
     token = os.environ.get("NEWSLETTER_SEND_TOKEN", "").strip()
     if not token:
         raise SystemExit("NEWSLETTER_SEND_TOKEN is required unless --dry-run is used.")
+    endpoint = OPS_ENDPOINT.rstrip("/")
+    if endpoint.endswith("/api/ops"):
+        endpoint = f"{endpoint}/weekly-input"
     request = urllib.request.Request(
-        OPS_ENDPOINT,
+        endpoint,
         data=json.dumps(payload).encode(),
         headers={
             "User-Agent": USER_AGENT,
