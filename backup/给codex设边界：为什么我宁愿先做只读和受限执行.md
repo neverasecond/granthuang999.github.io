@@ -112,7 +112,7 @@
 
 这是承认自动化的基本事实：能力越大，误触成本越高。
 
-![AI的边界要分步骤打开](/images/ai-assistant-readonly-boundaries-steps.png)
+![AI的边界要分步骤打开](/images/ai-assistant-readonly-boundaries-steps.jpg)
 
 ## 第四层边界：先关掉不需要的能力
 
