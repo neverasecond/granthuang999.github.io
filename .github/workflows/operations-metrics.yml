@@ -1,6 +1,9 @@
 name: Daily Operations Metrics
 
 on:
+  push:
+    paths:
+      - operations/account_overview_analytics.csv
   workflow_dispatch:
     inputs:
       report_mode:
@@ -41,6 +44,8 @@ jobs:
       GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SEARCH_CONSOLE_CREDENTIALS_JSON }}
       CLARITY_API_TOKEN: ${{ secrets.CLARITY_API_TOKEN }}
       NEWSLETTER_SEND_TOKEN: ${{ secrets.NEWSLETTER_SEND_TOKEN }}
+      X_ANALYTICS_CSV_PATH: operations/account_overview_analytics.csv
+      X_TIME_SPLIT: ${{ vars.X_TIME_SPLIT || '0,0' }}
       REPORT_MODE: ${{ github.event.inputs.report_mode || 'auto' }}
       DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
     steps:
@@ -61,6 +66,19 @@ jobs:
               exit 1
             fi
           done
+
+      - name: Import X analytics CSV if present
+        run: |
+          set -euo pipefail
+          if [ ! -f "${X_ANALYTICS_CSV_PATH}" ]; then
+            echo "X analytics CSV not found: ${X_ANALYTICS_CSV_PATH}; skipping."
+            exit 0
+          fi
+          args=(--csv-path "${X_ANALYTICS_CSV_PATH}" --time-split "${X_TIME_SPLIT}")
+          if [ "${DRY_RUN}" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python operations/import_x_csv.py "${args[@]}"
 
       - name: Collect metrics and send due reports
         run: |

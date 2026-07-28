@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import datetime as dt
 import io
 import json
 import os
@@ -13,12 +14,16 @@ import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_CSV_PATH = ROOT / "operations" / "account_overview_analytics.csv"
 OPS_ENDPOINT = os.environ.get(
     "OPS_ENDPOINT", "https://www.790427.xyz/api/ops/weekly-input"
 )
 USER_AGENT = "DailyOperationsMetrics/1.0 (+https://www.790427.xyz/)"
+SHANGHAI = ZoneInfo("Asia/Shanghai")
 
 FIELDS = {
     "followers": (
@@ -26,12 +31,16 @@ FIELDS = {
         "follower count",
         "followers at week end",
         "total followers",
+        "new follows",
+        "new followers",
     ),
     "postsPublished": (
         "posts",
         "posts published",
         "post count",
         "tweets",
+        "create post",
+        "created posts",
     ),
     "impressions": ("impressions",),
     "profileVisits": (
@@ -94,13 +103,18 @@ def canonical_field(name: str) -> str | None:
 
 def read_csv_text(args: argparse.Namespace) -> str:
     sources = [bool(args.csv_path), bool(args.csv_data), args.stdin]
-    if sum(1 for item in sources if item) != 1:
-        raise SystemExit("Provide exactly one of --csv-path, --csv-data, or --stdin.")
+    if sum(1 for item in sources if item) > 1:
+        raise SystemExit("Provide only one of --csv-path, --csv-data, or --stdin.")
     if args.csv_path:
-        return Path(args.csv_path).read_text(encoding="utf-8-sig")
+        csv_path = Path(args.csv_path)
+        if not csv_path.is_absolute():
+            csv_path = ROOT / csv_path
+        return csv_path.read_text(encoding="utf-8-sig")
     if args.csv_data:
         return args.csv_data
-    return sys.stdin.read()
+    if args.stdin:
+        return sys.stdin.read()
+    return DEFAULT_CSV_PATH.read_text(encoding="utf-8-sig")
 
 
 def rows_from_text(csv_text: str) -> list[dict[str, str]]:
@@ -219,8 +233,12 @@ def post_payload(payload: dict[str, int | float | str]) -> dict:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Import weekly X analytics from CSV.")
-    parser.add_argument("--week-ending", required=True, help="Week ending date, YYYY-MM-DD")
-    parser.add_argument("--time-split", default="20,20", help="Creation and interaction hours, for example 20,20")
+    parser.add_argument(
+        "--week-ending",
+        default=dt.datetime.now(SHANGHAI).date().isoformat(),
+        help="Week ending date, YYYY-MM-DD. Defaults to today's date in Asia/Shanghai.",
+    )
+    parser.add_argument("--time-split", default="0,0", help="Creation and interaction hours, for example 20,20")
     parser.add_argument("--csv-path", help="Path to a CSV file")
     parser.add_argument("--csv-data", help="Raw CSV content")
     parser.add_argument("--stdin", action="store_true", help="Read CSV content from stdin")

@@ -673,7 +673,7 @@ def build_report(
     new_subscribers = find_metric(metrics, "newsletter", "createdYesterday")
     confirmed = find_metric(metrics, "newsletter", "confirmedYesterday")
     unsubscribed = find_metric(metrics, "newsletter", "unsubscribedYesterday")
-    x_source_label = "CSV 周度导入"
+    x_source_label = "固定 CSV 自动导入"
     x_followers = find_metric(metrics, "x_csv", "followers")
     x_posts = find_first_metric(
         metrics,
@@ -780,7 +780,7 @@ Clarity（API 自动采集，最近 1 天）
 {clarity_api_text}
 
 X（{x_source_label}）
-- 关注者：{fmt_number(x_followers)}
+- 新增关注/关注数：{fmt_number(x_followers)}
 - 跟踪/发布数：{fmt_number(x_posts)}
 - 展示：{fmt_number(x_impressions)}
 - 个人资料点击：{fmt_number(x_profile_clicks)}
@@ -815,7 +815,7 @@ X（{x_source_label}）
       <ul><li>API 指标行：{fmt_number(clarity_api_count)}</li></ul>
       <div style="font-size:14px;color:#57606a">{html.escape(clarity_api_text).replace(chr(10), '<br>')}</div>
       <h2 style="font-size:17px">X（{html.escape(x_source_label)}）</h2>
-      <ul><li>关注者：{fmt_number(x_followers)}</li><li>跟踪/发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>个人资料点击：{fmt_number(x_profile_clicks)}</li><li>链接点击：{fmt_number(x_link_clicks)}</li><li>收藏：{fmt_number(x_bookmarks)}</li><li>回复：{fmt_number(x_replies)}</li><li>转发：{fmt_number(x_reposts)}</li></ul>
+      <ul><li>新增关注/关注数：{fmt_number(x_followers)}</li><li>跟踪/发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>个人资料点击：{fmt_number(x_profile_clicks)}</li><li>链接点击：{fmt_number(x_link_clicks)}</li><li>收藏：{fmt_number(x_bookmarks)}</li><li>回复：{fmt_number(x_replies)}</li><li>转发：{fmt_number(x_reposts)}</li></ul>
       <h2 style="font-size:17px">时间投入（最近一周）</h2>
       <ul><li>创作：{fmt_number(creation_hours, 1)} 小时</li><li>互动：{fmt_number(interaction_hours, 1)} 小时</li></ul>
       <h2 style="font-size:17px">健康与采集问题</h2><ul>{escaped_issues}</ul>
