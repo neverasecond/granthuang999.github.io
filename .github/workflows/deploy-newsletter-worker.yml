@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - "workers/newsletter/**"
-      - "operations/**"
+      - "operations/schema.sql"
       - ".github/workflows/deploy-newsletter-worker.yml"
 
 jobs:

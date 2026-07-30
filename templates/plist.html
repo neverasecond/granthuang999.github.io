@@ -6,11 +6,6 @@
 <meta property="og:type" content="blog">
 <meta property="og:url" content="{{ blogBase['homeUrl'] }}">
 <meta property="og:image" content="{{ blogBase['ogImage'] }}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ blogBase['title'] }}">
-<meta name="twitter:description" content="{{ blogBase['subTitle'] }}">
-<meta name="twitter:image" content="{{ blogBase['ogImage'] }}">
-<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
 <title>{{ blogBase['title'] }}</title>
 <script type="application/ld+json">
 {
@@ -68,7 +63,7 @@
     <div class="home-actions">
         <a href="{{ blogBase['homeUrl'] }}/start.html">从这里开始</a>
         <a href="{{ blogBase['homeUrl'] }}/subscribe.html">邮件订阅</a>
-        <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 {{ blogBase['xName'] }}</a>
+        {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
         <a href="{{ blogBase['homeUrl'] }}/tag.html" id="buttonSearch" class="home-action-icon" title="{{ i18n['Search'] }}" aria-label="{{ i18n['Search'] }}">
             <svg class="octicon" width="16" height="16"><path id="pathSearch" fill-rule="evenodd"></path></svg>
         </a>
@@ -92,17 +87,17 @@
         </button>
     </div>
     <div class="home-tracks">
-        <a class="home-track" href="{{ blogBase['homeUrl'] }}/xiu-xing.html">
-            <strong>人生修行</strong>
-            <span>读书体悟、人生下半场、关系、健康、心态和自我修正。</span>
+        <a class="home-track" href="{{ blogBase['homeUrl'] }}/nei-xin-zhi-xu.html">
+            <strong>内心秩序</strong>
+            <span>经典阅读、关系、健康、心态与自我修正，让现实生活里多一点清醒。</span>
         </a>
-        <a class="home-track" href="{{ blogBase['homeUrl'] }}/tou-zi.html">
-            <strong>赚钱投资</strong>
-            <span>大类资产趋势、ETF 配置、实操记录、风险控制和阶段复盘。</span>
+        <a class="home-track" href="{{ blogBase['homeUrl'] }}/zi-chan-hu-hang.html">
+            <strong>资产护航</strong>
+            <span>现金流、大类资产、ETF 配置、风险边界与阶段复盘。</span>
         </a>
-        <a class="home-track" href="{{ blogBase['homeUrl'] }}/ai-jiao-xue.html">
-            <strong>技术辅助</strong>
-            <span>不追新工具，不做新闻搬运。只记录 iPhone、AI 与自动化怎样解决真实生活问题。</span>
+        <a class="home-track" href="{{ blogBase['homeUrl'] }}/shu-zi-neng-li.html">
+            <strong>数字能力</strong>
+            <span>用 iPhone、AI 与自动化解决真实问题，同时保留隐私、安全和控制权。</span>
         </a>
     </div>
 </section>

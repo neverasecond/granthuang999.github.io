@@ -7,8 +7,6 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ blogBase['homeUrl'] }}/about.html">
 <meta property="og:image" content="{{ blogBase['ogImage'] }}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
 <title>关于本站 - {{ blogBase['title'] }}</title>
 <script type="application/ld+json">
 {
@@ -26,10 +24,10 @@
     "author": {
         "@type": "Person",
         "name": {{ blogBase.author|tojson }},
-        "alternateName": {{ blogBase.xName|tojson }},
+        "alternateName": "Midlife Order",
         "url": {{ blogBase.homeUrl|tojson }},
         "email": {{ ("mailto:" ~ blogBase.email)|tojson }},
-        "sameAs": [{{ blogBase.xUrl|tojson }}]
+        "sameAs": []
     }
 }
 </script>
@@ -66,7 +64,7 @@
 {% block content %}
 <main class="content-page">
     <p class="lead">人到中年，是莫白来写给自己，也写给还想重新开始的人的个人网站。</p>
-    <p>这里不追逐热闹，也不制造焦虑。它记录三件事：人生修行、赚钱投资，以及面向中老年人的技术辅助。</p>
+    <p>这里不追逐热闹，也不制造焦虑。它围绕三件事持续写作：内心秩序、资产护航与数字能力。</p>
 
     <h2>这个网站写什么</h2>
     <ul>
@@ -83,12 +81,12 @@
     </ul>
 
     <h2>联系与订阅</h2>
-    <p>你可以写信到 <a href="mailto:{{ blogBase['email'] }}">{{ blogBase['email'] }}</a>，也可以在 X 上关注 <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">{{ blogBase['xName'] }}</a>。</p>
+    <p>你可以写信到 <a href="mailto:{{ blogBase['email'] }}">{{ blogBase['email'] }}</a>，也可以订阅网站邮件收到新文章与系列整理。</p>
     <p class="notice">投资相关内容仅为个人研究、记录与复盘，不构成任何投资建议。请根据自己的风险承受能力独立判断。</p>
     <div class="page-links">
         <a href="{{ blogBase['homeUrl'] }}/start.html">从这里开始</a>
         <a href="{{ blogBase['homeUrl'] }}/subscribe.html">邮件订阅</a>
-        <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 X</a>
+        {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
     </div>
 </main>
 {% endblock %}

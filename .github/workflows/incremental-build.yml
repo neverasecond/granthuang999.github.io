@@ -4,7 +4,7 @@ on:
   issues:
     # New Issues start without labels and are drafts. Publishing begins when
     # the first label is added; later edits to a published Issue rebuild it.
-    types: [edited, labeled]
+    types: [opened, edited, labeled, unlabeled, closed, reopened, deleted]
 
 jobs:
   build-incremental:
@@ -16,7 +16,17 @@ jobs:
     if: |
       github.actor != 'github-actions[bot]' &&
       github.repository == 'neverasecond/granthuang999.github.io' &&
-      join(github.event.issue.labels.*.name, '') != ''
+      (github.event.action == 'closed' ||
+       github.event.action == 'deleted' ||
+       github.event.action == 'unlabeled' ||
+       contains(github.event.issue.labels.*.name, 'Draft') ||
+       contains(github.event.issue.labels.*.name, '草稿') ||
+       contains(github.event.issue.labels.*.name, '内心秩序') ||
+       contains(github.event.issue.labels.*.name, '资产护航') ||
+       contains(github.event.issue.labels.*.name, '数字能力') ||
+       contains(github.event.issue.labels.*.name, '人生修行') ||
+       contains(github.event.issue.labels.*.name, '赚钱投资') ||
+       contains(github.event.issue.labels.*.name, '技术辅助'))
     permissions:
       contents: write
       issues: read
@@ -45,8 +55,13 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Generate new html (Cleanup Full Build)
+        if: github.event.action == 'closed' || github.event.action == 'deleted' || github.event.action == 'unlabeled' || contains(github.event.issue.labels.*.name, 'Draft') || contains(github.event.issue.labels.*.name, '草稿')
+        run: |
+          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }}
+
       - name: Generate new html (Incremental)
-        if: steps.determine_issue.outputs.issue_number != ''
+        if: steps.determine_issue.outputs.issue_number != '' && github.event.action != 'closed' && github.event.action != 'deleted' && github.event.action != 'unlabeled' && !contains(github.event.issue.labels.*.name, 'Draft') && !contains(github.event.issue.labels.*.name, '草稿')
         run: |
           python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number '${{ steps.determine_issue.outputs.issue_number }}'
 
