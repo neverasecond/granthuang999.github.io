@@ -98,9 +98,12 @@ class GMEEK:
     def defaultConfig(self):
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
-        dconfig={"singlePage":[],"hiddenPage":[],"disabledPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","xName":"莫白来","xHandle":"wiselyfreely","xUrl":"https://x.com/wiselyfreely","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":"","contentCategorySlugs":{"人生修行":"xiu-xing","赚钱投资":"tou-zi","技术辅助":"ai-jiao-xue"}}
+        dconfig={"singlePage":[],"hiddenPage":[],"disabledPage":[],"startSite":"","filingNum":"","onePageListNum":15,"commentLabelColor":"#006b75","yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],"i18n":"CN","themeMode":"manual","dayTheme":"light","nightTheme":"dark","urlMode":"pinyin","script":"","style":"","head":"","indexScript":"","indexStyle":"","bottomText":"","showPostSource":1,"iconList":{},"UTC":8,"rssSplit":"sentence","exlink":{},"needComment":1,"allHead":"","author":"莫白来","linkedinUrl":"","youtubeUrl":"","enableAds":0,"subscribeApiUrl":"","turnstileSiteKey":"","contentCategorySlugs":{"内心秩序":"nei-xin-zhi-xu","资产护航":"zi-chan-hu-hang","数字能力":"shu-zi-neng-li"},"contentCategoryAliases":{"人生修行":"内心秩序","赚钱投资":"资产护航","技术辅助":"数字能力"},"legacyCategoryRedirects":{"xiu-xing.html":"nei-xin-zhi-xu.html","tou-zi.html":"zi-chan-hu-hang.html","ai-jiao-xue.html":"shu-zi-neng-li.html"}}
 
         self.blogBase={**dconfig,**config}
+        for legacy_label, canonical_label in self.blogBase.get("contentCategoryAliases", {}).items():
+            if legacy_label in self.labelColorDict and canonical_label not in self.labelColorDict:
+                self.labelColorDict[canonical_label] = self.labelColorDict[legacy_label]
         self.blogBase["postListJson"]={}
         self.blogBase["singeListJson"]={}
         self.blogBase["labelColorDict"]=self.labelColorDict
@@ -125,11 +128,22 @@ class GMEEK:
 
     def getLabelSlug(self, label):
         """Keep primary category URLs stable while auxiliary tags use pinyin."""
-        return self.blogBase.get("contentCategorySlugs", {}).get(label, Pinyin().get_pinyin(label))
+        canonical_label = self.blogBase.get("contentCategoryAliases", {}).get(label, label)
+        return self.blogBase.get("contentCategorySlugs", {}).get(canonical_label, Pinyin().get_pinyin(label))
+
+    def normalizeLabels(self, labels):
+        """Map legacy editorial labels to their current public names."""
+        aliases = self.blogBase.get("contentCategoryAliases", {})
+        normalized = []
+        for label in labels:
+            canonical_label = aliases.get(label, label)
+            if canonical_label not in normalized:
+                normalized.append(canonical_label)
+        return normalized
 
     def getContentCategory(self, labels):
         """Return the single editorial category independent of GitHub label order."""
-        label_names = [label.name if hasattr(label, "name") else label for label in labels]
+        label_names = self.normalizeLabels([label.name if hasattr(label, "name") else label for label in labels])
         for category in self.blogBase.get("contentCategorySlugs", {}):
             if category in label_names:
                 return category
@@ -144,7 +158,7 @@ class GMEEK:
         categories = set(self.blogBase.get("contentCategorySlugs", {}))
         invalid_posts = []
         for issue_key, post in self.blogBase["postListJson"].items():
-            matches = sorted(categories.intersection(post.get("labels", [])))
+            matches = sorted(categories.intersection(self.normalizeLabels(post.get("labels", []))))
             if len(matches) != 1:
                 invalid_posts.append(f"{issue_key}: {post['postTitle']} ({', '.join(matches) or '无正式栏目'})")
         if invalid_posts:
@@ -334,6 +348,9 @@ class GMEEK:
 
         page_label = self.getSinglePageLabel(issue_labels)
         is_single_page = bool(page_label)
+        if not is_single_page and ({"Draft", "草稿"}.intersection(issue_labels) or not self.getContentCategory(issue_labels)):
+            print(f"Skipping issue #{issue.number} because it is an unpublished draft without a content category.")
+            return
         listJsonName = 'singeListJson' if is_single_page else 'postListJson'
 
         fileName = self.createFileName(issue, postConfig, page_label=page_label)
@@ -348,7 +365,7 @@ class GMEEK:
 
         post_data = {
             "htmlDir": html_dir,
-            "labels": issue_labels,
+            "labels": self.normalizeLabels(issue_labels),
             "contentCategory": self.getContentCategory(issue_labels),
             "postTitle": issue.title,
             "postUrl": f"{self.blogBase['homeUrl']}/{urllib.parse.quote(relative_url)}",
@@ -591,6 +608,20 @@ class GMEEK:
         }
         self.renderHtml('subscribe.html', context, f"{self.root_dir}subscribe.html")
 
+    def createLegacyCategoryRedirects(self):
+        print("====== create legacy category redirects ======")
+        for legacy_file, target_file in self.blogBase.get("legacyCategoryRedirects", {}).items():
+            target_url = f"{self.blogBase['homeUrl']}/{target_file}"
+            redirect_html = f'''<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="{target_url}">
+<meta http-equiv="refresh" content="0;url={target_url}">
+<title>页面已迁移</title></head>
+<body><p>页面已迁移至 <a href="{target_url}">{target_url}</a>。</p></body></html>'''
+            with open(os.path.join(self.root_dir, legacy_file), 'w', encoding='UTF-8') as f:
+                f.write(redirect_html)
+
     def createStaticLandingPages(self):
         print("====== create static landing pages ======")
         pages = [
@@ -639,6 +670,7 @@ class GMEEK:
         self.createPlistHtml()
         self.createTagCloudPage()
         self.createTagPages()
+        self.createLegacyCategoryRedirects()
         self.createSubscribePage()
         self.createStaticLandingPages()
         self.createNotFoundPage()
@@ -672,6 +704,7 @@ class GMEEK:
             self.createPlistHtml()
             self.createTagCloudPage()
             self.createTagPages()
+            self.createLegacyCategoryRedirects()
             self.createSubscribePage()
             self.createStaticLandingPages()
             self.createNotFoundPage()

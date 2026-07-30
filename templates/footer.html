@@ -10,11 +10,7 @@
     {%- if blogBase['filingNum']!='' -%}
     <span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">{{ blogBase['filingNum'] }}</a> • </span>
     {%- endif %}
-    <span id="runday"></span><span>本站由
-        <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener" title="X: {{ blogBase['xName'] }}" style="display:inline-flex;vertical-align:-3px;margin:0 4px;text-decoration:none;">
-            <img src="{{ blogBase['homeUrl'] }}/images/logo.png" alt="X: {{ blogBase['xName'] }}" width="18" height="18" style="border-radius:50%;">
-        </a>
-        <a href="mailto:{{ blogBase['email'] }}" target="_blank">{{ blogBase['xName'] }}</a> 建立&维护</span>
+    <span id="runday"></span><span>本站由 <a href="mailto:{{ blogBase['email'] }}">{{ blogBase['author'] }}</a> 建立&维护</span>
 </div>
 
 <script>

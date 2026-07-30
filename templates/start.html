@@ -1,21 +1,19 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<meta name="description" content="从这里开始阅读人到中年：人生修行、赚钱投资、技术辅助三条原创主线。">
+<meta name="description" content="从这里开始阅读人到中年：内心秩序、资产护航、数字能力三条原创主线。">
 <meta property="og:title" content="从这里开始 - {{ blogBase['title'] }}">
-<meta property="og:description" content="按人生修行、赚钱投资、技术辅助三条原创主线进入人到中年。">
+<meta property="og:description" content="按内心秩序、资产护航、数字能力三条原创主线进入人到中年。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ blogBase['homeUrl'] }}/start.html">
 <meta property="og:image" content="{{ blogBase['ogImage'] }}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">
 <title>从这里开始 - {{ blogBase['title'] }}</title>
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": {{ ("从这里开始 - " ~ blogBase.title)|tojson }},
-    "description": "按人生修行、赚钱投资、技术辅助三条原创主线进入人到中年。",
+    "description": "按内心秩序、资产护航、数字能力三条原创主线进入人到中年。",
     "url": {{ (blogBase.homeUrl ~ "/start.html")|tojson }},
     "inLanguage": "zh-CN",
     "isPartOf": {
@@ -61,18 +59,18 @@
 
 {% block content %}
 <main class="start-page">
-    <p class="start-lead">如果你第一次来到这里，可以先按三条主线阅读：想重新理解自己，读人生修行；想管好钱，读赚钱投资；想让工具真正改善生活，读技术辅助。这里优先保留个人实践、长期观察和可复盘的判断，不做资源搬运和新闻聚合。</p>
+    <p class="start-lead">如果你第一次来到这里，可以先按三条主线阅读：想重新理解自己，读内心秩序；想守护家庭资产，读资产护航；想让工具真正改善生活，读数字能力。这里优先保留个人实践、长期观察和可复盘的方法。</p>
     <section class="start-grid" aria-label="内容主线">
-        <a class="start-card" href="{{ blogBase['homeUrl'] }}/xiu-xing.html">
-            <strong>人生修行</strong>
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/nei-xin-zhi-xu.html">
+            <strong>内心秩序</strong>
             <span>给人生下半场留一点安静的判断力，记录读过的书、想通的事和还没想通的地方。</span>
         </a>
-        <a class="start-card" href="{{ blogBase['homeUrl'] }}/tou-zi.html">
-            <strong>赚钱投资</strong>
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/zi-chan-hu-hang.html">
+            <strong>资产护航</strong>
             <span>记录大类资产趋势、ETF 配置、实际操作和复盘。重视风险，少一点口号，多一点过程。</span>
         </a>
-        <a class="start-card" href="{{ blogBase['homeUrl'] }}/ai-jiao-xue.html">
-            <strong>技术辅助</strong>
+        <a class="start-card" href="{{ blogBase['homeUrl'] }}/shu-zi-neng-li.html">
+            <strong>数字能力</strong>
             <span>写给中老年人，也写给需要把技术真正用进生活的人。每篇尽量给出真实场景、操作步骤、风险提醒和亲自验证后的取舍。</span>
         </a>
     </section>
@@ -86,7 +84,7 @@
         <div class="start-actions">
             <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅新文章</a>
             <a href="{{ blogBase['homeUrl'] }}/tag.html">查看全部标签</a>
-            <a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 {{ blogBase['xName'] }}</a>
+            {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
         </div>
     </section>
 </main>

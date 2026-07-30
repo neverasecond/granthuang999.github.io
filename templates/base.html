@@ -53,10 +53,7 @@
     "publisher": {
         "@type": "Person",
         "name": {{ blogBase.author|tojson }},
-        "url": {{ blogBase.xUrl|tojson }},
-        "sameAs": [
-            {{ blogBase.xUrl|tojson }}
-        ]
+        "url": {{ blogBase.homeUrl|tojson }}
     },
     "potentialAction": {
         "@type": "SearchAction",
@@ -73,12 +70,10 @@
     "@context": "https://schema.org",
     "@type": "Person",
     "name": {{ blogBase.author|tojson }},
-    "alternateName": {{ blogBase.xName|tojson }},
+    "alternateName": "Midlife Order",
     "url": {{ blogBase.homeUrl|tojson }},
     "email": {{ ("mailto:" ~ blogBase.email)|tojson }},
-    "sameAs": [
-        {{ blogBase.xUrl|tojson }}
-    ]
+    "sameAs": []
 }
 </script>
 </head>
@@ -286,9 +281,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         <nav class="header-nav-menu">
             <a href="{{ blogBase['homeUrl'] }}/">首页</a>
             <a href="{{ blogBase['homeUrl'] }}/start.html">从这里开始</a>
-            <a href="{{ blogBase['homeUrl'] }}/xiu-xing.html">人生修行</a>
-            <a href="{{ blogBase['homeUrl'] }}/tou-zi.html">赚钱投资</a>
-            <a href="{{ blogBase['homeUrl'] }}/ai-jiao-xue.html">技术辅助</a>
+            <a href="{{ blogBase['homeUrl'] }}/nei-xin-zhi-xu.html">内心秩序</a>
+            <a href="{{ blogBase['homeUrl'] }}/zi-chan-hu-hang.html">资产护航</a>
+            <a href="{{ blogBase['homeUrl'] }}/shu-zi-neng-li.html">数字能力</a>
             <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅</a>
             <a href="{{ blogBase['homeUrl'] }}/about.html">关于</a>
             <a href="{{ blogBase['homeUrl'] }}/tag.html">搜索</a>
@@ -363,17 +358,6 @@ console.log("\n %c 人到中年 " + {{ blogBase['GMEEK_VERSION']|tojson }} + " h
             });
         }
 
-        try {
-            const destination = new URL(link.href, window.location.href);
-            if (destination.hostname === 'x.com' || destination.hostname === 'www.x.com' || destination.hostname === 'twitter.com') {
-                window.trackSiteEvent('outbound_x_click', {
-                    link_url: destination.href,
-                    link_text: (link.textContent || '').trim().slice(0, 120)
-                });
-            }
-        } catch (_) {
-            // Ignore non-HTTP links such as mailto and javascript URLs.
-        }
     });
 
     const postBody = document.getElementById('postBody');
