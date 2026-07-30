@@ -36,7 +36,7 @@
   "head": "",
   "indexScript": "",
   "indexStyle": "",
-  "bottomText": "文章皆为原创，转载文章请注明出处。人到中年，记录人生修行、赚钱投资与技术辅助。愿你莫白来。",
+  "bottomText": "文章皆为原创，转载文章请注明出处。人到中年，记录内心秩序、资产护航与数字能力。愿你莫白来。",
   "showPostSource": 0,
   "iconList": {},
   "UTC": 8,
@@ -45,19 +45,28 @@
   "needComment": 0,
   "allHead": "",
   "author": "莫白来",
-  "xName": "莫白来",
-  "xHandle": "wiselyfreely",
-  "xUrl": "https://x.com/wiselyfreely",
+  "linkedinUrl": "",
+  "youtubeUrl": "",
   "enableAds": 0,
   "subscribeApiUrl": "https://www.790427.xyz/api/subscribe",
   "turnstileSiteKey": "0x4AAAAAADy7m99tTX6ix-52",
   "contentCategorySlugs": {
-    "人生修行": "xiu-xing",
-    "赚钱投资": "tou-zi",
-    "技术辅助": "ai-jiao-xue"
+    "内心秩序": "nei-xin-zhi-xu",
+    "资产护航": "zi-chan-hu-hang",
+    "数字能力": "shu-zi-neng-li"
+  },
+  "contentCategoryAliases": {
+    "人生修行": "内心秩序",
+    "赚钱投资": "资产护航",
+    "技术辅助": "数字能力"
+  },
+  "legacyCategoryRedirects": {
+    "xiu-xing.html": "nei-xin-zhi-xu.html",
+    "tou-zi.html": "zi-chan-hu-hang.html",
+    "ai-jiao-xue.html": "shu-zi-neng-li.html"
   },
   "title": "人到中年",
-  "subTitle": "可以对别人失望，但自己不能绝望。写写人生修行、赚钱投资、技术辅助。世界不会变得更好，但你可以。愿你莫白来，与君共勉！",
+  "subTitle": "帮助全球华语中年人建立内在秩序、资产秩序和数字能力，并逐步为英语读者提供同样的方法与工具。",
   "avatarUrl": "/images/site-logo.svg",
   "GMEEK_VERSION": "last",
   "displayTitle": "人到中年",
@@ -72,9 +81,9 @@
     "P293": {
       "htmlDir": "docs/post/platform-sutra-sudden-clarity.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
       "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/293",
@@ -133,9 +142,9 @@
     "P292": {
       "htmlDir": "docs/post/ai-assistant-readonly-boundaries.html",
       "labels": [
-        "技术辅助"
+        "数字能力"
       ],
-      "contentCategory": "技术辅助",
+      "contentCategory": "数字能力",
       "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
       "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/292",
@@ -193,9 +202,9 @@
     "P291": {
       "htmlDir": "docs/post/asset-allocation-by-purpose.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "普通家庭资产配置，先分用途，再谈收益",
       "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/291",
@@ -259,9 +268,9 @@
     "P290": {
       "htmlDir": "docs/post/platform-sutra-self-nature-clear.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "不必等心静下来：从《坛经》第一句说起",
       "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/290",
@@ -325,9 +334,9 @@
     "P289": {
       "htmlDir": "docs/post/imessage-codex-gateway.html",
       "labels": [
-        "技术辅助"
+        "数字能力"
       ],
-      "contentCategory": "技术辅助",
+      "contentCategory": "数字能力",
       "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
       "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/289",
@@ -385,9 +394,9 @@
     "P288": {
       "htmlDir": "docs/post/cultivation-is-self-mastery-body-and-mind.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "修行，就是重新学会控制自己",
       "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/288",
@@ -451,9 +460,9 @@
     "P287": {
       "htmlDir": "docs/post/freedom-is-self-mastery.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "自由，是你能控制自己",
       "postUrl": "https://www.790427.xyz/post/freedom-is-self-mastery.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/287",
@@ -517,9 +526,9 @@
     "P286": {
       "htmlDir": "docs/post/what-is-dedao-life-principle.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "什么是“得道”：一个人如何找到自己人生的总纲",
       "postUrl": "https://www.790427.xyz/post/what-is-dedao-life-principle.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/286",
@@ -583,9 +592,9 @@
     "P285": {
       "htmlDir": "docs/post/dao-freedom-cultivation-preface.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "我为什么要写“道、自由与修行”",
       "postUrl": "https://www.790427.xyz/post/dao-freedom-cultivation-preface.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/285",
@@ -649,9 +658,9 @@
     "P284": {
       "htmlDir": "docs/post/investing-is-natural-result.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "投资理财不是目的，而是自然的结果",
       "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/284",
@@ -716,9 +725,9 @@
       "htmlDir": "docs/post/circumstance-is-not-conclusion-platform-sutra.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "处境不是结论：从惠能初见五祖说起",
       "postUrl": "https://www.790427.xyz/post/circumstance-is-not-conclusion-platform-sutra.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/283",
@@ -783,9 +792,9 @@
       "htmlDir": "docs/post/why-start-with-platform-sutra.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "为什么要从《坛经》开始：人到中年，重新学习怎样安顿自己",
       "postUrl": "https://www.790427.xyz/post/why-start-with-platform-sutra.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/280",
@@ -849,9 +858,9 @@
     "P272": {
       "htmlDir": "docs/post/restart-life-with-iphone-and-ai.html",
       "labels": [
-        "技术辅助"
+        "数字能力"
       ],
-      "contentCategory": "技术辅助",
+      "contentCategory": "数字能力",
       "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
       "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/272",
@@ -910,9 +919,9 @@
       "htmlDir": "docs/post/three-kingdoms-003-jiaxu-conscience.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "夜读三国 003：当“活下去”成为唯一的信仰，人与兽的界限在哪里？",
       "postUrl": "https://www.790427.xyz/post/three-kingdoms-003-jiaxu-conscience.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/248",
@@ -976,9 +985,9 @@
     "P247": {
       "htmlDir": "docs/post/common-sense-005-dao-of-retail-investor.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
       "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/247",
@@ -1043,9 +1052,9 @@
       "htmlDir": "docs/post/three-kingdoms-002-dongzhuo-reset.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "夜读三国 002：当一个野蛮人决定格式化这个文明",
       "postUrl": "https://www.790427.xyz/post/three-kingdoms-002-dongzhuo-reset.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/246",
@@ -1110,9 +1119,9 @@
       "htmlDir": "docs/post/three-kingdoms-001-hejin-metaphor.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "夜读三国 001：当一个屠夫，决定亲自部署这个帝国",
       "postUrl": "https://www.790427.xyz/post/three-kingdoms-001-hejin-metaphor.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/245",
@@ -1176,9 +1185,9 @@
     "P244": {
       "htmlDir": "docs/post/common-sense-004-trading-brutal-truth.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "浮盈的幻觉与带着面具的对手——交易的残酷真相",
       "postUrl": "https://www.790427.xyz/post/common-sense-004-trading-brutal-truth.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/244",
@@ -1243,9 +1252,9 @@
       "htmlDir": "docs/post/red-chamber-restart-045-survival-art.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 044】：大厦崩塌时活得最好的不是柱子，而是墙角的老鼠",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-045-survival-art.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/240",
@@ -1310,9 +1319,9 @@
       "htmlDir": "docs/post/red-chamber-restart-044-death-of-matriarch.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 043】：老祖宗走了，这艘船的压舱石就没了",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-044-death-of-matriarch.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/237",
@@ -1377,9 +1386,9 @@
       "htmlDir": "docs/post/red-chamber-restart-043-tanchun-reform-tragedy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 042】：一个清醒的管理者如何面对沉船",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-043-tanchun-reform-tragedy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/236",
@@ -1444,9 +1453,9 @@
       "htmlDir": "docs/post/red-chamber-restart-042-jia-zheng-tragedy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 041】：不要成为一个“正确”但“空心”的中年标本",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-042-jia-zheng-tragedy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/235",
@@ -1511,9 +1520,9 @@
       "htmlDir": "docs/post/red-chamber-restart-040-miao-yu-anxiety.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 040】：一种名为“洁癖”的阶层焦虑",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-040-miao-yu-anxiety.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/234",
@@ -1578,9 +1587,9 @@
       "htmlDir": "docs/post/red-chamber-restart-039-competence-trap.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 039】：职场“能者多劳”的陷阱",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-039-competence-trap.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/233",
@@ -1645,9 +1654,9 @@
       "htmlDir": "docs/post/red-chamber-restart-038-xiaohong-pitch.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 038】：职场电梯演讲与越级突围",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-038-xiaohong-pitch.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/231",
@@ -1712,9 +1721,9 @@
       "htmlDir": "docs/post/red-chamber-restart-037-grand-view-raid.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 037】：体面，是比金子还贵重的东西",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-037-grand-view-raid.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/230",
@@ -1779,9 +1788,9 @@
       "htmlDir": "docs/post/red-chamber-restart-036-yuanyang-refusal.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 036】：学会拒绝老板的非分之想",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-036-yuanyang-refusal.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/229",
@@ -1846,9 +1855,9 @@
       "htmlDir": "docs/post/red-chamber-restart-035-pinger-soft-power.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 035】：怎么样既不背锅，还能解决问题？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-035-pinger-soft-power.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/228",
@@ -1913,9 +1922,9 @@
       "htmlDir": "docs/post/red-chamber-restart-034-tanchun-leadership.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 034】：没有任命书，怎么拉动平级甚至比你牛的人",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-034-tanchun-leadership.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/227",
@@ -1980,9 +1989,9 @@
       "htmlDir": "docs/post/red-chamber-restart-033-xiren-tragedy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 033】：“以公司为家”是职场最大的谎言",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-033-xiren-tragedy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/223",
@@ -2047,9 +2056,9 @@
       "htmlDir": "docs/post/red-chamber-restart-032-xfeng-burnout.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 032】：为什么“能干”的人死得早？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-032-xfeng-burnout.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/221",
@@ -2114,9 +2123,9 @@
       "htmlDir": "docs/post/red-chamber-restart-031-baochai-professionalism.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 031】：职场不需要“活人”，只需要“标准件”",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-031-baochai-professionalism.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/219",
@@ -2181,9 +2190,9 @@
       "htmlDir": "docs/post/red-chamber-restart-030-jiayun-gambling.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 030】：没伞的孩子，除了拼命跑，还得学会“赌”",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-030-jiayun-gambling.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/217",
@@ -2247,9 +2256,9 @@
     "P214": {
       "htmlDir": "docs/post/midlife-maintenance-04-man-cave.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "中年维修手册：男人的“洞穴”",
       "postUrl": "https://www.790427.xyz/post/midlife-maintenance-04-man-cave.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/214",
@@ -2314,9 +2323,9 @@
       "htmlDir": "docs/post/red-chamber-restart-029-tanchun-audit.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 029】探春理家：为什么“好人”做不了高管？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-restart-029-tanchun-audit.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/213",
@@ -2381,9 +2390,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-28-granny-liu-networking.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 028】刘姥姥：穷亲戚如何撬动顶级供应链？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-28-granny-liu-networking.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/212",
@@ -2448,9 +2457,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-27-daiyu-exit-strategy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 027】黛玉葬花：当“耗材”拒绝被系统回收",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-27-daiyu-exit-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/211",
@@ -2515,9 +2524,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-26-gatekeeper-risk.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 026】那个不开门的前台，毁了CEO最核心的关系",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-26-gatekeeper-risk.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/207",
@@ -2582,9 +2591,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-25-jia-huan-dark-tactics.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 025】那个向你泼开水的小人：贾环的“黑暗生存法”",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-25-jia-huan-dark-tactics.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/205",
@@ -2649,9 +2658,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-24-jia-yun-hustle.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 024】贾芸的奋斗：普通人如何在“大观园”里拿到入场券？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-24-jia-yun-hustle.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/204",
@@ -2716,9 +2725,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-23-monday-escape.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 023】周一的逃亡：为什么我们需要一个“大观园”？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-23-monday-escape.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/202",
@@ -2782,9 +2791,9 @@
     "P201": {
       "htmlDir": "docs/post/lazy-investor-weekly-048-venezuela-shock.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "开年大戏：委内瑞拉“变天”，2026的资产逻辑变了？",
       "postUrl": "https://www.790427.xyz/post/lazy-investor-weekly-048-venezuela-shock.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/201",
@@ -2849,9 +2858,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-22-people-pleaser-burnout.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 022】宝玉的崩溃：当“讨好型人格”决定不想活了",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-22-people-pleaser-burnout.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/200",
@@ -2916,9 +2925,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-21-gray-management.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 021】平儿的智慧：为什么“灰度”比“真相”更重要？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-21-gray-management.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/198",
@@ -2983,9 +2992,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-20-petty-fights.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 020】一碗酥酪引发的血案：为什么越是底层，越喜欢互相为难？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-20-petty-fights.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/197",
@@ -3050,9 +3059,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-19-specific-happiness.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 019】元妃省亲后的“贤者时间”：为什么宝玉要往丫鬟家跑？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-19-specific-happiness.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/196",
@@ -3117,9 +3126,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-18-lonely-gala.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 018】元妃省亲：一场耗资百万、没有亲情的顶级春晚",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-18-lonely-gala.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/195",
@@ -3184,9 +3193,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-17-toxic-boss.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 017】贾政视察大观园：一场令人窒息的高管巡店现场",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-17-toxic-boss.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/187",
@@ -3251,9 +3260,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-16-capex-trap.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 016】贾府的IPO与大观园魔咒：为什么盖新楼的企业死得快？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-16-capex-trap.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/186",
@@ -3318,9 +3327,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-15-vanity-trap.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 015】王熙凤的死穴，也是我前半生最大的遗憾",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-15-vanity-trap.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/185",
@@ -3385,9 +3394,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-14-asset-swap-risk.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 014】林如海之死与北静王结交：一次高风险的资产置换",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-14-asset-swap-risk.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/183",
@@ -3452,9 +3461,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-13-macro-vs-micro.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 013】宏观周期的逃顶预警与微观管理的战术勤奋",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-13-macro-vs-micro.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/182",
@@ -3519,9 +3528,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-12-risk-and-cashflow.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 012】贾瑞之死与林如海病危：致命的“多巴胺陷阱”与家族现金牛的倒下",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-12-risk-and-cashflow.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/178",
@@ -3585,9 +3594,9 @@
     "P177": {
       "htmlDir": "docs/post/cash-vs-debt-freedom.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "【财商觉醒】负债30万 vs 存款30万：毁掉你人生的不是缺钱，而是失去了时间的控制权",
       "postUrl": "https://www.790427.xyz/post/cash-vs-debt-freedom.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/177",
@@ -3652,9 +3661,9 @@
       "htmlDir": "docs/post/jiarui-risk-management.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 011】贾瑞之死：一场由于段位误判引发的杠杆爆仓",
       "postUrl": "https://www.790427.xyz/post/jiarui-risk-management.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/176",
@@ -3719,9 +3728,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-10-burnout-toxic-people.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 010】金寡妇受辱与秦可卿生病，为什么精英往往死于情绪内耗？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-10-burnout-toxic-people.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/175",
@@ -3785,9 +3794,9 @@
     "P174": {
       "htmlDir": "docs/post/sp500-pe-ratio-valuation-warning-2025.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "历史铁律警告：在22倍市盈率买入美股，未来十年回报归零？",
       "postUrl": "https://www.790427.xyz/post/sp500-pe-ratio-valuation-warning-2025.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/174",
@@ -3852,9 +3861,9 @@
       "htmlDir": "docs/post/jia-school-bullying-class-struggle.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 009】贾府学堂大乱斗：名校光环下的肮脏生意与阶层霸凌",
       "postUrl": "https://www.790427.xyz/post/jia-school-bullying-class-struggle.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/171",
@@ -3919,9 +3928,9 @@
       "htmlDir": "docs/post/gold-jade-marriage-capital-conspiracy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 008】金玉良缘的阴谋：这不是爱情，是资本的借壳上市",
       "postUrl": "https://www.790427.xyz/post/gold-jade-marriage-capital-conspiracy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/170",
@@ -3986,9 +3995,9 @@
       "htmlDir": "docs/post/jiao-da-drunken-curse-corporate-politics.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 007】焦大醉骂：为什么说真话的老员工通常死得最惨？",
       "postUrl": "https://www.790427.xyz/post/jiao-da-drunken-curse-corporate-politics.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/169",
@@ -4053,9 +4062,9 @@
       "htmlDir": "docs/post/liu-laolao-fundraising-strategy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 006】刘姥姥一进荣国府：穷人如何体面地向富人搞钱？",
       "postUrl": "https://www.790427.xyz/post/liu-laolao-fundraising-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/168",
@@ -4120,9 +4129,9 @@
       "htmlDir": "docs/post/red-chamber-chapter-5-destiny-algorithm.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 005】命运的算法：为什么我们在毁灭前夜最狂欢？",
       "postUrl": "https://www.790427.xyz/post/red-chamber-chapter-5-destiny-algorithm.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/167",
@@ -4187,9 +4196,9 @@
       "htmlDir": "docs/post/protection-list-power-corruption-chapter-4.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 004】葫芦僧乱判葫芦案：当法律遇到护官符，普通人的正义值多少钱？",
       "postUrl": "https://www.790427.xyz/post/protection-list-power-corruption-chapter-4.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/166",
@@ -4254,9 +4263,9 @@
       "htmlDir": "docs/post/daiyu-enters-jia-mansion-survival-guide.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 003】林黛玉进贾府：职场新人如何在全是人精的圈子里活下来？",
       "postUrl": "https://www.790427.xyz/post/daiyu-enters-jia-mansion-survival-guide.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/165",
@@ -4321,9 +4330,9 @@
       "htmlDir": "docs/post/jia-yucun-career-turnaround-strategy.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 002】贾雨村的职场翻身仗：穷书生如何撬动顶级豪门？",
       "postUrl": "https://www.790427.xyz/post/jia-yucun-career-turnaround-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/164",
@@ -4388,9 +4397,9 @@
       "htmlDir": "docs/post/zhen-shiyin-middle-class-bankruptcy-lessons.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 001】甄士隐的中产返贫启示录：一场大火如何烧掉你的财务安全感？",
       "postUrl": "https://www.790427.xyz/post/zhen-shiyin-middle-class-bankruptcy-lessons.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/163",
@@ -4455,9 +4464,9 @@
       "htmlDir": "docs/post/why-reread-red-chamber-middle-age-survival-guide.html",
       "labels": [
         "连载",
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "【红楼重启 000】序言：别把《红楼梦》当小说，这是一部乱世生存指南",
       "postUrl": "https://www.790427.xyz/post/why-reread-red-chamber-middle-age-survival-guide.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/162",
@@ -4521,9 +4530,9 @@
     "P158": {
       "htmlDir": "docs/post/ai-college-major-career-impact.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "你孩子的大学专业、择业路径正在被重新定义",
       "postUrl": "https://www.790427.xyz/post/ai-college-major-career-impact.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/158",
@@ -4587,9 +4596,9 @@
     "P157": {
       "htmlDir": "docs/post/mature-parents-letting-go-child-independence.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "越是成熟的父母，越懂得\"放手\"：养育的终极目标是帮助孩子脱离我们",
       "postUrl": "https://www.790427.xyz/post/mature-parents-letting-go-child-independence.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/157",
@@ -4653,9 +4662,9 @@
     "P156": {
       "htmlDir": "docs/post/gold-vs-astock-true-judgment.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "黄金还是A股？我的真实答案会让你失望",
       "postUrl": "https://www.790427.xyz/post/gold-vs-astock-true-judgment.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/156",
@@ -4719,9 +4728,9 @@
     "P155": {
       "htmlDir": "docs/post/parenting-yujuzhu-versus-diandizhu.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "父母的两难：托举还是兜底？中年人对养育观的重新思考",
       "postUrl": "https://www.790427.xyz/post/parenting-yujuzhu-versus-diandizhu.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/155",
@@ -4785,9 +4794,9 @@
     "P154": {
       "htmlDir": "docs/post/chongyang-parent-child-relationship-rethinking.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "重阳节思考：父母与子女，最好的关系是什么？",
       "postUrl": "https://www.790427.xyz/post/chongyang-parent-child-relationship-rethinking.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/154",
@@ -4851,9 +4860,9 @@
     "P151": {
       "htmlDir": "docs/post/buy-is-risk-sell-is-safe-investing-cognitive-upgrade.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "买入即风险，卖出即避险：中年投资者的市场认知升维指南",
       "postUrl": "https://www.790427.xyz/post/buy-is-risk-sell-is-safe-investing-cognitive-upgrade.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/151",
@@ -4917,9 +4926,9 @@
     "P150": {
       "htmlDir": "docs/post/fiscal-logic-of-central-empires-wealth-protection.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "两千年王朝兴亡的真相：不是权谋，是财政",
       "postUrl": "https://www.790427.xyz/post/fiscal-logic-of-central-empires-wealth-protection.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/150",
@@ -4983,9 +4992,9 @@
     "P149": {
       "htmlDir": "docs/post/midlife-deep-recovery-system-beyond-sleep.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "为什么你越睡越累？中年人的\"深度恢复术\"：比睡觉更管用的三层能量修复法",
       "postUrl": "https://www.790427.xyz/post/midlife-deep-recovery-system-beyond-sleep.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/149",
@@ -5049,9 +5058,9 @@
     "P148": {
       "htmlDir": "docs/post/midlife-inner-peace-fortress-in-chaotic-world.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "当世界燃烧时,我们如何不被焦虑吞噬？中年人的\"内心和平堡垒\"构建法",
       "postUrl": "https://www.790427.xyz/post/midlife-inner-peace-fortress-in-chaotic-world.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/148",
@@ -5115,9 +5124,9 @@
     "P147": {
       "htmlDir": "docs/post/yang-zhenning-natural-deism-and-man-god-relations.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "“造物主”的隐退：杨振宁、自然神论与现代人“意义危机”",
       "postUrl": "https://www.790427.xyz/post/yang-zhenning-natural-deism-and-man-god-relations.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/147",
@@ -5181,9 +5190,9 @@
     "P146": {
       "htmlDir": "docs/post/philosophy_armor_soft_landing_hard_world.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "哲思的铠甲：在世界的坚硬里，柔软着陆",
       "postUrl": "https://www.790427.xyz/post/philosophy_armor_soft_landing_hard_world.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/146",
@@ -5247,9 +5256,9 @@
     "P145": {
       "htmlDir": "docs/post/inner_world_projection_outer_world_self_mastery.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "心外无物：你的内在，即是世界万象的投影",
       "postUrl": "https://www.790427.xyz/post/inner_world_projection_outer_world_self_mastery.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/145",
@@ -5313,9 +5322,9 @@
     "P144": {
       "htmlDir": "docs/post/random_walk_idiot_uncertainty_response_strategy.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "拥抱不确定性：塔勒布《随机漫步的傻瓜》的生存智慧",
       "postUrl": "https://www.790427.xyz/post/random_walk_idiot_uncertainty_response_strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/144",
@@ -5379,9 +5388,9 @@
     "P143": {
       "htmlDir": "docs/post/economic_downturn_inner_loop_employment_investment_strategy.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "经济下行与内循环：重塑你的就业、投资与生存策略",
       "postUrl": "https://www.790427.xyz/post/economic_downturn_inner_loop_employment_investment_strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/143",
@@ -5445,9 +5454,9 @@
     "P142": {
       "htmlDir": "docs/post/consumption_paradox_inner_loop_value_reconstruction.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "走出“消费悖论”：内循环时代，消费的价值重构与个体幸福",
       "postUrl": "https://www.790427.xyz/post/consumption_paradox_inner_loop_value_reconstruction.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/142",
@@ -5511,9 +5520,9 @@
     "P141": {
       "htmlDir": "docs/post/innovation_creative_destruction_economic_growth_nobel_2025.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "创新、创造性破坏与经济增长：2025年诺贝尔经济学奖的深远启示",
       "postUrl": "https://www.790427.xyz/post/innovation_creative_destruction_economic_growth_nobel_2025.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/141",
@@ -5577,9 +5586,9 @@
     "P140": {
       "htmlDir": "docs/post/desperate_old_horse_breakthrough_in_repetition.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "走出“绝望”：中年人，如何在重复的世界中重获生命的力量？",
       "postUrl": "https://www.790427.xyz/post/desperate_old_horse_breakthrough_in_repetition.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/140",
@@ -5643,9 +5652,9 @@
     "P137": {
       "htmlDir": "docs/post/original_sin_constitutionalism_power_checks_faith_foundation.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "原罪观与宪政：权力制衡的信仰根基",
       "postUrl": "https://www.790427.xyz/post/original_sin_constitutionalism_power_checks_faith_foundation.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/137",
@@ -5709,9 +5718,9 @@
     "P136": {
       "htmlDir": "docs/post/comparison_trap_self_order_spiritual_wealth_path.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "朋友圈里的“剧本人生”，正在吞噬你的幸福感",
       "postUrl": "https://www.790427.xyz/post/comparison_trap_self_order_spiritual_wealth_path.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/136",
@@ -5775,9 +5784,9 @@
     "P134": {
       "htmlDir": "docs/post/seek_lack_not_completeness.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "求缺不求全：人生圆满的真谛在于知足与取舍——致现代人的存在智慧",
       "postUrl": "https://www.790427.xyz/post/seek_lack_not_completeness.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/134",
@@ -5841,9 +5850,9 @@
     "P133": {
       "htmlDir": "docs/post/transcending_problems_rather_than_solving_them.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "升维而非求解：越过问题，才是中年人的破局之道",
       "postUrl": "https://www.790427.xyz/post/transcending_problems_rather_than_solving_them.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/133",
@@ -5907,9 +5916,9 @@
     "P131": {
       "htmlDir": "docs/post/why-europe-birthed-scientific-revolution-first-principle-thinking.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "跨越现象的深渊：欧洲“探究本源”的思维如何点燃科学革命",
       "postUrl": "https://www.790427.xyz/post/why-europe-birthed-scientific-revolution-first-principle-thinking.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/131",
@@ -5973,9 +5982,9 @@
     "P127": {
       "htmlDir": "docs/post/stupidity_hidden_enemy_of_good_bonhoeffer_moral_crisis_humanistic_salvation.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "朋霍费尔的警世之言：愚蠢，善的隐匿之敌——当代道德困境与人文救赎",
       "postUrl": "https://www.790427.xyz/post/stupidity_hidden_enemy_of_good_bonhoeffer_moral_crisis_humanistic_salvation.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/127",
@@ -6039,9 +6048,9 @@
     "P126": {
       "htmlDir": "docs/post/midlife-body-partner-mindset.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "与身体和解：中年人，如何成为自己身体的“智慧合伙人”？",
       "postUrl": "https://www.790427.xyz/post/midlife-body-partner-mindset.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/126",
@@ -6105,9 +6114,9 @@
     "P120": {
       "htmlDir": "docs/post/western_civilization_crisis_bounded_pluralism.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "穿越价值迷雾：西方文明的危机与“有边界的多元论",
       "postUrl": "https://www.790427.xyz/post/western_civilization_crisis_bounded_pluralism.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/120",
@@ -6171,9 +6180,9 @@
     "P119": {
       "htmlDir": "docs/post/taming-power-formation-british-parliament.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "驯服权力：英国议会制度的形成与启示",
       "postUrl": "https://www.790427.xyz/post/taming-power-formation-british-parliament.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/119",
@@ -6237,9 +6246,9 @@
     "P118": {
       "htmlDir": "docs/post/human_hubris_cognitive_bias_self_transcendence.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "人都是自以为是的：全面剖析认知偏差与自我超越",
       "postUrl": "https://www.790427.xyz/post/human_hubris_cognitive_bias_self_transcendence.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/118",
@@ -6303,9 +6312,9 @@
     "P117": {
       "htmlDir": "docs/post/absurd_self_harmony_guide.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "荒诞的起源、现实与理想的张力，以及信仰在荒诞中的角色",
       "postUrl": "https://www.790427.xyz/post/absurd_self_harmony_guide.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/117",
@@ -6369,9 +6378,9 @@
     "P114": {
       "htmlDir": "docs/post/heart-nourished_elder_care_blueprint.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "智慧孝道：中年人，用“心享养老计划”构建父母幸福晚年",
       "postUrl": "https://www.790427.xyz/post/heart-nourished_elder_care_blueprint.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/114",
@@ -6435,9 +6444,9 @@
     "P111": {
       "htmlDir": "docs/post/cognitive-reframe-compass.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "打破无形枷锁：中年人，用“认知重构罗盘”重启人生无限可能",
       "postUrl": "https://www.790427.xyz/post/cognitive-reframe-compass.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/111",
@@ -6501,9 +6510,9 @@
     "P110": {
       "htmlDir": "docs/post/midlife-future-dweller-mindset.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "不用“经验”给人生设限，用“未来生活者”心法拥抱变化",
       "postUrl": "https://www.790427.xyz/post/midlife-future-dweller-mindset.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/110",
@@ -6567,9 +6576,9 @@
     "P106": {
       "htmlDir": "docs/post/absurd-lucid-living-principle.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再“忙碌麻木”了！中年人，用“荒诞清醒生存法则”活出你的生命力量！",
       "postUrl": "https://www.790427.xyz/post/absurd-lucid-living-principle.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/106",
@@ -6633,9 +6642,9 @@
     "P105": {
       "htmlDir": "docs/post/human-centric-resilience-environmentalism.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再被“环保焦虑”绑架了！中年人，用“人本韧性环保观”重塑你的绿色未来",
       "postUrl": "https://www.790427.xyz/post/human-centric-resilience-environmentalism.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/105",
@@ -6699,9 +6708,9 @@
     "P104": {
       "htmlDir": "docs/post/midlife-growth-compound-engine.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再“原地踏步”了！中年人，用“成长复利引擎”驱动你的下半场！",
       "postUrl": "https://www.790427.xyz/post/midlife-growth-compound-engine.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/104",
@@ -6765,9 +6774,9 @@
     "P103": {
       "htmlDir": "docs/post/midlife-wealth-hub-strategy.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "别再“碎片化”理财了！中年人，用“财富中枢策略”掌控你的全部资产！",
       "postUrl": "https://www.790427.xyz/post/midlife-wealth-hub-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/103",
@@ -6831,9 +6840,9 @@
     "P102": {
       "htmlDir": "docs/post/midlife-emotional-unloading-technique.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再让情绪“内耗”你了！中年人，用“情绪卸载术”找回内心平静",
       "postUrl": "https://www.790427.xyz/post/midlife-emotional-unloading-technique.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/102",
@@ -6897,9 +6906,9 @@
     "P101": {
       "htmlDir": "docs/post/midlife-decision-sandbox-strategy.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再“盲赌”了！中年人，用“决策沙盘策略”穿越不确定性迷雾",
       "postUrl": "https://www.790427.xyz/post/midlife-decision-sandbox-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/101",
@@ -6963,9 +6972,9 @@
     "P100": {
       "htmlDir": "docs/post/midlife-life-luggage-decluttering.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再背着“过去”赶路了！中年人，用“人生行囊整理术”为下半场减负",
       "postUrl": "https://www.790427.xyz/post/midlife-life-luggage-decluttering.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/100",
@@ -7029,9 +7038,9 @@
     "P99": {
       "htmlDir": "docs/post/midlife-emotional-resonance-compass.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "读懂韩江《素食者》：中年人，用“情感共鸣罗盘”穿越孤独与困境",
       "postUrl": "https://www.790427.xyz/post/midlife-emotional-resonance-compass.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/99",
@@ -7095,9 +7104,9 @@
     "P98": {
       "htmlDir": "docs/post/midlife-intellectual-immunity-strategy.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "当自由沦为枷锁：中年人，用“思想免疫策略”穿越多元迷雾",
       "postUrl": "https://www.790427.xyz/post/midlife-intellectual-immunity-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/98",
@@ -7161,9 +7170,9 @@
     "P97": {
       "htmlDir": "docs/post/midlife-cognitive-barbell-strategy.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再“瞎学”了！中年人，用“认知杠铃策略”穿越信息迷雾",
       "postUrl": "https://www.790427.xyz/post/midlife-cognitive-barbell-strategy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/97",
@@ -7227,9 +7236,9 @@
     "P91": {
       "htmlDir": "docs/post/midlife-peaceful-farewell-plan.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别让爱留遗憾！中年人，用“安宁告别计划”护送父母走完最后一程",
       "postUrl": "https://www.790427.xyz/post/midlife-peaceful-farewell-plan.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/91",
@@ -7293,9 +7302,9 @@
     "P90": {
       "htmlDir": "docs/post/midlife-emotional-deposit-account.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再“假性陪伴”了！中年人，用“情感存款账户”重拾家庭温度",
       "postUrl": "https://www.790427.xyz/post/midlife-emotional-deposit-account.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/90",
@@ -7359,9 +7368,9 @@
     "P89": {
       "htmlDir": "docs/post/midlife-dca-cycle-management.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "别再追涨杀跌了！中年人，用“定投周期管理”穿越牛熊",
       "postUrl": "https://www.790427.xyz/post/midlife-dca-cycle-management.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/89",
@@ -7425,9 +7434,9 @@
     "P85": {
       "htmlDir": "docs/post/midlife-second-order-learning.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再死记硬背了！中年人，用“二阶学习法”实现认知跃迁",
       "postUrl": "https://www.790427.xyz/post/midlife-second-order-learning.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/85",
@@ -7491,9 +7500,9 @@
     "P84": {
       "htmlDir": "docs/post/midlife-energy-socializing.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再无效社交了！中年人，用“能量社交”重塑你的朋友圈",
       "postUrl": "https://www.790427.xyz/post/midlife-energy-socializing.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/84",
@@ -7557,9 +7566,9 @@
     "P83": {
       "htmlDir": "docs/post/midlife-deep-time-mastery.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "别再假装“忙碌”了！中年人，用“深度时间”找回生活掌控感",
       "postUrl": "https://www.790427.xyz/post/midlife-deep-time-mastery.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/83",
@@ -7623,9 +7632,9 @@
     "P80": {
       "htmlDir": "docs/post/parents-relationship-reconciliation.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "停止“还债式”尽孝：40岁后，处理与父母关系的最高智慧",
       "postUrl": "https://www.790427.xyz/post/parents-relationship-reconciliation.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/80",
@@ -7689,9 +7698,9 @@
     "P79": {
       "htmlDir": "docs/post/barbell-strategy-investing.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "中庸正在杀死你的财富：中年投资者必须学会的杠铃策略",
       "postUrl": "https://www.790427.xyz/post/barbell-strategy-investing.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/79",
@@ -7755,9 +7764,9 @@
     "P78": {
       "htmlDir": "docs/post/second-level-thinking.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "为什么你总是追涨杀跌？因为你缺少投资的“第二层次思维",
       "postUrl": "https://www.790427.xyz/post/second-level-thinking.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/78",
@@ -7821,9 +7830,9 @@
     "P77": {
       "htmlDir": "docs/post/life-portfolio-theory.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "40岁后，感觉活成了一个“工具人”？请重置你的人生资产配置",
       "postUrl": "https://www.790427.xyz/post/life-portfolio-theory.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/77",
@@ -7887,9 +7896,9 @@
     "P76": {
       "htmlDir": "docs/post/personal-board-directors.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "停止无效社交！中年破局，从组建你人生的“个人董事会”开始",
       "postUrl": "https://www.790427.xyz/post/personal-board-directors.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/76",
@@ -7953,9 +7962,9 @@
     "P74": {
       "htmlDir": "docs/post/digital-minimalism-focus.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "数字过载正在“吞噬”你的大脑：中年人如何用“数字极简主义”夺回专注力？",
       "postUrl": "https://www.790427.xyz/post/digital-minimalism-focus.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/74",
@@ -8019,9 +8028,9 @@
     "P73": {
       "htmlDir": "docs/post/gold-investment-midlife.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "黄金，中年人最后的“财富保险”：如何科学配置黄金，穿越经济迷雾？",
       "postUrl": "https://www.790427.xyz/post/gold-investment-midlife.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/73",
@@ -8085,9 +8094,9 @@
     "P72": {
       "htmlDir": "docs/post/parents-aging-philosophy.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "当父母老去，我们如何“得体”地告别：一份来自斯多葛与存在主义的“陪护手册",
       "postUrl": "https://www.790427.xyz/post/parents-aging-philosophy.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/72",
@@ -8151,9 +8160,9 @@
     "P71": {
       "htmlDir": "docs/post/midlife-friends.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "通讯录越长，朋友越少：中年人如何走出友情断崖？",
       "postUrl": "https://www.790427.xyz/post/midlife-friends.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/71",
@@ -8217,9 +8226,9 @@
     "P69": {
       "htmlDir": "docs/post/3enemies-for-investment.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "投资最大的敌人是你自己：中年人必须警惕的三大认知偏误与解药",
       "postUrl": "https://www.790427.xyz/post/3enemies-for-investment.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/69",
@@ -8283,9 +8292,9 @@
     "P68": {
       "htmlDir": "docs/post/flow-state.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "深度专注：中年人如何运用心流理论，重燃工作与生活的热情？",
       "postUrl": "https://www.790427.xyz/post/flow-state.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/68",
@@ -8349,9 +8358,9 @@
     "P67": {
       "htmlDir": "docs/post/love-fate.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "不后悔的人生下半场：尼采“爱命运”（Amor Fati）的中年实践指南",
       "postUrl": "https://www.790427.xyz/post/love-fate.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/67",
@@ -8415,9 +8424,9 @@
     "P66": {
       "htmlDir": "docs/post/not-miss-NVDA.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "错过了英伟达，中年投资者如何抓住下一个“结构性机会”？",
       "postUrl": "https://www.790427.xyz/post/not-miss-NVDA.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/66",
@@ -8481,9 +8490,9 @@
     "P65": {
       "htmlDir": "docs/post/better-sleeping.html",
       "labels": [
-        "人生修行"
+        "内心秩序"
       ],
-      "contentCategory": "人生修行",
+      "contentCategory": "内心秩序",
       "postTitle": "睡眠重置：专为中年大脑设计的科学修复方案",
       "postUrl": "https://www.790427.xyz/post/better-sleeping.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/65",
@@ -8547,9 +8556,9 @@
     "P63": {
       "htmlDir": "docs/post/debugging-log.html",
       "labels": [
-        "技术辅助"
+        "数字能力"
       ],
-      "contentCategory": "技术辅助",
+      "contentCategory": "数字能力",
       "postTitle": "网站调试与功能增强日志",
       "postUrl": "https://www.790427.xyz/post/debugging-log.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/63",
@@ -8602,9 +8611,9 @@
     "P62": {
       "htmlDir": "docs/post/quantitative-investment.html",
       "labels": [
-        "赚钱投资"
+        "资产护航"
       ],
-      "contentCategory": "赚钱投资",
+      "contentCategory": "资产护航",
       "postTitle": "量化投资策略：中年理财的科学化路径，用数据驱动财富增长",
       "postUrl": "https://www.790427.xyz/post/quantitative-investment.html",
       "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/62",
@@ -8788,6 +8797,9 @@
     "人生修行": "#4F7F5F",
     "技术辅助": "#ca5386",
     "赚钱投资": "#A65E2E",
-    "连载": "#ad4a9b"
+    "连载": "#ad4a9b",
+    "内心秩序": "#4F7F5F",
+    "资产护航": "#A65E2E",
+    "数字能力": "#ca5386"
   }
 }
