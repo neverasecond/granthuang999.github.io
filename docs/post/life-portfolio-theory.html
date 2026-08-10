@@ -26,6 +26,11 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.790427.xyz/post/life-portfolio-theory.html">
 <meta property="og:image" content="https://www.790427.xyz/images/1757564101.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="40岁后，感觉活成了一个“工具人”？请重置你的人生资产配置">
+<meta name="twitter:description" content="你是否感觉40岁后活成了一个面目模糊的工具人，被生活惯性推着走，本文引入了强大的人生资产配置理论，指导你如何超越单一的职业维度，通过主动投资和管理身份，能力，连接，健康和意义这五大核心资产，重塑一个多元化，抗风险的价值组合，找回生活的主导权和生命力">
+<meta name="twitter:image" content="https://www.790427.xyz/images/1757564101.png">
+<meta name="twitter:creator" content="@wiselyfreely">
 <title>40岁后，感觉活成了一个“工具人”？请重置你的人生资产配置</title>
 
 
@@ -394,6 +399,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     font-size: small;
     white-space: nowrap; 
 }
+.share-button.x { background-color: #111111; }
 .share-button.linkedin { background-color: #0A66C2; }
 .post-nav {
     display: grid;
@@ -548,6 +554,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <div class="post-footer">
     <div class="bottom-text-inline">文章皆为原创，转载文章请注明出处。人到中年，记录内心秩序、资产护航与数字能力。愿你莫白来。</div>
     <div class="share-buttons-inline">
+        <a id="share-x" class="share-button x" href="#" target="_blank" rel="noopener" title="分享到 X">X</a>
         <a id="share-linkedin" class="share-button linkedin" href="#" target="_blank" title="分享到 LinkedIn">LinkedIn</a>
         <a id="share-email" class="share-button" href="#" title="通过邮件分享">邮件</a>
     </div>
@@ -588,7 +595,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <a href="https://www.790427.xyz/subscribe.html">邮件订阅</a> |
 <a href="https://www.790427.xyz/terms-of-service.html">服务条款</a> |
 <a href="https://www.790427.xyz/privacy-policy.html">隐私政策</a> |
-<a href="https://www.790427.xyz/disclaimer.html">免责声明</a>
+<a href="https://www.790427.xyz/disclaimer.html">免责声明</a> |
+<a href="https://x.com/wiselyfreely" target="_blank" rel="noopener">X</a>
 </div>
 <div id="footer2">
     <span id="runday"></span><span>本站由 <a href="mailto:service@790427.xyz">莫白来</a> 建立&维护</span>
@@ -669,12 +677,20 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
     const postUrl = window.location.href;
     const postTitle = document.title;
-    const encodedUrl = encodeURIComponent(postUrl);
     const encodedTitle = encodeURIComponent(postTitle);
+    function campaignUrl(source) {
+        const url = new URL(postUrl);
+        url.searchParams.set('utm_source', source);
+        url.searchParams.set('utm_medium', 'social');
+        url.searchParams.set('utm_campaign', 'article_share');
+        return url.toString();
+    }
+    const shareX = document.getElementById('share-x');
     const shareLinkedin = document.getElementById('share-linkedin');
     const shareEmail = document.getElementById('share-email');
-    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
-    if (shareEmail) { shareEmail.href = `mailto:?subject=${encodedTitle}&body=${encodedUrl}`; }
+    if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodeURIComponent(campaignUrl('x'))}&text=${encodedTitle}`; }
+    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(campaignUrl('linkedin'))}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
+    if (shareEmail) { shareEmail.href = `mailto:?subject=${encodedTitle}&body=${encodeURIComponent(postUrl)}`; }
 });
 
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
