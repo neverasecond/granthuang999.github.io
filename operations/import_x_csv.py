@@ -34,6 +34,12 @@ FIELDS = {
         "new follows",
         "new followers",
     ),
+    "verifiedFollowers": (
+        "verified followers",
+        "verified follower count",
+        "verified followers at week end",
+        "verified follower",
+    ),
     "postsPublished": (
         "posts",
         "posts published",
@@ -41,8 +47,20 @@ FIELDS = {
         "tweets",
         "create post",
         "created posts",
+        "original posts",
+        "original posts published",
     ),
     "impressions": ("impressions",),
+    "verifiedHomeTimelineImpressions": (
+        "verified home timeline impressions",
+        "verified home timeline impression",
+        "home timeline impressions",
+        "home timeline impression",
+        "qualified impressions",
+        "qualified impression",
+        "verified impressions",
+        "verified impression",
+    ),
     "profileVisits": (
         "profile visits",
         "profile clicks",
@@ -58,10 +76,25 @@ FIELDS = {
     ),
     "bookmarks": ("bookmarks",),
     "replies": ("replies",),
+    "effectiveReplies": (
+        "effective replies",
+        "meaningful replies",
+        "valid replies",
+        "quality replies",
+    ),
     "reposts": (
         "reposts",
         "retweets",
         "shares",
+    ),
+    "subscriptions": (
+        "subscriptions",
+        "newsletter subscriptions",
+        "newsletter signups",
+        "newsletter sign ups",
+        "subscribers",
+        "x subscriptions",
+        "x attributed subscriptions",
     ),
 }
 
@@ -186,13 +219,17 @@ def build_payload(args: argparse.Namespace) -> dict[str, int | float | str]:
     return {
         "weekEnding": args.week_ending,
         "followers": int(round(totals["followers"])),
+        "verifiedFollowers": int(round(totals["verifiedFollowers"])),
         "postsPublished": int(round(totals["postsPublished"])),
         "impressions": int(round(totals["impressions"])),
+        "verifiedHomeTimelineImpressions": int(round(totals["verifiedHomeTimelineImpressions"])),
         "profileVisits": int(round(totals["profileVisits"])),
         "linkClicks": int(round(totals["linkClicks"])),
         "bookmarks": int(round(totals["bookmarks"])),
         "replies": int(round(totals["replies"])),
+        "effectiveReplies": int(round(totals["effectiveReplies"])),
         "reposts": int(round(totals["reposts"])),
+        "subscriptions": int(round(totals["subscriptions"])),
         "creationHours": creation,
         "interactionHours": interaction,
     }

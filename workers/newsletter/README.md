@@ -66,10 +66,10 @@ Worker 会读取 D1 中 `status = active` 的订阅者，并把每个 `post_url 
 
 ## 私有运营数据
 
-运营数据接口统一使用 `NEWSLETTER_SEND_TOKEN` 鉴权，不向公网暴露报表或原始数据。GA4、Search Console 和 Clarity 由 `Daily Operations Metrics` 自动采集；X 不使用付费 API，改为读取固定的 X Analytics CSV 快照：
+运营数据接口统一使用 `NEWSLETTER_SEND_TOKEN` 鉴权，不向公网暴露报表或原始数据。未来 2-3 个月核心日报只看网站有效访问/回访/订阅转化，以及 X 原创内容的主页访问、网站点击、订阅、有效回复与收藏。GA4、Search Console 和 Clarity 仍可由 `Daily Operations Metrics` 自动采集，但 Search Console / Clarity 只作为辅助观察；X 不使用付费 API，不做自动互动，改为读取固定的 X Analytics CSV 快照：
 
 - `POST /api/ops/weekly-input`：保存 X CSV 解析后的每周合计与时间投入。
 - `GET /api/ops/weekly-input`：返回最近一周的 X CSV 合计。
 - `GET /api/ops/newsletter-metrics`：返回订阅者的单日、7 日和 28 日汇总。
 
-`Daily Operations Metrics` 会直接调用 GA4 Data API、Search Console API 和 Clarity Data Export API。X 数据固定读取 `operations/account_overview_analytics.csv`；替换并提交这个文件会自动触发一次 `Daily Operations Metrics`，每日定时任务也会自动读取该文件。可选配置仓库变量 `X_TIME_SPLIT`（例如 `20,20`）记录创作和互动时间；未配置时按 `0,0` 入库。Clarity 不再保留手工复盘 workflow；不录入访客标识、IP、录像链接、邮箱、完整对话或截图。
+`Daily Operations Metrics` 会直接调用 GA4 Data API、Search Console API 和 Clarity Data Export API。X 数据固定读取 `operations/account_overview_analytics.csv`；替换并提交这个文件会自动触发一次 `Daily Operations Metrics`，每日定时任务也会自动读取该文件。CSV 可包含 `verifiedFollowers`、`verifiedHomeTimelineImpressions`、`effectiveReplies`、`subscriptions` 等手工字段；Original Content Rewards 的 90 天资格进度只看 Verified Home Timeline impressions，回复不计入，且资格进度不视为已确定收入。可选配置仓库变量 `X_TIME_SPLIT`（例如 `20,20`）记录创作和互动时间；未配置时按 `0,0` 入库。Clarity 不再保留手工复盘 workflow；不录入访客标识、IP、录像链接、邮箱、完整对话或截图。

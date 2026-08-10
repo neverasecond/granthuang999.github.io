@@ -46,13 +46,17 @@ CREATE TABLE IF NOT EXISTS manual_x_metrics (
 CREATE TABLE IF NOT EXISTS weekly_operations (
   week_ending TEXT PRIMARY KEY,
   followers INTEGER,
+  verified_followers INTEGER,
   posts_published INTEGER,
   impressions INTEGER,
+  verified_home_timeline_impressions INTEGER,
   profile_visits INTEGER,
   link_clicks INTEGER,
   bookmarks INTEGER,
   replies INTEGER,
+  effective_replies INTEGER,
   reposts INTEGER,
+  subscriptions INTEGER,
   creation_hours REAL,
   interaction_hours REAL,
   updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP

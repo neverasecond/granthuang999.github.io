@@ -538,8 +538,9 @@ def collect_weekly_input() -> list[Metric]:
     if not week_ending:
         return []
     x_fields = (
-        "followers", "postsPublished", "impressions", "profileVisits",
-        "linkClicks", "bookmarks", "replies", "reposts",
+        "followers", "verifiedFollowers", "postsPublished", "impressions",
+        "verifiedHomeTimelineImpressions", "profileVisits", "linkClicks",
+        "bookmarks", "replies", "effectiveReplies", "reposts", "subscriptions",
     )
     time_fields = ("creationHours", "interactionHours")
     metrics = [
@@ -664,6 +665,7 @@ def build_report(
     active = find_metric(metrics, "ga4", "activeUsers")
     views = find_metric(metrics, "ga4", "screenPageViews")
     sessions = find_metric(metrics, "ga4", "sessions")
+    engaged_sessions = find_metric(metrics, "ga4", "engagedSessions")
     returning = find_metric(metrics, "ga4", "activeUsersByType", "returning")
     clicks = find_metric(metrics, "search_console_28d", "clicks")
     impressions = find_metric(metrics, "search_console_28d", "impressions")
@@ -675,6 +677,7 @@ def build_report(
     unsubscribed = find_metric(metrics, "newsletter", "unsubscribedYesterday")
     x_source_label = "固定 CSV 自动导入"
     x_followers = find_metric(metrics, "x_csv", "followers")
+    x_verified_followers = find_metric(metrics, "x_csv", "verifiedFollowers")
     x_posts = find_first_metric(
         metrics,
         (("x_csv", "postsPublished"),),
@@ -682,6 +685,10 @@ def build_report(
     x_impressions = find_first_metric(
         metrics,
         (("x_csv", "impressions"),),
+    )
+    x_verified_home_timeline_impressions = find_first_metric(
+        metrics,
+        (("x_csv", "verifiedHomeTimelineImpressions"),),
     )
     x_bookmarks = find_first_metric(
         metrics,
@@ -699,14 +706,24 @@ def build_report(
         metrics,
         (("x_csv", "replies"),),
     )
+    x_effective_replies = find_first_metric(
+        metrics,
+        (("x_csv", "effectiveReplies"),),
+    )
     x_reposts = find_first_metric(
         metrics,
         (("x_csv", "reposts"),),
+    )
+    x_subscriptions = find_first_metric(
+        metrics,
+        (("x_csv", "subscriptions"),),
     )
     creation_hours = find_metric(metrics, "operations_time", "creationHours")
     interaction_hours = find_metric(metrics, "operations_time", "interactionHours")
     active_7d = find_metric(metrics, "ga4_7d", "activeUsers")
     active_28d = find_metric(metrics, "ga4_28d", "activeUsers")
+    engaged_sessions_7d = find_metric(metrics, "ga4_7d", "engagedSessions")
+    engaged_sessions_28d = find_metric(metrics, "ga4_28d", "engagedSessions")
     views_7d = find_metric(metrics, "ga4_7d", "screenPageViews")
     views_28d = find_metric(metrics, "ga4_28d", "screenPageViews")
     views_daily_7d = views_7d / 7
@@ -724,6 +741,10 @@ def build_report(
     newsletter_confirmed_7d = find_metric(metrics, "newsletter", "confirmed7d")
     newsletter_created_28d = find_metric(metrics, "newsletter", "created28d")
     newsletter_confirmed_28d = find_metric(metrics, "newsletter", "confirmed28d")
+    newsletter_confirm_rate_daily = rate(confirmed, new_subscribers)
+    subscription_rate_daily = rate(confirmed, engaged_sessions)
+    subscription_rate_7d = rate(newsletter_confirmed_7d, engaged_sessions_7d)
+    subscription_rate_28d = rate(newsletter_confirmed_28d, engaged_sessions_28d)
     newsletter_rate_7d = rate(newsletter_confirmed_7d, newsletter_created_7d)
     newsletter_rate_28d = rate(newsletter_confirmed_28d, newsletter_created_28d)
     clarity_api_metrics = [item for item in metrics if item.source == "clarity"]
@@ -749,45 +770,51 @@ def build_report(
 网站（昨日）
 - 活跃用户：{fmt_number(active)}
 - 会话：{fmt_number(sessions)}
+- 有效访问（engaged sessions）：{fmt_number(engaged_sessions)}
 - 页面浏览：{fmt_number(views)}
 - 回访活跃用户：{fmt_number(returning)}
+- 昨日订阅确认 / 有效访问：{fmt_number(confirmed)} / {fmt_number(engaged_sessions)}（{fmt_number(subscription_rate_daily, 2)}%）
 
-网站趋势与内容质量
+网站核心趋势
 - 7日 / 28日活跃用户：{fmt_number(active_7d)} / {fmt_number(active_28d)}
+- 7日 / 28日有效访问：{fmt_number(engaged_sessions_7d)} / {fmt_number(engaged_sessions_28d)}
 - 7日 / 28日页面浏览：{fmt_number(views_7d)} / {fmt_number(views_28d)}
 - 7日 / 28日日均页面浏览：{fmt_number(views_daily_7d, 1)} / {fmt_number(views_daily_28d, 1)}（近7日节奏 {views_pace_change:+.2f}%）
 - 90%阅读完成率：{fmt_number(completion_7d, 2)}% / {fmt_number(completion_28d, 2)}%
 - 分享点击率：{fmt_number(share_rate_7d, 2)}% / {fmt_number(share_rate_28d, 2)}%
 - 相关阅读点击率：{fmt_number(related_rate_7d, 2)}% / {fmt_number(related_rate_28d, 2)}%
-- 网站到X点击率：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%
-
-Google 搜索（稳定的最近28天窗口）
-- 点击：{fmt_number(clicks)}
-- 展示：{fmt_number(impressions)}
-- CTR：{fmt_number(ctr, 2)}%
+- 7日 / 28日订阅确认 / 有效访问：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(engaged_sessions_7d)}（{fmt_number(subscription_rate_7d, 2)}%） / {fmt_number(newsletter_confirmed_28d)} / {fmt_number(engaged_sessions_28d)}（{fmt_number(subscription_rate_28d, 2)}%）
 
 邮件订阅
 - 有效订阅：{fmt_number(active_subscribers)}
 - 待确认：{fmt_number(pending_subscribers)}
 - 昨日新增：{fmt_number(new_subscribers)}
 - 昨日确认：{fmt_number(confirmed)}
+- 昨日确认 / 新增：{fmt_number(confirmed)} / {fmt_number(new_subscribers)}（{fmt_number(newsletter_confirm_rate_daily, 2)}%）
 - 昨日退订：{fmt_number(unsubscribed)}
 - 7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）
 - 28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）
 
-Clarity（API 自动采集，最近 1 天）
-- API 指标行：{fmt_number(clarity_api_count)}
-{clarity_api_text}
-
-X（{x_source_label}）
-- 新增关注/关注数：{fmt_number(x_followers)}
-- 跟踪/发布数：{fmt_number(x_posts)}
-- 展示：{fmt_number(x_impressions)}
-- 个人资料点击：{fmt_number(x_profile_clicks)}
-- 链接点击：{fmt_number(x_link_clicks)}
+X 原创内容（{x_source_label}）
+- 发布数：{fmt_number(x_posts)}
+- 主页访问：{fmt_number(x_profile_clicks)}
+- 网站点击：{fmt_number(x_link_clicks)}
+- X 归因订阅：{fmt_number(x_subscriptions)}
 - 收藏：{fmt_number(x_bookmarks)}
-- 回复：{fmt_number(x_replies)}
-- 转发：{fmt_number(x_reposts)}
+- 有效回复：{fmt_number(x_effective_replies)}
+- 全部回复（辅助，不计入资格展示）：{fmt_number(x_replies)}
+
+X Original Content Rewards 资格观察
+- Premium / 年龄 / 500+ Verified followers：按 2026-08-10 用户页面观察为已满足
+- 当前记录的 Verified followers：{fmt_number(x_verified_followers)}
+- 90天 Verified Home Timeline impressions：{fmt_number(x_verified_home_timeline_impressions)} / 500,000（回复不计）
+- 普通展示（非资格口径，仅辅助观察）：{fmt_number(x_impressions)}
+
+辅助观察（暂不进核心日报决策）
+- Google 搜索 28日：点击 {fmt_number(clicks)}，展示 {fmt_number(impressions)}，CTR {fmt_number(ctr, 2)}%
+- Clarity API 指标行：{fmt_number(clarity_api_count)}
+- 网站到X点击率 7日 / 28日：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%
+- X 转发：{fmt_number(x_reposts)}
 
 时间投入（最近一周）
 - 创作：{fmt_number(creation_hours, 1)} 小时
@@ -796,7 +823,7 @@ X（{x_source_label}）
 健康与采集问题
 {issue_lines}
 
-说明：GA4、Search Console、Clarity 走 API 自动采集；X 使用每周 CSV 导入后的汇总数据。AdSense 批准前不采集收入。
+说明：未来2-3个月核心口径为网站有效访问/回访/订阅转化，以及X原创内容的主页访问、网站点击、订阅、有效回复与收藏。LinkedIn、YouTube暂不进核心日报；X不使用付费API或自动互动；Original Content Rewards只做资格进度观察，不视为已确定收入。
 """
     escaped_issues = "".join(f"<li>{html.escape(item)}</li>" for item in issues) or "<li>无</li>"
     report_html = f"""
@@ -804,22 +831,21 @@ X（{x_source_label}）
       <h1 style="font-size:22px">{html.escape(prefix)}</h1>
       <p style="color:#57606a">统计日期：{metric_date.isoformat()}</p>
       <h2 style="font-size:17px">网站（昨日）</h2>
-      <ul><li>活跃用户：{fmt_number(active)}</li><li>会话：{fmt_number(sessions)}</li><li>页面浏览：{fmt_number(views)}</li><li>回访活跃用户：{fmt_number(returning)}</li></ul>
-      <h2 style="font-size:17px">网站趋势与内容质量</h2>
-      <ul><li>7日 / 28日活跃用户：{fmt_number(active_7d)} / {fmt_number(active_28d)}</li><li>7日 / 28日页面浏览：{fmt_number(views_7d)} / {fmt_number(views_28d)}</li><li>7日 / 28日日均页面浏览：{fmt_number(views_daily_7d, 1)} / {fmt_number(views_daily_28d, 1)}（近7日节奏 {views_pace_change:+.2f}%）</li><li>90%阅读完成率：{fmt_number(completion_7d, 2)}% / {fmt_number(completion_28d, 2)}%</li><li>分享点击率：{fmt_number(share_rate_7d, 2)}% / {fmt_number(share_rate_28d, 2)}%</li><li>相关阅读点击率：{fmt_number(related_rate_7d, 2)}% / {fmt_number(related_rate_28d, 2)}%</li><li>网站到X点击率：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%</li></ul>
-      <h2 style="font-size:17px">Google 搜索（稳定的最近28天窗口）</h2>
-      <ul><li>点击：{fmt_number(clicks)}</li><li>展示：{fmt_number(impressions)}</li><li>CTR：{fmt_number(ctr, 2)}%</li></ul>
+      <ul><li>活跃用户：{fmt_number(active)}</li><li>会话：{fmt_number(sessions)}</li><li>有效访问（engaged sessions）：{fmt_number(engaged_sessions)}</li><li>页面浏览：{fmt_number(views)}</li><li>回访活跃用户：{fmt_number(returning)}</li><li>昨日订阅确认 / 有效访问：{fmt_number(confirmed)} / {fmt_number(engaged_sessions)}（{fmt_number(subscription_rate_daily, 2)}%）</li></ul>
+      <h2 style="font-size:17px">网站核心趋势</h2>
+      <ul><li>7日 / 28日活跃用户：{fmt_number(active_7d)} / {fmt_number(active_28d)}</li><li>7日 / 28日有效访问：{fmt_number(engaged_sessions_7d)} / {fmt_number(engaged_sessions_28d)}</li><li>7日 / 28日页面浏览：{fmt_number(views_7d)} / {fmt_number(views_28d)}</li><li>7日 / 28日日均页面浏览：{fmt_number(views_daily_7d, 1)} / {fmt_number(views_daily_28d, 1)}（近7日节奏 {views_pace_change:+.2f}%）</li><li>90%阅读完成率：{fmt_number(completion_7d, 2)}% / {fmt_number(completion_28d, 2)}%</li><li>分享点击率：{fmt_number(share_rate_7d, 2)}% / {fmt_number(share_rate_28d, 2)}%</li><li>相关阅读点击率：{fmt_number(related_rate_7d, 2)}% / {fmt_number(related_rate_28d, 2)}%</li><li>7日 / 28日订阅确认 / 有效访问：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(engaged_sessions_7d)}（{fmt_number(subscription_rate_7d, 2)}%） / {fmt_number(newsletter_confirmed_28d)} / {fmt_number(engaged_sessions_28d)}（{fmt_number(subscription_rate_28d, 2)}%）</li></ul>
       <h2 style="font-size:17px">邮件订阅</h2>
-      <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日退订：{fmt_number(unsubscribed)}</li><li>7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）</li><li>28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）</li></ul>
-      <h2 style="font-size:17px">Clarity（API 自动采集，最近 1 天）</h2>
-      <ul><li>API 指标行：{fmt_number(clarity_api_count)}</li></ul>
-      <div style="font-size:14px;color:#57606a">{html.escape(clarity_api_text).replace(chr(10), '<br>')}</div>
-      <h2 style="font-size:17px">X（{html.escape(x_source_label)}）</h2>
-      <ul><li>新增关注/关注数：{fmt_number(x_followers)}</li><li>跟踪/发布数：{fmt_number(x_posts)}</li><li>展示：{fmt_number(x_impressions)}</li><li>个人资料点击：{fmt_number(x_profile_clicks)}</li><li>链接点击：{fmt_number(x_link_clicks)}</li><li>收藏：{fmt_number(x_bookmarks)}</li><li>回复：{fmt_number(x_replies)}</li><li>转发：{fmt_number(x_reposts)}</li></ul>
+      <ul><li>有效订阅：{fmt_number(active_subscribers)}</li><li>待确认：{fmt_number(pending_subscribers)}</li><li>昨日新增：{fmt_number(new_subscribers)}</li><li>昨日确认：{fmt_number(confirmed)}</li><li>昨日确认 / 新增：{fmt_number(confirmed)} / {fmt_number(new_subscribers)}（{fmt_number(newsletter_confirm_rate_daily, 2)}%）</li><li>昨日退订：{fmt_number(unsubscribed)}</li><li>7日确认转化：{fmt_number(newsletter_confirmed_7d)} / {fmt_number(newsletter_created_7d)}（{fmt_number(newsletter_rate_7d, 2)}%）</li><li>28日确认转化：{fmt_number(newsletter_confirmed_28d)} / {fmt_number(newsletter_created_28d)}（{fmt_number(newsletter_rate_28d, 2)}%）</li></ul>
+      <h2 style="font-size:17px">X 原创内容（{html.escape(x_source_label)}）</h2>
+      <ul><li>发布数：{fmt_number(x_posts)}</li><li>主页访问：{fmt_number(x_profile_clicks)}</li><li>网站点击：{fmt_number(x_link_clicks)}</li><li>X 归因订阅：{fmt_number(x_subscriptions)}</li><li>收藏：{fmt_number(x_bookmarks)}</li><li>有效回复：{fmt_number(x_effective_replies)}</li><li>全部回复（辅助，不计入资格展示）：{fmt_number(x_replies)}</li></ul>
+      <h2 style="font-size:17px">X Original Content Rewards 资格观察</h2>
+      <ul><li>Premium / 年龄 / 500+ Verified followers：按 2026-08-10 用户页面观察为已满足</li><li>当前记录的 Verified followers：{fmt_number(x_verified_followers)}</li><li>90天 Verified Home Timeline impressions：{fmt_number(x_verified_home_timeline_impressions)} / 500,000（回复不计）</li><li>普通展示（非资格口径，仅辅助观察）：{fmt_number(x_impressions)}</li></ul>
+      <h2 style="font-size:17px">辅助观察（暂不进核心日报决策）</h2>
+      <ul><li>Google 搜索 28日：点击 {fmt_number(clicks)}，展示 {fmt_number(impressions)}，CTR {fmt_number(ctr, 2)}%</li><li>Clarity API 指标行：{fmt_number(clarity_api_count)}</li><li>网站到X点击率 7日 / 28日：{fmt_number(x_outbound_rate_7d, 2)}% / {fmt_number(x_outbound_rate_28d, 2)}%</li><li>X 转发：{fmt_number(x_reposts)}</li></ul>
       <h2 style="font-size:17px">时间投入（最近一周）</h2>
       <ul><li>创作：{fmt_number(creation_hours, 1)} 小时</li><li>互动：{fmt_number(interaction_hours, 1)} 小时</li></ul>
       <h2 style="font-size:17px">健康与采集问题</h2><ul>{escaped_issues}</ul>
-      <p style="font-size:13px;color:#57606a">GA4、Search Console、Clarity 走 API 自动采集；X 使用每周 CSV 导入后的汇总数据。AdSense 批准前不采集收入。</p>
+      <p style="font-size:13px;color:#57606a">未来2-3个月核心口径为网站有效访问/回访/订阅转化，以及X原创内容的主页访问、网站点击、订阅、有效回复与收藏。LinkedIn、YouTube暂不进核心日报；X不使用付费API或自动互动；Original Content Rewards只做资格进度观察，不视为已确定收入。</p>
     </div>
     """
     return subject, report_html, text

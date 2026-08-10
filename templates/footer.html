@@ -5,6 +5,8 @@
 <a href="https://www.790427.xyz/terms-of-service.html">服务条款</a> |
 <a href="https://www.790427.xyz/privacy-policy.html">隐私政策</a> |
 <a href="https://www.790427.xyz/disclaimer.html">免责声明</a>
+{%- if blogBase['xUrl'] %} |
+<a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">X</a>{% endif %}
 </div>
 <div id="footer2">
     {%- if blogBase['filingNum']!='' -%}

@@ -17,6 +17,11 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ blogBase['postUrl'] }}">
 <meta property="og:image" content="{{ blogBase['ogImage'] }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ blogBase['postTitle'] }}">
+<meta name="twitter:description" content="{{ blogBase['description'] }}">
+<meta name="twitter:image" content="{{ blogBase['ogImage'] }}">
+{% if blogBase['xHandle'] %}<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">{% endif %}
 <title>{{ blogBase['postTitle'] }}</title>
 {% if blogBase['highlight']==1 %}<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />{% endif %}
 {{ blogBase['head']|safe }}
@@ -143,6 +148,7 @@
     font-size: small;
     white-space: nowrap; 
 }
+.share-button.x { background-color: #111111; }
 .share-button.linkedin { background-color: #0A66C2; }
 .post-nav {
     display: grid;
@@ -236,6 +242,7 @@
 <div class="post-footer">
     <div class="bottom-text-inline">{{ blogBase['bottomText'] }}</div>
     <div class="share-buttons-inline">
+        <a id="share-x" class="share-button x" href="#" target="_blank" rel="noopener" title="分享到 X">X</a>
         <a id="share-linkedin" class="share-button linkedin" href="#" target="_blank" title="分享到 LinkedIn">LinkedIn</a>
         <a id="share-email" class="share-button" href="#" title="通过邮件分享">邮件</a>
     </div>
@@ -304,12 +311,20 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
     const postUrl = window.location.href;
     const postTitle = document.title;
-    const encodedUrl = encodeURIComponent(postUrl);
     const encodedTitle = encodeURIComponent(postTitle);
+    function campaignUrl(source) {
+        const url = new URL(postUrl);
+        url.searchParams.set('utm_source', source);
+        url.searchParams.set('utm_medium', 'social');
+        url.searchParams.set('utm_campaign', 'article_share');
+        return url.toString();
+    }
+    const shareX = document.getElementById('share-x');
     const shareLinkedin = document.getElementById('share-linkedin');
     const shareEmail = document.getElementById('share-email');
-    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}&summary=${encodedTitle}&source={{ blogBase['homeUrl'] }}`; }
-    if (shareEmail) { shareEmail.href = `mailto:?subject=${encodedTitle}&body=${encodedUrl}`; }
+    if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodeURIComponent(campaignUrl('x'))}&text=${encodedTitle}`; }
+    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(campaignUrl('linkedin'))}&title=${encodedTitle}&summary=${encodedTitle}&source={{ blogBase['homeUrl'] }}`; }
+    if (shareEmail) { shareEmail.href = `mailto:?subject=${encodedTitle}&body=${encodeURIComponent(postUrl)}`; }
 });
 
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);

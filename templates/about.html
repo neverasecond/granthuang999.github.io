@@ -86,6 +86,7 @@
     <div class="page-links">
         <a href="{{ blogBase['homeUrl'] }}/start.html">从这里开始</a>
         <a href="{{ blogBase['homeUrl'] }}/subscribe.html">邮件订阅</a>
+        {% if blogBase['xUrl'] %}<a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 X</a>{% endif %}
         {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
     </div>
 </main>

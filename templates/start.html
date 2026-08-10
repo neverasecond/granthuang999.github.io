@@ -84,6 +84,7 @@
         <div class="start-actions">
             <a href="{{ blogBase['homeUrl'] }}/subscribe.html">订阅新文章</a>
             <a href="{{ blogBase['homeUrl'] }}/tag.html">查看全部标签</a>
+            {% if blogBase['xUrl'] %}<a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 X</a>{% endif %}
             {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
         </div>
     </section>

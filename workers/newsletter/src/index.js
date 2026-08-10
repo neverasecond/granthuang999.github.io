@@ -201,13 +201,17 @@ async function ensureOperationsSchema(env) {
       CREATE TABLE IF NOT EXISTS weekly_operations (
         week_ending TEXT PRIMARY KEY,
         followers INTEGER,
+        verified_followers INTEGER,
         posts_published INTEGER,
         impressions INTEGER,
+        verified_home_timeline_impressions INTEGER,
         profile_visits INTEGER,
         link_clicks INTEGER,
         bookmarks INTEGER,
         replies INTEGER,
+        effective_replies INTEGER,
         reposts INTEGER,
+        subscriptions INTEGER,
         creation_hours REAL,
         interaction_hours REAL,
         updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
@@ -242,6 +246,23 @@ async function ensureOperationsSchema(env) {
       ON clarity_reviews(week_ending)
     `),
   ]);
+
+  await ensureTableColumns(env, 'weekly_operations', [
+    ['verified_followers', 'INTEGER'],
+    ['verified_home_timeline_impressions', 'INTEGER'],
+    ['effective_replies', 'INTEGER'],
+    ['subscriptions', 'INTEGER'],
+  ]);
+}
+
+async function ensureTableColumns(env, tableName, columns) {
+  const existingRows = await env.OPS_DB.prepare(`PRAGMA table_info(${tableName})`).all();
+  const existing = new Set((existingRows.results || []).map((row) => row.name));
+  for (const [column, type] of columns) {
+    if (!existing.has(column)) {
+      await env.OPS_DB.prepare(`ALTER TABLE ${tableName} ADD COLUMN ${column} ${type}`).run();
+    }
+  }
 }
 
 async function authorizeInternalRequest(request, env) {
@@ -402,8 +423,10 @@ async function sendOperationsReport(request, env) {
 }
 
 const WEEKLY_NUMBER_FIELDS = [
-  'followers', 'postsPublished', 'impressions', 'profileVisits', 'linkClicks',
-  'bookmarks', 'replies', 'reposts', 'creationHours', 'interactionHours',
+  'followers', 'verifiedFollowers', 'postsPublished', 'impressions',
+  'verifiedHomeTimelineImpressions', 'profileVisits', 'linkClicks',
+  'bookmarks', 'replies', 'effectiveReplies', 'reposts', 'subscriptions',
+  'creationHours', 'interactionHours',
 ];
 
 async function weeklyOperations(request, env) {
@@ -411,9 +434,12 @@ async function weeklyOperations(request, env) {
     await ensureOperationsSchema(env);
     const row = await env.OPS_DB.prepare(`
       SELECT week_ending AS weekEnding, followers,
+             verified_followers AS verifiedFollowers,
              posts_published AS postsPublished, impressions,
+             verified_home_timeline_impressions AS verifiedHomeTimelineImpressions,
              profile_visits AS profileVisits, link_clicks AS linkClicks,
-             bookmarks, replies, reposts,
+             bookmarks, replies, effective_replies AS effectiveReplies,
+             reposts, subscriptions,
              creation_hours AS creationHours,
              interaction_hours AS interactionHours
       FROM weekly_operations
@@ -435,7 +461,7 @@ async function weeklyOperations(request, env) {
   }
   const values = {};
   for (const field of WEEKLY_NUMBER_FIELDS) {
-    const value = Number(payload[field]);
+    const value = Number(payload[field] ?? 0);
     if (!Number.isFinite(value) || value < 0) {
       return json(request, { message: `Invalid weekly metric: ${field}` }, 400);
     }
@@ -445,26 +471,34 @@ async function weeklyOperations(request, env) {
   await ensureOperationsSchema(env);
   await env.OPS_DB.prepare(`
     INSERT INTO weekly_operations (
-      week_ending, followers, posts_published, impressions, profile_visits,
-      link_clicks, bookmarks, replies, reposts, creation_hours,
-      interaction_hours, updated_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+      week_ending, followers, verified_followers, posts_published,
+      impressions, verified_home_timeline_impressions, profile_visits,
+      link_clicks, bookmarks, replies, effective_replies, reposts,
+      subscriptions, creation_hours, interaction_hours, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
     ON CONFLICT(week_ending) DO UPDATE SET
       followers = excluded.followers,
+      verified_followers = excluded.verified_followers,
       posts_published = excluded.posts_published,
       impressions = excluded.impressions,
+      verified_home_timeline_impressions = excluded.verified_home_timeline_impressions,
       profile_visits = excluded.profile_visits,
       link_clicks = excluded.link_clicks,
       bookmarks = excluded.bookmarks,
       replies = excluded.replies,
+      effective_replies = excluded.effective_replies,
       reposts = excluded.reposts,
+      subscriptions = excluded.subscriptions,
       creation_hours = excluded.creation_hours,
       interaction_hours = excluded.interaction_hours,
       updated_at = CURRENT_TIMESTAMP
   `).bind(
-    weekEnding, values.followers, values.postsPublished, values.impressions,
-    values.profileVisits, values.linkClicks, values.bookmarks, values.replies,
-    values.reposts, values.creationHours, values.interactionHours,
+    weekEnding, values.followers, values.verifiedFollowers,
+    values.postsPublished, values.impressions,
+    values.verifiedHomeTimelineImpressions, values.profileVisits,
+    values.linkClicks, values.bookmarks, values.replies,
+    values.effectiveReplies, values.reposts, values.subscriptions,
+    values.creationHours, values.interactionHours,
   ).run();
   return json(request, { stored: true, weekEnding });
 }
