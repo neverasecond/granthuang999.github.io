@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 04:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:37:22 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1105,6 +1105,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html</guid>
       <enclosure url="https://www.790427.xyz/images/imarketmessage-v010-alpha-cover.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中年投资，先把组合的任务写清楚</title>
+      <link>https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html</link>
+      <description>ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html</guid>
+      <enclosure url="https://www.790427.xyz/images/midlife-investment-portfolio-tasks-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
