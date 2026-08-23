@@ -34,7 +34,9 @@
 .d-flex{min-width:0;}
 .listTitle{overflow:hidden;white-space:nowrap;text-overflow: ellipsis;max-width: 100%;}
 .listLabels{white-space:nowrap;display:flex;}
-.listLabels object{max-height:16px;max-width:24px;}
+.listLabels object{max-width:none;}
+.LabelName{display:inline-flex;align-items:center;min-height:24px;}
+.LabelName a{display:inline-flex;align-items:center;min-height:24px;padding:4px 3px;}
 .home-tracks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0 0 24px;}
 .home-track{border:1px solid var(--borderColor-muted,var(--color-border-muted));border-radius:6px;padding:16px;text-decoration:none;background:var(--color-canvas-default);}
 .home-track strong{display:block;font-size:16px;margin-bottom:8px;color:var(--color-fg-default);}
@@ -130,13 +132,13 @@
         {%- if blogBase['prevUrl']=='disabled' -%}
         <span class="previous_page" aria-disabled="true">{{ i18n['Previous'] }}</span>
         {% else -%}
-        <a class="previous_page" rel="previous" href="{{ blogBase['prevUrl'] }}" aria-label="Previous Page">{{ i18n['Previous'] }}</a>
+        <a class="previous_page" rel="previous" href="{{ blogBase['prevUrl'] }}" aria-label="{{ i18n['Previous'] }}">{{ i18n['Previous'] }}</a>
         {%- endif -%}
 
         {%- if blogBase['nextUrl']=='disabled' -%}
         <span class="next_page" aria-disabled="true">{{ i18n['Next'] }}</span>
         {% else -%}
-        <a class="next_page" rel="next" href="{{ blogBase['nextUrl'] }}" aria-label="Next Page">{{ i18n['Next'] }}</a>
+        <a class="next_page" rel="next" href="{{ blogBase['nextUrl'] }}" aria-label="{{ i18n['Next'] }}">{{ i18n['Next'] }}</a>
         {%- endif -%}
 
     </div>

@@ -111,7 +111,7 @@ class GMEEK:
         self.blogBase.setdefault("displayTitle", self.blogBase["title"])
         self.blogBase.setdefault("faviconUrl", self.blogBase["avatarUrl"])
         self.blogBase.setdefault("ogImage", self.blogBase["avatarUrl"])
-        self.blogBase.setdefault("primerCSS", "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />")
+        self.blogBase.setdefault("primerCSS", "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />")
 
         if "homeUrl" not in self.blogBase or not self.blogBase["homeUrl"]:
             owner_login = self.repo.owner.login

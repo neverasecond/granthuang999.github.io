@@ -23,6 +23,7 @@
 <meta name="twitter:image" content="{{ blogBase['ogImage'] }}">
 {% if blogBase['xHandle'] %}<meta name="twitter:creator" content="@{{ blogBase['xHandle'] }}">{% endif %}
 <title>{{ blogBase['postTitle'] }}</title>
+{% if blogBase['quote'] or blogBase['daily_sentence'] %}<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js" defer></script>{% endif %}
 {% if blogBase['highlight']==1 %}<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />{% endif %}
 {{ blogBase['head']|safe }}
 <script type="application/ld+json">

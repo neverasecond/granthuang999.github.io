@@ -74,13 +74,13 @@
         {%- if blogBase['prevUrl']=='disabled' -%}
         <span class="previous_page" aria-disabled="true">{{ i18n['Previous'] }}</span>
         {% else -%}
-        <a class="previous_page" rel="previous" href="{{ blogBase['prevUrl'] }}" aria-label="Previous Page">{{ i18n['Previous'] }}</a>
+        <a class="previous_page" rel="previous" href="{{ blogBase['prevUrl'] }}" aria-label="{{ i18n['Previous'] }}">{{ i18n['Previous'] }}</a>
         {%- endif -%}
 
         {%- if blogBase['nextUrl']=='disabled' -%}
         <span class="next_page" aria-disabled="true">{{ i18n['Next'] }}</span>
         {% else -%}
-        <a class="next_page" rel="next" href="{{ blogBase['nextUrl'] }}" aria-label="Next Page">{{ i18n['Next'] }}</a>
+        <a class="next_page" rel="next" href="{{ blogBase['nextUrl'] }}" aria-label="{{ i18n['Next'] }}">{{ i18n['Next'] }}</a>
         {%- endif -%}
 
     </div>

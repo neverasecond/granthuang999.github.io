@@ -58,7 +58,7 @@
 {% endblock %}
 
 {% block content %}
-<main class="start-page">
+<div class="start-page">
     <p class="start-lead">如果你第一次来到这里，可以先按三条主线阅读：想重新理解自己，读内心秩序；想守护家庭资产，读资产护航；想让工具真正改善生活，读数字能力。这里优先保留个人实践、长期观察和可复盘的方法。</p>
     <section class="start-grid" aria-label="内容主线">
         <a class="start-card" href="{{ blogBase['homeUrl'] }}/nei-xin-zhi-xu.html">
@@ -88,7 +88,7 @@
             {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
         </div>
     </section>
-</main>
+</div>
 {% endblock %}
 
 {% block script %}

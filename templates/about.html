@@ -62,7 +62,7 @@
 {% endblock %}
 
 {% block content %}
-<main class="content-page">
+<div class="content-page">
     <p class="lead">人到中年，是莫白来写给自己，也写给还想重新开始的人的个人网站。</p>
     <p>这里不追逐热闹，也不制造焦虑。它围绕三件事持续写作：内心秩序、资产护航与数字能力。</p>
 
@@ -89,7 +89,7 @@
         {% if blogBase['xUrl'] %}<a href="{{ blogBase['xUrl'] }}" target="_blank" rel="noopener">关注 X</a>{% endif %}
         {% if blogBase['linkedinUrl'] %}<a href="{{ blogBase['linkedinUrl'] }}" target="_blank" rel="noopener">关注 LinkedIn</a>{% endif %}
     </div>
-</main>
+</div>
 {% endblock %}
 
 {% block script %}
