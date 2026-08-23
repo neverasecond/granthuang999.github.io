@@ -79,7 +79,7 @@
   "bannerUrl": "/images/banner.jpg",
   "headerBackgroundUrl": "/images/header-bg.jpg",
   "email": "service@790427.xyz",
-  "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+  "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
     "P297": {
       "htmlDir": "docs/post/midlife-investment-portfolio-tasks.html",
