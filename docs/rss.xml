@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 04:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:40:03 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1121,6 +1121,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/platform-sutra-waiting-and-action.html</guid>
       <enclosure url="https://www.790427.xyz/images/platform-sutra-waiting-and-action-cover.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>给家人写一份 AI 求助单：问题、截图、隐私与撤销</title>
+      <link>https://www.790427.xyz/post/family-ai-help-request.html</link>
+      <description>一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/family-ai-help-request.html</guid>
+      <enclosure url="https://www.790427.xyz/images/family-ai-help-request-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

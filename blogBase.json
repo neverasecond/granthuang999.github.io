@@ -81,6 +81,74 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P299": {
+      "htmlDir": "docs/post/family-ai-help-request.html",
+      "labels": [
+        "数字能力"
+      ],
+      "contentCategory": "数字能力",
+      "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+      "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/299",
+      "commentNum": 0,
+      "wordCount": 3425,
+      "createdAt": 1787457600,
+      "top": 0,
+      "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。",
+      "createdDate": "2026-08-23",
+      "isoDate": "2026-08-23T12:00:00+08:00",
+      "updatedDate": "2026-08-26",
+      "updatedIsoDate": "2026-08-26T07:25:09+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/family-ai-help-request-cover.jpg",
+      "keywords": [
+        "AI求助单",
+        "家人使用AI",
+        "手机问题",
+        "截图隐私",
+        "撤销操作",
+        "数字能力"
+      ],
+      "quote": "先把问题说清，只发必要截图；每次做一步，也知道怎样退回来。",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
+        "createdDate": "2026-08-21",
+        "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
+          "createdDate": "2026-08-15",
+          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
+        },
+        {
+          "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
+          "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
+          "createdDate": "2026-07-28",
+          "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
+        },
+        {
+          "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
+          "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
+          "createdDate": "2026-07-25",
+          "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
+        },
+        {
+          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
+          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
+          "createdDate": "2026-07-16",
+          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
+        }
+      ]
+    },
     "P298": {
       "htmlDir": "docs/post/platform-sutra-waiting-and-action.html",
       "labels": [
@@ -116,7 +184,12 @@
       "quote": "让过去过去，给时间时间，余半生半梦，得善始善终。",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+        "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+        "createdDate": "2026-08-23",
+        "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+      },
       "olderPost": {
         "postTitle": "中年投资，先把组合的任务写清楚",
         "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
@@ -272,6 +345,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
           "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
           "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
           "createdDate": "2026-07-28",
@@ -288,12 +367,6 @@
           "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
           "createdDate": "2026-07-16",
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -476,6 +549,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
           "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
@@ -492,12 +571,6 @@
           "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
           "createdDate": "2026-07-16",
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -674,6 +747,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
           "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
@@ -690,12 +769,6 @@
           "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
           "createdDate": "2026-07-16",
           "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -1204,6 +1277,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
           "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
@@ -1220,12 +1299,6 @@
           "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
           "createdDate": "2026-07-25",
           "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
-        },
-        {
-          "postTitle": "网站调试与功能增强日志",
-          "postUrl": "https://www.790427.xyz/post/debugging-log.html",
-          "createdDate": "2025-08-24",
-          "description": "## 我的网站调试与功能增强日志\n\n这份文档记录了我在深度定制和优化我的个人网站 `www.790427.xyz` 过程中的点点滴滴。"
         }
       ]
     },
@@ -8903,6 +8976,12 @@
       "olderPost": null,
       "relatedPosts": [
         {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
           "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
@@ -8919,12 +8998,6 @@
           "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
           "createdDate": "2026-07-25",
           "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
-        },
-        {
-          "postTitle": "网站重启之后：人到中年，如何用 iPhone 和 AI 重新整理生活",
-          "postUrl": "https://www.790427.xyz/post/restart-life-with-iphone-and-ai.html",
-          "createdDate": "2026-07-16",
-          "description": "“人到中年”重新开站的第一篇文章：复盘网站改版、品牌重建与自动化过程，并用一次真实实践说明普通人如何在 iPhone 上与 AI 协作，把模糊想法变成可验证的结果。"
         }
       ]
     },
