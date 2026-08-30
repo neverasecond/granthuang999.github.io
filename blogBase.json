@@ -81,6 +81,74 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P301": {
+      "htmlDir": "docs/post/midlife-investing-time-horizon-etf.html",
+      "labels": [
+        "资产护航"
+      ],
+      "contentCategory": "资产护航",
+      "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+      "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/301",
+      "commentNum": 0,
+      "wordCount": 3199,
+      "createdAt": 1787457600,
+      "top": 0,
+      "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。",
+      "createdDate": "2026-08-23",
+      "isoDate": "2026-08-23T12:00:00+08:00",
+      "updatedDate": "2026-08-30",
+      "updatedIsoDate": "2026-08-30T14:21:32+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/midlife-investing-time-horizon-etf-cover.jpg",
+      "keywords": [
+        "中年投资",
+        "ETF",
+        "投资期限",
+        "家庭资产配置",
+        "用钱计划",
+        "资金期限"
+      ],
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "“无念”不是不思考：心不染境，事仍要做",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
+        "createdDate": "2026-08-23",
+        "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "中年投资，先把组合的任务写清楚",
+          "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
+          "createdDate": "2026-08-21",
+          "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
+        },
+        {
+          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
+          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
+          "createdDate": "2026-08-10",
+          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
+        },
+        {
+          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
+          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
+          "createdDate": "2026-07-27",
+          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
+        },
+        {
+          "postTitle": "投资理财不是目的，而是自然的结果",
+          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
+          "createdDate": "2026-07-23",
+          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
+        }
+      ]
+    },
     "P300": {
       "htmlDir": "docs/post/platform-sutra-no-thought.html",
       "labels": [
@@ -115,7 +183,12 @@
       "quote": "念头可以来，判断和责任也都还在；只是不要立刻把自己交给它。",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+        "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+        "createdDate": "2026-08-23",
+        "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+      },
       "olderPost": {
         "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
         "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
@@ -344,6 +417,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
@@ -360,12 +439,6 @@
           "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
           "createdDate": "2026-07-23",
           "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         }
       ]
     },
@@ -490,6 +563,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -506,12 +585,6 @@
           "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
           "createdDate": "2026-07-23",
           "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         }
       ]
     },
@@ -688,6 +761,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -704,12 +783,6 @@
           "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
           "createdDate": "2026-07-23",
           "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         }
       ]
     },
@@ -1150,6 +1223,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -1166,12 +1245,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "“反者道之动，弱者道之用”——散户的生存哲学",
-          "postUrl": "https://www.790427.xyz/post/common-sense-005-dao-of-retail-investor.html",
-          "createdDate": "2026-02-03",
-          "description": "散户在这个残酷市场里的生存之道，承认自己是弱者，用认知武装自己，要么在细分领域变强，要么跟随强者并学会让利。"
         }
       ]
     },
@@ -1483,6 +1556,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -1499,12 +1578,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -1683,6 +1756,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -1699,12 +1778,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -3289,6 +3362,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -3305,12 +3384,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -4092,6 +4165,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -4108,12 +4187,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -4292,6 +4365,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -4308,12 +4387,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -5160,6 +5233,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -5176,12 +5255,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -5358,6 +5431,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -5374,12 +5453,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -5424,6 +5497,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -5440,12 +5519,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -5886,6 +5959,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -5902,12 +5981,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -6018,6 +6091,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -6034,12 +6113,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -7272,6 +7345,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -7288,12 +7367,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -7866,6 +7939,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -7882,12 +7961,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -8196,6 +8269,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -8212,12 +8291,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -8262,6 +8335,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -8278,12 +8357,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -8526,6 +8599,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -8542,12 +8621,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -8724,6 +8797,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -8740,12 +8819,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -8922,6 +8995,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -8938,12 +9017,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -9115,6 +9188,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -9131,12 +9210,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     }
