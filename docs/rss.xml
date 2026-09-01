@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 10:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:11:00 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1145,6 +1145,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html</guid>
       <enclosure url="https://www.790427.xyz/images/midlife-investing-time-horizon-etf-cover.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏</title>
+      <link>https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html</link>
+      <description>闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html</guid>
+      <enclosure url="https://www.790427.xyz/images/reuse-idle-kindle-weread-wordfeed-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
