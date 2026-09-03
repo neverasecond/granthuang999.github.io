@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 02:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:20:19 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1153,6 +1153,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html</guid>
       <enclosure url="https://www.790427.xyz/images/reuse-idle-kindle-weread-wordfeed-cover.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布</title>
+      <link>https://www.790427.xyz/post/imarketmessage-local-investment-alert.html</link>
+      <description>iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/imarketmessage-local-investment-alert.html</guid>
+      <enclosure url="https://www.790427.xyz/images/imarketmessage-v020-beta-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>《坛经》慢读：定慧不是把自己逼安静</title>

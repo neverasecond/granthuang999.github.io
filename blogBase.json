@@ -81,6 +81,79 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P304": {
+      "htmlDir": "docs/post/imarketmessage-local-investment-alert.html",
+      "labels": [
+        "数字能力"
+      ],
+      "contentCategory": "数字能力",
+      "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+      "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/304",
+      "commentNum": 0,
+      "wordCount": 2901,
+      "createdAt": 1788138000,
+      "top": 0,
+      "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。",
+      "createdDate": "2026-08-31",
+      "isoDate": "2026-08-31T09:00:00+08:00",
+      "updatedDate": "2026-09-03",
+      "updatedIsoDate": "2026-09-03T10:18:37+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/imarketmessage-v020-beta-cover.jpg",
+      "keywords": [
+        "iMarketMessage",
+        "iMessage行情提醒",
+        "Mac本地自动化",
+        "VIX提醒",
+        "paired-self",
+        "数字能力"
+      ],
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": {
+        "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+        "createdDate": "2026-09-01",
+        "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+      },
+      "olderPost": {
+        "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
+        "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
+        "createdDate": "2026-08-28",
+        "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
+          "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
+          "createdDate": "2026-08-28",
+          "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
+        },
+        {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        },
+        {
+          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
+          "createdDate": "2026-08-15",
+          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
+        },
+        {
+          "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
+          "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
+          "createdDate": "2026-07-28",
+          "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
+        }
+      ]
+    },
     "P303": {
       "htmlDir": "docs/post/platform-sutra-stability-and-wisdom.html",
       "labels": [
@@ -117,10 +190,10 @@
       "password": "",
       "newerPost": null,
       "olderPost": {
-        "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
-        "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
-        "createdDate": "2026-08-28",
-        "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
+        "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+        "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+        "createdDate": "2026-08-31",
+        "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
       },
       "relatedPosts": [
         {
@@ -184,10 +257,10 @@
       "daily_sentence": "",
       "password": "",
       "newerPost": {
-        "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
-        "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
-        "createdDate": "2026-09-01",
-        "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+        "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+        "createdDate": "2026-08-31",
+        "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
       },
       "olderPost": {
         "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
@@ -196,6 +269,12 @@
         "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
         {
           "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
           "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
@@ -213,12 +292,6 @@
           "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
           "createdDate": "2026-07-28",
           "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
-        },
-        {
-          "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
-          "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
-          "createdDate": "2026-07-25",
-          "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
         }
       ]
     },
@@ -416,6 +489,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -432,12 +511,6 @@
           "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
           "createdDate": "2026-07-28",
           "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
-        },
-        {
-          "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
-          "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
-          "createdDate": "2026-07-25",
-          "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
         }
       ]
     },
@@ -637,6 +710,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -653,12 +732,6 @@
           "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
           "createdDate": "2026-07-28",
           "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
-        },
-        {
-          "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
-          "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
-          "createdDate": "2026-07-25",
-          "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
         }
       ]
     },
@@ -841,6 +914,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -857,12 +936,6 @@
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
           "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
-        },
-        {
-          "postTitle": "我为什么给自己做了一个 iMessage 到 Codex 的小网关",
-          "postUrl": "https://www.790427.xyz/post/imessage-codex-gateway.html",
-          "createdDate": "2026-07-25",
-          "description": "我给自己做了一个很小的 iMessage 到 Codex 网关。它真正重要的不是远程调用 AI，而是用尽量薄的入口、只读执行和清晰边界，让技术减少生活里的摩擦。"
         }
       ]
     },
@@ -1039,6 +1112,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -1055,12 +1134,6 @@
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
           "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
-        },
-        {
-          "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
-          "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
-          "createdDate": "2026-07-28",
-          "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
         }
       ]
     },
@@ -1569,6 +1642,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -1585,12 +1664,6 @@
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
           "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
-        },
-        {
-          "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
-          "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
-          "createdDate": "2026-07-28",
-          "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
         }
       ]
     },
@@ -9268,6 +9341,12 @@
       "olderPost": null,
       "relatedPosts": [
         {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
           "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
@@ -9284,12 +9363,6 @@
           "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
           "createdDate": "2026-08-15",
           "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
-        },
-        {
-          "postTitle": "给codex设边界：为什么我宁愿先做只读和受限执行",
-          "postUrl": "https://www.790427.xyz/post/ai-assistant-readonly-boundaries.html",
-          "createdDate": "2026-07-28",
-          "description": "给 AI设边界，不是让它变弱，而是先让它在可控范围内真正有用：入口要窄、目录要干净、默认只读、能力按需打开。"
         }
       ]
     },
