@@ -81,6 +81,74 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P303": {
+      "htmlDir": "docs/post/platform-sutra-stability-and-wisdom.html",
+      "labels": [
+        "内心秩序"
+      ],
+      "contentCategory": "内心秩序",
+      "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+      "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/303",
+      "commentNum": 0,
+      "wordCount": 2812,
+      "createdAt": 1788221456,
+      "top": 0,
+      "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。",
+      "createdDate": "2026-09-01",
+      "isoDate": "2026-09-01T08:10:56+08:00",
+      "updatedDate": "2026-09-03",
+      "updatedIsoDate": "2026-09-03T10:14:21+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/platform-sutra-stability-and-wisdom-cover.jpg",
+      "keywords": [
+        "坛经慢读",
+        "定慧一体",
+        "六祖坛经",
+        "情绪觉察",
+        "中年修行",
+        "内心秩序"
+      ],
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
+        "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
+        "createdDate": "2026-08-28",
+        "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "“无念”不是不思考：心不染境，事仍要做",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
+          "createdDate": "2026-08-23",
+          "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
+        },
+        {
+          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
+          "createdDate": "2026-08-21",
+          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
+        },
+        {
+          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
+          "createdDate": "2026-07-29",
+          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
+        },
+        {
+          "postTitle": "不必等心静下来：从《坛经》第一句说起",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
+          "createdDate": "2026-07-26",
+          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
+        }
+      ]
+    },
     "P302": {
       "htmlDir": "docs/post/reuse-idle-kindle-weread-wordfeed.html",
       "labels": [
@@ -115,7 +183,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+        "createdDate": "2026-09-01",
+        "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+      },
       "olderPost": {
         "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
         "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
@@ -270,6 +343,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
@@ -286,12 +365,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
           "createdDate": "2026-07-26",
           "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
-        },
-        {
-          "postTitle": "修行，就是重新学会控制自己",
-          "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
-          "createdDate": "2026-07-24",
-          "description": "承接“得道”与“自由”两篇文章，从一次练瑜伽动作做不到的亲身体验出发，讨论修行的意义：修行不是玄学表演，而是通过身体、注意力、欲望和情绪的日常练习，逐渐获得对身体与心灵的控制能力，让道和自由真正落到生活里。"
         }
       ]
     },
@@ -417,6 +490,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -433,12 +512,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
           "createdDate": "2026-07-26",
           "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
-        },
-        {
-          "postTitle": "修行，就是重新学会控制自己",
-          "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
-          "createdDate": "2026-07-24",
-          "description": "承接“得道”与“自由”两篇文章，从一次练瑜伽动作做不到的亲身体验出发，讨论修行的意义：修行不是玄学表演，而是通过身体、注意力、欲望和情绪的日常练习，逐渐获得对身体与心灵的控制能力，让道和自由真正落到生活里。"
         }
       ]
     },
@@ -702,6 +775,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -718,12 +797,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
           "createdDate": "2026-07-26",
           "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
-        },
-        {
-          "postTitle": "修行，就是重新学会控制自己",
-          "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
-          "createdDate": "2026-07-24",
-          "description": "承接“得道”与“自由”两篇文章，从一次练瑜伽动作做不到的亲身体验出发，讨论修行的意义：修行不是玄学表演，而是通过身体、注意力、欲望和情绪的日常练习，逐渐获得对身体与心灵的控制能力，让道和自由真正落到生活里。"
         }
       ]
     },
@@ -900,6 +973,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -916,12 +995,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "修行，就是重新学会控制自己",
-          "postUrl": "https://www.790427.xyz/post/cultivation-is-self-mastery-body-and-mind.html",
-          "createdDate": "2026-07-24",
-          "description": "承接“得道”与“自由”两篇文章，从一次练瑜伽动作做不到的亲身体验出发，讨论修行的意义：修行不是玄学表演，而是通过身体、注意力、欲望和情绪的日常练习，逐渐获得对身体与心灵的控制能力，让道和自由真正落到生活里。"
         }
       ]
     },
@@ -1032,6 +1105,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1048,12 +1127,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1098,6 +1171,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1114,12 +1193,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1164,6 +1237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1180,12 +1259,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1230,6 +1303,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1246,12 +1325,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1363,6 +1436,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1379,12 +1458,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1430,6 +1503,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1446,12 +1525,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1563,6 +1636,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1579,12 +1658,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1696,6 +1769,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1712,12 +1791,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1763,6 +1836,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1779,12 +1858,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1896,6 +1969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1912,12 +1991,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1963,6 +2036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -1979,12 +2058,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2030,6 +2103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2046,12 +2125,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2097,6 +2170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2113,12 +2192,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2164,6 +2237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2180,12 +2259,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2231,6 +2304,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2247,12 +2326,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2298,6 +2371,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2314,12 +2393,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2365,6 +2438,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2381,12 +2460,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2432,6 +2505,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2448,12 +2527,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2499,6 +2572,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2515,12 +2594,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2566,6 +2639,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2582,12 +2661,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2633,6 +2706,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2649,12 +2728,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2700,6 +2773,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2716,12 +2795,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2767,6 +2840,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2783,12 +2862,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2834,6 +2907,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2850,12 +2929,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2900,6 +2973,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2916,12 +2995,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -2967,6 +3040,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -2983,12 +3062,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3034,6 +3107,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3050,12 +3129,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3101,6 +3174,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3117,12 +3196,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3168,6 +3241,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3184,12 +3263,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3235,6 +3308,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3251,12 +3330,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3302,6 +3375,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3318,12 +3397,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3369,6 +3442,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3385,12 +3464,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3502,6 +3575,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3518,12 +3597,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3569,6 +3642,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3585,12 +3664,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3636,6 +3709,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3652,12 +3731,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3703,6 +3776,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3719,12 +3798,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3770,6 +3843,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3786,12 +3865,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3837,6 +3910,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3853,12 +3932,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3904,6 +3977,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3920,12 +3999,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -3971,6 +4044,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -3987,12 +4066,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4038,6 +4111,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4054,12 +4133,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4105,6 +4178,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4121,12 +4200,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4172,6 +4245,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4188,12 +4267,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4305,6 +4378,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4321,12 +4400,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4372,6 +4445,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4388,12 +4467,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4505,6 +4578,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4521,12 +4600,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4572,6 +4645,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4588,12 +4667,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4639,6 +4712,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4655,12 +4734,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4706,6 +4779,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4722,12 +4801,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4773,6 +4846,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4789,12 +4868,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4840,6 +4913,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4856,12 +4935,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4907,6 +4980,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4923,12 +5002,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -4974,6 +5047,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -4990,12 +5069,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5041,6 +5114,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5057,12 +5136,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5108,6 +5181,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5124,12 +5203,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5174,6 +5247,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5190,12 +5269,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5240,6 +5313,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5256,12 +5335,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5372,6 +5445,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5388,12 +5467,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5438,6 +5511,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5454,12 +5533,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5636,6 +5709,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5652,12 +5731,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5702,6 +5775,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5718,12 +5797,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5768,6 +5841,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5784,12 +5863,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5834,6 +5907,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5850,12 +5929,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5900,6 +5973,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5916,12 +5995,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -5966,6 +6039,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -5982,12 +6061,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6098,6 +6171,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6114,12 +6193,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6230,6 +6303,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6246,12 +6325,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6296,6 +6369,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6312,12 +6391,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6362,6 +6435,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6378,12 +6457,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6428,6 +6501,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6444,12 +6523,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6494,6 +6567,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6510,12 +6589,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6560,6 +6633,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6576,12 +6655,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6626,6 +6699,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6642,12 +6721,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6692,6 +6765,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6708,12 +6787,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6758,6 +6831,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6774,12 +6853,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6824,6 +6897,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6840,12 +6919,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6890,6 +6963,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6906,12 +6985,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -6956,6 +7029,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -6972,12 +7051,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7022,6 +7095,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7038,12 +7117,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7088,6 +7161,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7104,12 +7183,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7154,6 +7227,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7170,12 +7249,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7220,6 +7293,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7236,12 +7315,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7286,6 +7359,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7302,12 +7381,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7352,6 +7425,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7368,12 +7447,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7484,6 +7557,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7500,12 +7579,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7550,6 +7623,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7566,12 +7645,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7616,6 +7689,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7632,12 +7711,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7682,6 +7755,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7698,12 +7777,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7748,6 +7821,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7764,12 +7843,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7814,6 +7887,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7830,12 +7909,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7880,6 +7953,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7896,12 +7975,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -7946,6 +8019,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -7962,12 +8041,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8078,6 +8151,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8094,12 +8173,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8144,6 +8217,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8160,12 +8239,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8210,6 +8283,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8226,12 +8305,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8276,6 +8349,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8292,12 +8371,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8474,6 +8547,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8490,12 +8569,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8540,6 +8613,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8556,12 +8635,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8606,6 +8679,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8622,12 +8701,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8738,6 +8811,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8754,12 +8833,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8804,6 +8877,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8820,12 +8899,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -8936,6 +9009,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -8952,12 +9031,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -9002,6 +9075,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -9018,12 +9097,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -9134,6 +9207,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -9150,12 +9229,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
