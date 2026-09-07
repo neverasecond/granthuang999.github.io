@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark_colorblind" data-light-theme="light" lang="zh-CN">
+<head>
+  <!-- Start cookieyes banner -->
+  <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/320661f17fdd46e13c6eaf24aa38699b/script.js"></script>
+  <!-- End cookieyes banner -->
+  <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="google-adsense-account" content="ca-pub-3409938612356670">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    <link rel="canonical" href="https://www.790427.xyz/post/ai-summary-is-not-understanding.html" />
+    <link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />
+    
+    <link rel="icon" href="/images/site-logo.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。">
+
+<meta name="content-line" content="iphone_ai">
+
+<meta name="keywords" content="['AI总结核对', 'AI幻觉', '引用核查', '事实核验', '生成式AI', '数字能力']">
+<meta property="og:title" content="在 AI 总结和原始资料之间逐项核对">
+<meta property="og:description" content="AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.790427.xyz/post/ai-summary-is-not-understanding.html">
+<meta property="og:image" content="https://www.790427.xyz/images/ai-summary-is-not-understanding-cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="在 AI 总结和原始资料之间逐项核对">
+<meta name="twitter:description" content="AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。">
+<meta name="twitter:image" content="https://www.790427.xyz/images/ai-summary-is-not-understanding-cover.jpg">
+<meta name="twitter:creator" content="@wiselyfreely">
+<title>在 AI 总结和原始资料之间逐项核对</title>
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "\u5728 AI \u603b\u7ed3\u548c\u539f\u59cb\u8d44\u6599\u4e4b\u95f4\u9010\u9879\u6838\u5bf9",
+    "description": "AI\u603b\u7ed3\u53ef\u4ee5\u8fc5\u901f\u6574\u7406\u957f\u8d44\u6599\uff0c\u5374\u53ef\u80fd\u8ba9\u5f15\u7528\u652f\u6301\u8fc7\u5934\u3001\u5220\u6389\u5173\u952e\u9650\u5236\uff0c\u6216\u628a\u539f\u6587\u8bed\u6c14\u5199\u5f97\u66f4\u786e\u5b9a\u3002\u672c\u6587\u7ed3\u5408\u6bd4\u7279\u5e01\u6587\u7ae0\u6838\u9a8c\u548ciMarketMessage\u771f\u5b9e\u6d4b\u8bd5\uff0c\u6574\u7406\u4e00\u5957\u68c0\u67e5\u5f15\u7528\u3001\u9057\u6f0f\u4e0e\u8bed\u6c14\u7684\u65b9\u6cd5\u3002",
+    "image": [
+        "https://www.790427.xyz/images/ai-summary-is-not-understanding-cover.jpg"
+    ],
+    "datePublished": "2026-09-07T09:46:29+08:00",
+    "dateModified": "2026-09-07T09:49:40+08:00",
+    "articleSection": "\u6570\u5b57\u80fd\u529b",
+    "keywords": ["AI\u603b\u7ed3\u6838\u5bf9", "AI\u5e7b\u89c9", "\u5f15\u7528\u6838\u67e5", "\u4e8b\u5b9e\u6838\u9a8c", "\u751f\u6210\u5f0fAI", "\u6570\u5b57\u80fd\u529b"],
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "\u83ab\u767d\u6765",
+        "url": "https://www.790427.xyz",
+        "sameAs": []
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "\u4eba\u5230\u4e2d\u5e74",
+        "url": "https://www.790427.xyz",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.790427.xyz/images/site-logo.svg"
+        }
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "\u4eba\u5230\u4e2d\u5e74",
+            "item": "https://www.790427.xyz"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "\u6570\u5b57\u80fd\u529b",
+            "item": "https://www.790427.xyz/shu-zi-neng-li.html"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "\u5728 AI \u603b\u7ed3\u548c\u539f\u59cb\u8d44\u6599\u4e4b\u95f4\u9010\u9879\u6838\u5bf9",
+            "item": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html"
+        }
+    ]
+}
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDL6BTW5FM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  const contentLineMeta = document.querySelector('meta[name="content-line"]');
+  const contentLine = contentLineMeta ? contentLineMeta.content : 'site';
+  gtag('config', 'G-FDL6BTW5FM', {content_group: contentLine});
+  window.trackSiteEvent = function(name, parameters) {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', name, Object.assign({content_line: contentLine}, parameters || {}));
+  };
+</script>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "xk8krek4hb");
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "\u4eba\u5230\u4e2d\u5e74",
+    "alternateName": "\u5e2e\u52a9\u5168\u7403\u534e\u8bed\u4e2d\u5e74\u4eba\u5efa\u7acb\u5185\u5728\u79e9\u5e8f\u3001\u8d44\u4ea7\u79e9\u5e8f\u548c\u6570\u5b57\u80fd\u529b\uff0c\u5e76\u9010\u6b65\u4e3a\u82f1\u8bed\u8bfb\u8005\u63d0\u4f9b\u540c\u6837\u7684\u65b9\u6cd5\u4e0e\u5de5\u5177\u3002",
+    "url": "https://www.790427.xyz",
+    "inLanguage": "zh-CN",
+    "publisher": {
+        "@type": "Person",
+        "name": "\u83ab\u767d\u6765",
+        "url": "https://www.790427.xyz"
+    },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.790427.xyz/tag.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "\u83ab\u767d\u6765",
+    "alternateName": "Midlife Order",
+    "url": "https://www.790427.xyz",
+    "email": "mailto:service@790427.xyz",
+    "sameAs": []
+}
+</script>
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+#footer, #footer a {
+    color: black !important;
+}
+
+.page-header {
+    position: relative;
+    background: transparent;
+    padding: 0 0 1.4rem;
+    border-radius: 0;
+    margin-bottom: 2rem;
+    color: var(--color-fg-default, #24292f);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    border: 0;
+    border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
+}
+
+.page-header > * {
+    position: relative;
+}
+
+.page-header a {
+    color: var(--color-fg-default, #24292f) !important;
+}
+
+.page-header .octicon path {
+    fill: currentColor;
+}
+
+.site-brand-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    gap: 18px;
+    box-sizing: border-box;
+    padding: 14px 16px;
+    background: #fffaf0;
+    border: 1px solid #ded4c7;
+    border-radius: 6px;
+}
+
+.site-brand {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 14px;
+    min-width: 0;
+    padding-right: 18px;
+    border-right: 1px solid #d8cec0;
+}
+
+.site-brand-logo {
+    display: block;
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: 14px;
+    transition: transform 0.5s ease;
+}
+
+.site-brand-logo:hover {
+    transform: scale(1.06);
+}
+
+.site-title {
+    margin: 0;
+    color: #151515;
+    font-family: "Songti SC", STSong, "Noto Serif CJK SC", serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.15;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.site-title a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
+.page-header a.site-title {
+    color: #151515 !important;
+}
+
+.header-statement {
+    display: block;
+    flex: 1 1 0;
+    width: auto;
+    min-width: 0;
+    max-width: 520px;
+    height: auto;
+}
+
+[data-color-mode="dark"] .site-brand-row {
+    background: #1c2128;
+    border-color: #444c56;
+}
+
+[data-color-mode="dark"] .site-brand {
+    border-right-color: #444c56;
+}
+
+[data-color-mode="dark"] .site-title,
+[data-color-mode="dark"] .page-header a.site-title {
+    color: #f0f3f6;
+}
+
+[data-color-mode="dark"] .header-statement {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.header-main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header-main-content h1 {
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 30px !important;
+}
+
+.header-main-content h1 a {
+    color: inherit !important;
+    font-size: inherit !important;
+}
+
+
+.header-nav-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 12px;
+}
+
+.header-nav-menu a {
+    padding: 8px 12px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.header-nav-menu a:hover {
+    background-color: var(--color-accent-subtle, #ddf4ff);
+    color: var(--color-accent-fg, #0969da) !important;
+}
+
+@media (max-width: 600px) {
+    .page-header {
+        padding-bottom: 1rem;
+    }
+
+    .site-brand-row {
+        gap: 10px;
+        padding: 12px;
+        flex-wrap: wrap;
+    }
+
+    .site-brand {
+        gap: 7px;
+        padding-right: 0;
+        border-right: 0;
+    }
+
+    .site-brand-logo {
+        width: 44px;
+        height: 44px;
+        border-radius: 10px;
+    }
+
+    .site-title {
+        font-size: 24px;
+    }
+
+    .header-statement {
+        flex-basis: 100%;
+        width: 100%;
+        max-width: none;
+    }
+
+    .header-main-content h1 {
+        font-size: 20px !important;
+    }
+}
+</style>
+
+<style>
+/* [唯一改动] 删除了 font-size 属性 */
+.postTitle{margin: auto 0;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{padding-bottom:36px;}
+#postBody hr{height:2px;}
+#postBody img{max-width:100%;height:auto;border-radius:6px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    /* [唯一改动] 删除了 .postTitle 的 font-size 属性 */
+    .post-footer { flex-direction: column; align-items: flex-start; }
+    .post-nav, .related-posts-grid { grid-template-columns: 1fr; }
+}
+
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 16px; 
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+}
+.share-buttons-inline {
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+}
+.share-button {
+    display: inline-block;
+    padding: 4px 12px; 
+    border-radius: 6px;
+    color: #ffffff !important;
+    text-decoration: none;
+    font-size: 12px; 
+    transition: opacity 0.3s;
+    border: none;
+}
+.share-button:hover {
+    opacity: 0.85;
+}
+.bottom-text-inline {
+    font-size: small;
+    white-space: nowrap; 
+}
+.share-button.x { background-color: #111111; }
+.share-button.linkedin { background-color: #0A66C2; }
+.post-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin: 28px 0 10px;
+}
+.post-nav a, .related-posts a {
+    display: block;
+    padding: 12px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    text-decoration: none;
+}
+.post-nav span, .related-posts span {
+    display: block;
+    color: var(--color-fg-muted);
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.related-posts {
+    margin: 28px 0 12px;
+}
+.related-posts h2 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.related-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+}
+.investment-disclaimer {
+    margin: 24px 0 0;
+    padding: 14px 16px;
+    border: 1px solid var(--borderColor-muted, var(--color-border-muted));
+    border-radius: 6px;
+    background: var(--color-canvas-subtle);
+    color: var(--color-fg-muted);
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+</style>
+<style>
+/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }
+</style>
+
+
+
+<body>
+    <header id="header" class="page-header">
+        <nav class="header-nav-menu">
+            <a href="https://www.790427.xyz/">首页</a>
+            <a href="https://www.790427.xyz/start.html">从这里开始</a>
+            <a href="https://www.790427.xyz/nei-xin-zhi-xu.html">内心秩序</a>
+            <a href="https://www.790427.xyz/zi-chan-hu-hang.html">资产护航</a>
+            <a href="https://www.790427.xyz/shu-zi-neng-li.html">数字能力</a>
+            <a href="https://www.790427.xyz/subscribe.html">订阅</a>
+            <a href="https://www.790427.xyz/about.html">关于</a>
+            <a href="https://www.790427.xyz/tag.html">搜索</a>
+        </nav>
+
+        <div class="site-brand-row">
+            <div class="site-brand">
+                <a href="https://www.790427.xyz" aria-label="人到中年首页">
+                    <img src="/images/site-logo.svg" class="site-brand-logo" alt="人到中年网站 Logo" width="512" height="512" fetchpriority="high" decoding="async">
+                </a>
+                
+                <a class="site-title" href="https://www.790427.xyz">人到中年</a>
+                
+            </div>
+            
+            <img class="header-statement" src="https://www.790427.xyz/images/home-statement-20260716.svg" alt="帮助全球华语中年人建立内在秩序、资产秩序和数字能力，并逐步为英语读者提供同样的方法与工具。" width="720" height="132" fetchpriority="high" decoding="async">
+            
+        </div>
+
+        <div class="header-main-content">
+            
+
+<h1 class="postTitle">在 AI 总结和原始资料之间逐项核对</h1>
+<div class="title-right">
+    <a href="https://www.790427.xyz" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+
+        </div>
+    </header>
+    
+    <main id="content">
+<div style="text-align: center; margin-bottom: 24px;">
+    <img src="https://www.790427.xyz/images/ai-summary-is-not-understanding-cover.jpg" style="max-width: 100%; border-radius: 6px;" alt="在 AI 总结和原始资料之间逐项核对" loading="eager" decoding="async">
+</div>
+
+<div id="typeit-animation-container" style="margin-bottom: 24px; min-height: 30px; font-size: 1.2em; font-style: italic; text-align: center;"></div>
+
+<div class="markdown-body" id="postBody"><p>准备上一篇比特币文章时，我先有一个很明确的想法：在法币供应可以扩张、购买力可能长期变化的背景下，比特币的固定供应规则，让它具有不同于美债和黄金的价值。</p>
+<p>这个方向并不难写。只要把货币增发、2100 万枚上限、现货 ETP 和战略储备几件事连起来，很快就能得到一篇完整、流畅，也颇有说服力的文章。</p>
+<p>真正费时间的，是回头检查这些话到底能说到哪里。</p>
+<p>比特币“重新站上 8 万美元”，需要注明是哪一天看到的价格；货币供应增加，与物价上涨并不是即时、固定比例的关系；美国证券交易委员会批准现货比特币 ETP 上市，不等于监管机构推荐比特币；美国战略比特币储备的初始来源，是政府已经没收并持有的资产，也不能顺手改写成政府正在无上限买入。</p>
+<p>这些区别都不大。有时只是补一个日期，保留一句限制，或者把“认可”改回“批准交易”。可少了它们，读者得到的判断就会完全不一样。</p>
+<p>那次写作让我重新确认：AI 可以很快替我压缩资料，却不能替我完成理解。文字读起来越顺，我越容易忘记，里面有些桥梁可能是它自己搭上去的。</p>
+<h2 id="_1">有链接，不等于这句话有证据</h2>
+<p>AI 总结现在经常会附上来源，这当然比没有来源好。但链接存在，只能证明有一个网页，并不能证明网页支持前面的整句话。</p>
+<p>美国国家标准与技术研究院在生成式 AI 风险框架中，把模型自信地生成错误内容称为“confabulation”。这类错误不仅包括虚构事实，也可能包括看起来能够解释答案的错误逻辑和引用。<a href="https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence">NIST：生成式人工智能风险管理框架</a></p>
+<p>来源本身可能是真的，问题出在它被怎样使用。</p>
+<p>一份 SEC 文件说“批准现货比特币 ETP 上市交易”，总结可能把它写成“SEC 认可了比特币的投资价值”。前半句有文件支持，后半句却是额外加上去的判断。链接没有造假，结论仍然走远了。</p>
+<p>OpenAI 自己的搜索使用说明也提醒，搜索结果和引用可能不完整、过时或不准确；准确性重要时，应打开来源，检查发布日期，并确认来源确实支持回答。<a href="https://help.openai.com/en/articles/9237897">OpenAI：如何检查搜索结果与引用</a></p>
+<p>所以我现在核对引用，不再只看“有没有”，而是打开原文找那句话。然后看四个地方：时间、对象、适用范围，以及原文到底用了多重的语气。</p>
+<p>找不到对应位置的链接，我先把它当作背景材料，不让它替结论背书。</p>
+<h2 id="_2">总结最容易删掉的，恰好是边界</h2>
+<p>总结必然会省略。否则它就只是把原文重新复制一遍。</p>
+<p>问题在于，删掉哪些内容由谁决定。</p>
+<p>数字、名称和结论通常会被保留下来，因为它们像“重点”。时间范围、例外、数据口径、反方证据和作者的保留态度，则很容易在压缩中消失。可在投资、技术和健康这些需要承担后果的主题里，后面几项往往比结论更重要。</p>
+<p>写比特币文章时，如果只保留“当前价格约 8.1 万美元”，却删掉“仍比上一轮高点低三分之一以上”，读者看到的就是一次强势突破，而不是一次深度回撤后的修复。</p>
+<p>如果只写“货币供应与价格水平有关”，却省略“货币供应只是政策制定者观察的众多数据之一”，文章就会自然滑向一个过于简单的因果关系。</p>
+<p>我现在会反过来问一句：这份总结拿掉了什么？</p>
+<p>原文中有哪些“但是、可能、截至、仅限、并不代表”？有没有一段材料与当前结论不完全一致？如果把省掉的内容放回来，读者还会不会作出同样判断？</p>
+<p>遗漏不一定是错误。有些内容确实可以不写。判断标准是，它会不会改变读者对风险、因果和适用范围的理解。</p>
+<h2 id="_3">语气只重一点，意思就可能变了</h2>
+<p>AI 很擅长把零散材料整理成完整叙述。为了让文章顺下去，它也容易替原文补上更确定的连接。</p>
+<p>“与……有关”变成“导致”，“可能改善”变成“将会改善”，“允许上市交易”变成“得到认可”，“提交给系统”变成“已经送达”。句子确实更有力量，证据却没有一起变强。</p>
+<p>OpenAI 2025 年发布的一项研究把这种现象解释得很直接：许多训练和评估方式更奖励猜测，而不是承认不知道。因此，即使能力更强的模型，也仍可能自信地给出错误答案。<a href="https://openai.com/zh-Hans-CN/index/why-language-models-hallucinate/">OpenAI：语言模型为何会产生幻觉</a></p>
+<p>我不准备逐句把文章改成“可能、或许、也许”。那样同样不自然。我的做法是，只盯住会影响判断的词：必然、证明、确认、导致、完全、首次、唯一，以及所有带时间点的“目前”和“已经”。</p>
+<p>这些词如果没有足够证据，就降一级。能说“截至某日观察到”，不说“趋势已经确认”；能说“文件允许了什么”，不替文件推断它支持什么。</p>
+<p><img alt="从引用、遗漏和语气三个位置检查 AI 总结" src="https://www.790427.xyz/images/ai-summary-citation-omission-tone.jpg" /></p>
+<h2 id="ai">我现在怎样检查一份 AI 总结</h2>
+<p>遇到只用于了解大意的材料，我不会把每句话都查一遍。饭店菜单、普通产品说明或者一段不影响行动的背景介绍，过度核对只会把省下来的时间重新花回去。</p>
+<p>需要公开发布、涉及资金，或者会影响实际操作时，我会先把总结中的主张拆开。一句话里如果同时有数字、因果和结论，就分成三句检查，避免一个链接替三个判断作证。</p>
+<p>随后留下几项简单记录：</p>
+<table>
+<thead>
+<tr>
+<th>要检查的内容</th>
+<th>我需要回答的问题</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>原句</td>
+<td>这句话实际提出了几个主张？</td>
+</tr>
+<tr>
+<td>来源位置</td>
+<td>原文哪一段、哪张表或哪个数据点支持它？</td>
+</tr>
+<tr>
+<td>支持范围</td>
+<td>来源支持的是事实、背景，还是完整结论？</td>
+</tr>
+<tr>
+<td>被删掉的内容</td>
+<td>时间、对象、条件、例外和反方证据有没有消失？</td>
+</tr>
+<tr>
+<td>语气变化</td>
+<td>总结是否比原文更肯定？</td>
+</tr>
+<tr>
+<td>最后处理</td>
+<td>保留、补限制、降低语气，还是删除？</td>
+</tr>
+</tbody>
+</table>
+<p>我也会让 AI 做一次反向审计，但不给它继续润色的任务。提示词可以很短：</p>
+<pre class="codehilite"><code class="language-text">只做事实与表达审计，不改写文章。
+
+请逐句列出：
+1. 无法由所附来源直接支持的主张；
+2. 被省略后会改变读者判断的条件、时间范围或反方证据；
+3. 比原始来源更肯定的词句；
+4. 需要重新核对日期的数据。
+
+不确定时标记“不确定”，不要补充猜测。
+</code></pre>
+
+<p>这一步能帮我找到容易漏看的地方，但它仍然不是最终验收。重要链接必须由我自己打开，重要结果也要回到现实里确认。</p>
+<h2 id="_4">生成完成，只说明东西已经出来了</h2>
+<p>iMarketMessage 做真实发送测试时，我遇到过一个很小的错误。</p>
+<p>程序已经把消息提交给 Messages，运行状态也没有报错，可手机并没有收到。后来才发现，是我第一次配对时把自己的地址写错了。改正地址，再从后台发送，并在手机上亲眼看到消息，这条链路才算真的完成。</p>
+<p>这和检查 AI 总结很像。</p>
+<p>生成完成，像程序返回成功；附上链接，像消息已经交给发送系统。它们都说明流程走到了一处，却不说明最后结果已经抵达。</p>
+<p>一份总结是否可信，我现在看三个结果：引用能不能回到原文，省略的内容会不会改变判断，语气有没有超过证据。三项都经得住检查，我才会把它放进文章、计划或者下一步行动里。</p>
+<p>AI 总结仍然很有用。它替我整理长资料、发现线索，也让我更快看到一件事的大概轮廓。只是从“大概知道”走到“可以据此行动”，中间还需要一次由人完成的验收。</p>
+<p>上一篇：<a href="https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html">比特币又回到8万美元，我更关心它凭什么继续存在</a></p></div>
+
+
+
+<div class="post-footer">
+    <div class="bottom-text-inline">文章皆为原创，转载文章请注明出处。人到中年，记录内心秩序、资产护航与数字能力。愿你莫白来。</div>
+    <div class="share-buttons-inline">
+        <a id="share-x" class="share-button x" href="#" target="_blank" rel="noopener" title="分享到 X">X</a>
+        <a id="share-linkedin" class="share-button linkedin" href="#" target="_blank" title="分享到 LinkedIn">LinkedIn</a>
+        <a id="share-email" class="share-button" href="#" title="通过邮件分享">邮件</a>
+    </div>
+</div>
+
+
+<nav class="post-nav" aria-label="文章导航">
+    
+    
+    <a href="https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html"><span>下一篇</span>比特币经过长期调整后重新回到重要价格区域</a>
+    
+</nav>
+
+
+
+<section class="related-posts" aria-labelledby="related-posts-title">
+    <h2 id="related-posts-title">相关阅读</h2>
+    <div class="related-posts-grid">
+        
+        <a href="https://www.790427.xyz/post/imarketmessage-local-investment-alert.html"><span>2026-08-31</span>一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布</a>
+        
+        <a href="https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html"><span>2026-08-28</span>闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏</a>
+        
+        <a href="https://www.790427.xyz/post/family-ai-help-request.html"><span>2026-08-23</span>给家人写一份 AI 求助单：问题、截图、隐私与撤销</a>
+        
+        <a href="https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html"><span>2026-08-15</span>把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了</a>
+        
+    </div>
+</section>
+
+
+</main>
+    <div id="footer"><div id="footer1" style="margin-top: 32px;">Copyright all reserved © <span id="copyrightYear"></span>-3000 <a href="https://www.790427.xyz">人到中年</a><br>
+<a href="https://www.790427.xyz/about.html">关于本站</a> |
+<a href="https://www.790427.xyz/start.html">从这里开始</a> |
+<a href="https://www.790427.xyz/subscribe.html">邮件订阅</a> |
+<a href="https://www.790427.xyz/terms-of-service.html">服务条款</a> |
+<a href="https://www.790427.xyz/privacy-policy.html">隐私政策</a> |
+<a href="https://www.790427.xyz/disclaimer.html">免责声明</a> |
+<a href="https://x.com/wiselyfreely" target="_blank" rel="noopener">X</a>
+</div>
+<div id="footer2">
+    <span id="runday"></span><span>本站由 <a href="mailto:service@790427.xyz">莫白来</a> 建立&维护</span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("6/4/2025"!=""){
+    var startSite=new Date("6/4/2025");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={"sun": "M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z", "moon": "M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z", "sync": "M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z", "home": "M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z", "github": "M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"};
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c 人到中年 " + "last" + " https://www.790427.xyz \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const quoteText = "";
+    const dailySentenceRaw = `""`; 
+    let typeitStrings = [];
+
+    if (quoteText && quoteText.trim() && quoteText !== 'None' && quoteText !== 'null') {
+        typeitStrings.push(quoteText);
+    } 
+    else if (dailySentenceRaw && dailySentenceRaw !== 'null') {
+        try {
+            const parsedSentences = JSON.parse(dailySentenceRaw);
+            if (Array.isArray(parsedSentences) && parsedSentences.length > 0) {
+                typeitStrings = parsedSentences;
+            }
+        } catch (e) {
+            console.error("无法解析 daily_sentence JSON:", dailySentenceRaw, e);
+        }
+    }
+
+    if (typeitStrings.length > 0 && typeitStrings[0]) {
+        const container = document.getElementById('typeit-animation-container');
+        if(container) {
+             new TypeIt(container, {
+                 strings: typeitStrings,
+                 speed: 75,
+                 lifeLike: true,
+                 waitUntilVisible: true,
+                 breakLines: false,
+                 cursor: false
+             }).go();
+        }
+    }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    const postUrl = window.location.href;
+    const postTitle = document.title;
+    const encodedTitle = encodeURIComponent(postTitle);
+    function campaignUrl(source) {
+        const url = new URL(postUrl);
+        url.searchParams.set('utm_source', source);
+        url.searchParams.set('utm_medium', 'social');
+        url.searchParams.set('utm_campaign', 'article_share');
+        return url.toString();
+    }
+    const shareX = document.getElementById('share-x');
+    const shareLinkedin = document.getElementById('share-linkedin');
+    const shareEmail = document.getElementById('share-email');
+    if (shareX) { shareX.href = `https://x.com/intent/post?url=${encodeURIComponent(campaignUrl('x'))}&text=${encodedTitle}`; }
+    if (shareLinkedin) { shareLinkedin.href = `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(campaignUrl('linkedin'))}&title=${encodedTitle}&summary=${encodedTitle}&source=https://www.790427.xyz`; }
+    if (shareEmail) { shareEmail.href = `mailto:?subject=${encodedTitle}&body=${encodeURIComponent(postUrl)}`; }
+});
+
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+
+
+
+
+</script>
+
+<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>
+
+
+
+<script>
+(function(){
+    document.addEventListener('click', function(event) {
+        const link = event.target instanceof Element ? event.target.closest('a') : null;
+        if (!link) return;
+
+        if (link.matches('.share-button')) {
+            window.trackSiteEvent('article_share', {
+                method: (link.id || link.textContent || 'unknown').replace(/^share-/, '').trim(),
+                page_location: window.location.href
+            });
+        }
+
+        if (link.matches('.related-posts a, .post-nav a')) {
+            window.trackSiteEvent('related_article_click', {
+                link_url: link.href,
+                link_text: (link.textContent || '').trim().slice(0, 120)
+            });
+        }
+
+    });
+
+    const postBody = document.getElementById('postBody');
+    if (!postBody) return;
+    const sent = new Set();
+    function recordReadingProgress() {
+        const documentHeight = Math.max(document.documentElement.scrollHeight - window.innerHeight, 1);
+        const percent = Math.min(100, Math.round((window.scrollY / documentHeight) * 100));
+        [50, 90].forEach(function(threshold) {
+            if (percent >= threshold && !sent.has(threshold)) {
+                sent.add(threshold);
+                window.trackSiteEvent('scroll_' + threshold, {
+                    percent_scrolled: threshold,
+                    page_location: window.location.href
+                });
+            }
+        });
+        if (sent.size === 2) window.removeEventListener('scroll', recordReadingProgress);
+    }
+    window.addEventListener('scroll', recordReadingProgress, {passive: true});
+    recordReadingProgress();
+})();
+</script>
+
+<script>
+window.addEventListener('load', function() {
+    function fitHeading() {
+        const h1Element = document.querySelector('.header-main-content h1');
+        if (!h1Element) return;
+
+        const textElement = h1Element.querySelector('a') || h1Element;
+        const parentContainer = h1Element.closest('.header-main-content');
+        
+        // [关键修正] 提前进行严格的安全检查，防止任何一个元素不存在时脚本报错
+        if (!parentContainer || !textElement) return;
+        const rightButtons = parentContainer.querySelector('.title-right');
+        if (!rightButtons) return;
+
+        // 在确保所有元素都存在后，再进行计算
+        const availableWidth = parentContainer.clientWidth - rightButtons.clientWidth - 20;
+        const maxFontSize = window.innerWidth <= 600 ? 20 : 30;
+        const minFontSize = 12;
+
+        let currentFontSize = maxFontSize;
+        textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
+
+        // 添加一个安全检查，防止无限循环
+        let attempts = 0;
+        while (textElement.scrollWidth > availableWidth && currentFontSize > minFontSize && attempts < 100) {
+            currentFontSize--;
+            textElement.style.setProperty('font-size', currentFontSize + 'px', 'important');
+            attempts++;
+        }
+    }
+
+    function debounce(func, delay) {
+        let timeout;
+        return function(...args) {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), delay);
+        };
+    }
+    
+    fitHeading();
+    window.addEventListener('resize', debounce(fitHeading, 100));
+});
+</script>
+
+</html>

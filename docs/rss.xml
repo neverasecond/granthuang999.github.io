@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 01:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:51:24 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1177,6 +1177,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html</guid>
       <enclosure url="https://www.790427.xyz/images/bitcoin-beyond-80000-cover.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Sep 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>在 AI 总结和原始资料之间逐项核对</title>
+      <link>https://www.790427.xyz/post/ai-summary-is-not-understanding.html</link>
+      <description>AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/ai-summary-is-not-understanding.html</guid>
+      <enclosure url="https://www.790427.xyz/images/ai-summary-is-not-understanding-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 01:46:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
