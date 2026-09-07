@@ -81,6 +81,74 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P305": {
+      "htmlDir": "docs/post/bitcoin-beyond-80000-monetary-logic.html",
+      "labels": [
+        "资产护航"
+      ],
+      "contentCategory": "资产护航",
+      "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+      "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/305",
+      "commentNum": 0,
+      "wordCount": 4813,
+      "createdAt": 1788483600,
+      "top": 0,
+      "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。",
+      "createdDate": "2026-09-04",
+      "isoDate": "2026-09-04T09:00:00+08:00",
+      "updatedDate": "2026-09-07",
+      "updatedIsoDate": "2026-09-07T09:43:36+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/bitcoin-beyond-80000-cover.jpg",
+      "keywords": [
+        "比特币前景",
+        "比特币资产配置",
+        "数字黄金",
+        "法币购买力",
+        "比特币与黄金",
+        "比特币与美债"
+      ],
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+        "createdDate": "2026-09-01",
+        "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
+          "postTitle": "中年投资，先把组合的任务写清楚",
+          "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
+          "createdDate": "2026-08-21",
+          "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
+        },
+        {
+          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
+          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
+          "createdDate": "2026-08-10",
+          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
+        },
+        {
+          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
+          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
+          "createdDate": "2026-07-27",
+          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
+        }
+      ]
+    },
     "P304": {
       "htmlDir": "docs/post/imarketmessage-local-investment-alert.html",
       "labels": [
@@ -188,7 +256,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+        "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+        "createdDate": "2026-09-04",
+        "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+      },
       "olderPost": {
         "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
         "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
@@ -343,6 +416,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先把组合的任务写清楚",
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
@@ -359,12 +438,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -636,6 +709,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -652,12 +731,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -782,6 +855,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -798,12 +877,6 @@
           "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
           "createdDate": "2026-07-27",
           "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -980,6 +1053,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -996,12 +1075,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "投资理财不是目的，而是自然的结果",
-          "postUrl": "https://www.790427.xyz/post/investing-is-natural-result.html",
-          "createdDate": "2026-07-23",
-          "description": "投资理财不应成为普通家庭的财务目标，而应是现金流、责任边界、资产结构和心态成熟之后自然发生的结果。文章讨论家庭财务顺序、风险承受力、现金垫、资产分区与投资纪律，提醒中年家庭先建立生活秩序，再谈收益想象。"
         }
       ]
     },
@@ -1442,6 +1515,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -1458,12 +1537,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -1775,6 +1848,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -1791,12 +1870,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -1975,6 +2048,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -1991,12 +2070,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -3581,6 +3654,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -3597,12 +3676,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -4384,6 +4457,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -4400,12 +4479,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -4584,6 +4657,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -4600,12 +4679,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -5452,6 +5525,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -5468,12 +5547,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -5650,6 +5723,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -5666,12 +5745,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -5716,6 +5789,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -5732,12 +5811,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -6178,6 +6251,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -6194,12 +6273,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -6310,6 +6383,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -6326,12 +6405,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -7564,6 +7637,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -7580,12 +7659,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -8158,6 +8231,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -8174,12 +8253,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -8488,6 +8561,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -8504,12 +8583,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -8554,6 +8627,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -8570,12 +8649,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -8818,6 +8891,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -8834,12 +8913,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -9016,6 +9089,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -9032,12 +9111,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -9214,6 +9287,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -9230,12 +9309,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -9407,6 +9480,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -9423,12 +9502,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     }
