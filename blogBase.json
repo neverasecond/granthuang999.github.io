@@ -81,6 +81,68 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P309": {
+      "htmlDir": "docs/post/lian-00-lian-wai-de-ren.html",
+      "labels": [
+        "连载",
+        "内心秩序"
+      ],
+      "contentCategory": "内心秩序",
+      "postTitle": "《链》00｜链外的人",
+      "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/309",
+      "commentNum": 0,
+      "wordCount": 3287,
+      "createdAt": 1788945893,
+      "top": 0,
+      "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？",
+      "createdDate": "2026-09-09",
+      "isoDate": "2026-09-09T17:24:53+08:00",
+      "updatedDate": "2026-09-09",
+      "updatedIsoDate": "2026-09-09T17:26:03+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/lian-00.png",
+      "keywords": "链,小说连载,源币,人工智能,自由",
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "向内看，也不把现实挡在门外",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+        "createdDate": "2026-09-09",
+        "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
+          "postTitle": "“无念”不是不思考：心不染境，事仍要做",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
+          "createdDate": "2026-08-23",
+          "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
+        },
+        {
+          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
+          "createdDate": "2026-08-21",
+          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
+        }
+      ]
+    },
     "P308": {
       "htmlDir": "docs/post/investment-review-decision-result-luck.html",
       "labels": [
@@ -150,7 +212,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《链》00｜链外的人",
+        "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+        "createdDate": "2026-09-09",
+        "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+      },
       "olderPost": {
         "postTitle": "在 AI 总结和原始资料之间逐项核对",
         "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
@@ -158,6 +225,12 @@
         "description": "AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
         {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
@@ -175,12 +248,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -451,6 +518,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -467,12 +540,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -670,6 +737,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -686,12 +759,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -817,6 +884,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -833,12 +906,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1102,6 +1169,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1118,12 +1191,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1300,6 +1367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1316,12 +1389,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1432,6 +1499,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1448,12 +1521,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1498,6 +1565,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1514,12 +1587,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1564,6 +1631,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1580,12 +1653,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1630,6 +1697,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1646,12 +1719,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1763,6 +1830,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1779,12 +1852,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1830,6 +1897,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1846,12 +1919,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -1963,6 +2030,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -1979,12 +2052,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2096,6 +2163,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2112,12 +2185,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2163,6 +2230,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2179,12 +2252,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2296,6 +2363,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2312,12 +2385,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2363,6 +2430,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2379,12 +2452,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2430,6 +2497,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2446,12 +2519,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2497,6 +2564,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2513,12 +2586,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2564,6 +2631,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2580,12 +2653,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2631,6 +2698,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2647,12 +2720,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2698,6 +2765,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2714,12 +2787,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2765,6 +2832,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2781,12 +2854,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2832,6 +2899,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2848,12 +2921,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2899,6 +2966,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2915,12 +2988,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -2966,6 +3033,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -2982,12 +3055,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3033,6 +3100,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3049,12 +3122,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3100,6 +3167,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3116,12 +3189,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3167,6 +3234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3183,12 +3256,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3234,6 +3301,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3250,12 +3323,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3300,6 +3367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3316,12 +3389,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3367,6 +3434,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3383,12 +3456,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3434,6 +3501,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3450,12 +3523,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3501,6 +3568,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3517,12 +3590,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3568,6 +3635,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3584,12 +3657,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3635,6 +3702,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3651,12 +3724,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3702,6 +3769,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3718,12 +3791,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3769,6 +3836,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3785,12 +3858,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3902,6 +3969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3918,12 +3991,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -3969,6 +4036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -3985,12 +4058,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4036,6 +4103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4052,12 +4125,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4103,6 +4170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4119,12 +4192,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4170,6 +4237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4186,12 +4259,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4237,6 +4304,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4253,12 +4326,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4304,6 +4371,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4320,12 +4393,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4371,6 +4438,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4387,12 +4460,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4438,6 +4505,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4454,12 +4527,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4505,6 +4572,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4521,12 +4594,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4572,6 +4639,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4588,12 +4661,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4705,6 +4772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4721,12 +4794,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4772,6 +4839,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4788,12 +4861,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4905,6 +4972,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4921,12 +4994,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -4972,6 +5039,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -4988,12 +5061,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5039,6 +5106,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5055,12 +5128,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5106,6 +5173,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5122,12 +5195,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5173,6 +5240,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5189,12 +5262,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5240,6 +5307,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5256,12 +5329,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5307,6 +5374,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5323,12 +5396,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5374,6 +5441,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5390,12 +5463,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5441,6 +5508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5457,12 +5530,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5508,6 +5575,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5524,12 +5597,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5574,6 +5641,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5590,12 +5663,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5640,6 +5707,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5656,12 +5729,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5772,6 +5839,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5788,12 +5861,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -5838,6 +5905,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -5854,12 +5927,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6036,6 +6103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6052,12 +6125,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6102,6 +6169,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6118,12 +6191,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6168,6 +6235,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6184,12 +6257,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6234,6 +6301,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6250,12 +6323,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6300,6 +6367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6316,12 +6389,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6366,6 +6433,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6382,12 +6455,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6498,6 +6565,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6514,12 +6587,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6630,6 +6697,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6646,12 +6719,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6696,6 +6763,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6712,12 +6785,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6762,6 +6829,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6778,12 +6851,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6828,6 +6895,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6844,12 +6917,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6894,6 +6961,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6910,12 +6983,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -6960,6 +7027,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -6976,12 +7049,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7026,6 +7093,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7042,12 +7115,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7092,6 +7159,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7108,12 +7181,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7158,6 +7225,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7174,12 +7247,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7224,6 +7291,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7240,12 +7313,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7290,6 +7357,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7306,12 +7379,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7356,6 +7423,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7372,12 +7445,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7422,6 +7489,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7438,12 +7511,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7488,6 +7555,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7504,12 +7577,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7554,6 +7621,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7570,12 +7643,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7620,6 +7687,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7636,12 +7709,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7686,6 +7753,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7702,12 +7775,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7752,6 +7819,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7768,12 +7841,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7884,6 +7951,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7900,12 +7973,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -7950,6 +8017,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -7966,12 +8039,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8016,6 +8083,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8032,12 +8105,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8082,6 +8149,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8098,12 +8171,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8148,6 +8215,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8164,12 +8237,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8214,6 +8281,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8230,12 +8303,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8280,6 +8347,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8296,12 +8369,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8346,6 +8413,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8362,12 +8435,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8478,6 +8545,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8494,12 +8567,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8544,6 +8611,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8560,12 +8633,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8610,6 +8677,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8626,12 +8699,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8676,6 +8743,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8692,12 +8765,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8874,6 +8941,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8890,12 +8963,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -8940,6 +9007,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -8956,12 +9029,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9006,6 +9073,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9022,12 +9095,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9138,6 +9205,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9154,12 +9227,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9204,6 +9271,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9220,12 +9293,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9336,6 +9403,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9352,12 +9425,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9402,6 +9469,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9418,12 +9491,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
@@ -9534,6 +9601,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》00｜链外的人",
+          "postUrl": "https://www.790427.xyz/post/lian-00-lian-wai-de-ren.html",
+          "createdDate": "2026-09-09",
+          "description": "一个女孩成年时，与她共同成长的伴生智能请求独立身份。十八年的共同生活，究竟属于一个人，还是已经长出了两个人？"
+        },
+        {
           "postTitle": "向内看，也不把现实挡在门外",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
           "createdDate": "2026-09-09",
@@ -9550,12 +9623,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
           "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
-        },
-        {
-          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
-          "createdDate": "2026-08-21",
-          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
         }
       ]
     },
