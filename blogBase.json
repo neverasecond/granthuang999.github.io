@@ -149,7 +149,40 @@
       ],
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "在 AI 总结和原始资料之间逐项核对",
+        "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
+        "createdDate": "2026-09-07",
+        "description": "AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
+          "createdDate": "2026-09-01",
+          "description": "定慧不是先把心逼得不动，再慢慢想明白。它更像灯与光：安住让人看清，看清也让心不再被第一反应带走。"
+        },
+        {
+          "postTitle": "“无念”不是不思考：心不染境，事仍要做",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
+          "createdDate": "2026-08-23",
+          "description": "念头可以来，情绪也可以有；无念的日常意义，是遇到事情仍能分辨、回应和承担。"
+        },
+        {
+          "postTitle": "后院八个月：从惠能舂米谈中年人的等待与行动",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
+          "createdDate": "2026-08-21",
+          "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
+        },
+        {
+          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
+          "createdDate": "2026-07-29",
+          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
+        }
+      ]
     },
     "P306": {
       "htmlDir": "docs/post/ai-summary-is-not-understanding.html",
@@ -185,7 +218,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "向内看，也不把现实挡在门外",
+        "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+        "createdDate": "2026-09-09",
+        "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+      },
       "olderPost": {
         "postTitle": "比特币经过长期调整后重新回到重要价格区域",
         "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
@@ -413,6 +451,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "“无念”不是不思考：心不染境，事仍要做",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-no-thought.html",
           "createdDate": "2026-08-23",
@@ -429,12 +473,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -632,6 +670,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -648,12 +692,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -779,6 +817,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -795,12 +839,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
           "createdDate": "2026-07-29",
           "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1064,6 +1102,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1080,12 +1124,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "不必等心静下来：从《坛经》第一句说起",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-self-nature-clear.html",
-          "createdDate": "2026-07-26",
-          "description": "正式开始读《坛经》，我想从“菩提自性，本自清净”说起。清净不是生活没有麻烦，而是在念头和反应之间，重新看见自己。"
         }
       ]
     },
@@ -1262,6 +1300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1278,12 +1322,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1394,6 +1432,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1410,12 +1454,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1460,6 +1498,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1476,12 +1520,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1526,6 +1564,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1542,12 +1586,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1592,6 +1630,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1608,12 +1652,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1725,6 +1763,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1741,12 +1785,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1792,6 +1830,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1808,12 +1852,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -1925,6 +1963,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -1941,12 +1985,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2058,6 +2096,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2074,12 +2118,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2125,6 +2163,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2141,12 +2185,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2258,6 +2296,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2274,12 +2318,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2325,6 +2363,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2341,12 +2385,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2392,6 +2430,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2408,12 +2452,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2459,6 +2497,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2475,12 +2519,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2526,6 +2564,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2542,12 +2586,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2593,6 +2631,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2609,12 +2653,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2660,6 +2698,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2676,12 +2720,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2727,6 +2765,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2743,12 +2787,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2794,6 +2832,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2810,12 +2854,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2861,6 +2899,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2877,12 +2921,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2928,6 +2966,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -2944,12 +2988,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -2995,6 +3033,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3011,12 +3055,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3062,6 +3100,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3078,12 +3122,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3129,6 +3167,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3145,12 +3189,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3196,6 +3234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3212,12 +3256,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3262,6 +3300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3278,12 +3322,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3329,6 +3367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3345,12 +3389,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3396,6 +3434,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3412,12 +3456,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3463,6 +3501,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3479,12 +3523,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3530,6 +3568,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3546,12 +3590,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3597,6 +3635,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3613,12 +3657,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3664,6 +3702,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3680,12 +3724,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3731,6 +3769,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3747,12 +3791,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3864,6 +3902,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3880,12 +3924,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3931,6 +3969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -3947,12 +3991,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -3998,6 +4036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4014,12 +4058,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4065,6 +4103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4081,12 +4125,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4132,6 +4170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4148,12 +4192,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4199,6 +4237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4215,12 +4259,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4266,6 +4304,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4282,12 +4326,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4333,6 +4371,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4349,12 +4393,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4400,6 +4438,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4416,12 +4460,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4467,6 +4505,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4483,12 +4527,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4534,6 +4572,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4550,12 +4594,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4667,6 +4705,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4683,12 +4727,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4734,6 +4772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4750,12 +4794,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4867,6 +4905,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4883,12 +4927,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -4934,6 +4972,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -4950,12 +4994,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5001,6 +5039,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5017,12 +5061,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5068,6 +5106,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5084,12 +5128,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5135,6 +5173,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5151,12 +5195,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5202,6 +5240,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5218,12 +5262,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5269,6 +5307,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5285,12 +5329,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5336,6 +5374,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5352,12 +5396,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5403,6 +5441,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5419,12 +5463,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5470,6 +5508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5486,12 +5530,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5536,6 +5574,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5552,12 +5596,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5602,6 +5640,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5618,12 +5662,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5734,6 +5772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5750,12 +5794,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5800,6 +5838,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -5816,12 +5860,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -5998,6 +6036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6014,12 +6058,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6064,6 +6102,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6080,12 +6124,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6130,6 +6168,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6146,12 +6190,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6196,6 +6234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6212,12 +6256,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6262,6 +6300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6278,12 +6322,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6328,6 +6366,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6344,12 +6388,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6460,6 +6498,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6476,12 +6520,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6592,6 +6630,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6608,12 +6652,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6658,6 +6696,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6674,12 +6718,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6724,6 +6762,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6740,12 +6784,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6790,6 +6828,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6806,12 +6850,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6856,6 +6894,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6872,12 +6916,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6922,6 +6960,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -6938,12 +6982,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -6988,6 +7026,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7004,12 +7048,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7054,6 +7092,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7070,12 +7114,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7120,6 +7158,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7136,12 +7180,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7186,6 +7224,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7202,12 +7246,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7252,6 +7290,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7268,12 +7312,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7318,6 +7356,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7334,12 +7378,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7384,6 +7422,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7400,12 +7444,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7450,6 +7488,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7466,12 +7510,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7516,6 +7554,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7532,12 +7576,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7582,6 +7620,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7598,12 +7642,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7648,6 +7686,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7664,12 +7708,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7714,6 +7752,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7730,12 +7774,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7846,6 +7884,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7862,12 +7906,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7912,6 +7950,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7928,12 +7972,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -7978,6 +8016,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -7994,12 +8038,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8044,6 +8082,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8060,12 +8104,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8110,6 +8148,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8126,12 +8170,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8176,6 +8214,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8192,12 +8236,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8242,6 +8280,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8258,12 +8302,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8308,6 +8346,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8324,12 +8368,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8440,6 +8478,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8456,12 +8500,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8506,6 +8544,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8522,12 +8566,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8572,6 +8610,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8588,12 +8632,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8638,6 +8676,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8654,12 +8698,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8836,6 +8874,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8852,12 +8896,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8902,6 +8940,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8918,12 +8962,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -8968,6 +9006,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -8984,12 +9028,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -9100,6 +9138,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -9116,12 +9160,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -9166,6 +9204,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -9182,12 +9226,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -9298,6 +9336,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -9314,12 +9358,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -9364,6 +9402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -9380,12 +9424,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
@@ -9496,6 +9534,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "向内看，也不把现实挡在门外",
+          "postUrl": "https://www.790427.xyz/post/platform-sutra-inward-looking-self-comfort.html",
+          "createdDate": "2026-09-09",
+          "description": "向内寻找可以让人看见自己的欲望与执着，也可能悄悄变成自我开脱。重读《坛经》的“不见世间过”，讨论怎样让反省经得起事实、他人感受和实际后果的检验。"
+        },
+        {
           "postTitle": "《坛经》慢读：定慧不是把自己逼安静",
           "postUrl": "https://www.790427.xyz/post/platform-sutra-stability-and-wisdom.html",
           "createdDate": "2026-09-01",
@@ -9512,12 +9556,6 @@
           "postUrl": "https://www.790427.xyz/post/platform-sutra-waiting-and-action.html",
           "createdDate": "2026-08-21",
           "description": "从惠能在后院破柴踏碓的八个多月，谈过去、时间、未完的愿望，以及怎样让一件事有始有终。"
-        },
-        {
-          "postTitle": "所谓顿悟，不是突然变强，而是突然看清",
-          "postUrl": "https://www.790427.xyz/post/platform-sutra-sudden-clarity.html",
-          "createdDate": "2026-07-29",
-          "description": "所谓顿悟，不是突然变强，而是突然看清自己被什么旧反应牵着走。看清以后，修行才有了可以落脚的下一步。"
         }
       ]
     },
