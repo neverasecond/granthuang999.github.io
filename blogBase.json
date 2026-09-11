@@ -81,6 +81,76 @@
   "email": "service@790427.xyz",
   "primerCSS": "<link href='https://www.790427.xyz/css/primer-21.0.7.min.css' rel='stylesheet' />",
   "postListJson": {
+    "P312": {
+      "htmlDir": "docs/post/three-tools-one-desk.html",
+      "labels": [
+        "数字能力"
+      ],
+      "contentCategory": "数字能力",
+      "postTitle": "《人到中年》｜三套工具，一张桌子",
+      "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+      "postSourceUrl": "https://github.com/neverasecond/granthuang999.github.io/issues/312",
+      "commentNum": 0,
+      "wordCount": 2713,
+      "createdAt": 1789111978,
+      "top": 0,
+      "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。",
+      "createdDate": "2026-09-11",
+      "isoDate": "2026-09-11T15:32:58+08:00",
+      "updatedDate": "2026-09-11",
+      "updatedIsoDate": "2026-09-11T15:35:03+08:00",
+      "dateLabelColor": "#1f883d",
+      "style": "/* 修复本地渲染高亮 */ .codehilite .hll { background-color: #ffffcc } .codehilite { background: #f6f8fa; border-radius: 6px; padding: 16px; overflow: auto; } .codehilite .c { color: #6a737d; font-style: italic } .codehilite .k { color: #d73a49; font-weight: bold } .codehilite .o { color: #d73a49; font-weight: bold } .codehilite .cm { color: #6a737d; font-style: italic } .codehilite .cp { color: #005cc5; font-weight: bold } .codehilite .c1 { color: #6a737d; font-style: italic } .codehilite .cs { color: #6a737d; font-weight: bold; font-style: italic } .codehilite .gd { color: #b31d28; background-color: #ffeef0 } .codehilite .ge { font-style: italic } .codehilite .gr { color: #b31d28 } .codehilite .gh { color: #005cc5; font-weight: bold } .codehilite .gi { color: #22863a; background-color: #f0fff4 } .codehilite .go { color: #888888 } .codehilite .gp { color: #555555 } .codehilite .gs { font-weight: bold } .codehilite .gu { color: #aaaaaa } .codehilite .gt { color: #aa0000 } .codehilite .kc { color: #d73a49; font-weight: bold } .codehilite .kd { color: #d73a49; font-weight: bold } .codehilite .kn { color: #d73a49; font-weight: bold } .codehilite .kp { color: #d73a49 } .codehilite .kr { color: #d73a49; font-weight: bold } .codehilite .kt { color: #445588; font-weight: bold } .codehilite .m { color: #009999 } .codehilite .s { color: #032f62 } .codehilite .na { color: #008080 } .codehilite .nb { color: #005cc5 } .codehilite .nc { color: #6f42c1; font-weight: bold } .codehilite .no { color: #008080 } .codehilite .nd { color: #6f42c1; font-weight: bold } .codehilite .ni { color: #800080 } .codehilite .ne { color: #990000; font-weight: bold } .codehilite .nf { color: #6f42c1; font-weight: bold } .codehilite .nl { color: #990000; font-weight: bold } .codehilite .nn { color: #555555 } .codehilite .nt { color: #22863a } .codehilite .nv { color: #008080 } .codehilite .ow { color: #d73a49; font-weight: bold } .codehilite .w { color: #bbbbbb } .codehilite .mf { color: #009999 } .codehilite .mh { color: #009999 } .codehilite .mi { color: #009999 } .codehilite .mo { color: #009999 } .codehilite .sb { color: #032f62 } .codehilite .sc { color: #032f62 } .codehilite .sd { color: #032f62 } .codehilite .s2 { color: #032f62 } .codehilite .se { color: #032f62 } .codehilite .sh { color: #032f62 } .codehilite .si { color: #032f62 } .codehilite .sx { color: #032f62 } .codehilite .sr { color: #009926 } .codehilite .s1 { color: #032f62 } .codehilite .ss { color: #990073 } .codehilite .bp { color: #999999 } .codehilite .vc { color: #008080 } .codehilite .vg { color: #008080 } .codehilite .vi { color: #008080 } .codehilite .il { color: #009999 }",
+      "script": "<script src='https://www.790427.xyz/plugins/GmeekTOC.js'></script>",
+      "head": "",
+      "ogImage": "https://www.790427.xyz/images/three-tools-one-desk-cover.jpg",
+      "keywords": [
+        "技术辅助",
+        "Obsidian",
+        "AI协作",
+        "Codex",
+        "Grok Bot",
+        "数字能力",
+        "人到中年",
+        "本地笔记"
+      ],
+      "quote": "",
+      "daily_sentence": "",
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "把投资决定放回事前信息里复盘",
+        "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+        "createdDate": "2026-09-11",
+        "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "在 AI 总结和原始资料之间逐项核对",
+          "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
+          "createdDate": "2026-09-07",
+          "description": "AI总结可以迅速整理长资料，却可能让引用支持过头、删掉关键限制，或把原文语气写得更确定。本文结合比特币文章核验和iMarketMessage真实测试，整理一套检查引用、遗漏与语气的方法。"
+        },
+        {
+          "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
+          "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
+          "createdDate": "2026-08-31",
+          "description": "iMarketMessage v0.2.0-beta 把本地行情规则、paired-self iMessage 和后台 companion 接成了完整提醒链路。本文记录真实发送、睡眠重启和卸载重装测试，以及仍未跨过的签名与公证门槛。"
+        },
+        {
+          "postTitle": "闲置 Kindle 重新上岗：我把它变成微信读书器和英语单词屏",
+          "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
+          "createdDate": "2026-08-28",
+          "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
+        },
+        {
+          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
+          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
+          "createdDate": "2026-08-23",
+          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
+        }
+      ]
+    },
     "P311": {
       "htmlDir": "docs/post/lian-02-shen-ye-bai-pi-shu.html",
       "labels": [
@@ -109,7 +179,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "把投资决定放回事前信息里复盘",
+        "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+        "createdDate": "2026-09-11",
+        "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+      },
       "olderPost": {
         "postTitle": "《链》01｜倒下的那一天",
         "postUrl": "https://www.790427.xyz/post/lian-01-dao-xia-de-na-yi-tian.html",
@@ -310,7 +385,45 @@
       ],
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": {
+        "postTitle": "《人到中年》｜三套工具，一张桌子",
+        "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+        "createdDate": "2026-09-11",
+        "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+      },
+      "olderPost": {
+        "postTitle": "《链》02｜深夜白皮书",
+        "postUrl": "https://www.790427.xyz/post/lian-02-shen-ye-bai-pi-shu.html",
+        "createdDate": "2026-09-11",
+        "description": "一位匿名作者提出不依赖担保人的价值网络。李波逐条核对规则，却发现公开并不自动带来公平。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "比特币经过长期调整后重新回到重要价格区域",
+          "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
+          "createdDate": "2026-09-04",
+          "description": "比特币经历长期调整后重新回到8万美元附近。相比美债和黄金，它以固定供应、可验证和便于转移形成独特优势，却没有现金流并承受更高波动。本文分析它的内在货币逻辑、未来三种路径及在个人资产配置中的合理位置。"
+        },
+        {
+          "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
+          "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
+          "createdDate": "2026-08-23",
+          "description": "长期不是账户标签。先写清家庭什么时候要用钱，再判断 ETF 的底层风险是否与期限相容。"
+        },
+        {
+          "postTitle": "中年投资，先把组合的任务写清楚",
+          "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
+          "createdDate": "2026-08-21",
+          "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
+        },
+        {
+          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
+          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
+          "createdDate": "2026-08-10",
+          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
+        }
+      ]
     },
     "P307": {
       "htmlDir": "docs/post/platform-sutra-inward-looking-self-comfort.html",
@@ -433,6 +546,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "一台 Mac 在本地监控行情，并把提醒发送到自己的手机，iMarketMessage v0.2.0-beta发布",
           "postUrl": "https://www.790427.xyz/post/imarketmessage-local-investment-alert.html",
           "createdDate": "2026-08-31",
@@ -449,12 +568,6 @@
           "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
           "createdDate": "2026-08-23",
           "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
-        },
-        {
-          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
-          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
-          "createdDate": "2026-08-15",
-          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
         }
       ]
     },
@@ -506,6 +619,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "中年投资，先问什么时候要用钱，再谈买什么 ETF",
           "postUrl": "https://www.790427.xyz/post/midlife-investing-time-horizon-etf.html",
           "createdDate": "2026-08-23",
@@ -522,12 +641,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -579,6 +692,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -595,12 +714,6 @@
           "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
           "createdDate": "2026-08-23",
           "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
-        },
-        {
-          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
-          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
-          "createdDate": "2026-08-15",
-          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
         }
       ]
     },
@@ -725,6 +838,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -741,12 +860,6 @@
           "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
           "createdDate": "2026-08-23",
           "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
-        },
-        {
-          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
-          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
-          "createdDate": "2026-08-15",
-          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
         }
       ]
     },
@@ -798,6 +911,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -814,12 +933,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -944,6 +1057,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -960,12 +1079,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "把行情提醒关在本地：iMarketMessage v0.1.0-alpha 发布了",
-          "postUrl": "https://www.790427.xyz/post/imarketmessage-v010-alpha-local-market-alerts.html",
-          "createdDate": "2026-08-15",
-          "description": "iMarketMessage v0.1.0-alpha 是一个本地优先的 macOS 行情提醒源码 alpha，先把规则、状态和消息交接边界做清楚。"
         }
       ]
     },
@@ -1091,6 +1204,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -1107,12 +1226,6 @@
           "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
           "createdDate": "2026-08-10",
           "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -1165,6 +1278,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -1181,12 +1300,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
-          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
-          "createdDate": "2026-08-23",
-          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
         }
       ]
     },
@@ -1237,6 +1350,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -1253,12 +1372,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "普通家庭资产配置，先分用途，再谈收益",
-          "postUrl": "https://www.790427.xyz/post/asset-allocation-by-purpose.html",
-          "createdDate": "2026-07-27",
-          "description": "普通家庭做资产配置，第一步不是追问买什么，而是先弄清每一笔钱承担什么责任：生活、应急、责任、稳定、增长和尝试。"
         }
       ]
     },
@@ -1369,6 +1482,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -1385,12 +1504,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
-          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
-          "createdDate": "2026-08-23",
-          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
         }
       ]
     },
@@ -1435,6 +1548,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -1451,12 +1570,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -1567,6 +1680,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -1583,12 +1702,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
-          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
-          "createdDate": "2026-08-23",
-          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
         }
       ]
     },
@@ -1897,6 +2010,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -1913,12 +2032,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -2097,6 +2210,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -2113,12 +2232,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
-          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
-          "createdDate": "2026-08-23",
-          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
         }
       ]
     },
@@ -2230,6 +2343,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -2246,12 +2365,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -2430,6 +2543,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -2446,12 +2565,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -4036,6 +4149,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -4052,12 +4171,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -4839,6 +4952,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -4855,12 +4974,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -5039,6 +5152,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -5055,12 +5174,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -5907,6 +6020,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -5923,12 +6042,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -6105,6 +6218,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -6121,12 +6240,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -6171,6 +6284,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -6187,12 +6306,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -6633,6 +6746,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -6649,12 +6768,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -6765,6 +6878,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -6781,12 +6900,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -8019,6 +8132,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -8035,12 +8154,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -8613,6 +8726,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -8629,12 +8748,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -8943,6 +9056,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -8959,12 +9078,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -9009,6 +9122,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -9025,12 +9144,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -9273,6 +9386,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -9289,12 +9408,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -9471,6 +9584,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -9487,12 +9606,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -9669,6 +9782,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -9685,12 +9804,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     },
@@ -9796,6 +9909,12 @@
       "olderPost": null,
       "relatedPosts": [
         {
+          "postTitle": "《人到中年》｜三套工具，一张桌子",
+          "postUrl": "https://www.790427.xyz/post/three-tools-one-desk.html",
+          "createdDate": "2026-09-11",
+          "description": "工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。"
+        },
+        {
           "postTitle": "在 AI 总结和原始资料之间逐项核对",
           "postUrl": "https://www.790427.xyz/post/ai-summary-is-not-understanding.html",
           "createdDate": "2026-09-07",
@@ -9812,12 +9931,6 @@
           "postUrl": "https://www.790427.xyz/post/reuse-idle-kindle-weread-wordfeed.html",
           "createdDate": "2026-08-28",
           "description": "闲置 Kindle 不必变成平板。给它两份窄而稳定的工作：在 KOReader 中读微信读书，用 RSS 显示每天五个英语单词。"
-        },
-        {
-          "postTitle": "给家人写一份 AI 求助单：问题、截图、隐私与撤销",
-          "postUrl": "https://www.790427.xyz/post/family-ai-help-request.html",
-          "createdDate": "2026-08-23",
-          "description": "一份给普通家庭使用的 AI 求助模板：一次说清一个问题，只发必要截图，每次只做一步，并提前知道怎样撤销。"
         }
       ]
     },
@@ -9862,6 +9975,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "把投资决定放回事前信息里复盘",
+          "postUrl": "https://www.790427.xyz/post/investment-review-decision-result-luck.html",
+          "createdDate": "2026-09-11",
+          "description": "投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。"
+        },
+        {
           "postTitle": "比特币经过长期调整后重新回到重要价格区域",
           "postUrl": "https://www.790427.xyz/post/bitcoin-beyond-80000-monetary-logic.html",
           "createdDate": "2026-09-04",
@@ -9878,12 +9997,6 @@
           "postUrl": "https://www.790427.xyz/post/midlife-investment-portfolio-tasks.html",
           "createdDate": "2026-08-21",
           "description": "ETF 只是持有工具。中年家庭更需要写清每项资产的任务、期限、风险和修正条件。"
-        },
-        {
-          "postTitle": "现金管理：手边的钱，决定家庭遇事时慌不慌",
-          "postUrl": "https://www.790427.xyz/post/household-cash-management.html",
-          "createdDate": "2026-08-10",
-          "description": "现金管理不是让钱躺着，而是先给每一笔钱安排一个位置。"
         }
       ]
     }

@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 02:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:37:24 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1217,6 +1217,22 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/lian-02-shen-ye-bai-pi-shu.html</guid>
       <enclosure url="https://www.790427.xyz/images/lian-02.png" length="0" type="image/png"/>
       <pubDate>Fri, 11 Sep 2026 02:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>把投资决定放回事前信息里复盘</title>
+      <link>https://www.790427.xyz/post/investment-review-decision-result-luck.html</link>
+      <description>投资赚了不一定说明判断正确，亏了也不能只归因于运气。本文给出一份分两次填写的复盘记录，把事前判断、实际执行、最终结果和外部变量分开。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/investment-review-decision-result-luck.html</guid>
+      <enclosure url="https://www.790427.xyz/images/investment-review-decision-result-luck-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Sep 2026 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>《人到中年》｜三套工具，一张桌子</title>
+      <link>https://www.790427.xyz/post/three-tools-one-desk.html</link>
+      <description>工具可以很多，档案只准一份。本文记录用 Obsidian 做唯一桌子：本机 Codex 动手写脱敏交接，Grok Bot 站岗与日汇总，公开与私密分开，避免把聊天记录当成第二套真相。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/three-tools-one-desk.html</guid>
+      <enclosure url="https://www.790427.xyz/images/three-tools-one-desk-cover.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Sep 2026 07:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
