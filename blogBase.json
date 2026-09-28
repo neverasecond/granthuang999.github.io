@@ -427,7 +427,40 @@
       "keywords": "链,小说连载,源币,人工智能,自由",
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "《链》18｜城市停摆",
+        "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
+        "createdDate": "2026-09-27",
+        "description": "2020年城市交通与部分柜台服务暂停，陈晓燕在临时流程整理中发现：收款到账、身份验证和服务可办是三种不同状态，说明可以变清楚，现实的等待与鸿沟仍在。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "《链》18｜城市停摆",
+          "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
+          "createdDate": "2026-09-27",
+          "description": "2020年城市交通与部分柜台服务暂停，陈晓燕在临时流程整理中发现：收款到账、身份验证和服务可办是三种不同状态，说明可以变清楚，现实的等待与鸿沟仍在。"
+        },
+        {
+          "postTitle": "《链》17｜没有头衔的日子",
+          "postUrl": "https://www.790427.xyz/post/lian-17-mei-you-tou-xian-de-ri-zi.html",
+          "createdDate": "2026-09-26",
+          "description": "2019年，李波以普通项目研究员的身份进入公共研究机构，陈晓燕独立经营小型工作室，李晓雨在公共设计学习中承担材料、通勤与住宿的现实选择；旧论文公开后，匿名账号逐句指出可退出与退出成本之间的距离。"
+        },
+        {
+          "postTitle": "《链》16｜离开",
+          "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
+          "createdDate": "2026-09-25",
+          "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
+        },
+        {
+          "postTitle": "《链》15｜价格最高的时候",
+          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
+          "createdDate": "2026-09-24",
+          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
+        }
+      ]
     },
     "P329": {
       "htmlDir": "docs/post/lian-18-cheng-shi-ting-bai.html",
@@ -457,7 +490,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《链》19｜无名的回应",
+        "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+        "createdDate": "2026-09-28",
+        "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+      },
       "olderPost": {
         "postTitle": "《链》17｜没有头衔的日子",
         "postUrl": "https://www.790427.xyz/post/lian-17-mei-you-tou-xian-de-ri-zi.html",
@@ -465,6 +503,12 @@
         "description": "2019年，李波以普通项目研究员的身份进入公共研究机构，陈晓燕独立经营小型工作室，李晓雨在公共设计学习中承担材料、通勤与住宿的现实选择；旧论文公开后，匿名账号逐句指出可退出与退出成本之间的距离。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
         {
           "postTitle": "《链》17｜没有头衔的日子",
           "postUrl": "https://www.790427.xyz/post/lian-17-mei-you-tou-xian-de-ri-zi.html",
@@ -482,12 +526,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
           "createdDate": "2026-09-24",
           "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
-        },
-        {
-          "postTitle": "《链》14｜三个人的会议",
-          "postUrl": "https://www.790427.xyz/post/lian-14-san-ge-ren-de-hui-yi.html",
-          "createdDate": "2026-09-23",
-          "description": "李波、陈晓燕和李晓雨第一次停止争论源币，只谈这些年的缺席、害怕和责任。没有人立即原谅谁，源币价格却已开始快速上升。"
         }
       ]
     },
@@ -533,6 +571,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -549,12 +593,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
           "createdDate": "2026-09-24",
           "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
-        },
-        {
-          "postTitle": "《链》14｜三个人的会议",
-          "postUrl": "https://www.790427.xyz/post/lian-14-san-ge-ren-de-hui-yi.html",
-          "createdDate": "2026-09-23",
-          "description": "李波、陈晓燕和李晓雨第一次停止争论源币，只谈这些年的缺席、害怕和责任。没有人立即原谅谁，源币价格却已开始快速上升。"
         }
       ]
     },
@@ -600,6 +638,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -616,12 +660,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
           "createdDate": "2026-09-24",
           "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
-        },
-        {
-          "postTitle": "《链》14｜三个人的会议",
-          "postUrl": "https://www.790427.xyz/post/lian-14-san-ge-ren-de-hui-yi.html",
-          "createdDate": "2026-09-23",
-          "description": "李波、陈晓燕和李晓雨第一次停止争论源币，只谈这些年的缺席、害怕和责任。没有人立即原谅谁，源币价格却已开始快速上升。"
         }
       ]
     },
@@ -667,6 +705,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -683,12 +727,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》14｜三个人的会议",
-          "postUrl": "https://www.790427.xyz/post/lian-14-san-ge-ren-de-hui-yi.html",
-          "createdDate": "2026-09-23",
-          "description": "李波、陈晓燕和李晓雨第一次停止争论源币，只谈这些年的缺席、害怕和责任。没有人立即原谅谁，源币价格却已开始快速上升。"
         }
       ]
     },
@@ -734,6 +772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -750,12 +794,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -801,6 +839,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -817,12 +861,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -868,6 +906,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -884,12 +928,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -935,6 +973,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -951,12 +995,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1002,6 +1040,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1018,12 +1062,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1069,6 +1107,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1085,12 +1129,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1136,6 +1174,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1152,12 +1196,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1203,6 +1241,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1219,12 +1263,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1270,6 +1308,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1286,12 +1330,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1337,6 +1375,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1353,12 +1397,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1404,6 +1442,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1420,12 +1464,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1471,6 +1509,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1487,12 +1531,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1613,6 +1651,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1629,12 +1673,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1680,6 +1718,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1696,12 +1740,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1747,6 +1785,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1763,12 +1807,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -1893,6 +1931,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -1909,12 +1953,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -2185,6 +2223,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -2201,12 +2245,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -2404,6 +2442,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -2420,12 +2464,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -2551,6 +2589,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -2567,12 +2611,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -2836,6 +2874,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -2852,12 +2896,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3034,6 +3072,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3050,12 +3094,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3166,6 +3204,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3182,12 +3226,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3232,6 +3270,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3248,12 +3292,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3298,6 +3336,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3314,12 +3358,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3364,6 +3402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3380,12 +3424,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3497,6 +3535,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3513,12 +3557,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3564,6 +3602,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3580,12 +3624,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3697,6 +3735,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3713,12 +3757,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3830,6 +3868,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3846,12 +3890,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -3897,6 +3935,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -3913,12 +3957,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4030,6 +4068,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4046,12 +4090,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4097,6 +4135,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4113,12 +4157,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4164,6 +4202,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4180,12 +4224,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4231,6 +4269,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4247,12 +4291,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4298,6 +4336,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4314,12 +4358,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4365,6 +4403,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4381,12 +4425,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4432,6 +4470,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4448,12 +4492,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4499,6 +4537,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4515,12 +4559,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4566,6 +4604,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4582,12 +4626,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4633,6 +4671,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4649,12 +4693,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4700,6 +4738,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4716,12 +4760,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4767,6 +4805,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4783,12 +4827,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4834,6 +4872,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4850,12 +4894,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4901,6 +4939,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4917,12 +4961,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -4968,6 +5006,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -4984,12 +5028,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5034,6 +5072,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5050,12 +5094,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5101,6 +5139,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5117,12 +5161,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5168,6 +5206,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5184,12 +5228,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5235,6 +5273,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5251,12 +5295,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5302,6 +5340,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5318,12 +5362,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5369,6 +5407,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5385,12 +5429,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5436,6 +5474,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5452,12 +5496,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5503,6 +5541,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5519,12 +5563,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5636,6 +5674,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5652,12 +5696,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5703,6 +5741,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5719,12 +5763,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5770,6 +5808,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5786,12 +5830,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5837,6 +5875,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5853,12 +5897,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5904,6 +5942,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5920,12 +5964,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -5971,6 +6009,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -5987,12 +6031,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6038,6 +6076,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6054,12 +6098,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6105,6 +6143,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6121,12 +6165,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6172,6 +6210,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6188,12 +6232,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6239,6 +6277,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6255,12 +6299,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6306,6 +6344,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6322,12 +6366,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6439,6 +6477,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6455,12 +6499,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6506,6 +6544,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6522,12 +6566,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6639,6 +6677,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6655,12 +6699,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6706,6 +6744,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6722,12 +6766,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6773,6 +6811,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6789,12 +6833,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6840,6 +6878,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6856,12 +6900,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6907,6 +6945,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6923,12 +6967,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -6974,6 +7012,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -6990,12 +7034,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7041,6 +7079,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7057,12 +7101,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7108,6 +7146,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7124,12 +7168,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7175,6 +7213,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7191,12 +7235,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7242,6 +7280,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7258,12 +7302,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7308,6 +7346,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7324,12 +7368,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7374,6 +7412,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7390,12 +7434,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7506,6 +7544,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7522,12 +7566,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7572,6 +7610,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7588,12 +7632,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7770,6 +7808,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7786,12 +7830,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7836,6 +7874,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7852,12 +7896,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7902,6 +7940,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7918,12 +7962,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -7968,6 +8006,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -7984,12 +8028,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8034,6 +8072,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8050,12 +8094,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8100,6 +8138,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8116,12 +8160,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8232,6 +8270,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8248,12 +8292,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8364,6 +8402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8380,12 +8424,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8430,6 +8468,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8446,12 +8490,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8496,6 +8534,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8512,12 +8556,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8562,6 +8600,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8578,12 +8622,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8628,6 +8666,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8644,12 +8688,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8694,6 +8732,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8710,12 +8754,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8760,6 +8798,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8776,12 +8820,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8826,6 +8864,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8842,12 +8886,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8892,6 +8930,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8908,12 +8952,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -8958,6 +8996,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -8974,12 +9018,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9024,6 +9062,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9040,12 +9084,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9090,6 +9128,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9106,12 +9150,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9156,6 +9194,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9172,12 +9216,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9222,6 +9260,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9238,12 +9282,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9288,6 +9326,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9304,12 +9348,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9354,6 +9392,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9370,12 +9414,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9420,6 +9458,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9436,12 +9480,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9486,6 +9524,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9502,12 +9546,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9618,6 +9656,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9634,12 +9678,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9684,6 +9722,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9700,12 +9744,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9750,6 +9788,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9766,12 +9810,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9816,6 +9854,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9832,12 +9876,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9882,6 +9920,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9898,12 +9942,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -9948,6 +9986,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -9964,12 +10008,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10014,6 +10052,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10030,12 +10074,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10080,6 +10118,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10096,12 +10140,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10212,6 +10250,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10228,12 +10272,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10278,6 +10316,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10294,12 +10338,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10344,6 +10382,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10360,12 +10404,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10410,6 +10448,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10426,12 +10470,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10608,6 +10646,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10624,12 +10668,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10674,6 +10712,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10690,12 +10734,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10740,6 +10778,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10756,12 +10800,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10872,6 +10910,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10888,12 +10932,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -10938,6 +10976,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -10954,12 +10998,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -11070,6 +11108,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -11086,12 +11130,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -11136,6 +11174,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -11152,12 +11196,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
@@ -11268,6 +11306,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》19｜无名的回应",
+          "postUrl": "https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html",
+          "createdDate": "2026-09-28",
+          "description": "2020年末至2021年初，李波追问多入口记录的时间、权限与来源冲突；韩岚在有限本地环境重放公开材料，确认两个节点版本输出相近却各自保留差异。一次协议讨论把多数、共识与同意分开，匿名账号最终追问拒绝是否也是有效选择。"
+        },
+        {
           "postTitle": "《链》18｜城市停摆",
           "postUrl": "https://www.790427.xyz/post/lian-18-cheng-shi-ting-bai.html",
           "createdDate": "2026-09-27",
@@ -11284,12 +11328,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-16-li-kai.html",
           "createdDate": "2026-09-25",
           "description": "李波在2018年离开远川咨询前，逐项交接现有账户、暂停账户和未完复核；低潮期的源币仍被少数人用于日常结算，陈晓燕试接个人项目，李晓雨准备进入大学。"
-        },
-        {
-          "postTitle": "《链》15｜价格最高的时候",
-          "postUrl": "https://www.790427.xyz/post/lian-15-jia-ge-zui-gao-de-shi-hou.html",
-          "createdDate": "2026-09-24",
-          "description": "源币价格高涨时，木工彭师傅以早年持有的少量源币申请材料周转，崩跌后遭遇强制处置、暂停提取和工期收入损失，李波把辞职信放到顾建川桌上。"
         }
       ]
     },
