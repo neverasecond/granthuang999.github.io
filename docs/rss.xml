@@ -12,7 +12,7 @@
       <title>avatar</title>
       <link>https://www.790427.xyz</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 11:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:45:31 +0000</lastBuildDate>
     <managingEditor>人到中年</managingEditor>
     <ttl>60</ttl>
     <webMaster>人到中年</webMaster>
@@ -1369,6 +1369,14 @@
       <guid isPermaLink="true">https://www.790427.xyz/post/lian-19-wu-ming-de-hui-ying.html</guid>
       <enclosure url="https://www.790427.xyz/images/lian-19.png" length="0" type="image/png"/>
       <pubDate>Mon, 28 Sep 2026 07:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>《链》20｜链源</title>
+      <link>https://www.790427.xyz/post/lian-20-lian-yuan.html</link>
+      <description>韩岚与李波把两个不能互相代表的节点输出交给公开测试：参与者本地运行、公开版本与失败，维护者在明确授权内采用、暂缓或退出；“链源”从目录和引用中逐渐固定。</description>
+      <guid isPermaLink="true">https://www.790427.xyz/post/lian-20-lian-yuan.html</guid>
+      <enclosure url="https://www.790427.xyz/images/lian-20.png" length="0" type="image/png"/>
+      <pubDate>Tue, 29 Sep 2026 07:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
