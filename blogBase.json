@@ -253,7 +253,40 @@
       "keywords": "链,小说连载,源币,人工智能,自由",
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "《链》24｜被隔离的网络",
+        "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
+        "createdDate": "2026-10-03",
+        "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "《链》24｜被隔离的网络",
+          "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
+          "createdDate": "2026-10-03",
+          "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
+        },
+        {
+          "postTitle": "《链》23｜三条路",
+          "postUrl": "https://www.790427.xyz/post/lian-23-san-tiao-lu.html",
+          "createdDate": "2026-10-02",
+          "description": "李晓雨以公共设计项目走访三种入口的维护者与日常使用者，制作带日期的入口选择与退出说明图；暂不选择、只查询与拒绝被代表都被保留为有效结果。"
+        },
+        {
+          "postTitle": "《链》22｜权力不会消失",
+          "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
+          "createdDate": "2026-10-01",
+          "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
+        },
+        {
+          "postTitle": "《链》21｜关闭节点",
+          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
+          "createdDate": "2026-09-30",
+          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
+        }
+      ]
     },
     "P335": {
       "htmlDir": "docs/post/lian-24-bei-ge-li-de-wang-luo.html",
@@ -283,7 +316,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《链》25｜第三种办法",
+        "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+        "createdDate": "2026-10-04",
+        "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+      },
       "olderPost": {
         "postTitle": "《链》23｜三条路",
         "postUrl": "https://www.790427.xyz/post/lian-23-san-tiao-lu.html",
@@ -291,6 +329,12 @@
         "description": "李晓雨以公共设计项目走访三种入口的维护者与日常使用者，制作带日期的入口选择与退出说明图；暂不选择、只查询与拒绝被代表都被保留为有效结果。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
         {
           "postTitle": "《链》23｜三条路",
           "postUrl": "https://www.790427.xyz/post/lian-23-san-tiao-lu.html",
@@ -308,12 +352,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
           "createdDate": "2026-09-30",
           "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
-        },
-        {
-          "postTitle": "《链》20｜链源",
-          "postUrl": "https://www.790427.xyz/post/lian-20-lian-yuan.html",
-          "createdDate": "2026-09-29",
-          "description": "韩岚与李波把两个不能互相代表的节点输出交给公开测试：参与者本地运行、公开版本与失败，维护者在明确授权内采用、暂缓或退出；“链源”从目录和引用中逐渐固定。"
         }
       ]
     },
@@ -359,6 +397,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -375,12 +419,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
           "createdDate": "2026-09-30",
           "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
-        },
-        {
-          "postTitle": "《链》20｜链源",
-          "postUrl": "https://www.790427.xyz/post/lian-20-lian-yuan.html",
-          "createdDate": "2026-09-29",
-          "description": "韩岚与李波把两个不能互相代表的节点输出交给公开测试：参与者本地运行、公开版本与失败，维护者在明确授权内采用、暂缓或退出；“链源”从目录和引用中逐渐固定。"
         }
       ]
     },
@@ -426,6 +464,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -442,12 +486,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
           "createdDate": "2026-09-30",
           "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
-        },
-        {
-          "postTitle": "《链》20｜链源",
-          "postUrl": "https://www.790427.xyz/post/lian-20-lian-yuan.html",
-          "createdDate": "2026-09-29",
-          "description": "韩岚与李波把两个不能互相代表的节点输出交给公开测试：参与者本地运行、公开版本与失败，维护者在明确授权内采用、暂缓或退出；“链源”从目录和引用中逐渐固定。"
         }
       ]
     },
@@ -493,6 +531,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -509,12 +553,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》20｜链源",
-          "postUrl": "https://www.790427.xyz/post/lian-20-lian-yuan.html",
-          "createdDate": "2026-09-29",
-          "description": "韩岚与李波把两个不能互相代表的节点输出交给公开测试：参与者本地运行、公开版本与失败，维护者在明确授权内采用、暂缓或退出；“链源”从目录和引用中逐渐固定。"
         }
       ]
     },
@@ -560,6 +598,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -576,12 +620,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -627,6 +665,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -643,12 +687,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -694,6 +732,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -710,12 +754,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -761,6 +799,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -777,12 +821,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -828,6 +866,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -844,12 +888,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -895,6 +933,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -911,12 +955,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -962,6 +1000,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -978,12 +1022,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1029,6 +1067,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1045,12 +1089,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1096,6 +1134,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1112,12 +1156,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1163,6 +1201,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1179,12 +1223,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1230,6 +1268,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1246,12 +1290,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1297,6 +1335,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1313,12 +1357,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1364,6 +1402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1380,12 +1424,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1431,6 +1469,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1447,12 +1491,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1498,6 +1536,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1514,12 +1558,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1565,6 +1603,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1581,12 +1625,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1632,6 +1670,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1648,12 +1692,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1699,6 +1737,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1715,12 +1759,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1841,6 +1879,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1857,12 +1901,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1908,6 +1946,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1924,12 +1968,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -1975,6 +2013,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -1991,12 +2035,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -2121,6 +2159,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -2137,12 +2181,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -2413,6 +2451,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -2429,12 +2473,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -2632,6 +2670,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -2648,12 +2692,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -2779,6 +2817,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -2795,12 +2839,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3064,6 +3102,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3080,12 +3124,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3262,6 +3300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3278,12 +3322,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3394,6 +3432,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3410,12 +3454,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3460,6 +3498,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3476,12 +3520,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3526,6 +3564,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3542,12 +3586,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3592,6 +3630,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3608,12 +3652,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3725,6 +3763,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3741,12 +3785,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3792,6 +3830,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3808,12 +3852,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -3925,6 +3963,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -3941,12 +3985,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4058,6 +4096,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4074,12 +4118,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4125,6 +4163,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4141,12 +4185,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4258,6 +4296,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4274,12 +4318,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4325,6 +4363,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4341,12 +4385,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4392,6 +4430,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4408,12 +4452,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4459,6 +4497,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4475,12 +4519,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4526,6 +4564,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4542,12 +4586,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4593,6 +4631,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4609,12 +4653,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4660,6 +4698,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4676,12 +4720,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4727,6 +4765,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4743,12 +4787,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4794,6 +4832,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4810,12 +4854,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4861,6 +4899,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4877,12 +4921,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4928,6 +4966,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -4944,12 +4988,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -4995,6 +5033,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5011,12 +5055,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5062,6 +5100,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5078,12 +5122,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5129,6 +5167,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5145,12 +5189,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5196,6 +5234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5212,12 +5256,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5262,6 +5300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5278,12 +5322,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5329,6 +5367,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5345,12 +5389,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5396,6 +5434,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5412,12 +5456,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5463,6 +5501,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5479,12 +5523,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5530,6 +5568,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5546,12 +5590,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5597,6 +5635,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5613,12 +5657,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5664,6 +5702,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5680,12 +5724,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5731,6 +5769,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5747,12 +5791,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5864,6 +5902,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5880,12 +5924,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5931,6 +5969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -5947,12 +5991,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -5998,6 +6036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6014,12 +6058,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6065,6 +6103,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6081,12 +6125,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6132,6 +6170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6148,12 +6192,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6199,6 +6237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6215,12 +6259,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6266,6 +6304,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6282,12 +6326,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6333,6 +6371,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6349,12 +6393,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6400,6 +6438,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6416,12 +6460,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6467,6 +6505,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6483,12 +6527,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6534,6 +6572,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6550,12 +6594,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6667,6 +6705,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6683,12 +6727,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6734,6 +6772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6750,12 +6794,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6867,6 +6905,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6883,12 +6927,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -6934,6 +6972,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -6950,12 +6994,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7001,6 +7039,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7017,12 +7061,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7068,6 +7106,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7084,12 +7128,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7135,6 +7173,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7151,12 +7195,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7202,6 +7240,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7218,12 +7262,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7269,6 +7307,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7285,12 +7329,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7336,6 +7374,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7352,12 +7396,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7403,6 +7441,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7419,12 +7463,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7470,6 +7508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7486,12 +7530,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7536,6 +7574,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7552,12 +7596,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7602,6 +7640,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7618,12 +7662,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7734,6 +7772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7750,12 +7794,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7800,6 +7838,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -7816,12 +7860,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -7998,6 +8036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8014,12 +8058,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8064,6 +8102,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8080,12 +8124,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8130,6 +8168,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8146,12 +8190,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8196,6 +8234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8212,12 +8256,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8262,6 +8300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8278,12 +8322,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8328,6 +8366,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8344,12 +8388,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8460,6 +8498,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8476,12 +8520,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8592,6 +8630,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8608,12 +8652,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8658,6 +8696,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8674,12 +8718,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8724,6 +8762,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8740,12 +8784,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8790,6 +8828,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8806,12 +8850,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8856,6 +8894,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8872,12 +8916,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8922,6 +8960,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -8938,12 +8982,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -8988,6 +9026,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9004,12 +9048,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9054,6 +9092,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9070,12 +9114,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9120,6 +9158,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9136,12 +9180,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9186,6 +9224,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9202,12 +9246,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9252,6 +9290,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9268,12 +9312,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9318,6 +9356,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9334,12 +9378,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9384,6 +9422,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9400,12 +9444,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9450,6 +9488,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9466,12 +9510,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9516,6 +9554,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9532,12 +9576,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9582,6 +9620,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9598,12 +9642,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9648,6 +9686,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9664,12 +9708,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9714,6 +9752,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9730,12 +9774,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9846,6 +9884,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9862,12 +9906,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9912,6 +9950,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9928,12 +9972,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -9978,6 +10016,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -9994,12 +10038,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10044,6 +10082,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10060,12 +10104,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10110,6 +10148,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10126,12 +10170,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10176,6 +10214,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10192,12 +10236,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10242,6 +10280,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10258,12 +10302,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10308,6 +10346,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10324,12 +10368,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10440,6 +10478,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10456,12 +10500,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10506,6 +10544,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10522,12 +10566,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10572,6 +10610,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10588,12 +10632,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10638,6 +10676,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10654,12 +10698,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10836,6 +10874,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10852,12 +10896,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10902,6 +10940,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10918,12 +10962,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -10968,6 +11006,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -10984,12 +11028,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -11100,6 +11138,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -11116,12 +11160,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -11166,6 +11204,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -11182,12 +11226,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -11298,6 +11336,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -11314,12 +11358,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -11364,6 +11402,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -11380,12 +11424,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
@@ -11496,6 +11534,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        },
+        {
           "postTitle": "《链》24｜被隔离的网络",
           "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
           "createdDate": "2026-10-03",
@@ -11512,12 +11556,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-22-quan-li-bu-hui-xiao-shi.html",
           "createdDate": "2026-10-01",
           "description": "李波从节点关闭与入口集中改写早年“消灭权力”的旧稿，承认权力只能被分散、限制和复审；周宁与林芮核对证据，社区出现尚未定型的共同托管、停用共享入口与多个入口共同工作。"
-        },
-        {
-          "postTitle": "《链》21｜关闭节点",
-          "postUrl": "https://www.790427.xyz/post/lian-21-guan-bi-jie-dian.html",
-          "createdDate": "2026-09-30",
-          "description": "澜陆共同体关闭部分高能耗出块节点，周晓云公开复核与申诉条件；小维护者保留验证和转发，普通协作组却因成本与入口迁向少数托管方，韩岚只审计集中趋势。"
         }
       ]
     },
