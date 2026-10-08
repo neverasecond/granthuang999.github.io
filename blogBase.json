@@ -137,7 +137,40 @@
       "keywords": "链,小说连载,源币,人工智能,自由",
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "《链》28｜未签署的条件",
+        "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
+        "createdDate": "2026-10-07",
+        "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "《链》28｜未签署的条件",
+          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
+          "createdDate": "2026-10-07",
+          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
+        },
+        {
+          "postTitle": "《链》27｜海岬之行",
+          "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
+          "createdDate": "2026-10-06",
+          "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
+        },
+        {
+          "postTitle": "《链》26｜谁来起草",
+          "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
+          "createdDate": "2026-10-05",
+          "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
+        },
+        {
+          "postTitle": "《链》25｜第三种办法",
+          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
+          "createdDate": "2026-10-04",
+          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
+        }
+      ]
     },
     "P339": {
       "htmlDir": "docs/post/lian-28-wei-qian-shu-de-tiao-jian.html",
@@ -167,7 +200,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《链》29｜试点之前",
+        "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+        "createdDate": "2026-10-08",
+        "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+      },
       "olderPost": {
         "postTitle": "《链》27｜海岬之行",
         "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
@@ -175,6 +213,12 @@
         "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
         {
           "postTitle": "《链》27｜海岬之行",
           "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
@@ -192,12 +236,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
           "createdDate": "2026-10-04",
           "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
-        },
-        {
-          "postTitle": "《链》24｜被隔离的网络",
-          "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
-          "createdDate": "2026-10-03",
-          "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
         }
       ]
     },
@@ -243,6 +281,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -259,12 +303,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
           "createdDate": "2026-10-04",
           "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
-        },
-        {
-          "postTitle": "《链》24｜被隔离的网络",
-          "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
-          "createdDate": "2026-10-03",
-          "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
         }
       ]
     },
@@ -310,6 +348,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -326,12 +370,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
           "createdDate": "2026-10-04",
           "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
-        },
-        {
-          "postTitle": "《链》24｜被隔离的网络",
-          "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
-          "createdDate": "2026-10-03",
-          "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
         }
       ]
     },
@@ -377,6 +415,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -393,12 +437,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》24｜被隔离的网络",
-          "postUrl": "https://www.790427.xyz/post/lian-24-bei-ge-li-de-wang-luo.html",
-          "createdDate": "2026-10-03",
-          "description": "入口限制让链源公开数据链路分区：韩岚用同一公开问题核对三个副本，分别得到受理待确认、等待重新授权与来源不足；差异来自资料、时间和权限，而非人格。"
         }
       ]
     },
@@ -444,6 +482,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -460,12 +504,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -511,6 +549,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -527,12 +571,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -578,6 +616,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -594,12 +638,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -645,6 +683,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -661,12 +705,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -712,6 +750,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -728,12 +772,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -779,6 +817,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -795,12 +839,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -846,6 +884,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -862,12 +906,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -913,6 +951,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -929,12 +973,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -980,6 +1018,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -996,12 +1040,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1047,6 +1085,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1063,12 +1107,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1114,6 +1152,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1130,12 +1174,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1181,6 +1219,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1197,12 +1241,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1248,6 +1286,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1264,12 +1308,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1315,6 +1353,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1331,12 +1375,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1382,6 +1420,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1398,12 +1442,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1449,6 +1487,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1465,12 +1509,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1516,6 +1554,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1532,12 +1576,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1583,6 +1621,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1599,12 +1643,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1650,6 +1688,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1666,12 +1710,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1717,6 +1755,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1733,12 +1777,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1784,6 +1822,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1800,12 +1844,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1851,6 +1889,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -1867,12 +1911,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -1993,6 +2031,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2009,12 +2053,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2060,6 +2098,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2076,12 +2120,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2127,6 +2165,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2143,12 +2187,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2273,6 +2311,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2289,12 +2333,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2565,6 +2603,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2581,12 +2625,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2784,6 +2822,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2800,12 +2844,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -2931,6 +2969,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -2947,12 +2991,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3216,6 +3254,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3232,12 +3276,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3414,6 +3452,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3430,12 +3474,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3546,6 +3584,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3562,12 +3606,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3612,6 +3650,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3628,12 +3672,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3678,6 +3716,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3694,12 +3738,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3744,6 +3782,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3760,12 +3804,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3877,6 +3915,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3893,12 +3937,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -3944,6 +3982,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -3960,12 +4004,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4077,6 +4115,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4093,12 +4137,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4210,6 +4248,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4226,12 +4270,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4277,6 +4315,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4293,12 +4337,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4410,6 +4448,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4426,12 +4470,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4477,6 +4515,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4493,12 +4537,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4544,6 +4582,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4560,12 +4604,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4611,6 +4649,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4627,12 +4671,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4678,6 +4716,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4694,12 +4738,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4745,6 +4783,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4761,12 +4805,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4812,6 +4850,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4828,12 +4872,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4879,6 +4917,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4895,12 +4939,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -4946,6 +4984,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -4962,12 +5006,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5013,6 +5051,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5029,12 +5073,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5080,6 +5118,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5096,12 +5140,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5147,6 +5185,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5163,12 +5207,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5214,6 +5252,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5230,12 +5274,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5281,6 +5319,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5297,12 +5341,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5348,6 +5386,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5364,12 +5408,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5414,6 +5452,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5430,12 +5474,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5481,6 +5519,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5497,12 +5541,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5548,6 +5586,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5564,12 +5608,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5615,6 +5653,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5631,12 +5675,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5682,6 +5720,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5698,12 +5742,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5749,6 +5787,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5765,12 +5809,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5816,6 +5854,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5832,12 +5876,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -5883,6 +5921,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -5899,12 +5943,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6016,6 +6054,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6032,12 +6076,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6083,6 +6121,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6099,12 +6143,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6150,6 +6188,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6166,12 +6210,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6217,6 +6255,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6233,12 +6277,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6284,6 +6322,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6300,12 +6344,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6351,6 +6389,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6367,12 +6411,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6418,6 +6456,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6434,12 +6478,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6485,6 +6523,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6501,12 +6545,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6552,6 +6590,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6568,12 +6612,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6619,6 +6657,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6635,12 +6679,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6686,6 +6724,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6702,12 +6746,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6819,6 +6857,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6835,12 +6879,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -6886,6 +6924,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -6902,12 +6946,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7019,6 +7057,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7035,12 +7079,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7086,6 +7124,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7102,12 +7146,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7153,6 +7191,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7169,12 +7213,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7220,6 +7258,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7236,12 +7280,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7287,6 +7325,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7303,12 +7347,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7354,6 +7392,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7370,12 +7414,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7421,6 +7459,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7437,12 +7481,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7488,6 +7526,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7504,12 +7548,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7555,6 +7593,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7571,12 +7615,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7622,6 +7660,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7638,12 +7682,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7688,6 +7726,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7704,12 +7748,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7754,6 +7792,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7770,12 +7814,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7886,6 +7924,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7902,12 +7946,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -7952,6 +7990,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -7968,12 +8012,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8150,6 +8188,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8166,12 +8210,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8216,6 +8254,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8232,12 +8276,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8282,6 +8320,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8298,12 +8342,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8348,6 +8386,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8364,12 +8408,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8414,6 +8452,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8430,12 +8474,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8480,6 +8518,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8496,12 +8540,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8612,6 +8650,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8628,12 +8672,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8744,6 +8782,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8760,12 +8804,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8810,6 +8848,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8826,12 +8870,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8876,6 +8914,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8892,12 +8936,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -8942,6 +8980,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -8958,12 +9002,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9008,6 +9046,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9024,12 +9068,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9074,6 +9112,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9090,12 +9134,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9140,6 +9178,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9156,12 +9200,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9206,6 +9244,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9222,12 +9266,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9272,6 +9310,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9288,12 +9332,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9338,6 +9376,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9354,12 +9398,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9404,6 +9442,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9420,12 +9464,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9470,6 +9508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9486,12 +9530,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9536,6 +9574,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9552,12 +9596,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9602,6 +9640,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9618,12 +9662,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9668,6 +9706,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9684,12 +9728,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9734,6 +9772,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9750,12 +9794,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9800,6 +9838,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9816,12 +9860,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9866,6 +9904,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -9882,12 +9926,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -9998,6 +10036,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10014,12 +10058,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10064,6 +10102,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10080,12 +10124,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10130,6 +10168,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10146,12 +10190,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10196,6 +10234,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10212,12 +10256,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10262,6 +10300,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10278,12 +10322,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10328,6 +10366,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10344,12 +10388,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10394,6 +10432,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10410,12 +10454,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10460,6 +10498,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10476,12 +10520,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10592,6 +10630,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10608,12 +10652,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10658,6 +10696,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10674,12 +10718,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10724,6 +10762,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10740,12 +10784,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10790,6 +10828,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -10806,12 +10850,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -10988,6 +11026,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11004,12 +11048,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11054,6 +11092,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11070,12 +11114,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11120,6 +11158,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11136,12 +11180,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11252,6 +11290,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11268,12 +11312,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11318,6 +11356,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11334,12 +11378,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11450,6 +11488,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11466,12 +11510,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11516,6 +11554,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11532,12 +11576,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
@@ -11648,6 +11686,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
           "postTitle": "《链》28｜未签署的条件",
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
@@ -11664,12 +11708,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-26-shui-lai-qi-cao.html",
           "createdDate": "2026-10-05",
           "description": "周晓云推动成立任务有限的临时起草工作组，用责任矩阵分开签署范围、未授权事项、期限、异议与退出；正式方案因公共影响签署缺口暂缓公开。"
-        },
-        {
-          "postTitle": "《链》25｜第三种办法",
-          "postUrl": "https://www.790427.xyz/post/lian-25-di-san-zhong-ban-fa.html",
-          "createdDate": "2026-10-04",
-          "description": "李波把隔离网络留下的问题转成分层互操作草案，用一次跨域公共缴费失败分清公共窗口、源币协议层与锚定转换服务的责任边界。"
         }
       ]
     },
