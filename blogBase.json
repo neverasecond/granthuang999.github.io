@@ -833,7 +833,40 @@
       "keywords": "链,小说连载,源币,人工智能,自由",
       "quote": "",
       "daily_sentence": "",
-      "password": ""
+      "password": "",
+      "newerPost": null,
+      "olderPost": {
+        "postTitle": "《链》31｜云港会议",
+        "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
+        "createdDate": "2026-10-10",
+        "description": "云港会议通过接口演示区分协议、入口与托管责任，形成源币的有限定义，却留下普通使用者看不懂规则的裂缝。"
+      },
+      "relatedPosts": [
+        {
+          "postTitle": "《链》31｜云港会议",
+          "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
+          "createdDate": "2026-10-10",
+          "description": "云港会议通过接口演示区分协议、入口与托管责任，形成源币的有限定义，却留下普通使用者看不懂规则的裂缝。"
+        },
+        {
+          "postTitle": "《链》30｜有条件的同意",
+          "postUrl": "https://www.790427.xyz/post/lian-30-you-tiao-jian-de-tong-yi.html",
+          "createdDate": "2026-10-09",
+          "description": "周晓云与李波根据有限试点记录，整理澜陆有条件参谈的三项入场要求，并保留公共成本、权限边界和韩岚的技术异议。"
+        },
+        {
+          "postTitle": "《链》29｜试点之前",
+          "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
+          "createdDate": "2026-10-08",
+          "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
+        },
+        {
+          "postTitle": "《链》28｜未签署的条件",
+          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
+          "createdDate": "2026-10-07",
+          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
+        }
+      ]
     },
     "P343": {
       "htmlDir": "docs/post/lian-33-he-mao-shang-xian.html",
@@ -892,7 +925,12 @@
       "quote": "",
       "daily_sentence": "",
       "password": "",
-      "newerPost": null,
+      "newerPost": {
+        "postTitle": "《链》32｜最低共同规则",
+        "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+        "createdDate": "2026-10-11",
+        "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+      },
       "olderPost": {
         "postTitle": "《链》30｜有条件的同意",
         "postUrl": "https://www.790427.xyz/post/lian-30-you-tiao-jian-de-tong-yi.html",
@@ -900,6 +938,12 @@
         "description": "周晓云与李波根据有限试点记录，整理澜陆有条件参谈的三项入场要求，并保留公共成本、权限边界和韩岚的技术异议。"
       },
       "relatedPosts": [
+        {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
         {
           "postTitle": "《链》30｜有条件的同意",
           "postUrl": "https://www.790427.xyz/post/lian-30-you-tiao-jian-de-tong-yi.html",
@@ -917,12 +961,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
           "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
-        },
-        {
-          "postTitle": "《链》27｜海岬之行",
-          "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
-          "createdDate": "2026-10-06",
-          "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
         }
       ]
     },
@@ -968,6 +1006,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -984,12 +1028,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
           "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
-        },
-        {
-          "postTitle": "《链》27｜海岬之行",
-          "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
-          "createdDate": "2026-10-06",
-          "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
         }
       ]
     },
@@ -1035,6 +1073,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1051,12 +1095,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
           "createdDate": "2026-10-07",
           "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
-        },
-        {
-          "postTitle": "《链》27｜海岬之行",
-          "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
-          "createdDate": "2026-10-06",
-          "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
         }
       ]
     },
@@ -1102,6 +1140,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1118,12 +1162,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》27｜海岬之行",
-          "postUrl": "https://www.790427.xyz/post/lian-27-hai-jia-zhi-xing.html",
-          "createdDate": "2026-10-06",
-          "description": "李波以独立报告人身份参加海岬会谈，记录机构责任与入口控制的交换，并拒签把托管、受理、暂停和获承认节点权限集中起来的条款。"
         }
       ]
     },
@@ -1169,6 +1207,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1185,12 +1229,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1236,6 +1274,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1252,12 +1296,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1303,6 +1341,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1319,12 +1363,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1370,6 +1408,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1386,12 +1430,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1437,6 +1475,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1453,12 +1497,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1504,6 +1542,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1520,12 +1564,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1571,6 +1609,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1587,12 +1631,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1638,6 +1676,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1654,12 +1698,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1705,6 +1743,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1721,12 +1765,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1772,6 +1810,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1788,12 +1832,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1839,6 +1877,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1855,12 +1899,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1906,6 +1944,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1922,12 +1966,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -1973,6 +2011,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -1989,12 +2033,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2040,6 +2078,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2056,12 +2100,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2107,6 +2145,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2123,12 +2167,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2174,6 +2212,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2190,12 +2234,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2241,6 +2279,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2257,12 +2301,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2308,6 +2346,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2324,12 +2368,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2375,6 +2413,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2391,12 +2435,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2442,6 +2480,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2458,12 +2502,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2509,6 +2547,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2525,12 +2569,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2576,6 +2614,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2592,12 +2636,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2643,6 +2681,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2659,12 +2703,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2710,6 +2748,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2726,12 +2770,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2777,6 +2815,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2793,12 +2837,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2919,6 +2957,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -2935,12 +2979,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -2986,6 +3024,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3002,12 +3046,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -3053,6 +3091,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3069,12 +3113,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -3199,6 +3237,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3215,12 +3259,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -3491,6 +3529,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3507,12 +3551,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -3710,6 +3748,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3726,12 +3770,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -3857,6 +3895,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -3873,12 +3917,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4142,6 +4180,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4158,12 +4202,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4340,6 +4378,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4356,12 +4400,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4472,6 +4510,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4488,12 +4532,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4538,6 +4576,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4554,12 +4598,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4604,6 +4642,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4620,12 +4664,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4670,6 +4708,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4686,12 +4730,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4803,6 +4841,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4819,12 +4863,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -4870,6 +4908,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -4886,12 +4930,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5003,6 +5041,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5019,12 +5063,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5136,6 +5174,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5152,12 +5196,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5203,6 +5241,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5219,12 +5263,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5336,6 +5374,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5352,12 +5396,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5403,6 +5441,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5419,12 +5463,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5470,6 +5508,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5486,12 +5530,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5537,6 +5575,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5553,12 +5597,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5604,6 +5642,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5620,12 +5664,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5671,6 +5709,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5687,12 +5731,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5738,6 +5776,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5754,12 +5798,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5805,6 +5843,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5821,12 +5865,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5872,6 +5910,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5888,12 +5932,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -5939,6 +5977,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -5955,12 +5999,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6006,6 +6044,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6022,12 +6066,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6073,6 +6111,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6089,12 +6133,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6140,6 +6178,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6156,12 +6200,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6207,6 +6245,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6223,12 +6267,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6274,6 +6312,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6290,12 +6334,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6340,6 +6378,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6356,12 +6400,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6407,6 +6445,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6423,12 +6467,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6474,6 +6512,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6490,12 +6534,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6541,6 +6579,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6557,12 +6601,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6608,6 +6646,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6624,12 +6668,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6675,6 +6713,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6691,12 +6735,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6742,6 +6780,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6758,12 +6802,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6809,6 +6847,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6825,12 +6869,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -6942,6 +6980,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -6958,12 +7002,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7009,6 +7047,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7025,12 +7069,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7076,6 +7114,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7092,12 +7136,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7143,6 +7181,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7159,12 +7203,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7210,6 +7248,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7226,12 +7270,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7277,6 +7315,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7293,12 +7337,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7344,6 +7382,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7360,12 +7404,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7411,6 +7449,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7427,12 +7471,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7478,6 +7516,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7494,12 +7538,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7545,6 +7583,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7561,12 +7605,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7612,6 +7650,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7628,12 +7672,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7745,6 +7783,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7761,12 +7805,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7812,6 +7850,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7828,12 +7872,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -7945,6 +7983,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -7961,12 +8005,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8012,6 +8050,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8028,12 +8072,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8079,6 +8117,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8095,12 +8139,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8146,6 +8184,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8162,12 +8206,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8213,6 +8251,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8229,12 +8273,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8280,6 +8318,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8296,12 +8340,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8347,6 +8385,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8363,12 +8407,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8414,6 +8452,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8430,12 +8474,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8481,6 +8519,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8497,12 +8541,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8548,6 +8586,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8564,12 +8608,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8614,6 +8652,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8630,12 +8674,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8680,6 +8718,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8696,12 +8740,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8812,6 +8850,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8828,12 +8872,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -8878,6 +8916,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -8894,12 +8938,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9076,6 +9114,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9092,12 +9136,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9142,6 +9180,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9158,12 +9202,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9208,6 +9246,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9224,12 +9268,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9274,6 +9312,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9290,12 +9334,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9340,6 +9378,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9356,12 +9400,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9406,6 +9444,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9422,12 +9466,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9538,6 +9576,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9554,12 +9598,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9670,6 +9708,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9686,12 +9730,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9736,6 +9774,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9752,12 +9796,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9802,6 +9840,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9818,12 +9862,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9868,6 +9906,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9884,12 +9928,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -9934,6 +9972,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -9950,12 +9994,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10000,6 +10038,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10016,12 +10060,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10066,6 +10104,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10082,12 +10126,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10132,6 +10170,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10148,12 +10192,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10198,6 +10236,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10214,12 +10258,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10264,6 +10302,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10280,12 +10324,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10330,6 +10368,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10346,12 +10390,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10396,6 +10434,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10412,12 +10456,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10462,6 +10500,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10478,12 +10522,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10528,6 +10566,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10544,12 +10588,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10594,6 +10632,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10610,12 +10654,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10660,6 +10698,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10676,12 +10720,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10726,6 +10764,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10742,12 +10786,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10792,6 +10830,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10808,12 +10852,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10924,6 +10962,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -10940,12 +10984,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -10990,6 +11028,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11006,12 +11050,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11056,6 +11094,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11072,12 +11116,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11122,6 +11160,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11138,12 +11182,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11188,6 +11226,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11204,12 +11248,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11254,6 +11292,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11270,12 +11314,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11320,6 +11358,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11336,12 +11380,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11386,6 +11424,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11402,12 +11446,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11518,6 +11556,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11534,12 +11578,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11584,6 +11622,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11600,12 +11644,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11650,6 +11688,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11666,12 +11710,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11716,6 +11754,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11732,12 +11776,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11914,6 +11952,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11930,12 +11974,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -11980,6 +12018,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -11996,12 +12040,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12046,6 +12084,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12062,12 +12106,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12178,6 +12216,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12194,12 +12238,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12244,6 +12282,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12260,12 +12304,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12376,6 +12414,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12392,12 +12436,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12442,6 +12480,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12458,12 +12502,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
@@ -12574,6 +12612,12 @@
       },
       "relatedPosts": [
         {
+          "postTitle": "《链》32｜最低共同规则",
+          "postUrl": "https://www.790427.xyz/post/lian-32-zui-di-gong-tong-gui-ze.html",
+          "createdDate": "2026-10-11",
+          "description": "李晓雨以青年观察员身份测试普通人对授权的理解，推动三层说明与人工窗口，让相似的公众呈现不再掩盖源币与数字法币各自的责任。"
+        },
+        {
           "postTitle": "《链》31｜云港会议",
           "postUrl": "https://www.790427.xyz/post/lian-31-yun-gang-hui-yi.html",
           "createdDate": "2026-10-10",
@@ -12590,12 +12634,6 @@
           "postUrl": "https://www.790427.xyz/post/lian-29-shi-dian-zhi-qian.html",
           "createdDate": "2026-10-08",
           "description": "周晓云把参加或暂不参加收窄为澜城单点、限期、低额度、可复核的源币相关结算记录试点，并写清公共成本与选择边界。"
-        },
-        {
-          "postTitle": "《链》28｜未签署的条件",
-          "postUrl": "https://www.790427.xyz/post/lian-28-wei-qian-shu-de-tiao-jian.html",
-          "createdDate": "2026-10-07",
-          "description": "李波与韩岚把海岬会谈后的争议转成四项可测试条件：公开客户端、个人自托管、可审计储备与退出通道，并保留各方的接受边界。"
         }
       ]
     },
